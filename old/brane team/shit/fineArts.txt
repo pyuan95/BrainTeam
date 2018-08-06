@@ -1,0 +1,1634 @@
+Johannes Brahms: 28
+Aaron Copland: 27
+Johann Sebastian Bach: 26
+Frank Lloyd Wright: 24
+Gustav Mahler: 22
+Ludwig van Beethoven: 20
+Wolfgang Amadeus Mozart: 19
+Swan Lake: 18
+Franz Liszt: 18
+Titian: 17
+Robert Schumann: 17
+Sandro Botticelli: 17
+JacquesLouis David: 17
+Carmen: 17
+George Gershwin: 17
+The Magic Flute: 16
+Pyotr Ilyich Tchaikovsky: 16
+Franz Joseph Haydn: 16
+Claude Debussy: 15
+Constantin Brancusi: 15
+Franz Schubert: 15
+Salvador Dali: 14
+George Frideric Handel: 14
+Rembrandt Harmenszoon van Rijn: 14
+Edvard Munch: 14
+Richard Wagner: 14
+Eero Saarinen: 14
+Edward Hopper: 14
+Donatello: 13
+El Greco: 13
+Peter Paul Rubens: 13
+Richard Strauss: 13
+John Coltrane: 13
+Nighthawks: 13
+Marcel Duchamp: 13
+The Four Seasons: 13
+The Garden of Earthly Delights: 13
+Maurice Ravel: 12
+Aida: 12
+Rhapsody in Blue: 12
+Ralph Vaughan Williams: 12
+I and the Village: 12
+Guernica: 12
+AchilleClaude Debussy: 12
+Franz Peter Schubert: 12
+The Last Supper: 12
+Japan: 11
+Andy Warhol: 11
+Gioachino Antonio Rossini: 11
+Igor Stravinsky: 11
+The School of Athens: 11
+Jean Sibelius: 11
+Messiah: 11
+trumpet: 11
+Gian Lorenzo Bernini: 11
+Rigoletto: 11
+John Singleton Copley: 11
+The Rite of Spring: 11
+Don Giovanni: 11
+Marc Chagall: 11
+Le Corbusier: 11
+Eugene Delacroix: 11
+Spain: 10
+Ieoh Ming Pei: 10
+Kingdom of Spain: 10
+Edvard Grieg: 10
+Edward Elgar: 10
+Giacomo Puccini: 10
+JosephMaurice Ravel: 10
+The Night Watch: 10
+Antonio Lucio Vivaldi: 10
+Arnold Schoenberg: 10
+Albrecht Durer: 10
+France: 9
+Las Meninas: 9
+Alexander Calder: 9
+Antonio Vivaldi: 9
+Paul Cezanne: 9
+Auguste Rodin: 9
+Hector Berlioz: 9
+Raphael: 9
+Leonardo da Vinci: 9
+Sergei Prokofiev: 9
+Thomas Eakins: 9
+Giuseppe Verdi: 9
+The Barber of Seville: 9
+Hans Holbein the Younger: 9
+Nikolai RimskyKorsakov: 9
+Giuseppe Fortunino Francesco Verdi: 9
+Jan Vermeer: 8
+Philip Glass: 8
+Frank Gehry: 8
+Winslow Homer: 8
+John Singer Sargent: 8
+Grant Wood: 8
+John Coolidge Adams: 8
+The Raft of the Medusa: 8
+Carmina Burana: 8
+Dmitri Dmitriyevich Shostakovich: 8
+clarinet: 8
+violin: 8
+Vincent van Gogh: 8
+Michelangelo di Lodovico Buonarroti Simoni: 8
+Samuel Barber: 8
+Pablo Ruiz y Picasso: 8
+Pictures at an Exhibition: 8
+Edouard Manet: 8
+Jan van Eyck: 8
+Claude Monet: 8
+Caravaggio: 7
+Felix Mendelssohn: 7
+The Planets: 7
+Pieter Bruegel the Elder: 7
+Leonard Bernstein: 7
+piano: 7
+Henri Matisse: 7
+Louis Armstrong: 7
+Diego Rivera: 7
+The Ambassadors: 7
+Tosca: 7
+string quartets: 7
+Symphonie Fantastique: 7
+flute: 7
+The Death of Socrates: 7
+Edward William Elgar: 7
+Madame Butterfly: 7
+saxophone: 7
+violoncello: 7
+The Carnival of the Animals: 7
+Edgar Degas: 7
+Edvard Hagerup Grieg: 7
+Joseph Mallord William Turner: 7
+The Birth of Venus: 7
+Charles Ives: 7
+Norman Rockwell: 7
+Hudson River School: 7
+Igor Fyodorovich Stravinsky: 7
+The Hay Wain: 7
+Germany: 6
+David: 6
+string quartet: 6
+Martha Graham: 6
+Liberty Leading the People: 6
+La Traviata: 6
+Jackson Pollock: 6
+Gustav Holst: 6
+PreRaphaelite Brotherhood: 6
+Italy: 6
+Franz: 6
+blue: 6
+Georges Bizet: 6
+Benjamin Britten: 6
+William Hogarth: 6
+Thomas Cole: 6
+American Gothic: 6
+Akira Kurosawa: 6
+Modest Petrovich Mussorgsky: 6
+Richard Georg Strauss: 6
+PierreAuguste Renoir: 6
+Jakob Ludwig Felix Mendelssohn Bartholdy: 6
+John Cage: 6
+dogs: 6
+Miles Davis: 6
+Frank Owen Gehry: 6
+Camille SaintSaens: 6
+Mannerism: 6
+Ansel Adams: 6
+The Arnolfini Wedding: 6
+John Constable: 6
+James Abbott McNeill Whistler: 6
+The Nutcracker: 6
+Rene Francois Ghislain Magritte: 6
+Frederic Chopin: 6
+La Boheme: 6
+Wilhelm Richard Wagner: 6
+Francisco Jose de Goya y Lucientes: 6
+Frederic Francois Chopin: 6
+Diego Velazquez: 6
+The Persistence of Memory: 6
+Benjamin West: 5
+C major: 5
+Fidelio: 5
+Paris: 5
+Sergei Rachmaninoff: 5
+Antonin Dvorak: 5
+Georges Seurat: 5
+Francisco Goya: 5
+piano concertos: 5
+Gioachino Rossini: 5
+Ansel Easton Adams: 5
+Salvador Dalí: 5
+Sistine Chapel: 5
+England: 5
+Giacomo Antonio Domenico Michele Secondo Maria Puccini: 5
+Pablo Picasso: 5
+Washington Crossing the Delaware: 5
+Turandot: 5
+Giotto di Bondone: 5
+Sergei Sergeyevich Prokofiev: 5
+Gianlorenzo Bernini: 5
+Raphael Sanzio: 5
+Grant DeVolson Wood: 5
+Rembrandt van Rijn: 5
+Scott Joplin: 5
+John Milton Cage Jr: 5
+Edward Benjamin Britten: 5
+Paul Jackson Pollock: 5
+GeorgesPierre Seurat: 5
+Salvador Domingo Felipe Jacinto Dali i Domenech: 5
+Michelangelo Buonarroti: 5
+Mexico: 5
+The Death of Marat: 5
+Russia: 5
+Cubism: 5
+Jesus Christ: 5
+opera houses: 4
+three: 4
+red: 4
+Praxiteles: 4
+Modest Mussorgsky: 4
+United States of America: 4
+birds: 4
+Rene Magritte: 4
+Pastoral Symphony: 4
+Claudio Monteverdi: 4
+Dorothea Lange: 4
+Futurism: 4
+The Gross Clinic: 4
+marches: 4
+Johannes Vermeer: 4
+Caspar David Friedrich: 4
+cello: 4
+Venus: 4
+Robert Alexander Schumann: 4
+Hungary: 4
+Felix MendelssohnBartholdy: 4
+The Starry Night: 4
+Georgia Totto OKeeffe: 4
+Sir Christopher Wren: 4
+pipe organ: 4
+Henry Purcell: 4
+Citizen Kane: 4
+HenriÉmileBenoît Matisse: 4
+waltz: 4
+The Calling of St Matthew: 4
+Venice: 4
+piano sonatas: 4
+Miles Dewey Davis III: 4
+Olympia: 4
+Theodore Gericault: 4
+Roy Lichtenstein: 4
+Ferdinand Victor Eugene Delacroix: 4
+Charles Edward Ives: 4
+Hieronymus Bosch: 4
+Orpheus: 4
+George Washington: 4
+Watson and the Shark: 4
+Philip Morris Glass: 4
+Prelude to the Afternoon of a Faun: 4
+Bela Viktor Janos Bartok: 4
+Tintoretto: 4
+Rococo: 4
+Vincent Willem van Gogh: 4
+Bela Bartok: 4
+bassoon: 3
+rhapsody: 3
+Finland: 3
+Wyeth: 3
+John William Coltrane: 3
+skulls: 3
+Christopher Wren: 3
+piano sonata: 3
+Andrew Wyeth: 3
+Frida Kahlo: 3
+Nicolas Poussin: 3
+mass: 3
+trains: 3
+La Primavera: 3
+Joseph Haydn: 3
+Brandenburg Concertos: 3
+China: 3
+photography: 3
+Michelangelo: 3
+Vienna: 3
+The Marriage of Figaro: 3
+tango: 3
+Napoleon Bonaparte: 3
+Ludwig Mies van der Rohe: 3
+Diego Rodríguez de Silva y Velázquez: 3
+Requiem mass: 3
+FrancoisAugusteRene Rodin: 3
+The Parthenon: 3
+oboe: 3
+Lucia di Lammermoor: 3
+Alfred Stieglitz: 3
+Florence: 3
+Charlie Parker: 3
+Johann Strauss II: 3
+pop art: 3
+Michelangelo Merisi da Caravaggio: 3
+The Ecstasy of Saint Teresa: 3
+Frédéric François Chopin: 3
+LouisHector Berlioz: 3
+John Adams: 3
+waltzes: 3
+Jacques Offenbach: 3
+Paul Gauguin: 3
+Impressionism: 3
+New York City: 3
+Apollo: 3
+Bedrich Smetana: 3
+Portrait of Madame X: 3
+selfportraits: 3
+Fallingwater: 3
+The Planets Op 32: 3
+Peter Ilyich Tchaikovsky or Pyotr Ilyich Tchaikovsky: 3
+Benjamin David Benny Goodman: 3
+Figaro: 3
+West Side Story: 3
+1812 Overture: 3
+The Gates of Hell: 3
+Primavera: 3
+The Swing: 3
+United Kingdom of Great Britain and Northern Ireland or UK accept any underlined portion accept England: 3
+Peer Gynt Op 23: 3
+Frederic Sackrider Remington: 3
+Wassily Kandinsky: 3
+Fauvism: 3
+Mary Cassatt: 3
+Piet Mondrian: 3
+Raphael Sanzio da Urbino: 3
+The Last Judgment: 3
+Frédéric Chopin: 3
+Johann Strauss Jr: 3
+The Kiss: 3
+The Third of May 1808: 3
+Georgia OKeeffe: 3
+The Anatomy Lesson of Dr Nicolaes Tulp: 3
+Great Britain: 3
+Landscape with the Fall of Icarus: 3
+Kind of Blue: 3
+Niccolo Paganini: 3
+D major: 3
+The Night Cafe: 3
+Benvenuto Cellini: 3
+The French Ambassadors: 3
+Bolero: 3
+symphony: 3
+The Magic Flute or Die Zauberflote: 3
+Venus of Urbino: 3
+Faust: 3
+Diego Rodriguez de Silva y Velazquez: 3
+Gioacchino Rossini: 3
+The Luncheon of the Boating Party: 3
+Filippo Brunelleschi: 3
+Porgy and Bess: 3
+I Pagliacci: 3
+Michelangelo Buonarotti: 3
+Constantin Brancui: 3
+Luncheon on the Grass: 3
+JeanHonore Fragonard: 3
+Manuel de Falla: 3
+Jean Desire Gustave Courbet: 3
+guitar: 3
+Giovanni Lorenzo Bernini: 3
+California: 2
+tapestry: 2
+Cavalleria rusticana: 2
+glass: 2
+Egyptian pyramids: 2
+aria: 2
+Parmigianino: 2
+London: 2
+The Seventh Seal: 2
+JeanFrançois Millet: 2
+A Sunday Afternoon on the Island of La Grande Jatte1884: 2
+green: 2
+white: 2
+Florence Italy: 2
+Fountain: 2
+United Kingdom: 2
+The Calling of Saint Matthew: 2
+Mathew B Brady: 2
+Psycho: 2
+A Sunday Afternoon on the Island of La Grande Jatte: 2
+Carnival of the Animals: 2
+The Burial of Count Orgaz: 2
+clowns: 2
+symphonies by Ludwig van Beethoven: 2
+Gustav Klimt: 2
+Unfinished Symphony: 2
+sharks: 2
+drums: 2
+double bass: 2
+Cupid: 2
+The Stone Breakers: 2
+2001 A Space Odyssey: 2
+gold: 2
+Sergei Vasilievich Rachmaninoff: 2
+CharlesCamille SaintSaens: 2
+Rembrandt: 2
+Statue of Liberty: 2
+Pictures at an Exhibition A Remembrance of Viktor Hartmann: 2
+JeanLouis André Théodore Géricault: 2
+Der Ring des Nibelungen: 2
+René François Ghislain Magritte: 2
+lions: 2
+The Sistine Chapel: 2
+Alessandro Botticelli: 2
+canons: 2
+pianoforte: 2
+four: 2
+The Nutcracker Suite: 2
+Vertigo: 2
+Benny Goodman: 2
+The Scream: 2
+Pablo Diego José Francisco de Paula Juan Nepomuceno María de los Remedios Cipriano de la Santísima Trinidad Ruiz y Picasso: 2
+William Tell: 2
+OscarClaude Monet: 2
+Federico Fellini: 2
+Der Blaue Reiter: 2
+Niccolò Paganini: 2
+Federative Republic of Brazil: 2
+Béla Viktor János Bartók: 2
+mirrors: 2
+: 2
+Marc Zakharovich Chagall: 2
+piano concerto: 2
+Edward Duke Ellington: 2
+cubism: 2
+Frederic Chopins etudes: 2
+Marc Zaharovich Chagall: 2
+Parthenon: 2
+The Pirates of Penzance or The Slave of Duty: 2
+Pop art: 2
+The Third of May 1808 The Execution of the Defenders of Madrid: 2
+Béla Bartók: 2
+bronze: 2
+London England: 2
+Chicago: 2
+Czech Republic: 2
+Igor: 2
+Moonlight Sonata: 2
+Francis Bacon: 2
+Central Park: 2
+Donatello or Donato di Niccolo di Betto Bardi: 2
+Rembrandt Harmeenszoon van Rijn: 2
+Appalachian Spring: 2
+Pieter Brueghel the Elder: 2
+René Magritte: 2
+The Potato Eaters: 2
+Requiem Mass: 2
+Alfred Joseph Hitchcock: 2
+Duke Ellington: 2
+Erik Satie: 2
+Louis Henry Sullivan: 2
+Manuel de Falla y Matheu: 2
+John Gutzon de la Mothe Borglum: 2
+Mary Stevenson Cassatt: 2
+Madama Butterfly: 2
+Andrew Newell Wyeth: 2
+ustrong: 2
+JeanAntoine Watteau: 2
+the Pantheon: 2
+Ashcan School: 2
+The WellTempered Clavier: 2
+Peer Gynt: 2
+Frederic Remington: 2
+Symphony No 9 by Ludwig van Beethoven: 2
+Rent: 2
+fountains: 2
+George Frederick Handel: 2
+Florence Cathedral: 2
+Sir Edward Elgar: 2
+Antonin Leopold Dvorak: 2
+requiems: 2
+Oklahoma: 2
+Napoleon I Bonaparte: 2
+tuba: 2
+Nixon in China: 2
+Franz Josef Haydn: 2
+The Bath or The Childs Bath: 2
+Mary: 2
+The Statue of Liberty: 2
+Nikolai Andreyevich RimskyKorsakov: 2
+Ottorino Respighi: 2
+Eugene Henri Paul Gauguin: 2
+pipe organs: 2
+Edward Kennedy Duke Ellington: 2
+Philip Johnson: 2
+Pablo Ruiz Picasso: 2
+Thomas Gainsborough: 2
+James McNeill Whistler: 2
+Achille Claude Debussy: 2
+cellos: 2
+The Oath of the Horatii: 2
+holliday: 2
+le dejeuner dur lherbe: 2
+puppet: 2
+The 1812 Overture: 2
+Gilbert Stuart: 2
+pointillism: 2
+Empire State Building: 2
+Christinas World: 2
+Mount Rushmore National Memorial: 2
+Antonio Gaudi: 2
+The Luncheon on the Grass: 2
+David Bowie: 2
+Gian Carlo Menotti: 2
+John Philip Sousa: 2
+Time Transfixed: 2
+A: 2
+The Rite Of Spring: 2
+the Last Supper: 2
+Edmund Spenser: 2
+Aida eyeEEduh: 2
+Claudio Giovanni Antonio Monteverdi: 2
+Peter and the Wolf: 2
+A Rakes Progress: 2
+The Last Judgement: 2
+Jean Auguste Dominique Ingres: 2
+Joan Miro i Ferra: 2
+The Ghent Altarpiece: 2
+masses: 2
+Louis Henri Sullivan: 2
+GianLorenzo Bernini: 2
+The Scream or Skrik: 2
+Oath of the Horatii: 2
+Leonardo di ser Piero da Vinci: 2
+Samuel Osborne Barber II: 2
+Phidias: 2
+oratorio: 2
+Seagram Building: 2
+Doctor Faustus: 2
+Sir Edward William Elgar: 2
+Michelangelos David: 2
+Fanfare for the Common Man: 2
+Peter Ilich Tchaikovsky: 2
+Charlie Bird Parker: 2
+Pictures of an Exhibition: 2
+School of Athens: 2
+John Birks Dizzy Gillespie: 2
+Pieta: 2
+Bedich Smetana: 2
+Monticello: 2
+Gustavus Theodore von Holst: 2
+Garden of Earthly Delights: 2
+Amahl and the Night Visitors: 2
+geisha s: 1
+Portrait of   Madame X: 1
+Mount  Fuji: 1
+Ludwig van  Beethoven: 1
+the  Ring  Cycle: 1
+peasant s: 1
+Chicago  Illinois: 1
+film  score: 1
+Austria: 1
+ A  or  The   Pastoral  Symphony: 1
+ballet  dancers: 1
+ello: 1
+Franz  Liszt: 1
+the  Brandenburg Concerto s: 1
+MacGuffin s: 1
+New Mexico: 1
+Arnold  Schoenberg: 1
+cowboy s: 1
+John Philip  Sousa: 1
+18th  century ADCE: 1
+Duke  Ellington: 1
+Gaetano  Donizetti: 1
+The  School of Athens: 1
+Modest Petrovich  Mussorgsky: 1
+1980s: 1
+abstract expression ism: 1
+the  Farewell  Symphony: 1
+Napoleon   Bonaparte: 1
+sleep ing: 1
+Be769la  Barto769k: 1
+Houses of Parliament: 1
+Wassily Wassilyevich  Kandinsky: 1
+Un  Chien Andalou: 1
+B minor: 1
+paint ing: 1
+John  Adams: 1
+Claude  Debussy: 1
+Franz  Schubert: 1
+selfportrait s of Vincent  Van Gogh: 1
+Frankenstein: 1
+Rome: 1
+blues  music: 1
+chair s: 1
+The  Planets: 1
+Las  Meninas: 1
+black: 1
+The  Young Persons Guide to the Orchestra: 1
+The  Burial of  the  Count  of  Orgaz: 1
+tenor: 1
+Nicolai RimskyKorsakov: 1
+Alfred Steiglitz: 1
+Michelangelo di Ludovico Buonarroti Simoni: 1
+stained glass: 1
+burials: 1
+Symphony No 5 by Ludwig van Beethoven in C minor: 1
+landscap8203ing: 1
+keyboard8203 instruments: 1
+bubookub8203s: 1
+bustudioub8203s: 1
+busonataub8203s: 1
+Stanley Kubrick: 1
+Ralph Vaughan Williams rayf vawn williams: 1
+Richard Strauss reekard strowss: 1
+The Creation of Adam: 1
+Woody Guthrie: 1
+Prince Siegfried: 1
+selfportraits by Rembrandt van Rijn: 1
+Dante Alighieri: 1
+Reichstag building: 1
+hunting: 1
+melting watches: 1
+Einstein on the Beach: 1
+pillars: 1
+Humphrey Bogart: 1
+agora: 1
+19th century: 1
+Whistlers Mother: 1
+Camille SaintSaëns: 1
+Republic of France: 1
+Andy Warhols Campbells Soup Cans: 1
+ballets: 1
+lied: 1
+five: 1
+Ancient Egypt: 1
+fish: 1
+cool jazz: 1
+Republic of Turkey: 1
+artists studios: 1
+Hagia Sofia EYEyuh Sophia: 1
+Don José: 1
+Nazi Germany: 1
+Taipei 101: 1
+Eroica Symphony: 1
+Tahiti: 1
+Gutzon Borglum: 1
+The Magi: 1
+sphinx: 1
+graffiti: 1
+20th century: 1
+The Mona Lisa: 1
+baths: 1
+Poland: 1
+Peninsular War: 1
+Antoni Gaudí i Cornet: 1
+Dr Frankensteins monster: 1
+Third of May 1808 The Execution of the Defenders of Madrid: 1
+John Lennon: 1
+Diego Rodríguez de Silva Velázquez: 1
+requiem: 1
+sand particles: 1
+St Louis Missouri: 1
+doctors: 1
+frescoes: 1
+France jrjr: 1
+Auguste Rodin fmfm: 1
+clarinet jrjr: 1
+West Side Story glgl: 1
+violins jrjr: 1
+ceramics: 1
+pianofortes: 1
+the Netherlands: 1
+cave painting: 1
+ships: 1
+A Raisin in the Sun llll: 1
+Franz Joseph Haydn jrjr: 1
+Gothic architecture jrjr: 1
+guitars jrjr: 1
+Pop art jrjr: 1
+Eugene: 1
+Russia jrjr: 1
+the SugarPlum Fairy: 1
+Johannes Brahms jrjr: 1
+landscape painting: 1
+Vietnam War: 1
+Symphony No 9 From the New World: 1
+I and the Vil: 1
+Don Quixote: 1
+Notre Dame: 1
+Orpheus in the Underworld: 1
+Breakfast at Tiffanys: 1
+flags: 1
+tangos: 1
+Romanesque: 1
+Jean Louis Theodore Gericault: 1
+The Threepenny Opera: 1
+Count Almaviva: 1
+Salvador Dali769: 1
+sitar: 1
+two: 1
+art gallery: 1
+North by Northwest: 1
+Rousseau: 1
+G: 1
+Taxi Driver: 1
+812 Overture: 1
+Roman emperors: 1
+Luis Bun771uel: 1
+The Annunciation: 1
+toccata: 1
+Dmitri Shostakovich: 1
+The Acropolis of Athens: 1
+stadiums: 1
+etudes: 1
+De Stijl: 1
+The Rite of Spring or Le Sacre du Printemps or Vesna svyashchennaya: 1
+Frank Sinatra: 1
+Jasper Johns: 1
+medical doctor: 1
+ceiling: 1
+Vietnam Veterans Memorial: 1
+harpsichords: 1
+Solomon R Guggenheim Museum: 1
+Antonín Leopold Dvo345ák DVORzhak: 1
+Charlie Parker Jr: 1
+The Arnolfini Portrait: 1
+Le Corbusier accept CharlesEdouard JeanneretGris: 1
+national anthem: 1
+The Burial of the Count of Orgaz accept The Burial of Count Orgaz: 1
+Donatello di Niccolo di betto Bardi: 1
+John Wayne: 1
+JeanLouis André Théodore Géricaul: 1
+bridges: 1
+D W Griffith: 1
+tapestries: 1
+Thelonious: 1
+Leonardo: 1
+French horns: 1
+J M W Turner: 1
+Sir John Everett Millais: 1
+gold leaf: 1
+Lorenzo Ghiberti: 1
+Ieoh Ming: 1
+cathedrals: 1
+piano sonatas by Ludwig van Beethoven: 1
+Maya Ying Lin: 1
+Tombs of the Unknown Soldier of World War I: 1
+crucifixion of Jesus Christ: 1
+Kingdom of the Netherlands: 1
+D: 1
+symphony no 5: 1
+Symphonie Fantastique Épisode de la vie dun Artis: 1
+The Burial of the Count of Orgaz: 1
+John Towner Williams: 1
+columns: 1
+concert overtures: 1
+The Terracotta Army of Qin Shi Huangdi: 1
+Acropolis of Athens: 1
+fifth symphony: 1
+suspension bridges: 1
+The Third of May 1808 Execution of the Defenders of Madrid: 1
+the Sun: 1
+stilllifes: 1
+JeanAuguste Dominique Ingres pronounced sort of like ANGr: 1
+Francisco: 1
+French horns jrjr: 1
+Fountain of the Four Rivers: 1
+requiem mass: 1
+palaces: 1
+sonata: 1
+park: 1
+murals: 1
+Leonardo da Vinci accept either underlined part: 1
+Felix Mendelssohn Bartholdy prompt on Bartholdy: 1
+Titian or Tiziano or Vecellio: 1
+Rococo accept Late Baroque before the end do not accept Baroque: 1
+Jan van Eyck or Johannes de Eyck: 1
+Florence Tuscany Italy: 1
+Dubai United Arab Emirates: 1
+Michelangelo di Lodovico Buonarroti Simoni accept either underlined part: 1
+Andy Warhol a: 1
+The Starry Night or De sterrennacht: 1
+Gustav von Holst: 1
+Pomp and Circumstance Military Marches: 1
+Alban Berg: 1
+The Funeral of the Count of Orgaz: 1
+nocturnes: 1
+Tristan and Isolde: 1
+In this films opening credits a still image of Michelangelos Creation of Adam accompanies an overture by Miklos Rosza In one sequence in this film a row of hanging gold sculptures of dolphins gets tipped over one by one Its title character wears a slave ring given to him by Simonidess daughter Esther and is aided by Ilderim an  Arab sheikh During a parade early in this film a roof tile falls from the protagonists house Its title character a childhood friend of Messala escapes the galley of a rammed boat and later avoids a spiked wheel while winning a chariot race For 10 points name this bigbudget 1959 film based on a Lew Wallace novel in which Jesus meets the title Roman Jew played by Charlton Heston: 1
+the Isenheim Altarpiece: 1
+piano sonatas of Ludwig van Beethoven: 1
+Wolfgang Amadeus Mozarts Requiem Mass in D minor: 1
+English: 1
+Also Sprach Zarathustra: 1
+Strange Fruit: 1
+night cafés: 1
+Greece: 1
+bicycles: 1
+painting: 1
+a train: 1
+preludes: 1
+Fred Astaire: 1
+the Crucifixion of Jesus Christ: 1
+Hiram Powers: 1
+piano trios: 1
+public libraries: 1
+the solo cello suites of Johann Sebastian Bach: 1
+Charles Foster Kane: 1
+human hands: 1
+Giorgione: 1
+This artist began the first of his painted conversations while under commission for his patron Pierre Crozat The title figure plays the guitar on a bench and looks towards the sky in this artists Mezzetin In one of his paintings a woman ignores the paintings all around her and stares in a mirror while men on the other side of the canvas put away a portrait of King  Louis XIV This frequent painter of the commedia dellarte painted Gersaints Shopsign and popularized the genre of the fête galante In one version of his best known painting putti dance in the air as young couples prepare to leave an island under the influence of Venus For 10 points name this French Rococo artist of The Embarkation for Cythera: 1
+Peoples Republic of China: 1
+Antonio Canova: 1
+Franz Joseph Haydns symphonies: 1
+The Beatles album covers: 1
+Edvard Munch Moonk: 1
+woodcuts: 1
+children: 1
+Andrew Lloyd Webber: 1
+Charlie Chaplin: 1
+flamenco: 1
+The Netherlands: 1
+Virgin Mary: 1
+Beethovens 5th Symphony: 1
+John Cage Jr: 1
+The Ring of the Nibelung or The Ring Cycle or the Der Ring des Nibelungen accept Das Rheingold before 16 hours is read: 1
+Wolfgang Amadeus Mozarts Requiem Mass in D minor K 626 both answers required prompt on Requiem mass prompt on mass prompt on Mozart: 1
+Czech Republic or Czechoslovakia: 1
+A Sunday Afternoon on the Island of la Grande Jatte accept Un dimanche aprèsmidi �nbsp lÎle de la Grande Jatte prompt on Sunday Afternoon or La Grande Jatte alone: 1
+Andrew Andy Warhola Jr: 1
+The Last Supper accept Il Cenacolo or LUltima Cena: 1
+Madame Butterfly or Madama Butterfly accept CioCio San before mention: 1
+The Starry Night accept De sterrennacht: 1
+jazz piano: 1
+A Burial at Ornans: 1
+Mona Lisa: 1
+violin concerto: 1
+Delft: 1
+Samuel Osmund Barber II: 1
+Gaetano Donizetti: 1
+Ancient Rome: 1
+Antonín Dvo345ák: 1
+Ludwig van Beethovens Symphony no 5 in C minor Op 67: 1
+gold foil: 1
+Achille Claude Debuss: 1
+Western films: 1
+transverse flute: 1
+cathedral: 1
+New York City New York: 1
+Palace of Versailles: 1
+doctor: 1
+John the Baptist: 1
+the Moon: 1
+first symphonies: 1
+eggs: 1
+Diego: 1
+Athens: 1
+Salvador: 1
+Joseph Mallord William JMW Turne: 1
+Giuseppe: 1
+Pablo: 1
+Edward Kennedy Duke Ellingto: 1
+fugue: 1
+Louis XIV: 1
+the Holocaust: 1
+Gustave Courbet: 1
+Arnolfini Wedding or Arnolfini Portrait: 1
+Hieronymous Bosch: 1
+six: 1
+comic books accept comics: 1
+George Friedric Handel: 1
+The School of Athens or Scuola di Atene: 1
+Johann Sebastian Bach prompt on Bach: 1
+murals or muralism and word forms prompt on painting accept frescoes: 1
+Impressionism accept word forms: 1
+New World Symphony or Symphony No 9 by Dvorak accept From the New World prompt on Symphony No 9 before Dvorak is read and accept afterwards: 1
+Arnolfini Wedding accept Arnolfini Portrait accept Arnolfini Double Portrait accept anything else that includes Arnolfini andor him getting hitched: 1
+I Pagliacci accept The Clowns until mentioned: 1
+Vincent Willem Van Gogh: 1
+James MacNeill Whistler: 1
+Michaelangelo Merisi de Caravaggio or Michaelangelo Merisi do not accept only Michaelangelo: 1
+film noir prompt on detective or crime before they are read: 1
+Florence or Firenze: 1
+D major prompt on D before major: 1
+Donatello or Donato di Nicolo di Betto Bardi: 1
+Edward Hopper accept A Woman in the Sun artist: 1
+pianoforte prompt on keyboard before mention: 1
+The Firebird accept Loiseau de feu: 1
+Mona Lisa prompt on any specific names who may be the Mona Lisa like Lisa Gherardini: 1
+The Marriage of Figaro accept Le Nozze di Figaro: 1
+Miles Davis III: 1
+pizzicato accept plucking before mention: 1
+pointillism accept word forms accept NeoImpressionism before mentioned prompt on Divisionism: 1
+St Peters Basilica accept Old St Peters: 1
+Violin: 1
+George Frideric Händel: 1
+Last Judgment: 1
+MC Escher: 1
+Dogs: 1
+Forbidden City: 1
+terracotta: 1
+Rome Italy: 1
+Paul Cézanne: 1
+The Scream of Nature: 1
+Brasilia Brazil: 1
+Jules Émile Frédéric Massenet: 1
+Éric Alfred Leslie Satie: 1
+Raphael lo Sanzio da Urbino: 1
+The Arnolfini Marriage: 1
+FrançoisAugusteRené Rodin: 1
+Martin Scorsese: 1
+Johannesburg South Africa: 1
+The Girl With The Pearl Earring: 1
+Mack the Knife: 1
+JeanAugusteDominique stronguIngresustrong: 1
+strongucave paintingustrongs: 1
+the Vietnam Veterans Memorial: 1
+Roman columns: 1
+Sir Arthur Seymour Sullivan: 1
+the Soviet Union: 1
+a burial: 1
+minarets: 1
+Nike: 1
+Mark Rothko: 1
+Rebel Without A Cause: 1
+F: 1
+viola: 1
+David Dave Warren Brubeck: 1
+Saint John the Baptist: 1
+5: 1
+Annunciation: 1
+Christoph Willibald Ritter von Gluck: 1
+Franz Ferenc Liszt: 1
+Domenico Gaetano Mario Donizetti: 1
+playing cards: 1
+Saint Matthew: 1
+Beethovens Symphony No 9 in D minor Op 125 Choral: 1
+The Firebird: 1
+symphonies of Dmitri Shostakovich: 1
+Charles Charlie Parker Jr: 1
+Federal Republic of Germany: 1
+High Noon: 1
+Johannes or Jan Vermeer: 1
+Paganinis 24 Caprices for Solo Violin: 1
+hunt: 1
+La traviata: 1
+collage: 1
+Moonlight Sonata accept Piano Sonata No 14 in Csharp minor before the last sentence: 1
+Leonardo da Vinci accept either underlined portion: 1
+Minute Waltz: 1
+The Arnolfini Wedding accept The Arnolfini Double Portrait accept Giovanni Arnolfini and His Bride accept any answer including Arnolfini and the suggestion of a wedding or marriage: 1
+Johann Sebastian Bach prompt on Bach prompt on Johann Bach: 1
+horses accept logical equivalents like stallions do not accept ponies: 1
+blue accept variations such as light blue accept Blue Rider or Der Blaue Reiter accept Blue Boy accept Blue Period: 1
+Rembrandt Harmenszoon van Rijn accept either underlined portion: 1
+C Major prompt on C before relative major accept C after that point: 1
+Charles Charlie Spencer Chaplin: 1
+Sergey Sergeyevich Prokofiev: 1
+Russia or Rossiya: 1
+canon: 1
+Seven Samurai: 1
+Symphonie fantastique Épisode de la vie dun Artisteen cinq parties: 1
+Pygmalion: 1
+Sandro: 1
+the Faust legend: 1
+Papal Basilica of St Peter: 1
+Symphony No 1: 1
+St Pauls Cathedral: 1
+the seasons: 1
+Egypt: 1
+triptychs: 1
+Gioachino: 1
+Picassos Blue Period prompt on Picasso: 1
+equestrian statue: 1
+A Sunday Afternoon on the Island of La Grande Jatte  1884: 1
+St Louis: 1
+Requiem: 1
+Arch de Triomph: 1
+St Peter: 1
+Woody Allen: 1
+JeanHonore Nicolas Fragonard: 1
+Adagio for Strings: 1
+Toccata and Fugue in D minor BWV 565: 1
+Petrushka: 1
+Beethovens Piano Sonatas: 1
+Sir Edward William Elgar 1st Baronet: 1
+equestrian works: 1
+Georges Pierre Seurat: 1
+Viola: 1
+Venus or Aphrodite: 1
+etude: 1
+Washington DC: 1
+JeanLouis Andre Theodore Gericault: 1
+Jakob Ludwig Felix MendelssohnBartholdy: 1
+James Abbott MacNeill Whistler: 1
+12 Angry Men: 1
+HMS Pinafore or The Lass that Loved a Sailor: 1
+Trumpet: 1
+Gustav Theodore Holst: 1
+The Ring of the Nibelung: 1
+Paul Hindemith: 1
+Cavalleria Rusticana: 1
+Clinton Clint Eastwood Jr: 1
+The Tribute Money: 1
+Antoni Gaudi i Cornet: 1
+Dizzy Gillespie: 1
+The 1930s: 1
+flutes: 1
+funeral march: 1
+banjo: 1
+HMS Pinafore or the Lass That Loved a Sailor: 1
+The Artists Studio A Real Allegory of a Seven Year Phase in my Artistic and Moral Life: 1
+Water Music: 1
+Kingdom of Sweden: 1
+The Hunters in the Snow: 1
+Giovanni Pierluigi da Palestrina: 1
+Bridges: 1
+The Gates of Paradise: 1
+Italy or Italia: 1
+Brandenburg Concertos or Concerti: 1
+Samuel Billy Wilder: 1
+Casablanca: 1
+Republic of Poland: 1
+James Abbot McNeill Whistler: 1
+George Frederic Handel: 1
+necklaces: 1
+domes: 1
+The Ecstasy of St Theresa: 1
+Its a Wonderful Life: 1
+trombone: 1
+sleeping: 1
+The Happy Hazards: 1
+kissing: 1
+The Magic Flute accept Die Zauberflöte: 1
+photography accept word forms: 1
+marble: 1
+The Kiss accept Der Kuss accept Le Baiser: 1
+In the Hall of the Mountain King accept I Dovregubbens Hall: 1
+England prompt on United Kingdom or Great Britain: 1
+1812 Overture accept Festival Overture The Year 1812 all underline portions required: 1
+West Side Story accept One Hand One Heart before mentioned: 1
+The Scream accept Skrik: 1
+Ludwig van Beethovens Symphony No 6 in F Major: 1
+Rain Steam and Speed  The Great Western Railway: 1
+Carmina Burana Secular songs for singers and choruses accompanied by instruments and magical images: 1
+Deposition of Christ: 1
+JeanHonoré Fragonard: 1
+Ferdinand Eugene Victor Delacroix daylahKWAH: 1
+symphonies by Joseph Haydn: 1
+Mendelssohn: 1
+umbrellas: 1
+François Auguste René Rodin: 1
+Edgar Degas deGAH: 1
+The Planets op 32: 1
+The Four Seasons or Le quattro stagioni: 1
+Beethovens Symphony no 9 in D minor: 1
+My Fair Lady: 1
+rococo: 1
+Oscar Claude Mone: 1
+Frank: 1
+Michelangelo da Merisi da Caravaggio: 1
+lullaby: 1
+Vincent: 1
+WOOD: 1
+SCHUBERT: 1
+berlioz: 1
+MEXICO: 1
+readymades: 1
+3rd symphony: 1
+pictures at an exhibition: 1
+VENUS: 1
+JAPAN: 1
+SCHUMANN: 1
+MAGRITTE: 1
+SPAIN: 1
+LAST SUPPER: 1
+PIANO: 1
+MADONNA: 1
+MAHLER: 1
+MONET: 1
+MADAMA BUTTERFLY: 1
+DADA: 1
+CEZANNE: 1
+GUITAR: 1
+bach: 1
+titian: 1
+Turandot turanDOT: 1
+Bflat clarinet: 1
+Sistine Chapel ceiling: 1
+William Count Basie: 1
+boats: 1
+Symphonies by Wolfgang Amadeus Mozart: 1
+the United States of America: 1
+From the New World Symphony: 1
+sonatas: 1
+Boris Godunov: 1
+Last Suppers: 1
+weddings: 1
+Beethovens Symphony No 9 in D Minor: 1
+Luncheon of the Boating Party: 1
+Nicolo Paganini: 1
+The Virgin Mary: 1
+Ring Cycle: 1
+Abraham Lincoln: 1
+Canon and Gigue In D: 1
+Rhinoceros: 1
+Symphonie Fantastique Episode de la vie dun Artisteen cinq parties: 1
+French: 1
+Antonin Dvorak DVAWRzhahk: 1
+United States Capitol: 1
+My Favorite Things: 1
+Crucifixion: 1
+Sir Peter Paul Rubens: 1
+Ferdinand Victor Eugene Delacroix duhlahKWAH: 1
+the Empire State Building: 1
+Beethovens Symphony No 9 in D minor: 1
+The Barber of Seville or The Useless Precaution: 1
+Edvard Munch moonk: 1
+FrancoisAugusteRene Rodin rohDAN: 1
+Sydney Opera House: 1
+pyramids: 1
+birdsong: 1
+Rhapsody In Blue: 1
+The Grapes of Wrath: 1
+The New Yorker: 1
+Ivan Petrovich Pavlov: 1
+skyscrapers: 1
+Salvador Felipe Jacinto Dali y Domenech: 1
+War: 1
+Jacques Louis David dahVEED: 1
+Annie: 1
+The Brothers Karamazov: 1
+subjunctive mood: 1
+heart transplant: 1
+baritone: 1
+IM Pei PAY: 1
+Michelangelo di Lodovico di Buonarroti Simoni: 1
+Charles Charlie Chaplin: 1
+charter schools: 1
+Noh play: 1
+apostrophe: 1
+ragtime: 1
+Francisco Jose de Goya y Luciente: 1
+Louis Daniel Louie Armstrong: 1
+Sir Joshua Reynolds: 1
+John Henry: 1
+stone: 1
+James Abbott MacNeil Whistler: 1
+Tower of London: 1
+The Ring Cycle: 1
+Michelangelo Buenarroti: 1
+Diego Velázquez: 1
+Francisco José de Goya y Lucientes: 1
+Ninth Symphony: 1
+Wassily Wassilyevich Kandinsky: 1
+Antonín Leopold Dvo345ák: 1
+The Young Persons Guide to the Orchestra Variations and Fugue on a Theme by Purcell: 1
+Tristan und Isolde: 1
+First Great Awakening: 1
+caprices by Niccolo Paganini: 1
+Charles Gounod: 1
+the Deposition of Jesus Christ: 1
+Diego Velaz: 1
+Johann Strauss the Younger: 1
+symphonies of Peter Ilyich Tchaikovsky: 1
+Dido and Aeneas: 1
+HonoreVictorin Daumier: 1
+Carl August Nielsen: 1
+Alexander Stirling Calder: 1
+Symphony No 3 in E flat major Eroica by Ludwig van Beethoven: 1
+the Acropolis of Athens: 1
+Pablo Diego Jose Francisco de Paula Juan Nepomuceno Maria de los Remedios Cipriano de la Santisima Trinidad Ruiz y Picasso: 1
+Ferdinand Victor Eugene Delac: 1
+the Great Proletarian Cultural Revolu: 1
+Westmin: 1
+Union of Soviet Socialist Republics: 1
+piano concertos of Wolfgang Amadeus Mozart: 1
+Ludwig van Beethoven dxdx: 1
+Praxiteles ycyc: 1
+Hagia Sophia or Ayasofya: 1
+Franz Ritter von Liszt dxdx: 1
+Las Meninas or The Maids of Honor zzzz: 1
+Robert Alexander Schumann dxdx: 1
+Salvador Dali ryry: 1
+Frank Owen Gehry magmag: 1
+Leonard Bernstein dxdx: 1
+stronguCaravaggioustrong or Michelangelo stronguMerisiustrong: 1
+Maurice Ravel dx ycdx: 1
+Philip Glass dxdx: 1
+Ludwig Mies van der Rohe mzmz: 1
+Igor Fyodorovich Stravinsky dxdx: 1
+Frida Kahlo de Rivera magmag: 1
+Grant Wood magmag: 1
+Stephen Sondheim ycyc: 1
+nocturnes or notturno dxdx: 1
+Edvard Munch ryry: 1
+Dies Irae: 1
+Arnold Schoenberg whwh: 1
+George Balanchine ch ycch: 1
+Paul Gauguin ryry: 1
+Leonardo da Vinci accept either underlined name: 1
+Symphony No 9 in D minor Choral accept either underlined portion accept Beethovens Ninth and variants: 1
+Annie do not accept Little Orphan Annie or Annie Warbucks: 1
+rhapsody accept any of the full titles at any point in order they are First Rhapsody or Première rhapsodie Norfolk Rhapsody Spanish Rhapsody or Rhapsodie Espagnole Rhapsody on a Theme of Paganini Hungarian Rhapsodies and Rhapsody in Blue: 1
+La bohème: 1
+Andy Warhol accept Andrew Andy Warhola Jr: 1
+Las Meniñas accept The Maids of Honor: 1
+saxophone be lenient accept any subtype such as alto or tenor: 1
+Charles Charlie Bird Parker Jr: 1
+A Sunday Afternoon on the Island of La Grande Jatte or: 1
+Alexander Sandy Calder: 1
+Symphony No 9 in D minor by Ludwig van BeethovenChoral Op 125: 1
+Georg Frideric Handel: 1
+The Nightwatch: 1
+Venus de Milo: 1
+Cats: 1
+commutative: 1
+The Madonna of the Long Neck: 1
+Symphonies of Wolfgang Amadeus Mozart: 1
+Ludwig van Beethovens Symphony No 6 op 68 Pastoral: 1
+Henri ToulouseLautrec: 1
+Oscar Claude Monet: 1
+Owl City: 1
+A Sunday Afternoon on the Island of La Grande Jatte  1884: 1
+Hagia Sophia: 1
+Czechoslovakia: 1
+Glenn Herbert Gould: 1
+JMW Turner: 1
+the Messiah: 1
+Miles Dewey Davis: 1
+the Sistine Chapel: 1
+the Mona Lisa: 1
+The Red Wheelbarrow: 1
+harp: 1
+Time Transfixed or La Duree Poignardee: 1
+granites: 1
+Third Symphony: 1
+dwarf or dwarves: 1
+Mass or Missa: 1
+metronomes: 1
+J Alfred Prufrock: 1
+Cosi Fan Tutte: 1
+Artemisia Gentileschi: 1
+Resurrection Symphony: 1
+A Sunday Afternoon on the Island of La Grande Jatte 1884 or Un dimanche apresmidi a lIle de la Grande Jatte  1884: 1
+Starry Night or De sterrennacht: 1
+Pointillism: 1
+Francois Auguste Rene Rodin: 1
+The Luncheon on the Grass or Le dejeuner sur lherbe: 1
+Salvador Dali i Domenech: 1
+The Magic Flute or Die Zauberflote or Kochel 620: 1
+Michelangelo Merisi de Caravaggio: 1
+James Abbott McNeil Whistler: 1
+Ludwig van Beethovens 9th Symphony or Choral Symphony: 1
+August Rodin: 1
+Domes: 1
+Salvador Dali y Domenech: 1
+Georg Frederic Handel: 1
+Op 32 The Planets: 1
+Pieter Breughel the Elder: 1
+Johan Julius Christian Jean Sibelius: 1
+A German Requiem: 1
+Die Brücke: 1
+JeanPhilippe Rameau: 1
+La boheme: 1
+Andrew Andy Warhola: 1
+Mozarts Symphony No 41 in C Major K 551 Jupiter: 1
+The Pirates of Penzance: 1
+Henri Marie Raymond de ToulouseLautrecMonfa: 1
+The Sound of Music: 1
+Marc Chagall shuhGAHL: 1
+The Apollo Theater: 1
+Six Brandenburg Concertos BWV 10461051: 1
+Stars and Stripes Forever: 1
+Louis Sullivan: 1
+Ghent Altarpiece: 1
+Beethovens Symphony No 5 in C minor Opus 67: 1
+Messiah Oratorio HWV 56: 1
+Raphael da Urbino: 1
+Joseph Anton Bruckner: 1
+The Tales of Hoffmann: 1
+Gustave Caillebotte: 1
+the Seagram Building: 1
+Johannes: 1
+Die: 1
+Henri Rousseau: 1
+Maurice: 1
+Goldberg: 1
+Der Freischutz: 1
+Aaron: 1
+Die Brucke: 1
+Edvard Hagerup: 1
+Paolo Veronese: 1
+Saint Jerome: 1
+Mikhail Ivanovich: 1
+Apollon: 1
+or Franz Schuberts Piano stronguQuintetustrong in stronguA majorustrong D 667: 1
+the Ring cycle: 1
+Paul Klee: 1
+Christoph Willibald Gluck: 1
+Georges Alexandre Cesar Leopold Bizet: 1
+osef Anton Bruckner: 1
+Francois: 1
+Jean: 1
+La: 1
+Ludwig van Beethovens: 1
+Ludwig van: 1
+Winged Victory of Samothrace: 1
+Alexander Borodin: 1
+Il dissoluto punito ossia il Don Giovanni: 1
+Jakob Ludwig Felix: 1
+violin concerti: 1
+36 Views of Mount Fuji or Fugaku Sanjurokkei: 1
+Dmitri Dmitriyevich: 1
+Republic of Finland: 1
+Christo Vladimirov Javacheff: 1
+The Music for the: 1
+Ansel Adams lclc: 1
+AchilleClaude Debussy dxdx: 1
+Henri Matisse lclc: 1
+Frank Lloyd Wright lclc: 1
+Carmen dxdx: 1
+Francisco Jose de Goya y Lucientes lclc: 1
+Dadaism lclc: 1
+Franz Joseph Haydn dxdx: 1
+Nighthawks lclc: 1
+De Stijl or The Style: 1
+Jean Sibelius dxdx: 1
+violins dxdx: 1
+Antonio Vivaldi dxdx: 1
+Madama Butterfly or Madame Butterfly wh lcwh: 1
+horses: 1
+Rene Magritte lclc: 1
+Scott Joplin cpcp: 1
+Franz Schubert dx lcdx: 1
+Philip Glass lclc: 1
+Kind of Blue pmpm: 1
+The French Ambassadors or The Two Ambassadors lclc: 1
+The Arnolfini Wedding or Giovanni Arnolfini and his Wife: 1
+Frank Gehry lclc: 1
+CharlesCamille SaintSaens dxdx: 1
+Turandot dx lcdx: 1
+Dmitri Shostakovich dx lcdx: 1
+Eugene Delacroix lclc: 1
+Ludwig Mies van der Rohe lclc: 1
+skyscraper Prompt on building and other such equivalents: 1
+Impressionism Accept other word forms: 1
+flowers: 1
+Enigma Variations: 1
+Cello: 1
+Dvoraks Symphony No 9 in E Minor Op 95: 1
+Mies van der Rohe: 1
+The Embarkation for Cythera: 1
+MarsThe Bringer of War: 1
+Beethovens Fifth Symphony in C minor: 1
+Mahlers Symphony No 8 in Eflat major: 1
+Sir Anthony Van Dyck: 1
+cycloid: 1
+Thomas Cowperthwait: 1
+Mozarts piano concertos: 1
+Republic of Hungary: 1
+Anna Pavlova: 1
+Stephen Collins Foster: 1
+Maurits Cornelis Escher: 1
+Il Dissoluto Punito o Sia il Don Giovanni: 1
+LaThe Pieta: 1
+Moonlight Sonata accept Piano Sonata No 14 in C minor Quasi una Fantasia before it is mentioned: 1
+Titian accept Tiziano Vecellio: 1
+Frescoes: 1
+George: 1
+Brahma: 1
+Raising the Flag on Iwo Jima: 1
+Art Deco: 1
+Nude Descending a Staircase No 2: 1
+Pompidou Center accept Centre Georges Pompidou: 1
+Pomp and Circumstance: 1
+Thomas Jefferson: 1
+Sergei stronguProkofievustrong: 1
+John Singer stronguSargentustrong: 1
+Also Sprach Zarathustra or Thus Spake Zarathustra: 1
+Vincent Wilhelm van Gogh: 1
+Diego Maria de la Concepcion Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodriguez: 1
+The Anatomy Lesson of Dr Tulp: 1
+Vaslav Fomich Nijinsky: 1
+Requiem Mass in d minor by Wolfgang Amadeus Mozart: 1
+Salvador Domingo Felipe Jacinto Dali I Domenech 1st Marquis of Pubol: 1
+Pyotr Ilytch Tchaikovsky: 1
+Taj Mahal: 1
+Antonin Dvorak Pronounced DVORzhak: 1
+Jakob Ludwig Felix Mendelssohn: 1
+Surrealists: 1
+Guiseppe Verdi: 1
+Monasterio de El Escorial or Royal Monastery of San Lorenzo El Real: 1
+Frank Lloyd Wright prompt on partial: 1
+Alexander Porfiryevich Borodin: 1
+The Rite of Spring accept Le Sacre du Printemps: 1
+The Night Watch accept Company of Captain Frans Banning Cocq and Lieutenant Willem van Ruytenhurch but mock anyone who says that for being a showoff: 1
+Chinese: 1
+Franz Lizst: 1
+Olmecs: 1
+Grant stronguWoodustrong: 1
+Surprise Symphony: 1
+Honore Daumier: 1
+Symphonies by Felix Mendelssohn: 1
+conquistadors: 1
+Sir Benjamin Britten: 1
+The Blue Boy: 1
+Masses ordinary: 1
+Jacques Louis David: 1
+Russian Federation: 1
+Luciano Pavarotti: 1
+prelude: 1
+Nocturne: 1
+Flight of the Bumblebee: 1
+Masses: 1
+Bob Dylan: 1
+Ralph rafe Vaughn Williams: 1
+Eugen Bertolt Friedrich Brecht: 1
+Rodeo: 1
+Gustav Mahler MAHler: 1
+Michelangelo di Lodovico Buonarotti Simoni: 1
+C flute: 1
+Symphony no 3 Eroica: 1
+Mathew Brady: 1
+Ernst Ingmar Bergman: 1
+Pyotr Ilich Tchaikovsky: 1
+Peer Gynt Suite No 1: 1
+Edgar Degas DayGA: 1
+Franz Ritter von Liszt: 1
+Antonin Dvorak duhVORzhak: 1
+Eugene Delacroix deluhCWAH: 1
+the Great Depression: 1
+Jean Sibelius seyBAILayus: 1
+Andrea Palladio: 1
+Guernica GAREneekah: 1
+Claude Oscar Monet: 1
+bulls: 1
+concertos: 1
+I M Pei: 1
+fugues fyoogs: 1
+the Alhambra: 1
+Johann Chrysostom Wolfgang Amadeus Mozart: 1
+Ludwig van Beethovens piano sonatas: 1
+Staatliches Bauhaus: 1
+violin concertos: 1
+Honore de Balzac: 1
+the Parthenon: 1
+Pierre Auguste Renoir: 1
+Clive Staples Lewis: 1
+unfinished symphonies: 1
+The Blue Rider: 1
+Richard Milhous Nixon: 1
+Chicago Illinois: 1
+Norman Percevel Rockwell: 1
+String Quartet: 1
+Incidental Music to Peer Gynt Opus 23: 1
+Jersey Boys: 1
+Symphony No 9 in E Minor From the New World Opus 95: 1
+The Sleeping Gypsy: 1
+emThe stronguRape of Eu: 1
+Salvador Domingo Felipe Jacinto Dali I Domenech: 1
+operas by Bedrich Smetana: 1
+the Wainwright Buil: 1
+I: 1
+Karlheinz Stockhausen: 1
+Dmitry Dmitriyevich Shostakovich: 1
+Danse Macabre: 1
+the Conversion of St Paul: 1
+Albrecht Altdorfer: 1
+the Pines of Rome: 1
+Ansel Easton A: 1
+Beethovens Choral Symphony: 1
+Frans Hals: 1
+Laocoon Group: 1
+The Prado: 1
+Muses: 1
+The Burghers of Calais: 1
+B: 1
+Andrea Mantegna: 1
+The United Nations Headquarters in New York: 1
+The Gulf Stream: 1
+Giovanni Pierluigi da Palest: 1
+Eero Saar: 1
+Scottish Symphony: 1
+Johann Pachelbel: 1
+Peter Grimes: 1
+Olivier Messiaen: 1
+the Titan Symphony: 1
+Saxophone: 1
+Krzysztof Penderecki: 1
+JeanFrancois Millet: 1
+Erik Satie or Alfred Eric Leslie Satie: 1
+HilaireGermainEdgar Degas: 1
+photography accept blackandwhite photography until sun setting: 1
+Ludwing Mies Van Der Rohe: 1
+pianoforte I guess accept player piano until the end of the first sentence: 1
+The Night Watch accept The Company of Frans Banning Cocq and Willem van Ruytenburch before mentioned: 1
+Beethovens 9th symphony in D minor opus 125 composer not needed after mention accept the opus number and composer alone or Choral Symphony: 1
+distillation: 1
+Madonna of the Long Neck: 1
+The Flying Dutchman: 1
+symphonies of Felix Mendelssohn: 1
+Gaia: 1
+piccolo: 1
+Il Trovatore: 1
+Symphony of a Thousand: 1
+Benevenuto Cellini: 1
+The Twilight of the Idols: 1
+the Water Music: 1
+Dave Brubeck: 1
+Bela Victor Janos Bartok: 1
+Oliver Goldsmith: 1
+the Hagia Sophia: 1
+Burial at Ornans: 1
+the Jupiter Symphony: 1
+Hillaire Germaine Edgar Degas: 1
+Salvador Felipe Jacinto Dali Y Domenech: 1
+Kabuki: 1
+Johannes stronguBrahmsustrong: 1
+St Peters Basilica: 1
+The 28th of July Liberty Leading the People or Liberty on the Barricades accept The 28th of July before said: 1
+Giacomo Puccinni: 1
+Der Freischutz or The Freeshooter or The Marksman and prompt on similar answers: 1
+Rogier van der Weyden accept either underlined part: 1
+Ruslan and Lyudmila: 1
+fresco do not accept mural do not accept wall painting: 1
+sonataallegro form: 1
+film noir: 1
+Goldberg Variations: 1
+Impression Sunrise or Impression soleil levant: 1
+Beethovens Symphony No 5 in C minor: 1
+Beethovens Symphony No 9 in D minor accept Choral Symphony but do not accept Ode to Joy: 1
+Tannhauser and the Singers Contest at Wartburg accept Tannhauser und der Sangerkrieg auf der Wartburg: 1
+the Last Judgment: 1
+Le Corbusier or CharlesEdouard Jeanneret: 1
+Zoltan Kodaly: 1
+The Ghent Altarpiece accept The Adoration of the Mystic Lamb: 1
+Symphony from the New World accept New World Symphony or Dvoaks Symphony No 9 in E minor: 1
+Die Fledermaus: 1
+Pachelbels Canon: 1
+woodblock printing: 1
+Chateau de Versailles: 1
+From the New World: 1
+symphonies by Wolfgang Amadeus Mozart: 1
+arches: 1
+beds: 1
+Schuberts Unfinished Symphony: 1
+altarpieces: 1
+Waltz: 1
+Noccolo Paganini: 1
+the Bird in Space series: 1
+Death: 1
+Igor Feodorovich Stravinsky: 1
+Heironymous Bosch: 1
+Madonnas: 1
+Ludvig van Beethoven: 1
+Elvis: 1
+the Kingdom of Spain: 1
+Ludwig von Beethovens symphonies: 1
+tritone: 1
+Pagliacci: 1
+saxophones: 1
+Jean Louis Gericault: 1
+Joseph Maurice Ravel: 1
+Peter Ilyich Tchaikovsky: 1
+Sergei Eisenstein: 1
+Walter Gropius: 1
+Numbers: 1
+The Death of General Wolfe: 1
+Alec Guinness: 1
+Alexander Sterling Calder: 1
+Georg Handel: 1
+diffraction: 1
+Symphony No 9 in D minor by Ludwig van Beethoven Choral: 1
+1776: 1
+Romeo and Juliet: 1
+Edward Benjamin Britten Baron Britten: 1
+Fryderyk Chopin: 1
+Marriage of Giovanni Arnolfini or the Arnolfini Wedding accept equivalents involving Arnolfini his marriage andor his bride: 1
+St Johns Night on Bald Mountain or St Johns Night on the Bare Mountain: 1
+Matsuo Bash: 1
+tragic: 1
+Catechism of the Catholic Church: 1
+symphonies  by Beethoven  accept equivalents: 1
+Der Fledermaus: 1
+The Carnival of the Animals Accept Le Carnaval des Animaux: 1
+The Thinker or Le Penseur prompt on The Poet or Le Poete: 1
+A Sunday Afternoon on the Island of la Grande Jatte: 1
+Le Sacre du printemps ballet in 2 parts for orchestra or The Rite of Spring: 1
+Gioacchino Antonio Rossini: 1
+The Hay Wain accept Landscape Noon before it is mentioned: 1
+Beethovens Symphony No 6 in F major Pastoral Op 68 accept any underlined part: 1
+The Arnolfini Portrait accept Marriage Wedding or Double Portrait for Portrait or: 1
+The Night Watch or De Nachtwacht accept The Company of Frans Banning Cocq and Wil: 1
+buttresses: 1
+Gayane: 1
+Siegfried opera WWV 86c accept either underlined part: 1
+HockneyFalco theory accept clear knowledge equivalents like thesis for theory: 1
+Cole Albert Porter: 1
+Fountain of the Four Rivers or Fontana del Quattro Fiumi accept reasonable translational: 1
+Otello: 1
+Johann Christoph Wolfgang Amadeus Mozarts Requiem Mass in D Minor: 1
+Hermes Holding the Infant Dionysus: 1
+Maya Lin: 1
+Henryk Mikoai Gorecki: 1
+the Apocrypha: 1
+Russian: 1
+George Wesley Bellows: 1
+crowns: 1
+Aleksandr Porfiryevich Borodin: 1
+Diego Maria Concepcion Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodriguez: 1
+teddy bears: 1
+PabloPau Casals: 1
+Eugene Henri Paul Gaugin: 1
+A Bar at the Folies Bergere: 1
+Siegfried: 1
+The Gleaners: 1
+Erik Alfred Leslie Satie: 1
+stronguglassustrong prompt on amorphous solid or noncrystalline solid: 1
+The Night Watch or The Company of Franz Banning Cocq before that name is read: 1
+Finlandia accept Finlandia Hymn until last of four movements: 1
+Jacob or Jacques Offenbach accept Bataclan before his in the first line: 1
+Essence of Bird in Space: 1
+FerdinandEugneVictor Delacroix: 1
+Buddhas: 1
+Wassily: 1
+Messiah I guess accept The Messiah: 1
+The Threepenny Opera or Die Dreigroschenoper: 1
+Marcel Marceau or Marcel Mangel: 1
+absinthe prompt on Green Fairy or Verte before it is mentioned: 1
+Hans Holbein the Younger accept clear knowledge equivalents prompt on Holbein deesdees: 1
+His best known work is derived from the slow movement of his String Quartet in B Minor For 10 points name this American composer of Adagio for Strings: 1
+Frieda Kahlo: 1
+Swan Lake or Lebedinoje osero: 1
+The Death of Marat or La Mort de Marat: 1
+The Planets Suite: 1
+Ma Vlast prompt on My Fatherland or My Country before the end: 1

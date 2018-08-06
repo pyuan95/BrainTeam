@@ -1,0 +1,3169 @@
+: 34
+hermann hesse: 25
+nathaniel hawthorne: 24
+edgar allan poe: 23
+madame bovary: 22
+catch22: 21
+aristophanes: 21
+jorge luis borges: 21
+william blake: 20
+emily dickinson: 20
+brave new world: 19
+umberto eco: 19
+robert frost: 19
+john keats: 19
+washington irving: 19
+william butler yeats: 19
+the waste land: 18
+herman melville: 18
+christopher marlowe: 18
+thomas hardy: 18
+anna karenina: 18
+franz kafka: 18
+john donne: 17
+albert camus: 17
+henrik ibsen: 17
+john milton: 17
+alfred lord tennyson: 17
+sylvia plath: 16
+beowulf: 16
+stephen crane: 16
+howl: 16
+george bernard shaw: 16
+vanity fair: 15
+heart of darkness: 15
+the tempest: 15
+virginia woolf: 15
+pride and prejudice: 15
+luigi pirandello: 15
+henry wadsworth longfellow: 15
+samuel taylor coleridge: 15
+johann wolfgang von goethe: 15
+robert lee frost: 15
+lolita: 14
+great expectations: 14
+nadine gordimer: 14
+henry james: 14
+robert browning: 14
+gustave flaubert: 14
+the canterbury tales: 14
+death of a salesman: 14
+wuthering heights: 14
+ernest miller hemingway: 14
+edwin arlington robinson: 14
+to kill a mockingbird: 13
+wallace stevens: 13
+thomas mann: 13
+jane eyre: 13
+emily elizabeth dickinson: 13
+john maxwell coetzee: 13
+edward estlin cummings: 13
+hedda gabler: 12
+anne bradstreet: 12
+paradise lost: 12
+alexander pope: 12
+lord of the flies: 12
+things fall apart: 12
+john greenleaf whittier: 12
+sophocles: 11
+antigone: 11
+milan kundera: 11
+ben jonson: 11
+ulysses: 11
+chinua achebe: 11
+the lottery: 11
+king lear: 11
+commonwealth of australia: 11
+james fenimore cooper: 11
+eugene gladstone oneill: 11
+james augustine aloysius joyce: 11
+francis scott key fitzgerald: 11
+william carlos williams: 11
+william cullen bryant: 11
+australia: 10
+our town: 10
+the sound and the fury: 10
+italo calvino: 10
+sense and sensibility: 10
+the handmaids tale: 10
+candide: 10
+carlos fuentes: 10
+a clockwork orange: 10
+naguib mahfouz: 10
+the crucible: 10
+midnights children: 10
+august wilson: 10
+the grapes of wrath: 10
+invisible man do not accept the invisible man: 10
+nikolai gogol: 10
+the raven: 10
+ernest hemingway: 10
+samuel beckett: 10
+walt whitman: 10
+arthur miller: 10
+jerome david salinger: 10
+thomas stearns eliot: 10
+wystan hugh auden: 10
+margaret eleanor atwood: 10
+charles pierre baudelaire: 10
+edward morgan forster: 10
+federico garcia lorca: 10
+beloved: 9
+china: 9
+william shakespeare: 9
+pablo neruda: 9
+the awakening: 9
+eugene ionesco: 9
+william wordsworth: 9
+euripides: 9
+the decameron: 9
+jeanpaul sartre: 9
+the catcher in the rye: 9
+aeschylus: 9
+doctor zhivago: 9
+dover beach: 9
+sinclair lewis: 9
+langston hughes: 9
+kurt vonnegut jr: 9
+ralph waldo emerson: 9
+alfred edward housman: 9
+irwin allen ginsberg: 9
+sir ahmed salman rushdie: 9
+uncle toms cabin: 9
+sir walter scott: 9
+robert louis stevenson: 9
+guy de maupassant: 9
+pygmalion: 8
+harold pinter: 8
+macbeth: 8
+siddhartha: 8
+geoffrey chaucer: 8
+kenzaburo oe: 8
+jonathan swift: 8
+grendel: 8
+the glass menagerie: 8
+to his coy mistress: 8
+the great gatsby: 8
+bertolt brecht: 8
+a raisin in the sun: 8
+ozymandias: 8
+chicago: 8
+romeo and juliet: 8
+john steinbeck: 8
+david herbert lawrence: 8
+anton pavlovich chekhov: 8
+henrik johan ibsen: 8
+alexander sergeyevich pushkin: 8
+herbert george wells: 8
+edward franklin albee iii: 8
+mario vargas llosa: 8
+spoon river anthology: 8
+oscar fingal oflahertie wills wilde: 8
+joseph rudyard kipling: 8
+the satanic verses: 7
+cormac mccarthy: 7
+my last duchess: 7
+yasunari kawabata: 7
+dracula: 7
+herman hesse: 7
+james baldwin: 7
+1984: 7
+allen ginsberg: 7
+flannery oconnor: 7
+rabindranath tagore: 7
+ray bradbury: 7
+little women: 7
+victor hugo: 7
+on the road: 7
+marcel proust: 7
+oscar wilde: 7
+the jungle: 7
+emma: 7
+chile: 7
+emile zola: 7
+ethan frome: 7
+philip milton roth: 7
+paul thomas mann: 7
+thornton niven wilder: 7
+publius ovidius naso: 7
+london: 6
+kubla khan: 6
+the scarlet letter: 6
+mrs dalloway: 6
+brideshead revisited: 6
+winesburg ohio: 6
+jane austen: 6
+oliver goldsmith: 6
+octavio paz: 6
+salman rushdie: 6
+sonnets: 6
+thanatopsis: 6
+the bell jar: 6
+the cherry orchard: 6
+charles baudelaire: 6
+eugene oneill: 6
+willa cather: 6
+a farewell to arms: 6
+daniel defoe: 6
+richard wright: 6
+my antonia: 6
+south africa: 6
+toni morrison: 6
+james joyce: 6
+as i lay dying: 6
+song of myself: 6
+vladimir nabokov: 6
+japan: 6
+fyodor dostoyevsky: 6
+dylan thomas: 6
+frankenstein: 6
+tennessee williams: 6
+thomas pynchon: 6
+jack london: 6
+kurt vonnegut: 6
+rudyard kipling: 6
+ode to a nightingale: 6
+carl sandburg: 6
+haiku: 6
+anton chekhov: 6
+walter walt whitman: 6
+james mercer langston hughes: 6
+ivan sergeyevich turgenev: 6
+leo nikolayevich tolstoy: 6
+isabel allende llona: 6
+john hoyer updike: 6
+publius vergilius maro: 6
+miguel de cervantes saavedra: 6
+gabriel garcia marquez: 6
+william faulkner: 5
+andrew marvell: 5
+robert burns: 5
+the master and margarita or master i margarita: 5
+gravitys rainbow: 5
+spain: 5
+charles dickens: 5
+tartuffe: 5
+john dryden: 5
+margaret atwood: 5
+the second coming: 5
+ivanhoe: 5
+oliver twist: 5
+to the lighthouse: 5
+nikos kazantzakis: 5
+the rape of the lock: 5
+alexander pushkin: 5
+the aeneid: 5
+the good earth: 5
+the taming of the shrew: 5
+mobydick or the whale: 5
+joseph conrad: 5
+william golding: 5
+gunter grass: 5
+ustrong: 5
+wole soyinka: 5
+lysistrata: 5
+portugal: 5
+the telltale heart: 5
+animal farm: 5
+invisible man: 5
+honor„© de balzac: 5
+ambrose bierce: 5
+the sun also rises: 5
+eudora welty: 5
+gunter wilhelm grass: 5
+david copperfield: 5
+oedipus: 5
+arthur asher miller: 5
+les miserables: 5
+rip van winkle: 5
+evelyn waugh: 5
+william cuthbert faulkner: 5
+ezra weston loomis pound: 5
+vladimir vladimirovich nabokov: 5
+gaius valerius catullus: 5
+nikolai vasilievich gogol: 5
+vidiadhar surajprasad naipaul: 5
+thomas ruggles pynchon jr: 5
+long days journey into night: 5
+honore de balzac: 5
+isabel allende: 4
+german or deutsch: 4
+don quixote: 4
+phillis wheatley: 4
+death: 4
+of mice and men: 4
+canada: 4
+lord jim: 4
+the things they carried: 4
+giovanni boccaccio: 4
+tender is the night: 4
+native son: 4
+nigeria: 4
+the tyger: 4
+the idiot: 4
+nineteen eightyfour: 4
+walter whitman: 4
+leaves of grass: 4
+the bluest eye: 4
+edward albee: 4
+matthew arnold: 4
+joseph heller: 4
+aleksandr solzhenitsyn: 4
+james thurber: 4
+maya angelou: 4
+truman capote: 4
+sonnets from the portuguese: 4
+the time machine: 4
+the road not taken: 4
+leo tolstoy: 4
+seamus heaney: 4
+the dumb waiter: 4
+mexico: 4
+jack kerouac: 4
+edith wharton: 4
+the merchant of venice: 4
+kazuo ishiguro: 4
+tess of the durbervilles: 4
+as you like it: 4
+the gift of the magi: 4
+fahrenheit 451: 4
+the cask of amontillado: 4
+faust: 4
+samuel johnson: 4
+sherwood anderson: 4
+rainer maria rilke: 4
+italy: 4
+harry sinclair lewis: 4
+wilfred edward salter owen: 4
+david alan mamet: 4
+mary flannery oconnor: 4
+fyodor mikhaylovich dostoyevsky: 4
+oliver wendell holmes sr: 4
+william somerset maugham: 4
+don quixote de la mancha: 4
+william gerald golding: 4
+fyodor mikhailovich dostoyevsky: 4
+octavio paz lozano: 4
+johan august strindberg: 4
+lady chatterleys lover: 4
+zora neale hurston: 4
+aldous leonard huxley: 4
+carlos fuentes macias: 4
+dylan marlais thomas: 4
+cats cradle: 3
+george orwell: 3
+abraham lincoln: 3
+main street: 3
+french: 3
+dubliners: 3
+o pioneers: 3
+the mayor of casterbridge: 3
+the hollow men: 3
+fyodor dostoevsky: 3
+mansfield park: 3
+east of eden: 3
+edmund spenser: 3
+thornton wilder: 3
+the republic or politeia: 3
+robinson crusoe: 3
+kate chopin: 3
+david foster wallace: 3
+sanskrit: 3
+egypt: 3
+the jew of malta: 3
+niccolo machiavelli: 3
+the last of the mohicans: 3
+death in venice: 3
+the master and margarita: 3
+mending wall: 3
+the iceman cometh: 3
+mobydick: 3
+yukio mishima: 3
+philip roth: 3
+saul bellow: 3
+argentina: 3
+jose saramago: 3
+ramayana: 3
+treasure island: 3
+amy tan: 3
+iago: 3
+lemuel gulliver: 3
+john updike: 3
+candide or optimism: 3
+the frogs or batrachoi: 3
+dogs: 3
+the stranger or letranger: 3
+willa sibert cather: 3
+jorge francisco isidoro luis borges: 3
+hamlet: 3
+athol fugard: 3
+a passage to india: 3
+theodore dreiser: 3
+france: 3
+war and peace: 3
+captain ahab: 3
+absalom absalom: 3
+steppenwolf: 3
+dr zhivago: 3
+a dolls house: 3
+ahmed salman rushdie: 3
+the color purple: 3
+romeo montague: 3
+robert browning prompt on browning: 3
+tom wolfe: 3
+an american tragedy: 3
+ray douglas bradbury: 3
+new orleans: 3
+upton sinclair: 3
+yellow: 3
+moby dick: 3
+the pearl: 3
+august strindberg: 3
+the odyssey: 3
+gabriela mistral: 3
+white fang: 3
+alexandre dumas pere: 3
+don delillo: 3
+samuel butler: 3
+to a skylark: 3
+henry fielding: 3
+william makepeace thackeray: 3
+adeline virginia woolf: 3
+hans christian andersen: 3
+david mamet: 3
+karel capek: 3
+alan paton: 3
+sir arthur conan doyle: 3
+aleksandr isayevich solzhenitsyn: 3
+francois rabelais: 3
+akinwande oluwole soyinka: 3
+david herbert richards lawrence: 3
+henry graham greene: 3
+charlotte perkins gilman: 3
+gerard manley hopkins: 3
+silas marner: 3
+ambrose gwinnett bierce: 3
+jose de sousa saramago: 3
+thomas ruggles pynchon: 3
+robert penn warren: 3
+alan stewart paton: 3
+percy bysshe shelley: 3
+edgar allen poe: 3
+john millington synge: 3
+rur rossums universal robots: 3
+prometheus: 2
+the dead: 2
+persian or farsi: 2
+blanche dubois: 2
+paris: 2
+haiku or hokku: 2
+yiddish: 2
+gwendolyn brooks: 2
+bertolt brecht eugen friedrich: 2
+caliban: 2
+republic of poland: 2
+cry beloved country: 2
+english: 2
+roland or orlando: 2
+lady macbeth do not accept or prompt on macbeth: 2
+sons and lovers: 2
+dartagnan: 2
+cuba: 2
+plague la peste: 2
+haruki murakami or murakami haruki: 2
+oedipus rex: 2
+angels: 2
+snow: 2
+rhinoceros: 2
+kenzabur333 332e: 2
+the alchemist: 2
+ariel: 2
+langston hughes james mercer: 2
+the prophet: 2
+rosencrantz guildenstern dead: 2
+august strindberg johan: 2
+portnoys complaint: 2
+alan paton stewart: 2
+chineseamerican chinesebritishamerican chinesebritishcanadian chinesebritishcanadianamerican: 2
+republic of india: 2
+the ramayana: 2
+waiting godot en attendant: 2
+republic of kenya: 2
+jhumpa lahiri nilanjana sudeshna: 2
+unbearable lightness being nesnesiteln„° lehkost byt„≠: 2
+red: 2
+vanity fair novel without hero: 2
+eyes watching god: 2
+wh auden wystan hugh: 2
+dolls house et dukkehjem: 2
+charge light brigade: 2
+ghosts: 2
+death venice der tod venedig: 2
+the prince and the pauper: 2
+cherry orchard vishnevyi sad: 2
+mexico united mexican states estados unidos mexicanos: 2
+the purloined letter: 2
+easter 1916: 2
+dulce et decorum est: 2
+huckleberry finn: 2
+crane: 2
+john brown: 2
+chicago illinois: 2
+v: 2
+anne frank: 2
+japanese or nihongo: 2
+quiet western front im westen nichts neues: 2
+california: 2
+streetcar named desire: 2
+tale genji monogatari: 2
+joseph conrad j„≥zef teodor konrad korzeniowski: 2
+tess durbervilles pure woman faithfully presented: 2
+three musketeers les trois mousquetaires: 2
+ingenious gentleman don quixote la mancha el ingenioso hidalgo quijote de: 2
+the bells: 2
+the comedy of errors: 2
+count dracula: 2
+jonathan franzen: 2
+evelyn waugh arthur st john: 2
+petrarch francesco petrarca: 2
+good man hard find: 2
+dr pangloss: 2
+leo tolstoy lev nikolayevich: 2
+francois rabelais alcofribas nasier: 2
+sailing to byzantium: 2
+guy de maupassant henri ren„© albert: 2
+frankenstein modern prometheus: 2
+grass: 2
+chinua achebe albert chinualumogu: 2
+picture dorian gray: 2
+a confederacy of dunces: 2
+seamus justin heaney: 2
+love song j alfred prufrock: 2
+winter: 2
+red badge courage: 2
+the republic or politea: 2
+jay gatsby great: 2
+edith wharton newbold jones: 2
+rime ancient mariner: 2
+all the kings men: 2
+ransom red chief: 2
+hunchback notre dame notredame de paris: 2
+satan or lucifer: 2
+saul bellow solomon bellows: 2
+sinbad the sailor: 2
+jules gabriel verne: 2
+japan nipponkoku nihonkoku: 2
+the epic of gilgamesh: 2
+german language deutsch: 2
+tom stoppard: 2
+legend sleepy hollow: 2
+the war of the worlds: 2
+the wasteland: 2
+moliere jeanbaptiste poquelin: 2
+whos afraid virginia woolf: 2
+brothers karamazov bratya karamazovy: 2
+glass: 2
+cats: 2
+crime punishment prestupleniye nakazaniye: 2
+pablo neruda neftali ricardo reyes basoalto: 2
+satires: 2
+latin: 2
+cat hot tin roof: 2
+poland: 2
+lowell: 2
+rubaiyat omar khayyam: 2
+aeneid: 2
+tartuffe impostor ou limposteur: 2
+ moby dick whale: 2
+song roland la chanson de: 2
+day life ivan denisovich odin den ivana denisovicha: 2
+lewis carroll charles lutwidge dodgson: 2
+gilgamesh: 2
+oliver twist parish boys progress: 2
+tale two cities: 2
+heart lonely hunter: 2
+my „Åntonia: 2
+g„ºnter wilhelm grass: 2
+crying lot 49: 2
+mario vargas llosa partial last name: 2
+elegy written country churchyard: 2
+italy or italia: 2
+ode grecian urn: 2
+heinrich theodor b„∂ll: 2
+world war great: 2
+walden life woods: 2
+bertolt brecht eugen berthold friedrich: 2
+salman rushdie ahmed: 2
+vikram seth: 2
+flew over cuckoos nest: 2
+gwendolyn elizabeth brooks: 2
+flannery oconnor mary: 2
+dante alighieri: 2
+thirteen ways looking blackbird: 2
+ezra pound: 2
+harlem renaissance: 2
+hundred years solitude cien a„±os de soledad: 2
+importance being earnest: 2
+republic south africa: 2
+john griffith jack london: 2
+midsummer nights dream: 2
+arabic: 2
+horace quintus horatius flaccus: 2
+crime and punishment: 2
+wilfred owen: 2
+agamemnon: 2
+eugene onegin yevgeny: 2
+adventures huckleberry finn: 2
+overcoat cloak shinel: 2
+the hunger games: 2
+pablo neruda neftal„≠ ricardo reyes basoalto: 2
+prince hamlet: 2
+adventures tom sawyer: 2
+dante alighieri either: 2
+robinson crusoe either: 2
+war peace voyna mir: 2
+china zhongguo peoples republic prc: 2
+virgil publius vergilius maro: 2
+holden caulfield either: 2
+f scott fitzgerald: 2
+arthur boo radley: 2
+yukio mishima kimitake hiraoka: 2
+house seven gables: 2
+uncle toms cabin life among lowly: 2
+history tom jones foundling: 2
+tragedy hamlet prince denmark: 2
+dogs canines hounds anything else dog: 2
+bartleby scrivener story wall street: 2
+the birds accept ornithes: 2
+eugene ionesco eugen ionescu: 2
+uncle tom: 2
+portrait artist young man: 2
+george orwell eric arthur blair: 2
+little prince le petit: 2
+salome: 2
+the english patient: 2
+jhumpa lahiri: 2
+endgame de partie: 2
+the chambered nautilus: 2
+walden: 2
+waiting for godot: 2
+india: 2
+the tale of genji: 2
+miguel de cervantes: 2
+sappho: 2
+lines composed few miles above tintern abbey revisiting banks wye during tour july 13 1798: 2
+unbearable lightness being: 2
+slaughterhousefive childrens crusade dutydance death: 2
+strange case dr jekyll mr hyde: 2
+george eliot mary ann evans: 2
+merry wives windsor: 2
+the seagull or chayka: 2
+tom stoppard tomas straussler: 2
+dh lawrence: 2
+plato: 2
+connecticut yankee king arthurs court: 2
+white: 2
+norway: 2
+chekhov: 2
+yossarian: 2
+rand: 2
+scarlet letter: 2
+pilgrims progress: 2
+exit huis clos: 2
+atticus finch prompt on finch: 2
+pilgrims progress world come: 2
+count monte cristo le comte de: 2
+ode west wind: 2
+thomas gray: 2
+the overcoat: 2
+candide optimism ou loptimisme: 2
+gullivers travels: 2
+hundred years solitude cien anos de soledad: 2
+o henry william sydney porter: 2
+joseph conrad jozef teodor konrad korzeniowski: 2
+argentina argentine republic republica: 2
+hunchback notredame de paris: 2
+jeanlouis jack kerouac: 2
+twelfth night or what you will: 2
+don quixote de la mancha alonso quijano: 2
+orhan pamuk: 2
+holden caulfield or holden caulfield: 2
+les fleurs du mal flowers evil: 2
+fables: 2
+modest proposal preventing children poor people ireland being: 2
+kim: 2
+old man sea: 2
+fall house usher: 2
+ode: 2
+oklahoma: 2
+oliver wendell holmes jr: 2
+sonnet: 2
+tom jones either name: 2
+gothic literature: 2
+ayn rand alisa zinovyevna rosenbaum: 2
+essay: 2
+roots saga american family: 2
+importance being earnest trivial comedy serious people: 2
+sherlock holmes: 2
+world war ii: 2
+drowning: 2
+toni morrison chloe anthony wofford: 2
+christina rossetti prompt on rossetti: 2
+lorraine hansberry: 2
+the turn of the screw: 2
+castle das schloss: 2
+arthur evelyn st john waugh: 2
+patrick white: 2
+winters night traveler se una notte dinverno un viaggiatore: 2
+haruki murakami names either order: 2
+the ambassadors: 2
+david copperfield either: 2
+derek walcott: 2
+saki hector hugh munro: 2
+albert chinualumogu chinua achebe: 2
+the remains of the day: 2
+around world eighty days le tour du monde en quatrevingts jours: 2
+kingdom spain reino de espana: 2
+tennessee williams thomas lanier: 2
+crime punishment prestuplenie nakazanie: 2
+oliver twist either underlined part: 2
+count monte cristo le comte de montecristo: 2
+okonkwo: 2
+graham greene: 2
+enemy people en folkefiende: 2
+whom bell tolls: 2
+f scott fitzgerald francis key: 2
+toni morrison chloe ardelia wofford: 2
+republic poland rzeczpospolita polska: 2
+robinson crusoe either underlined part: 2
+tin drum die blechtrommel: 2
+because could stop death: 2
+alice walker: 2
+ivan turgenev: 2
+far madding crowd: 2
+shirley jackson: 2
+stendhal mariehenri beyle: 2
+richard iii: 2
+inferno divine comedy: 2
+occurrence owl creek bridge: 2
+quiet western front: 2
+peoples republic china: 2
+secret life walter mitty: 2
+red black scarlet le rouge et noir: 2
+sir gawain green knight: 2
+the winters tale: 2
+daddy: 2
+timon of athens: 2
+neil simon: 2
+rur rossums universal robots rossumovi univerzalni roboti: 2
+mark twain samuel langhorne clemens: 2
+much ado nothing: 2
+miss julie: 2
+sorrows young werther die leiden des jungen werthers: 2
+yasunari kawabata names either order: 2
+gertrude stein: 2
+life opinions tristram shandy gentleman: 2
+darkness at noon: 2
+the interpreter of maladies: 2
+sigrid undset: 2
+robert herrick: 2
+mikhail afanasyevich bulgakov: 2
+middlemarch study provincial life: 2
+decameron prencipe galeotto: 2
+bald soprano la cantatrice chauve: 2
+cry beloved country zzzz: 2
+william somerset maugham ycyc: 2
+eugene ionesco ycyc: 2
+wole soyinka ycyc: 2
+metamorphosis die verwandlung: 2
+necklace la parure: 2
+kubla khan vision dream fragment: 2
+prince il principe: 2
+kawabata yasunari: 2
+holden caulfield either name: 2
+trial der prozess: 2
+red black le rouge et noir: 2
+samuel richardson: 2
+tragedy julius caesar: 2
+tartarus: 2
+the frogs: 2
+volpone: 2
+akinwande oluwole wole soyinka: 2
+richard cory: 2
+ambrose gwinett bierce: 2
+daniel defoe foe: 2
+aleksandr pushkin: 2
+arthur schopenhauer: 2
+pierre corneille: 2
+rodion romanovich raskolnikov: 2
+lord byron george gordon: 2
+six characters author sei personaggi cerca dautore: 2
+journey west xi ji: 2
+house mr biswas: 2
+theodore herman albert dreiser: 2
+othello moor venice: 2
+henri rene albert guy de maupassant: 2
+night: 2
+bridges: 2
+norman kingsley mailer: 2
+jack kerouac jean louis lebris de: 2
+alexandre dumas pere davy de la pailleterie: 2
+bernard malamud: 2
+edna st vincent millay: 2
+house mango street: 2
+sylvia plath victoria lucas: 2
+truman capote streckfus persons: 2
+robert louis balfour stevenson: 2
+john irving: 2
+death comes archbishop: 2
+john roderigo dos passos: 2
+victor marie hugo: 2
+love cholera el amor en los tiempos de colera: 2
+charles john huffam dickens: 2
+johann christoph friedrich von schiller: 2
+virginia woolf adeline stephen: 2
+ralph waldo ellison: 2
+fathers sons children otcy deti: 2
+moby dick whale: 2
+lost remembrance things past la recherche du temps perdu: 2
+pelham grenville wodehouse: 2
+greece hellenic republic: 2
+sweden: 2
+francis bret harte: 2
+cherry orchard vishniovy sad: 2
+joy luck club: 2
+stranger outsider letranger: 2
+nathaniel hawthorne hathorne: 2
+silas marner weaver raveloe: 2
+invisible man do not accept or prompt on the invisible man: 2
+jeanpaul charles aymard sartre: 2
+athol fugard harold lanigan: 2
+the portrait of a lady: 2
+friedrich von schiller: 2
+cormac mccarthy charles: 2
+clive staples lewis: 2
+masque red death: 2
+john dos passos: 2
+gabriel jose de la concordia garcia marquez: 2
+voltaire francoismarie arouet: 2
+publius virgilius maro: 2
+stephen vincent benet: 2
+stendhal henrimarie beyle: 2
+know why caged bird sings: 2
+cherry orchard vishnyovy sad: 2
+emile francois zola: 2
+erich maria remarque: 2
+magic mountain der zauberberg: 2
+alexander dumas pere: 2
+mourning becomes electra: 2
+valentin louis georges eugene marcel proust: 2
+the dumbwaiter: 2
+albert chinualumogu achebe: 2
+george orwell eric blair: 2
+lilacs last dooryard bloomd: 2
+three sisters tri sestry: 2
+love cholera el amor en los tiempos del colera: 2
+emperor ice cream: 2
+the  charge of the light brigade : 1
+great  britain  or the  u nited  k ingdom of great britain and northern ireland or the  british empire  accept  england  specifically: 1
+the earths  moon  or  luna : 1
+virgil: 1
+ rashomon : 1
+ezra  pound  and thomas stearns  eliot: 1
+horse s or obvious equivalents such as  pony  or  stallion s or  war  horse  or  equus  until read: 1
+lawn tennis: 1
+robert  browning: 1
+the  sun also rises: 1
+romania: 1
+alexander sergeyevich  pushkin: 1
+journey s or  voyage s: 1
+summer  or last  summer  or  summer s day: 1
+robert  lowell  or robert traill spence  lowell  iv or cal  lowell : 1
+christopher  marlowe  or kit  marlowe : 1
+portia: 1
+c apitalization accept word forms accept descriptive answers like  all caps or c apitalized first letter  accept using  upper case before upper: 1
+okonkwos wives or equivalents such as s pouses  of  okonkwo  prompt on characters or women in things fall apart : 1
+byron or gordon  byron: 1
+the  amazing adventures of kavalier and clay: 1
+rains  or l ocomotives  or r ailr oads: 1
+bowler  hat s: 1
+baskerville s or  stapleton s until mentioned: 1
+a  portrait of the artist as a young man: 1
+the  last of the mohicans: 1
+charles pierre  baudelaire: 1
+swim ming or  diving  accept word forms of either answer: 1
+ice  or  el  hielo : 1
+the  emperor of ice cream : 1
+18th  century or  1700 s prompt on the  last  century the first two works are on the artificial comedy of the last century by charles lamb and  the way of the world  by william congreve: 1
+hell  or  pandemonium  until pandemonium is read: 1
+new jersey  prompt on  nj : 1
+arab s or  algerian s or  moor s: 1
+the  god of small things: 1
+tom  stoppard  or toma769s780  straussler : 1
+sancho  panza or sancho  panza : 1
+orangutan  or  pongo borneo  or  pongo pygmaeus  prompt on  ape  until it is read prompt on monkey : 1
+the  magic mountain  or  der  zauberberg : 1
+derek alton  walcott: 1
+john  dryden: 1
+kate  chopin  or katherine  oflaherty : 1
+mary flannery  oconnor: 1
+emile  zola: 1
+ to an athlete dying young : 1
+athol  fugard  or harold athol lanigan  fugard : 1
+thomas   sutpen  accept either underlined portion: 1
+sinbad  or  sindbad : 1
+rose  or  rose buds sick  rose  or a red red  rose  prompt on  flower  until mentioned: 1
+the  underground railroad: 1
+the  birthmark : 1
+ireland  or  e769ire : 1
+eliza   doolittle  accept either underlined portion or  liza  doolittle prompt on the  flower girl  until read: 1
+the  kite runner: 1
+the  necklace  or the  diamond necklace  or la  parure : 1
+iphigenia: 1
+the  new yorker: 1
+the  remains of the day: 1
+daphne du  maurier: 1
+eugene gladstone  oneill: 1
+isabel  allende: 1
+young  werther   vairtur: 1
+wystan hugh  auden: 1
+naked lunch: 1
+afrikaans  prompt on  cape dutch  do not accept or prompt on dutch: 1
+bertolt  brecht  or eugen bertolt friedrich  brecht : 1
+china  or  zhongguo  accept  wang  wei until country is read: 1
+middlemarch  a study of provincial life: 1
+involuntary  memory  or  remembrance : 1
+f scott  fitzgerald  or francis scott key  fitzgerald : 1
+a  churchyard  or a  graveyard  or obvious equivalents of a  cemetery  prompt on a  church s grounds: 1
+desiderius  erasmus: 1
+the  mad hatter  or the  hatter : 1
+the  tempest: 1
+drown ing prompt on  suicide  or  death : 1
+the  piano lesson: 1
+funeral s or  burial s or  funeral  services: 1
+all quiet on the western front  or  im westen nichts neues : 1
+ i wandered lonely as a cloud  or  daffodils : 1
+ethan  frome or ethan  frome : 1
+samuel  pepys   peeps: 1
+matsuo  basho772  or matsuo chu772emon  munefusa : 1
+yellow  accept  yellow  sky or  yellow  wallpaper: 1
+marco  polo  or  marco  polo: 1
+saki  or hector hugh  munro : 1
+virginia  woolf: 1
+herman  hesse: 1
+charles  dickens: 1
+tom   sawyer  prompt on partial answer: 1
+arthur  miller: 1
+willa  cather: 1
+one day in the life of ivan denisovich  or  odin den ivana denisovicha : 1
+the  great gatsby: 1
+the  canterbury tales: 1
+les miserables  accept  the miserables   the wretched   the miserable ones   the wretched ones  or  the poor ones  do not prompt on les mis as tempting as it may be: 1
+nikolai  gogol: 1
+thomas  hardy: 1
+gospel of  john: 1
+the  road not taken  do not accept or prompt on the road less traveled laugh at anyone who gives this answer: 1
+aleksandr  pushkin: 1
+do not go gentle into that good night: 1
+mobydick  accept  the whale  before white whale prompt after: 1
+joseph rudyard  kipling: 1
+ernest  hemingway: 1
+don quixote  de la mancha: 1
+arthur evelyn st john  waugh: 1
+harlem accept the harlem renaissance: 1
+gabriel garc„≠a m„°rquez prompt on partial answers: 1
+e e cummings: 1
+ottoman empire do not accept or prompt on turkey‚ónone of these clues pertain to the state of turkey founded after world war i: 1
+e t a hoffmann: 1
+robinson crusoe or robinson crusoe or robinson kreutznaer: 1
+charlemagne or carolus magnus or charles the great or charles i of france prompt on charles: 1
+roses accept i cultivate a white rose or the sick rose or a red red rose or rose is a rose is a rose is a rose: 1
+mexico or the united mexican states: 1
+faust the first part of the tragedy or faust eine trag„∂die or faust der trag„∂die erster teil: 1
+wole soyinka or akinw„°nd„© oluwo809l„© bab„°t„∫nd„© s809„≥yink„°k„°: 1
+petrarch or francesco petrarca accept petrarchan sonnet: 1
+detectives accept synonyms like sleuths or investigators: 1
+the frogs or b„°trachoi: 1
+cairo egypt or alq257hirah accept cairo trilogy: 1
+republic of turkey or t„ºrkiye cumhuriyeti8232: 1
+the usa trilogy: 1
+republic of chile or rep„∫blica de chile: 1
+jane eyre accept either underlined name: 1
+mali empire or nyeni or mande kurufaba: 1
+russian or russkij jazyk: 1
+katherine mansfield murry: 1
+the beat8203 generation accept beatnik8203s accept reasonable equivalents like beat8203 poets or beat movement: 1
+walt buwhitmanub8203 walter whitman: 1
+buconcentration campub8203s or budeath campub8203s or buextermination camp8203ubs or bukonzentrationslagerub8203 accept buauschwitzub8203 bubirkenauub8203 and bubuchenwaldub8203 prompt on just camps: 1
+george bernard bushawub: 1
+classical bupersianub or bufarsiub: 1
+alfred lord butennysonub: 1
+mexicanamerican or chicano or chicana until chicano is read prompt on latino latina or hispanic: 1
+a e housman or alfred edward housman: 1
+a salesman or a travelling salesman or a shoe salesman: 1
+words accept the garden of words words words words in the beginning was the word portmanteau words or loanwords: 1
+ewell pronounced youull but accept phonetic pronunciations: 1
+walden pond: 1
+jay gatsbys parties or party scenes from the great gatsby: 1
+cats or neko or i am a cat or cheshire cat: 1
+night or la nuit: 1
+pablo neruda or ricardo eli„©cer neftal„≠ reyes basoalto: 1
+ulysses or odysseus: 1
+daisy miller a study: 1
+book burning or obvious equivalents indicating destroying books or being a fireman until firemen is read prompt on burning alone prompt on censorship do not accept or prompt on fire fighting: 1
+diary or diaries or memoirs or diary of a madman or diary of a young girl: 1
+jews or hebrews or jewry or anything indicating adherents of judaism: 1
+assassination of abraham lincoln or obvious equivalents indicating the death of abraham lincoln prompt on the us civil war: 1
+arthur rimbaud or jean nicolas arthur rimbaud: 1
+sylvia plaths father or daddy or otto plath: 1
+american revolution or revolutionary war: 1
+the cantos accept the pisan cantos before pregha: 1
+pigs or piggy or swine or sows or boars: 1
+julys people: 1
+infinity or infinitely many accept obvious equivalents such as unending numberless or forever: 1
+john yossarian prompt on john: 1
+robots or rossums universal robots or rur: 1
+slaughterhousefive or the prison from slaughterhousefive or similar answers prompt on dresden: 1
+lolita haze or dolores or lol or dolly prompt on haze: 1
+travelogues or similar answers like travel literature or travel narratives or journey texts: 1
+brooklyn prompt on new york or the united states of america before new york is read: 1
+frankensteins monster or the daemon or the creature before creature is read do not accept or prompt on victor or frankenstein alone: 1
+the count of monte cristo or le comte de montecristo: 1
+edgar allan poe or edgar poe: 1
+graham greene accept henry graham greene: 1
+lilliput: 1
+mario vargas llosa or jorge mario pedro vargas llosa: 1
+sir john falstaff: 1
+michel eyquem de montaigne: 1
+committing suicide or ritual suicide or hanging before hanging is read or selfstrangulation accept word forms and clear equivalents like killing oneself prompt on death and similarly less specific answers: 1
+james thurber james grover thurber: 1
+wine prompt on alcohol or any less specific answer: 1
+eugene or yevgeni or eugene onegin: 1
+winston smith accept either: 1
+republic of cuba: 1
+gregor samsa or gregor samsa: 1
+time: 1
+homeric similes or epic similes: 1
+congo river: 1
+isak dinesen or karen blixen or baroness karen von blixenfinecke: 1
+red or dream of the red chamber or red sorghum or battle of red cliffs: 1
+tale of genji or genji monogatari: 1
+evelyn eevlyn waugh: 1
+the house of usher or roderick ushers house or the fall of the house of usher accept equivalents to house like mansion: 1
+ophelia: 1
+a character in one of this authors poems came home with a smooth round stone  as small as a world and as large as alone that poem ends with the line its always ourselves we find in the sea another poem by this author ends how do you like your blueeyed boy  mister death in another poem by this author of maggie and millie and molly and may and buffalo bills a yearning nations blueeyed pride is instructed by colonel trig westpointer to beat the title character who was more brave than memore blond than you for 10 points name this poet of i sing of olaf glad and big who frequently used unconventional punctuation and capitalization: 1
+karel capek chapek: 1
+priest or equivalents like preacher minister reverend clergyman etc: 1
+the decameron or decamerone: 1
+v s naipaul or vidiadhar surajprasad naipaul: 1
+jim: 1
+raymond chandler: 1
+gitanjali or offering of songs or song offerings: 1
+don quixote or alonso quijano or alonso quesada or alonso quijada: 1
+anne bradstreet or anne dudley: 1
+victor hugo or victor marie hugo: 1
+lennie small accept either underlined portion: 1
+ramayana or ramayan or ramayanam: 1
+the american civil war: 1
+doktor faustus or doctor faustus the life of the german composer adrian leverk„ºhn as told by a friend or doktor faustus das leben des deutschen tonsetzers adrian leverk„ºhn erz„§hlt von einem freunde: 1
+edward albee or edward franklin albee iii: 1
+william cullen bryant fmfm: 1
+jorge francisco isidoro luis borges boarhays glgl: 1
+dr strangelove or how i learned to stop worrying and love the bomb jrjr: 1
+inferno prompt on the divine comedy until mention do not prompt or accept purgatorio or paradiso glgl: 1
+james augustine aloysius joyce glgl: 1
+middlemarch a study of provincial life glgl: 1
+the scarlet letter glgl: 1
+haruki murakami or murakami haruki jrjr: 1
+anna gl  gl: 1
+beloved glgl: 1
+radio glgl: 1
+jean valjean jrjr: 1
+oscar fingal oflahertie wills wilde fmfm: 1
+sylvia plath glgl: 1
+medea glgl: 1
+donkey or ass do not accept or prompt on mule glgl: 1
+lady macbeth accept macbeths wife do not accept or prompt on just macbeth glgl: 1
+daisy accept annie until daughter named pammy accept any more specific daisy like daisy miller glgl: 1
+autobiography prompt on memoir fmfm: 1
+the cherry orchard or vishnevyi sad glgl: 1
+sonnets or sonetto or sonetti prompt on shakespeare plays or anything involving romeo and juliet before so long as men can breathe jrjr: 1
+the turn of the screw glgl: 1
+syphilis glgl: 1
+the three musketeers or les trois mousquetaires glgl: 1
+being dead or being deceased or not being alive accept equivalents prompt on being a ghost or equivalents glgl: 1
+the magic mountain or der zauberberg jrjr: 1
+william blake glgl: 1
+mobydick or the whale fmfm: 1
+things fall apart glgl: 1
+mr darcy or fitzwilliam darcy prompt on just fitzwilliam do not accept or prompt on colonel fitzwilliam nor  miss darcy nor georgina darcy glgl: 1
+guinevere or gwenhwyfar glgl: 1
+uncle toms cabin or life among the lowly glgl: 1
+alexander sergeyvich pushkin glgl: 1
+alice or alice in wonderland glgl: 1
+jd salinger or jerome david salinger glgl: 1
+emma bovary or madame bovary jrjr: 1
+king lear jrjr: 1
+aeneas glgl: 1
+hans christian andersen glgl: 1
+pygmalion glgl: 1
+thornton niven wilder llll: 1
+mexico accept viceroyalty of new spain or virreinato de nueva espa„±a before the word jade in the third line prompt on spain or espa„±a before the word jade in the third line jrjr: 1
+thomas hardy glgl: 1
+a bell or bells glgl: 1
+ahmed salman rushdie glgl: 1
+hermann karl hesse jr jr: 1
+waiting for godot or en attendant godot glgl: 1
+sherlock holmes accept either underlined part glgl: 1
+william cuthbert faulkner fmfm: 1
+china or zhongguo accept any answer including either of those eg peoples republic of china or tang china jrjr: 1
+elementary schools or wayside school accept clear equivalents glgl: 1
+college or university: 1
+jamaica: 1
+wyoming: 1
+catholic priests: 1
+western prompt on cowboy novel or oater if respondent over 80 years old: 1
+poetry be generous and accept word forms such as poems or poetical works: 1
+william b: 1
+boston: 1
+lord byron or george gordon: 1
+tennis: 1
+chess: 1
+tiger: 1
+lady macbeth: 1
+william gopher bill faulkner: 1
+buendia: 1
+killing a bird accept goose after first sentence and antiprompt say more general  ‚nbsp‚nbsp‚nbsp ‚nbsp‚nbsp‚nbsp ‚nbsp‚nbsp‚nbsp ‚nbsp‚nbsp‚nbsp ‚nbsp      after that if they answer with seagull or albatross: 1
+george eliot accept mary ann evans before mentioned: 1
+sheep: 1
+black or ebony accept the black cat: 1
+friedrich schiller or johann christoph friedrich von schiller: 1
+lemuel gulliver accept either underlined portion: 1
+seamus heaney or seamus justin heaney: 1
+daodejing or tao te ching or laotzu before mentioned: 1
+new orleans louisiana: 1
+comic books or comics or superhero comics or golden age comics accept graphic novels during the first sentence do not accept comic strips: 1
+chile or the republic of chile or republica de chile: 1
+portugal or the portuguese republic or the rep„∫blica portuguesa: 1
+alfred lord tennyson or alfred tennyson: 1
+billy pilgrim accept either underlined portion: 1
+mikhail bulgakov or mikhail afanasyevich bulgakov: 1
+oryx and crake: 1
+joseph conrad or josef teodor konrad korzeniowski: 1
+arrowsmit: 1
+raymond chandler or raymond thornton chandler: 1
+sledding or sleighing accept word forms or answers involving riding or using a sled or a sleigh: 1
+eb white or elwyn brooks white: 1
+guy de maupassant or henri rene albert guy de maupassant: 1
+monkeys or monos or vanaras accept makak or macaque accept dream on monkey mountain: 1
+a room with a view: 1
+theory of the four humors or humorism accept four classical temperaments before temperament and prompt afterwards prompt on four classical elements or ancient greek medicine: 1
+indian reservations or the rez accept reservation blues: 1
+karel capek chapeck but literal english readings are also acceptable: 1
+e l doctorow or edgar lawrence doctorow: 1
+bronte776 or anne bronte776 or emily bronte776 prompt on acton or ellis bell: 1
+e e cummings or edward estlin cummings: 1
+the wife of bath or alisoun: 1
+the birthmark: 1
+john millington synge or edmund john millington synge: 1
+life of pi: 1
+alice walker or alice malsenior walker: 1
+soldiers or american soldiers or troops or infantrymen or servicemen or marines or military employees: 1
+farms accept cold comfort farm or animal farm: 1
+italy or italia or italian republic: 1
+anne bradstreet or mistress bradstreet or anne dudley: 1
+colleges or universities or college campuses or university campuses prompt on campuses or schools: 1
+the chosen: 1
+ice prompt on water or frozen water accept the ice palace or icenine or lyod or hielo: 1
+alexey alexandrovich karenin accept either underlined name do not accept karenina: 1
+joan didion: 1
+ngugi wa thiongo or james ngugi accept petals of blood until this author is read: 1
+the lady with the dog or dama s sobachkoy the lady with the lapdog or the lady with the little dog or the lady with a dog accept alternate answers in the same vein: 1
+portrait of the artist as a young man: 1
+thornton wilder or thornton niven wilder: 1
+the stranger or the outsider or le769tranger: 1
+jorge luis borges or jorge francisco isidoro luis borges: 1
+lord byron or george gordon lord byron: 1
+harry hopes saloon accept equivalents such as the saloon in the iceman cometh accept synonyms for saloon like bar or pub: 1
+the pearl poet or the gawain poet: 1
+polynices or polyneices: 1
+performing abortions or illegal abortions prompt on miscarriages: 1
+miguel de unamuno y jugo: 1
+buddenbrooks the decline of a family or buddenbrooks verfall einen familie: 1
+ts eliot or thomas stearns eliot accept journey of the magi until this man is read: 1
+the birthday party: 1
+fathers and sons or fathers and children or ottsy i det: 1
+new york city or nyc: 1
+desdemona: 1
+the glass family: 1
+fairy tales or folk tales accept m„§rchen before mention do not accept fables: 1
+vladimir nabokov or vladimir vladirmirovich nabokov: 1
+richard lovelace: 1
+ezra pound or ezra weston loomis pound: 1
+french or francais: 1
+if‚ñ: 1
+yukio mishima or kimitake hiraoka accept either name in either order: 1
+czech or 269e‚ötina: 1
+gwendolyn brooks or gwendolyn elizabeth brooks: 1
+les miserables or the dispossessed or the miserable ones or the poor ones or the wretched ones prompt on les mis: 1
+bleak house: 1
+journey to the west or xi you ji or hsiyu chi: 1
+dorothea brooke: 1
+dorothea brooke accept either underlined portion: 1
+daphne du maurier or dame daphne du maurier lady browning: 1
+witches: 1
+oskar matzerath accept either underlined portion: 1
+the metamorphosis or die verwandlung or the transformation accept samsa in love before the end of the first sentence: 1
+crime and punishment accept prestupleniye i nakazaniye: 1
+swiss alps: 1
+kate chopin accept katherine oflaherty: 1
+the romance of the three kingdoms: 1
+the little prince accept le petit prince: 1
+yukio mishima accept either underlined part also accept kimitake hiraoka: 1
+oedipus accept oedipus rex or oedipus the king: 1
+dante alighieri accept either underlined portion: 1
+tennessee williams accept thomas lanier williams iii: 1
+wales prompt on united kingdom or great britain do not accept england: 1
+lewis carroll accept charles lutwidge dodgson: 1
+federico garcia lorca accept lorca: 1
+orphans accept obvious equivalents: 1
+san francisco: 1
+ samuel beckett or samuel barclay beckett: 1
+smith accept zadie smith or winston smith: 1
+okonkwo or obi okonkwo: 1
+in the penal colony or in the penal settlement or in der strafkolonie: 1
+jack london or john griffith london or john griffith chaney: 1
+dido or dido elissa: 1
+j d salinger or jerome david salinger: 1
+peoples republic of china or zhongguo: 1
+gargantua and pantagruel or the life of gargantua and pantagruel or la vie de gargantua et de pantagruel order does not matter do not accept or prompt on partial answer: 1
+no exit or huis clos or in camera: 1
+natsume soseki or natsume kinnosuke: 1
+nick carraway accept either name: 1
+republic or politeia: 1
+the ramayana or ramayanam or ramayan: 1
+e t a hoffmann or ernst theodor amadeus hoffmann: 1
+tartuffe or the imposter or the hypocrite: 1
+li bai or li bo or li po: 1
+water margin or shui hu zhuan or outlaws of the marsh or all men are brothers: 1
+french or fran„ßais: 1
+yukio mishima or mishima yukio or kimitake hiraoka or hiraoka kimitake: 1
+the myth of sisyphus or le mythe de sisyphe: 1
+inferno prompt on the divine comedy until it is read: 1
+richard brinsley butler sheridan: 1
+sinbad the sailor or sindbad: 1
+white noise: 1
+giovanni boccaccio bohkahcheeoh: 1
+house of the spirits or la casa de los espiritus: 1
+othello or the tragedy of othello the moor of venice: 1
+english romanticism accept word forms like romantics: 1
+spanish or espa„±ol or castilian spanish: 1
+candide ou loptimisme or candide or all for the best or candide or the optimist or candide or optimism: 1
+professor james moriarty prompt on james: 1
+greek language or hellenica or hellenik„≠ gl„≥ssa accept ancient greek or hell275nik7703: 1
+the mayor of casterbridge the life and death of a man of character: 1
+purple do not prompt on or accept similar colors: 1
+night or la nuit or un di velt hot geshvign or and the world remained silent: 1
+inspector javert: 1
+the personal history adventures experience and observation of david copperfield the younger of blunderstone rookery which he never meant to publish on any account: 1
+gregor samsa accept either underlined name: 1
+gandalf the grey or gandalf the white accept inc„°nus accept lathspell or stromcrow or mithrandir or thark„ªn before mentioned prompt on greyhame or old greybeard or the white rider or the grey pilgrim: 1
+faust accept doctor john faustus or heinrich faust: 1
+epic poem prompt on poem before mentioned: 1
+gabriel jos„© de la concordia garc„≠a m„°rquez prompt on partial last name accept of love and other demons before this author: 1
+francis petrarch or francesco petrarca: 1
+santiago prompt on the old man until mentioned: 1
+gilgamesh the king or bilgames: 1
+nikolai vasilievich gogol or mykola vasyliovych hohol: 1
+rosencrantz and guildenstern both names required accept names in either order: 1
+pearls: 1
+aristotle of stagira or aristoteles: 1
+wystan hugh wh auden: 1
+aeschylus or aiskhylos: 1
+john ernst steinbeck junior: 1
+pianoforte: 1
+les mis„©rables or the miserable ones do not accept or prompt on les mis: 1
+one hundred years of solitude or cien a„±os de soledad do not accept a hundred years of solitude: 1
+jews or jewish persons or jewish people or judaism: 1
+the end of the world as we know it or armageddon or the apocalypse or the end of kali yuga accept any answer indicating the end of the human race prompt on the great day of his wrath or great day of his wrath before galileo do not accept last judgment: 1
+houses accept the house on mango street accept a house for mr biswas prompt on buildings or dwellings or less specific words of that sort: 1
+isaac asimov: 1
+doctor yuri zhivago accept either underlined part or yura or yurochka: 1
+bilbo baggins or bilbo prompt on baggins prompt on the hobbit: 1
+the three witches from macbeth or the weird sisters: 1
+luck or luckiness: 1
+federal republic of nigeria: 1
+kingdom of france or royaume de france: 1
+nuns or prioresses or abbesses or daughters of the church: 1
+dr henry jekyll or harry jekyll do not accept mr edward hyde at any point: 1
+harold pinter or david baron: 1
+portuguese language or portugu„™s or l„≠ngua portuguesa: 1
+jane accept jane murdstone jane bennet or jane eyre: 1
+journey to the west or the journey to the west or xi you ji or hsiyu chi or monkey: 1
+albatrosses jr  jr: 1
+wb yeats or william butler yeats glgl: 1
+vladimir vladimirovich nabokov jrjr: 1
+flannery oconnor glgl: 1
+big brother glgl: 1
+russian: 1
+tokyo: 1
+bears: 1
+texas: 1
+film criticism accept film review movie writing film theory etc: 1
+turkey: 1
+stopping by woods on a snowy evening: 1
+mario vargas llosa prompt on partial answer: 1
+beatrice: 1
+brazil: 1
+suicide accept specific forms early like hanging oneself for bowker shooting 	oneself in the head for seymour and richard cory antiprompt at end though: 1
+daisy buchanan: 1
+pigs: 1
+doctor: 1
+rose: 1
+books: 1
+priests: 1
+baker: 1
+don quixote or el quijote: 1
+detectives or private investigators: 1
+les mis„©rables: 1
+lev nikolayevich tolstoy or leo tolstoy: 1
+gabriel garcia marquez do not accept or prompt on marquez: 1
+diary or journals: 1
+portugal or portuguese republic or rep„∫blica portuguesa: 1
+kingdom of sweden or konungariket sverige: 1
+a shropshire lad: 1
+republic of italy or italian republic or repubblica italiana: 1
+baseball players prompt on athletes: 1
+philip pirrip accept either underlined part or pip: 1
+erich maria remarque accept erich paul remark: 1
+holden caulfield accept either underlined portion: 1
+gabriel jos„© de la concordia garc„≠a m„°rquez prompt on gabo: 1
+doctor or physician accept surgeon bacteriologist and other such specific types of doctors: 1
+anne bradstreet accept anne dudley: 1
+the inferno prompt on the divine comedy or la divina commedia before first section is mentioned: 1
+poems or poetry accept any other word forms: 1
+committing suicide accept killing oneself or equivalents ask for a more general answer if the player says drowning oneself poisoning oneself stabbing oneself or any other specific means of committing suicide: 1
+arabian nights entertainment accept one thousand and one nights or one thousand and one arabian nights or kit257b alf laylah walaylah: 1
+the hunchback of notre dame accept notredame de paris or its translation our lady of paris: 1
+ghosts accept equivalents such as spectres phantoms and apparitions: 1
+sindbad the sailor accept sinbad: 1
+dorian gray accept either prompt on prince charming: 1
+natty bumppo accept either accept trapper pathfinder the last of the mohicans or deerslayer accept hawkeye  or leatherstocking until they are mentioned: 1
+jeeves: 1
+bhagavadgita prompt on mahabharata until fight: 1
+edna st vincent millay accept nancy boyd: 1
+peer gynt: 1
+j b: 1
+alexis zorba the greek accept either underlined part: 1
+the man in the iron mask accept the vicomte de bragelonne or louise de la valli„®re or lhomme au masque de fer: 1
+satan accept woland lucifer the devil diabolus beelzebub belial beliar or equivalents: 1
+charge of the light brigade: 1
+the canterbury tales accept the merchants tale until collection: 1
+winnie the pooh accept either underlined answer accept edward bear: 1
+walter whitman jr: 1
+anna karenina accept either: 1
+diary of anne frank accept diary of a young girl or het achterhuis: 1
+robots: 1
+slaughterhousefive or the childrens crusade a duty dance with death: 1
+peter pan: 1
+macbeth prompt on thane of fife or thane of cawdor: 1
+a dolls house accept a doll house or et dukkehjem: 1
+charlottes web: 1
+sherlock holmes accept either underlined part: 1
+ovid accept publius ovidius naso: 1
+henriren„©albertguy de maupassant: 1
+pablo neruda accept ricardo eliecer neftal„≠ reyes basoalto: 1
+john yossarian: 1
+rivers: 1
+agatha mary clarissa miller christie: 1
+shylock: 1
+ancient greek or koine greek: 1
+quo vadis a narrative of the time of nero: 1
+trains or railroads until it is read: 1
+cleopatra vii: 1
+william shakespeare do not accept any nonshakespeare authors: 1
+visigoths or visi prompt on goths: 1
+kiss of the spider woman or el beso de la mujer ara„±a: 1
+dulce et decorum est pro patria mori accept rough translations like it is sweet and dignified to die for your country: 1
+jhumpa lahiri or nilanjana sudeshna lahiri: 1
+sinclair lewis or harry sinclair lewis: 1
+robert lowell or robert traill spence cal lowell iv: 1
+republic of kenya or jamhuri ya kenya prompt on british east africa: 1
+old english or anglosaxon do not accept or prompt on english: 1
+ezra loomis pound: 1
+tintern abbey: 1
+sean ocasey or se„°n „ì cathasaigh: 1
+czech or e‚ötina: 1
+derek alton walcott: 1
+united states of america accept either underlined portion accept usa: 1
+august strindberg or johan august strindberg: 1
+ishmael: 1
+the odyssey or odysseia: 1
+a modest proposal or a modest proposal for preventing the children of the poor from being a burthen to their parents or country and for making them beneficial to the publick: 1
+kingdom of norway or kongeriket norge or kongeriket noreg: 1
+the castle of otranto a gothic story: 1
+thomas paine or tom paine: 1
+kenzaburo oe accept names in either order: 1
+diary or diaries or personal journals prompt on notebooks: 1
+katherine mansfield beauchamp or katherine mansfield murry: 1
+rebecca: 1
+natty bumppo accept either or hawkeye or la longue carabine or pathfinder or deerslayer accept leatherstocking before mentioned: 1
+maxim gorky or alexei maximovich peshkov: 1
+french or le fran„ßaise: 1
+france or the french republic or r„©publique fran„ßaise: 1
+dr john watson accept either underlined portion: 1
+cathedrals or catedral prompt on churches after pope is read accept explosion in a cathedral or conversation in the cathedral or conversaci„≥n en la catedral: 1
+bananafish: 1
+mrs malaprop do not accept malapropism: 1
+maurice polydore marie bernard maeterlinck: 1
+thomas gray or the fatal sisters until it is read: 1
+ford madox ford or ford hermann hueffer or ford madox hueffer: 1
+the raft in huck finn: 1
+joad family: 1
+satires or satura: 1
+stella dubois kowalski prompt on dubois or kowalski: 1
+symposium or sympousion: 1
+airplanes or bombers: 1
+iran or persia or the islamic republic of iran or jomhuriye eslamiye iran: 1
+bullfights or tauromaquia: 1
+collins accept wilkie collins or william collins: 1
+mississippi: 1
+blood wedding or bodas de sangre: 1
+oedipus rex or oedipus the king or oedipus tyrannus or oidipous turannos: 1
+hotels prompt on buildings: 1
+harry s truman: 1
+six characters in search of an author: 1
+elizabeth bennet prompt on bennet: 1
+spanish or espa„±ol: 1
+the decameron or the book of prince galehaut or decamerone di giovanni boccaccio cognominato principe galeotto: 1
+kites: 1
+detectives or private investigators or private eyes: 1
+twenty thousand leagues under the sea: 1
+sea or ocean: 1
+world war i prompt on war: 1
+narnia do not accept the chronicles of narnia or individual book names: 1
+firemen prompt on bookburners: 1
+hansel and gretel or hansel und gretel: 1
+aesops fables prompt on fables: 1
+through the lookingglass and what alice found there: 1
+slaughterhousefive: 1
+colonial america or thirteen colonies or colonial new england accept massachusetts bay colony before celestial choir prompt on america prompt on the colonies: 1
+libraries accept british library reading room before thoroughness: 1
+socratic dialogues or platonic dialogues or sokratikos dialogo or platoniki dialogo prompt on dialogues prompt on works by plato prompt on books in the republic before prosecute his father do not accept works by socrates or the republic: 1
+drama or tragedy accept poetry until poetics prompt on theater: 1
+immigrating to america or immigrating to the united states prompt on immigrating: 1
+aesop: 1
+gabriel garcia marquez prompt on partial surname: 1
+beat generation accept beatniks: 1
+homeros: 1
+thomas lanier tennessee williams iii: 1
+candide or optimism accept candide ou loptimisme: 1
+crime and punishment accept prestuplenie i nakazanie: 1
+the inferno prompt on the divine comedy or la divina commedia before mention: 1
+clive staples lewis prompt on lewis alone: 1
+play within a play accept any description of characters in a play putting on a play prompt on play prompt on frame story: 1
+nick carraway accept either underlined name: 1
+alices adventures in wonderland: 1
+turandot: 1
+united kingdom accept great britain or england: 1
+one hundred years of solitude: 1
+taming of the shrew: 1
+walter mitty: 1
+vidiadhar surajprasad naipaul accept v s naipaul: 1
+petrarch accept francisco petrarca: 1
+daphne du maurier: 1
+eudora alice welty: 1
+elizabeth barrett browning prompt on browning: 1
+breakfast at tiffanys: 1
+italy or the italian republic be generous and accept florence: 1
+jonathan swift accept the battle of the books before author is read: 1
+frogs do not accept toads: 1
+guy montag accept either: 1
+french or le fran„ßais: 1
+edward rochester accept mr rochester: 1
+ferit orhan pamuk: 1
+roth accept henry roth or philip roth: 1
+marcus tullius cicero or tully: 1
+northanger abbey: 1
+moli„®re or jeanbaptiste poquelin: 1
+gypsies or gypsy accept roma or romani: 1
+yukio mishima accept mishima yukio or kimitake hiraoka: 1
+frank norris: 1
+oliver goldsmith accept she stoops to conquer before author is read: 1
+the beat generation or beat movement or beat poets or beatniks: 1
+persia or iran or fars: 1
+tom sawyer accept either underlined name: 1
+the decameron or il decameron: 1
+dorian gray accept either underlined name: 1
+histories of rome or roman histories accept equivalents synonymous with an account of the past of rome the roman republic the roman empire etc accept annals of rome or roman annals until annals prompt histories or equivalents prompt descriptions of rome or equivalents not explicitly involving a span of historical time prompt on latin history  works in latin or equivalents: 1
+mario vargas llosa yohsah or jorge mario pedro vargas llosa first marquis of vargas llosa or jorge mario pedro vargas llosa primer marqu„©s de vargas llosa do not accept or prompt on llosa alone: 1
+oedipus or oidipous or oedipus rex or oidipous tyrannos: 1
+joseph conrad or j„≥zef teodor konrad korzeniowski: 1
+the twilight saga new moon do not accept or prompt twilight at any point: 1
+dante degli alighieri accept either underlined name: 1
+vladimir vladimirovich nabokov accept v sirin: 1
+wine or vinum accept in vino veritas: 1
+middlemarch a study in provincial life: 1
+beards: 1
+crossdressing or dressing in drag or transvestitism accept any answer involving dressing as another gender accept dressing as a woman until ganymede is read prompt on disguise or taking a new identity prompt answers involving acting like another gender: 1
+sancho panza or sancho panza: 1
+one thousand and one nights or the arabian nights entertainment or kit257b alf laylah walaylah: 1
+portugal or rep„∫blica portuguesa or portuguese republic: 1
+kate chopin or katherine oflaherty: 1
+the stranger or letranger or the outsider: 1
+republic of chile: 1
+a separate peace: 1
+chorus prompt on the frogs prompt on the birds before mention do not accept or prompt on choragos: 1
+heart: 1
+time or slow time from the grecian urn clue: 1
+the lady or the tiger do not accept the lady and the tiger: 1
+american civil war: 1
+concentration camps or sameknowledge equivalents accept bergenbelsen accept auschwitz: 1
+nightingales prompt on birds: 1
+the trial of tom robinson in to kill a mockingbird or the trial in to kill a mockingbird or anything demonstrating knowledge of a trial and the book it happens in prompt on just to kill a mockingbird: 1
+francesco petrarca or francesco petrarch: 1
+daisy buchanan prompt on buchanan: 1
+the little prince or le petit prince or the prince: 1
+mahabharata accept bhagavadgita outright before endless and prompt on it after: 1
+the apology of socrates: 1
+troy: 1
+the jungle book or the second jungle book ask for less specificity for answers of rikkitikkitavi and tyger tyger: 1
+paradise or the garden of eden: 1
+blind people accept sameknowledge equivalents accept people who have ripped out their eyes after the oedipus clue: 1
+plague breakout or black death before mention or bubonic plague or septicemic plague or pneumonic plague or great mortality: 1
+all the worlds a stage or jacquess monologue from as you like it prompt on as you like it or accept the seven ages of man: 1
+jean valjean accept either name accept monsieur madeleine: 1
+george gordon lord byron accept either underlined name: 1
+cain: 1
+robert browning prompt on browning until elizabeth barrett: 1
+the adventures of huckleberry finn or just huck finn: 1
+soviet union or ussr or united soviet socialist republics prompt on russia: 1
+captain john yossarian accept either underlined part: 1
+amis kingsley or martin: 1
+haiku accept hokku: 1
+james aloysius joyce: 1
+the ingenious gentleman don quixote of la mancha or el ingenioso hidalgo don quixote de la mancha accept el quixote or the quixote: 1
+sanskrit or samskrtam or samskrta: 1
+republic of poland or rzeczpospolita polska prompt on russia before spanish play: 1
+ayn rand: 1
+william w somerset maugham: 1
+harold bloom: 1
+dr lemuel gulliver accept either accept gullivers travels: 1
+new zealand or aotearoa: 1
+clive staples cs lewis: 1
+ancient mariner accept rime of the ancient mariner: 1
+america: 1
+blindness or being blind or answers involving sightlessness: 1
+new york city: 1
+the clouds or nephelai: 1
+richard nixon: 1
+we real cool: 1
+knights accept grocer before burning pestle: 1
+play within a play dont accept or prompt on frame story: 1
+homer or homerus or homeros: 1
+painters or painting or artists but dont accept things like sculptor or fireman: 1
+william dollar bill shakespeare: 1
+ee cummings: 1
+maine: 1
+bronte: 1
+edward arlington robinson: 1
+goats: 1
+atticus finch accept either or both names: 1
+david herbert lawrence or d h lawrence: 1
+arabic accept word forms prompt on egyptian arabic: 1
+antonia shimerda accept antonia cuzak prompt shimerda and cuzak before mention grudgingly accept my antonia: 1
+rainer marie rilke: 1
+tartuffe or the impostor or tartuffe ou limposteur: 1
+ moby dick the whale: 1
+lord george gordon byron 6th baron byron accept either or both underlined parts: 1
+kurt vonnegut accept bluebeard before author: 1
+world war i or wwi or the great war: 1
+haikus by matsuo basho: 1
+pablo neruda or neftal„≠‚≠ ricardo reyes basoalto: 1
+chineseamerican the first author mentioned is david henry hwang: 1
+modern greek accept ancient greek when buzzing after journeys is read: 1
+nineteen eightyfour or 1984 though this should never matter: 1
+lemuel gulliver accept both or either: 1
+snowy accept word forms: 1
+hughes accept ted or langston hughes before mention: 1
+divine comedy or divina commedia prompt on inferno purgatorio or paradiso before mentioned: 1
+li bai accept li po or li bo: 1
+agatha christie: 1
+the unbearable lightness of being or nesnesiteln„° lehkost byt„≠: 1
+baseball: 1
+yukio mishima or kimitake hiraoka accept names in either order: 1
+federico del sagrado coraz„≥n de jes„∫s garc„≠a lorca: 1
+the human comedy or la comedie humaine prompt on any specific novels from the balzac work: 1
+the sorrows of young werther or die lieden des jungen werthers: 1
+time travel accept equivalents also accept an answer specific to either direction like going back in time: 1
+kenzaburo oe or oe kenzaburo: 1
+the love song of j alfred prufrock also accept prufrock: 1
+light accept elaborations like the furthest city light or daylight: 1
+blue or bleu or bluest: 1
+the red and the black or le rouge et le noir accept answers with alternate translations for the colors like the scarlet and the black: 1
+the ingenious gentleman don quixote of la mancha: 1
+the tin drum accept der blechtrommel: 1
+the cherry orchard accept vishnevyi sad: 1
+francis petrarch accept francesco petrarca: 1
+the stranger accept l„âtranger: 1
+the hunchback of notredame accept notredame de paris: 1
+journey to the west accept xi you ji: 1
+the house of the spirits accept la casa de los esp„≠ritus: 1
+stendhal accept mariehenri beyle: 1
+the devils dictionary: 1
+eugene onegin accept yevgeniy onegin: 1
+animal farm  a fairy story: 1
+matsuo basho or matsuo kinsaku or matsuo chuemon munefusa prompt on any nonunderlined part of an acceptable name: 1
+the picture of dorian gray do not accept answers including portrait: 1
+les mis„©rables or the wretched ones or the miserable ones: 1
+the rubaiyat of omar khayy„°m accept similar answers that include rubaiyat: 1
+john maxwell coetzee kuutseeuh: 1
+an enemy of the people or en folkefiende: 1
+harry rabbit angstrom accept any underlined name: 1
+pygmalion  a romance in five acts: 1
+no exit or huis clos or dead end or in camera or no way out: 1
+john donne dun: 1
+eug„®ne ionesco or eugen ionescu: 1
+lines composed a few miles above tintern abbey on revisiting the banks of the wye during a tour july 13 1798 accept tintern abbey prompt on lines: 1
+the stronguovercoatustrong accept strongushinelustrong or the strongucloakustrong: 1
+the strongucelebrated jumping frog of calaveras countyustrong or the strongunotorious jumping fro: 1
+the okonkwo family accept equivalents that signify descendants of okonkwo or okonkwos family: 1
+wolfe or wolff: 1
+this author discussed the fate of the wreckers in a chapter entitled the history of our sewage disposal system which follows a chapter in which jurists dump out a childs corpse in order to inspect a coffin late in his career this author was lambasted for antisemitism for his history of the jews in his country two hundred years together he wrote a novel whose title character enjoys the company of the latvian joker kilgas and his benevolent  overseer tyurin and earns a share of the care packages of the favorablytreated caesar many of his novels including cancer ward were circulated through samizdat for 10 points name this russian author of one day in the life of ivan denisovich and the gulag archipelago: 1
+langston hughes or james mercer langston hughes: 1
+smith accept stevie smith zadie smith lucrezia rezia smith septimus warren smith or winston smith: 1
+swans prompt on birds until bird is read: 1
+orhan pamuk or ferit orhan pamuk: 1
+kidnapped: 1
+agatha mary clarissa christie or agatha miller or mary westmacott: 1
+jamaica kincaid or elaine cynthia potter richardson: 1
+new york state: 1
+ovid or publius ovidius naso: 1
+james weldon johnson: 1
+the finches accept word forms accept robinson before cat is read since underwood is defending atticus who himself is blocking a lynch mob from getting to tom robinson: 1
+rhinoceros or rhinoc„©ros: 1
+alex delarge accept either underlined portion: 1
+england or great britain or united kingdom of great britain and northern ireland: 1
+no exit or huis clos or in camera or no way out or vicious circle or behind closed doors or dead end accept literal translations like closed doors : 1
+september 1 1939: 1
+pelham grenville pg wodehouse: 1
+cyrano de bergerac: 1
+cats or pussycats or kittens or kitties or housecats or any other word form or obvious synonym: 1
+the epic of gilgamesh or shutur eli sharri or sha naqba imuru or surpassing all other kings or he who saw the deep: 1
+a prison or a jail or reading gaol or the ballad of reading gaol or to althea from prison: 1
+daffodils prompt on flowers before that word is read: 1
+the plague or la peste: 1
+owen accept owen dunne or a prayer for owen meany or wilfred edward salter owen: 1
+aluminum or al: 1
+william carlos williams or wcw: 1
+federico garcia lorca or federico del sagrado corazon de jesus garcia lorca: 1
+li po or li bo or li bai or li pai or li taibai or rihaku: 1
+dartagnan accept either underlined portion of charles de batzcastelmore comte dartagnan: 1
+the cavalier poets prompt on sons of ben: 1
+the little prince or le petit prince prompt on the prince: 1
+old english prompt on english do not accept middle english: 1
+the library of babel or la biblioteca de babel prompt on the universe prompt on the library: 1
+bridges accept bridge of dreams the bridge on the drina or an occurrence at owl creek bridge: 1
+a study in scarlet: 1
+the green light at the end of the buchanans dock in the great gatsby: 1
+zarathustra do not accept zoroaster: 1
+argentina accept the argentine republic or republica argentina: 1
+laura wingfield prompt on wingfield: 1
+russian language or russkij jazyk: 1
+a man for all seasons: 1
+mrs warrens profession: 1
+robert traill spence lowell iv or cal lowell: 1
+anne radcliffe: 1
+biographies of muhammad accept sirat rasul allah until sirat is read accept alsira alnabawiyya until sirat is read accept equivalents such as life in place of biogrpahy: 1
+nathanael west or nathan von wallenstein weinstein: 1
+roberto bola„±o avalos: 1
+the god of small things: 1
+three sisters or tri sestry: 1
+john james osborne: 1
+john millington synge or edmund john millington synge accept the well of the saints until this man is read: 1
+the compson family: 1
+evelyn waugh or arthur evelyn st john waugh: 1
+the aeneid or the aeneis or the aeneidos: 1
+anna arkadyevna karenina accept either underlined portion prompt on karenin: 1
+faust or faust the first part of the tragedy or faust part one or faust the second part of the tragedy or faust part two or faust der trag„∂die erster teil or faust der trag„∂die zweiter teil : 1
+the essays of michel de montaigne or essais accept general answers indicating the writings of michel de montaigne: 1
+arthur koestler or k„∂sztler artur accept names in either order: 1
+sir vidiadhar surajprasad v s naipaul: 1
+soldiers in world war i accept troops or people in the military or veterans other reasonable synonyms: 1
+lemuel gulliver accept either answer: 1
+rabindranath tagore or rabindranath thakur or gurudev: 1
+george f babbitt accept either underlined answer: 1
+the metamorphosis or die verwandlung or the transformation: 1
+christopher marlowe or kit marlowe: 1
+rodion romanovich raskolnikovs murder of the pawnbroker alyona ivanovna and and her sister lizaveta ivanova in crime and punishment accept the murder in crime and punishment or the crime in crime and punishment accept the murder of alyona ivanovna accept equivalents of raskolnikovs crime or the murder committed by raskolnikov before raskolnikov is read and prompt thereafter prompt on partial or nonspecific answers like crime or murder: 1
+neil simon or marvin neil simon: 1
+don quixote or alonso quijano either part being acceptable: 1
+the duchess of ferrara accept my last duchess: 1
+allen ginsberg or irwin allen ginsberg: 1
+hester prynne: 1
+the necklace or the diamond necklace or la parure: 1
+aeschylus or aiskhulos: 1
+argentina or argentine republic: 1
+the histories accept history i suppose: 1
+twenty love poems and a song of despair or veinte poemas de amor y una canci„≥n desesperada: 1
+snow white or snow white and the seven dwarves or schneewittchen do not accept snow white and rose red: 1
+heinrich faust accept henry faust i suppose do not accept doctor faustus: 1
+lady macbeth do not accept macbeth: 1
+gabriel garc„≠a m„°rquez: 1
+beauty: 1
+labyrinths or laberintos: 1
+les miserables or the wretched ones: 1
+finch family: 1
+german accept deutsch: 1
+frogs: 1
+lewis carroll accept charles lutwidge dodgeson: 1
+kingdom of spain accept reino de espa„±a: 1
+toni morrison accept chloe anthony wofford or chloe ardelia wofford: 1
+oliver twist or the parish boy8223s progress: 1
+the ingenious gentleman don quixote of la mancha accept the adventures of don quixote accept el ingenioso hidalgo don quijote de la mancha: 1
+maya angelou accept marguerite ann johnson: 1
+robert e lee: 1
+peoples republic of china accept zh333nghu„° r„©nm„≠n g„≤ngh„©gu„≥: 1
+macbeth prompt on the scottish play: 1
+portugal accept portuguese republic or empire: 1
+1001 arabian nights accept either 1001 nights or arabian nights accept arabian nights entertainment accept book of 1001 nights: 1
+henrik ibsen accept an enemy of the people or en folkefiende before this man is read: 1
+oedipus rex or oedipus the king prompt on oedipus: 1
+the fault in our stars: 1
+diary accept journal accept pillow book before mention accept makura no shoshi or nikki before pillow book is mentioned prompt on nonfiction before it is read: 1
+stamp act of 1765: 1
+bront„´ sisters accept the bront„´ family or equivalents accept anne bront„´ charlotte bront„´ andor emily bront„´ prompt on acton ellis andor currer bell: 1
+johann wolfgang von goethe geuhtuh but be lenient with pronunciation: 1
+the jungle book: 1
+the love song of j alfred prufrock or prufrock: 1
+the count of monte cristo: 1
+song of solomon: 1
+hamlet prince of denmark: 1
+francesco petrarca or petrarch: 1
+the greek language: 1
+mirrors or lookingglasses or equivalents: 1
+captain john yossarian: 1
+john maxwell coetzee or jm coetzee: 1
+journey to the west or xi you ji prompt on monkey: 1
+union of soviet socialist republics or ussr or soyuz sovetskikh sotsialisticheskikh respublik or cccp or soviet union prompt russia or soviet russia: 1
+death of a salesman certain private conversations in two acts and a requiem: 1
+federico garc„≠a lorca: 1
+candide or optimism or candide or the optimist or candide ou loptimisme: 1
+walt whitman accept walter: 1
+tennessee williams or thomas lanier williams iii: 1
+encyclopedias: 1
+oedipus rex or oedipus the king or oedipus tyrannos or oedipus the tyrant: 1
+oliver twist or the parish boys progress: 1
+mexico or the united mexican states or los estados unidos mexicanos: 1
+mann: 1
+hester prynne accept either: 1
+harold pinter accept david baron: 1
+young werther veirterr accept pronunciations such as wurrthurr or the like: 1
+william butler yeats pronounced yates: 1
+lord tennyson or alfred tennyson or alfred lord tennyson: 1
+ben jonson or benjamin jonson: 1
+the caribbean or caribe or antilles or west indies: 1
+the importance of being earnest  a trivial comedy for serious people: 1
+one thousand and one arabian nights or the arabian nights entertainment or kitab alf laylah walaylah: 1
+the republic or platos republic or politeia: 1
+alexandre dumas pere or fils: 1
+republic of south africa or rsa: 1
+jay gatsby accept either or james gatz accept either accept the great gatsby: 1
+dog accept equivalents accept wolfdog do not accept wolf: 1
+raskolnikov or rodion romanovich: 1
+jorge luis borges or jorge francisco isidoro luis borges avecedo: 1
+madame bovary moeurs de province: 1
+em forster or edward morgan forster: 1
+le petit prince or the little prince: 1
+to be or not to be soliloquy prompt on answers mentioning hamlet such as hamlets speech: 1
+france or french republic or r„©publique francaise: 1
+the swedish academy accept anything that includes nobel and literature and committee or equivalents prompt on more general answers: 1
+boxing: 1
+friedrich schiller: 1
+bear: 1
+one hundred years of solitude or cien anos de soledad from julio showing off: 1
+miami: 1
+leo or lev tolstoy: 1
+jrr tolkien: 1
+the outsiders: 1
+israel: 1
+dead souls or myortvyje dushi: 1
+the flowers of evil or les fleurs de mal: 1
+haruki murakami: 1
+el ingenioso hidalgo don quixote de la mancha: 1
+mobydick or the white whale: 1
+peoples republic of china accept zhongguo: 1
+republic of india accept bharat ganarajya: 1
+voltaire accept francoismarie arouet: 1
+petrarch accept francesco petrarca: 1
+republic of cuba or republica de cuba: 1
+merovingian dynasty: 1
+she walks in beauty: 1
+nausea accept la nausee: 1
+cormac charles mccarthy: 1
+sir vidiadhar surajsprad naipaul: 1
+duino elegies: 1
+federal republic of germany accept bundesrepublik deutschland: 1
+mexico accept united mexican states or estados unidos mexicanos: 1
+eugene ionesco accept eugen ionescu: 1
+persian accept farsi until read: 1
+the lord of the flies: 1
+romance of the three kingdoms accept san guo yan yi: 1
+oscar finghals oflahertie wills wilde: 1
+the stronguravenustrong: 1
+inferno prompt on the divine comedy or la divina commedia before mention: 1
+philip milton roth accept you cant tell a man by the song he sings before this authors: 1
+joseph conrad accept jozef teodor konrad nalecz korzeniowski: 1
+the stranger accept letranger or the outsider: 1
+spanishamerican war: 1
+vanity fair a novel without a hero: 1
+george gordon noel lord byron accept any underlined name: 1
+arthur asher miller accept incident at vichy before authors: 1
+one hundred years of solitude accept a hundred years of solitude or cien a„±os de soledad: 1
+tartuffe or the imposter accept tartuffe or the hypocrite or tartuffe ou limposteur: 1
+the rubaiyat of omar khayyam accept rubai: 1
+eug„®ne ionesco accept eugen ionescu: 1
+one thousand and one nights accept the arabian nights entertainment or one thousand and one arabian nights or alf layla walayla: 1
+federico garcia lorca do not accept lorca: 1
+federal republic of nigeria accept alexander oluwole wole soyinka or the strong breed before country: 1
+all quiet on the western front accept im westen nichts neues: 1
+benjamin jonson: 1
+fathers and sons  accept otcy i deti: 1
+the wife of baths tale prompt on the canterbury tales: 1
+mahabharata do not accept bhagavad gita: 1
+republic of cuba or republica de cuba accept switzerland or the swiss confederation until wounded deer is read since carpentier was born in switzerland but identified as cuban: 1
+tess durbeyfield or tess durberville or tess of the durbervilles prompt on durbeyfield or durberville: 1
+outlaws of the marsh or the water margin or zhongyi shuihu zhuan or the men of the marshes or all men are brothers or jianghu haoke zhuan or suikoden accept the marshes of mount liang before liangshan is read and prompt on it thereafter: 1
+one day in the life of ivan denisovich or odin den ivana denisovicha or one day of ivan denisovich do not accept a day in the life of ivan denisovich: 1
+the picture of dorian gray do not accept the portrait of dorian gray: 1
+meursault prompt on the stranger or the outsider before the former is read: 1
+the iliad or the song of ilion or the song of ilium also accept an iliad bariccos version: 1
+donkeys or asses: 1
+saul bellow or solomon bellow: 1
+andrew marvell accept you andrew marvell: 1
+the devils dictionary accept the cynics word book or the cynics dictionary before cynic is read: 1
+the arabian nights entertainment or one thousand and one nights or the thousand and one arabian nights: 1
+jack kerouac or jeanlouis kerouac: 1
+frank norris or benjamin franklin norris jr: 1
+tartuffe accept tartuffe or the impostor or tartuffe ou limposteur: 1
+rashomon: 1
+the celebrated jumping frog of calaveras county or the notorious jumping frog of calaveras county or jim smiley and his jumping frog or the jumping frog: 1
+isaac bashevis singer: 1
+wilkie collins or william wilkie collins: 1
+henry david thoreau or david henry thoreau: 1
+ian russell mcewan: 1
+the rubaiyat of omar khayyam also accept answers that specify that its edward fitzgeralds translation since all the quotes are taken from that: 1
+dartagnan or charles ogier de batz de castelmore comte dartagnan: 1
+los angeles california or la accept hollywood until it is read: 1
+julio cortazar or jules florencio cortazar: 1
+xenophon: 1
+robinson crusoe accept either underlined portion: 1
+les fleurs du mal accept the flowers of evil or other reasonable translations: 1
+matsuo basho accept either underlined portion also accept matsuo chuemon munefusa or matsuo kinsaku or sobo or tosei: 1
+isak dinesen or karen von blixenfineke or karen christenze dinesen: 1
+mark antonys funeral oration or mark antonys speech at julius caesars funeral accept  friends romans countrymen lend me your ears speech before it is mentioned prompt on antonys speech in julius caesar prompt on the funeral oration for julius caesar accept any synonyms of speech like oration or address do not accept answers involving the word soliloquy: 1
+the wild duck or vildanden: 1
+katherine mansfield or katherine mansfield beauchamp or kathrine mansfield beauchamp murry or lili heron: 1
+miss julie or countess julie or fro776ken julie: 1
+the metamorphosis or die verwandlung accept the transformation until transforms is read: 1
+percy bysshe shelley prompt on partial answer: 1
+teachers or schoolteachers or schoolmasters or math teachers or any kind of teachers: 1
+maya angelou or marguerite ann johnson: 1
+heinrich theodor bo776ll: 1
+andre paul guillaume gide: 1
+jason compson iv prompt on compson do not accept or prompt on jason compson iii: 1
+lapis lazuli: 1
+young goodman brown: 1
+sonnets by william shakespeare prompt on sonnets or other partial answers: 1
+china or zhongguo or zhonghua renmin gongheguo or the peoples republic of china: 1
+the soliloquies of hamlet prompt on partial answer prompt on speeches of hamlet or monologues of hamlet or equivalents the word soliloquoy is required to get points: 1
+vachel lindsay or nicholas vachel lindsay: 1
+oliver twist accept either underlined portion: 1
+jane eyre prompt on eyre: 1
+the red and the black a chronicle of the 19th century or the scarlet and the black or le  rouge et le noir chronique du xixe si„©cle: 1
+republic of chile or republica de chile: 1
+arthur rimbaud or jeannicolasarthur rimbaud: 1
+kimball kim ohara accept any of the three underlined portions: 1
+mario vargas llosa or jorge mario pedro vargas llosa prompt on partial answers: 1
+ode to joy: 1
+flannery oconnor or mary flannery oconnor: 1
+russia: 1
+tom sawyer accept either name: 1
+china accept peoples republic of china also accept republic of china: 1
+hart crane: 1
+we accept miy: 1
+the charterhouse of parma: 1
+jude the obscure: 1
+isak dinesen accept karen von blixenfinecke or pierre andrezel: 1
+fathers: 1
+john maxwell coetzee kootzee: 1
+hamlets soliloquies accept equivalents prompt on hamlet or works of shakespeare and similar things: 1
+moli„®re accept jeanbaptiste poquelin: 1
+langston hughes accept silhouette before it is mentioned: 1
+cinderella experimental i know: 1
+don quixote  el ingenioso hidalgo don quijote de la mancha: 1
+ovid: 1
+odysseus: 1
+alan alexander milne: 1
+henri ren„© albert guy de maupassant: 1
+g„ºnter grass: 1
+leo or lev nikolayevich tolstoy: 1
+clive s taples jack lewis: 1
+the tale of genji accept genji monogatari gehnjee mohnohgahtahree: 1
+the most excellent and lamentable tragedy of romeo and juliet: 1
+inferno accept hell before mention prompt on the divine comedy before mention: 1
+pigs accept swine accept boar until fern arable is read: 1
+sir arthur ignatius conan doyle accept sir arthur ignatius conan doyle: 1
+enders game: 1
+boston tea party: 1
+katherine oflaherty kate chopin accept at the cadian ball before this author is read: 1
+douglas noel adams: 1
+transcendentalism accept word forms such as the transcendentalists: 1
+arthur charles clarke: 1
+electra: 1
+rossetti or dante gabriel rossetti or christina rossetti: 1
+emile edouardcharlesantoine zola: 1
+the overcoat or the cloak or shinel: 1
+winesburg ohio a group of tales of ohio smalltown life: 1
+willy loman prompt on loman: 1
+kalevala: 1
+world war i or first world war or great war: 1
+the power and the glory: 1
+cormac mccarthy or charles mccarthy jr: 1
+jorge mario pedro vargas llosa: 1
+prometheus bound: 1
+henryrenealbert guy de maupassant: 1
+der steppenwolf: 1
+one hundred years of solitude or cien a„±os de soledad: 1
+samuel beckett accept molloy before : 1
+akutagawa ryuunosuke: 1
+le misanthrope: 1
+china or zhongguo accept the other shore or bi„nbspn until one author from this country is read: 1
+the fountainhead: 1
+spain accept espa„±a: 1
+walter scott: 1
+john ernst steinbeck: 1
+sir william gerald golding: 1
+walt whitman or walter whitman: 1
+don quixote or the ingenious gentleman don quixote of la mancha or el ingenioso hidalgo don quijote de la mancha or el quijote: 1
+dantes inferno prompt on the divine comedy prompt on divina commedia: 1
+snow accept in the form of an mentioned title such as snow country or snow in august: 1
+orlando or roland: 1
+langston mercer hughes: 1
+willy loman accept either: 1
+kingdom of spain or reino de espa„±a: 1
+one thousand and one arabian nights or arabian nights entertainment or kitab alf laylat walaylah: 1
+salinger: 1
+donkeyass: 1
+oconnor: 1
+burroughs: 1
+brothers karamazov: 1
+wasteland: 1
+injun joe: 1
+montaigne: 1
+judge: 1
+cooper: 1
+boccacio: 1
+invisibility: 1
+castle: 1
+florida: 1
+wollstonecraft: 1
+hughes: 1
+mishima: 1
+surrealists: 1
+raven: 1
+basketball: 1
+sonnets by milton: 1
+nick carraway: 1
+pirandello: 1
+naipaul: 1
+vergil: 1
+anomie: 1
+hemingway: 1
+hunchback of notre dame: 1
+greene: 1
+wallace: 1
+rime of the ancient mariner: 1
+harriet beecher stowe: 1
+emily bronte prompt on bronte: 1
+republica argentina or argentine republic: 1
+victormarie connard hugo: 1
+the personal history adventures experience and observation of david copperfield the: 1
+johann wolfgang von goethe gurtuh: 1
+the invisible man: 1
+huckleberry finn accept either: 1
+king arthur: 1
+the canterbury tales accept the knights tale before her five marriages: 1
+peyton farquhar or peyton farquhar: 1
+yellow kid or mickey dugan before mentioned: 1
+edward anthony jenner: 1
+dao de jing or laozi before mentioned: 1
+romance of the three kingdoms: 1
+massachusetts: 1
+jackson pollock prompt on jack the dripper: 1
+wole soyinka or akinwande oluwole soyinka: 1
+the stranger: 1
+don quixote accept either name of alonso quixano: 1
+frank lloyd wright: 1
+world war i accept equivalents: 1
+greece: 1
+nazi party or national socialist german workers party or nationalsozialistische: 1
+robinson crusoe accept either name: 1
+notredame de paris or the hunchback of notredame: 1
+dante alighieri accept either name: 1
+norman mailer: 1
+spying for the soviet union or spying for the ussr or any other logically equivalent: 1
+six characters in search of an author or sei personaggi in cerca dautore commedia da: 1
+madame emma bovary accept either name: 1
+gregor samsa accept either name: 1
+che guevera or ernesto guevara de la serna: 1
+louisa may alcott: 1
+puck or either underlined name of robin goodfellow: 1
+david copperfield or david copperfield: 1
+huckleberry finn accept either name: 1
+diary: 1
+no exit or huis clos accept in camera: 1
+the most dangerous game: 1
+the riddler prompt on edward nygma before mentioned: 1
+edgar rice burroughs: 1
+crime and punishment or prestuplenye i nakazanye: 1
+oscar fingal oflaherty wills wilde: 1
+japan or nihonkoku or nipponkoku: 1
+mrs clarissa dalloway or mrs clarissa dalloway: 1
+the witches from macbeth or the weird sisters: 1
+khalil gibran: 1
+sherlock holmes or sherlock holmes: 1
+arab republic of egypt or misr: 1
+quasimodo prompt on hunchback of notredame: 1
+hansel and gretel or  hansel und gretel: 1
+dantes inferno prompt on the divine comedy or la divina commedia: 1
+ebenezer scrooge or ebenezer: 1
+epic poems or national epics: 1
+nonfiction novels prompt on nonfiction prompt on literary journalism do not accept: 1
+france or french republic or republique francaise: 1
+rhyme or word forms: 1
+huckleberry finn or huckleberry finn: 1
+stream of consciousness or stream of thought or interior monologue: 1
+jerry seinfeld or jerry seinfeld: 1
+irony: 1
+the life and strange surprising adventures of robinson crusoe of york mariner: 1
+fyodor mikhaylovich dostoyevsky dosstoyevskee: 1
+the elements of style: 1
+satire: 1
+hero: 1
+mary shelley: 1
+ebenezer scrooge: 1
+chaim cchighim potok: 1
+epistolary novel prompt on novel in letters or similar answers: 1
+the outcasts of poker flat: 1
+morality play: 1
+metaphor: 1
+epics or epic poems or epic poetry or clearknowledge equivalents: 1
+autobiography or memoirs accept word forms: 1
+to throw: 1
+iambs or iambus or iambic verse do not accept iambic pentameter or blank verse: 1
+journalism prompt on reasonable equivalents: 1
+deus ex machina accept god from the machine before mentioned: 1
+gabriel jose garcia marquez: 1
+allegory accept word forms: 1
+charlotte bronte accept currer bell: 1
+the social network: 1
+the tin drum  or die blechtrommel: 1
+daisy miller: 1
+tennessee williams accept thomas lanier williams: 1
+epic poem accept word forms: 1
+flowers accept roses before albatross is read: 1
+sherlock holmes accept either name: 1
+paul revere: 1
+edward estlin e e cummings: 1
+canon: 1
+the nutcracker: 1
+the canterbury tales accept the pardoners tale before another section: 1
+ralph waldo emerson accept the rhodora before mentioned: 1
+metaphysical or metaphysics: 1
+the diary of a young girl or the diary of anne frank or het achterhuis: 1
+the bear: 1
+autobiography or autobiographies: 1
+louisa may alcott or flora fairfield: 1
+the harlem renaissance: 1
+aside: 1
+cavalier: 1
+the three musketeers or  les trois mousquetaires: 1
+francis scott key fitzgerald accept babylon revisited before it is read: 1
+the ingenious hidalgo don quixote of la mancha or el ingenioso hidalgo don quixote de: 1
+orange: 1
+swan lake or lebedinoye ozero: 1
+inigo montoya: 1
+detectives: 1
+black beauty: 1
+in medias res: 1
+peasant revolts accept equivalents such as popular revolts prompt on revolts or: 1
+the call of the wild: 1
+anderson: 1
+roman a clef or roman a cle: 1
+sestina: 1
+nouns: 1
+tuskegee: 1
+homer: 1
+umlauts or tremas or diaeresis before it is read: 1
+world war i: 1
+tragedy: 1
+raymond thornton chandler: 1
+dictionaries accept english dictionaries accept spanish dictionaries: 1
+deus ex machina: 1
+claudius: 1
+daniel webster: 1
+joads: 1
+st crispins day speech prompt on henry v before it is read: 1
+pygmalion a romance in five acts: 1
+marcel proust proost: 1
+state of israel: 1
+civil disobedience or resistance to civil government: 1
+betty friedan: 1
+metaphysical poets: 1
+eugene onegin or yevgeny onegin: 1
+salt: 1
+sirius black or sirius black: 1
+edna st vincent millay or nancy boyd: 1
+francois duvalier or papa doc duvalier or papa doc before mentioned prompt on: 1
+ee cummings or edward estlin cummings: 1
+john berryman: 1
+beatrice portinari accept either name: 1
+usa or united states of america or america: 1
+nathaniel stronguhawthorneustrong: 1
+karel capek chahpeck: 1
+the rubaiyat: 1
+the nutcracker or schelkunchik: 1
+st petersburg: 1
+the millers tale: 1
+george bernard shaw accept caesar and cleopatra before this authors: 1
+tom stoppard accept tomas straussler: 1
+odyssey accept odysseia: 1
+george orwell accept eric blair: 1
+gilgamesh accept bilgames: 1
+death in venice accept der tod in venedig: 1
+mario vargas llosa do not accept llosa: 1
+crime and punishment accept pryestupleniye i nakazaniye: 1
+six characters in search of an author accept sei personaggi in cerca dautore: 1
+the canterbury tales accept the squires tale before rape: 1
+the temple of the golden pavilion accept kinkakuji: 1
+billy budd sailor: 1
+the unbearable lightness of being accept nesnesiteln„° lehkost byt„≠: 1
+elegy written in a country churchy: 1
+a bend in the river: 1
+cormac mcca: 1
+dr john h watson or dr james watson: 1
+william motter inge: 1
+anthony trollope: 1
+the rubaiyat of omar khayyam: 1
+hesiod: 1
+twentythousand leagues under the sea or vingt mille lieues sous les mers: 1
+katherine mansfield: 1
+the school for scandal: 1
+erskine caldwell: 1
+goblin market: 1
+kiss of the spider woman or el beso de la mujer arana: 1
+thomas de quincey: 1
+jose marti y perez: 1
+the seven samurai or shichinin no samurai: 1
+jean genet: 1
+romance of the three kingdoms or snguo ynyi: 1
+the life of gargantua and of pantagruel or la vie de gargantua et de pantagruel: 1
+john stein: 1
+alexandria egypt: 1
+laurence sterne: 1
+chronicle of a death foretold or cronica de una muerte anunciada: 1
+allen tate: 1
+edgar: 1
+d h lawrence: 1
+the age of innocence: 1
+rainer maria rilke or rene karl wilhelm johann josef maria rilke: 1
+eilert lovborgs manuscript accept anything like the manuscript from hedda gabler do not accept george tesmans manuscript: 1
+st simeon stylites: 1
+mentally disabled male children in the works of kenzaburo oe accept disabled sons accept mentally retarded or mentally challenged or intellectually disabled for mentally disabled do not accept autistic at any point prompt oe characters throughout prompt children with brain hernias or children with alleged brain hernias despite it being ambiguous with regards to the enormous fat man clue accept people named mori and equivalents until diluted milk is read: 1
+hopscotch or rayuela: 1
+the lotos eaters: 1
+foucaults pendulum: 1
+seven against thebes: 1
+the decameron or il decamerone: 1
+nausea or la nausee: 1
+the luck of roaring camp: 1
+speeches of dr martin luther king jr accept equivalents like public addresses of martin luther king jr prompt on partial answer prompt on civil rights speeches before final is r: 1
+the natural: 1
+the vicar of wakefield: 1
+the charterhouse of parma or la chartreuse de parme: 1
+harry rabbit angstrom accept any name: 1
+the snows of kilimanjaro: 1
+vowels: 1
+cat on a hot tin: 1
+the ingenious gentleman don quixote de la mancha or el ingenioso hidalgo don quijote de la mancha: 1
+australia ycyc: 1
+joseph conrad korzeniowski ycyc: 1
+invisible man do not accept the invisible man ryry: 1
+arthur conan doyle tntn: 1
+the scarlet letter ycyc: 1
+pride and prejudice mzmz: 1
+the handmaids tale pmpm: 1
+leaves of grass mama: 1
+ben jonson ycyc: 1
+stendhal or mariehenri beyle ycyc: 1
+octavio paz ycyc: 1
+silas marner the weaver of raveloe ycyc: 1
+li po or li bo or li bai or ri haku prompt on li ryry: 1
+holden caulfield prompt on caulfield mzmz: 1
+in search of lost time or remembrance of things past or a la recherche du temps perdu ycyc: 1
+kate chopin ycyc: 1
+fathers and sons ycyc: 1
+yasunari kawabata ryry: 1
+alfred stieglitz mag ycmag: 1
+the tragedy of macbeth lclc: 1
+the crying of lot 49 mama: 1
+oscar wilde ycyc: 1
+steppenwolf mama: 1
+thomas hardy ycyc: 1
+harry rabbit angstrom accept harry angstrom prompt on partial answers mama: 1
+leo tolstoy ycyc: 1
+rubaiyat of omar khayyam ryry: 1
+the second coming ycyc: 1
+toni morrison accept chloe ardelia wofford ycyc: 1
+isabel allende llona ycyc: 1
+sinclair lewis ycyc: 1
+a clockwork orange dxdx: 1
+italo calvino zzzz: 1
+one hundred years of solitude or cien anos de soledad zzzz: 1
+christopher marlowe ycyc: 1
+andrew ender wiggin mzmz: 1
+thornton wilder ycyc: 1
+dead souls or mertvye dushi ycyc: 1
+nadine gordimer ycyc: 1
+edward estlin cummings ycyc: 1
+saul bellow ycyc: 1
+poland ycyc: 1
+vidiadhar surajprasad naipaul ycyc: 1
+william makepeace thackeray ycyc: 1
+yukio mishima accept kimitake hiraoka ycyc: 1
+henry graham greene ycyc: 1
+the idiot ryry: 1
+stephen crane ycyc: 1
+things fall apart zzzz: 1
+madame bovary ycyc: 1
+les miserables grudgingly prompt on les mis: 1
+paul reveres ride: 1
+world war i accept the first world war prompt the war to end all wars or the great war: 1
+alexandre dumas pere doomah: 1
+huckleberry finn accept either underlined name: 1
+browning accept elizabeth barrett browning or robert browning: 1
+the metamorphosis accept die verwandlung do not accept metamorphoses: 1
+henry david thoreau: 1
+the thousand and one nights accept the arabian nights: 1
+alice accept alices adventures in wonderland alice liddell or alice hargreaves do not accept or prompt on alice in wonderland as this title only applies to the disney film: 1
+nathaniel hawthorne accept the minister8223s black veil before one work: 1
+dr john h watson: 1
+watership down: 1
+candide or optimism accept candide ou l8223optimisme: 1
+thomas lanier tennessee williams: 1
+the brothers grimm accept jacob andor wilhelm grimm or the grimm brothers: 1
+ray bradbury accept the halloween tree before this authors is read: 1
+jonathan swift accept a tale of a tub before this authors is read: 1
+butler accept word forms like buttling prompt on manservant do not accept valet: 1
+anton pavelovich chekhov: 1
+kawabata yasunari accept names in either order: 1
+roland accept orlando: 1
+outsourced: 1
+jorge luis borges borhays: 1
+the ingenious hidalgo don quixote of la mancha or el ingenioso hidalgo don quijote de la mancha: 1
+holden morissey caulfield accept either: 1
+1666 great fire of london accept equivalents mentioning both fire and london: 1
+scout finch prompt on finch before atticus finch: 1
+all quiet on the western front or im westen nichts neues or nothing new in the west: 1
+lord george gordon byron 6th baron byron accept either underlined part: 1
+the republic: 1
+nikolai vasilievitch gogol: 1
+chinese: 1
+fences: 1
+sean ocasey or sean o cathasaigh or john casey: 1
+the miser or lavare: 1
+the brothers grimm or jacob grimm or wilhelm grimm: 1
+the tin drum: 1
+the flea: 1
+horace: 1
+v s naipaul accept sirvidiadhar surajpraad naipaul: 1
+mother courage and her children accept mutter courage und ihre kinder: 1
+lynching: 1
+teacher accept clearknowledge equivalents: 1
+carson mccullers: 1
+eugene onegin: 1
+wilfrid owen: 1
+the bald soprano: 1
+david herbert dh lawrence: 1
+thomas mann or paul thomas mann: 1
+russian federation or soviet union or ussr: 1
+republic of south africa: 1
+the magic flute or die zauberflote: 1
+gabriel garcia marquez prompt on partial answer: 1
+romeo montague prompt on montague: 1
+the sun or sol: 1
+tom sawyer accept either or the adventures of tom sawyer: 1
+crime and punishment or prestuplenie i nakazanie: 1
+du maurier george andor daphne: 1
+sir edward william elgar: 1
+republic of turkey or turkiye cumhuriyeti: 1
+virgil or publius vergilius maro: 1
+jesus christ accept either underlined part accept all reasonable equivalents: 1
+pablo neruda or juan ricardo reyes basoalto: 1
+gulliver or lemuel gulliver or gullivers travels: 1
+fallout 3 do not accept or prompt on fallout or fallout 2: 1
+ebenezer scrooge accept either underlined part: 1
+china or peoples republic of china: 1
+tom sawyer: 1
+joseph: 1
+stephen dedalus: 1
+lynching accept obvious word equivalents: 1
+california gurls: 1
+bathing accept mikveh before the word is read as well as reasonable equivalents: 1
+william s burroughs: 1
+barcelona: 1
+short stories by f scott fitzgerald: 1
+st francis of assisi: 1
+salmon of knowledge or wisdom: 1
+the weary blues: 1
+free will accept free choice though some might frown on this: 1
+louis the pious or louis i: 1
+ahimsa: 1
+phillip ii: 1
+the communist manifesto: 1
+penelope: 1
+marie antoinette: 1
+vietnam war: 1
+madame bovary or emma bovary or emma rouault: 1
+the beats also accept beat generation the beatniks or anything that resembles beat: 1
+ayn rand or alisa zinovyevna rosenbaum: 1
+the count of monte cristo or le comte de monte cristo: 1
+edward eastlin cummings: 1
+the inferno prompt on divine comedy  or  la divina  commedia before it is read: 1
+frodo baggins prompt on baggins or mr underhill do not accept bilbo baggins: 1
+aleksandr sergetevich pushkin: 1
+aleksandr solzhenitsyn dbn: 1
+nadine gordimer ce: 1
+wolfe accept thomas wolfe before the words charlie croker are read mj: 1
+the tragedy of macbeth joc: 1
+pride and prejudice srce: 1
+crime and punishment accept prestuplenie i nakazaniedbn: 1
+sophocles du: 1
+catch22 joc: 1
+sherlock holmes accept either name aj: 1
+jane eyre ie: 1
+francisco petrarca accept petrarch mj: 1
+gabriel garcia marquez prompt on just marquez mj: 1
+ernest hemingway ie: 1
+aeneas aj: 1
+mississippi mj: 1
+henry fielding du: 1
+madame bovary du: 1
+diary of a madman accept a madmans diary or kuangren riji until the first asteriskmj: 1
+to his coy mistress mj: 1
+peoples republic of china accept zhongguo accept republic of china until another author but not after mj: 1
+stephen vincent benet dbn: 1
+bertolt brecht mj: 1
+wilfred owen mj: 1
+sylvia plath mj: 1
+wole soyinka mj: 1
+les miserables mj: 1
+to kill a mockingbird mj: 1
+brave new world joc: 1
+the tale of genji or genji monogatari ie: 1
+hermann hesse ie: 1
+willa sibert cather du: 1
+joseph conrad or josef teodor konrad nacz korzeniowski gt: 1
+alan paton dbn: 1
+guy de maupassant du: 1
+anna karenina gt: 1
+william shakespeare mj: 1
+john michael coetzee ie: 1
+the sorrows of young werther accept die leiden des jungen werthersmj: 1
+saul bellow ie: 1
+great expectations dbn: 1
+australia dbn: 1
+pablo neruda accept ricardo neftali reyes y basoalto du: 1
+george orwell accept eric blair jac: 1
+edith wharton dbn: 1
+yasunari kawabata accept kawabata yasunari dbn: 1
+jeanpaul sartre mj: 1
+robert browning du: 1
+all quiet on the western front accept im westen nictes neues jac: 1
+one thousand and one nights accept the arabian nights entertainment jac: 1
+robert lee frost du: 1
+ambrose bierce dbn: 1
+alexander pushkin dbn: 1
+jorge francisco isidoro luis borges acevedo jac: 1
+thanatopsis mj: 1
+william golding mj: 1
+purple do not prompt or accept any other color or shade of violet mj: 1
+pedro calderon de la barca: 1
+arabian nights accept one thousand and one nights accept one thousand and one arabian nights accept the arabian nights entertainments accept alf layla walayla: 1
+mordor: 1
+the art of war accept sun zi bing fa: 1
+aldous huxley: 1
+the divine comedy accept la divina commedia prompt on inferno prompt on purgatorio prompt on paradiso: 1
+el doctorow: 1
+li bai accept li bo accept li po: 1
+remembrance of things past accept in search of lost time accept a la recherche du temps perdu: 1
+harlem: 1
+rur: 1
+genji: 1
+edward fairfax rochester prompt on edward: 1
+kenneth kesey: 1
+gabriel garcia marquez prompt on marquez: 1
+leo lev nikolayevich tolstoy: 1
+amartya sen: 1
+the fall of the house of usher: 1
+edward duke ellington: 1
+the decameron tales: 1
+rappaccinis daughter: 1
+sir tom stoppard or tomas straussler: 1
+rodion romanovich raskolnikov accept either or both parts: 1
+uncle toms cabin or life among the lowly: 1
+italy or italia or italian: 1
+x chromosomes prompt on sex chromosomes do not accept or prompt on barr body: 1
+philip pip pirrip accept any part or combination of parts: 1
+metamorphoses: 1
+scarlett ohara accept either or both parts: 1
+katerina minola accept katherina katherine or kate prompt on minola prompt on shrew: 1
+the negro speaks of rivers: 1
+the birds or ornithes: 1
+song of myself accept poem of walt whitman an american before walt: 1
+the two gentlemen of verona: 1
+angels in america a gay fantasia on national themes: 1
+the libation bearers or choephor: 1
+harry rabbit angstrom accept any part or combination of parts: 1
+james hilton: 1
+rynosuke akutagawa accept names in either order: 1
+the satyricon: 1
+cannery row: 1
+alan sillitoe: 1
+the cairo trilogy accept sugar street or elsukkareyya before another work: 1
+julio cortazar: 1
+sula: 1
+schindlers ark or schindlers list: 1
+henryk adam aleksander pius sienkiewicz or litwos: 1
+orestes: 1
+mikhail yuryevich lermontov: 1
+chinua achebe or albert chinalmg achebe: 1
+john simmons barth: 1
+ngg wa thiongo or james ngugi: 1
+the unbearable lightness of being or nesnesitelna lehkost byti: 1
+crossing brooklyn ferry: 1
+a handful of dust: 1
+martin louis amis accept amis after kingsley is read: 1
+ruben dario or felix ruben garcia sarmiento: 1
+marcel proust or valentin louis georges eugene marcel proust: 1
+kalidasa: 1
+don juan: 1
+chikamatsu monzaemon or sugimori nobumori accept both names in either order: 1
+eliezer elie wiesel: 1
+tobias george smollett: 1
+ghosts or gengangere: 1
+china or zhongguo or the peoples republic of china or zhonghua remin gongheguo: 1
+charlotte anna perkins gilman: 1
+flatland a romance of many dimensions: 1
+the death of artemio cruz or la muerte de artemio cruz: 1
+sylvia plath accept victoria lucas: 1
+thornton wilder accept the eighth day before mentioned: 1
+li po or li bo or li bai or li taibai or rihaku or qinglianjushi: 1
+doris lessing: 1
+dead souls: 1
+manuel puig: 1
+mansfield: 1
+the trial or der prozess pmpm: 1
+the catcher in the rye ycyc: 1
+things fall apart pmpm: 1
+the love song of j alfred prufrock ycyc: 1
+the stranger or letranger ycyc: 1
+wuthering heights ycyc: 1
+paul thomas mann ycyc: 1
+rubaiyat of omar khayyam accept rubai lclc: 1
+their eyes were watching god ycyc: 1
+to his coy mistress ycyc: 1
+victor hugo ycyc: 1
+the satanic verses ycyc: 1
+middlemarch a study of provincial life ycyc: 1
+jack london ycyc: 1
+the count of monte cristo or le comte de monte cristo mzmz: 1
+catch22 ycyc: 1
+the red and the black or le rouge et le noir accept red and black or scarlet and black ycyc: 1
+rabindranath tagore pm ycpm: 1
+margaret atwood ycyc: 1
+fyodor dostoevsky ycyc: 1
+eugene oneill ycyc: 1
+czech language ycyc: 1
+sinclair lewis pmpm: 1
+o henry accept william sydney porter ycyc: 1
+italy lclc: 1
+classical latin lclc: 1
+samuel beckett ycyc: 1
+bertolt brecht lclc: 1
+ethan frome ycyc: 1
+aristophanes ycyc: 1
+edward morgan forster ycyc: 1
+guy de maupassant ycyc: 1
+naguib mahfouz ycyc: 1
+herodotus of halicarnassus zzzz: 1
+john dos passos pm ycpm: 1
+heinrich boll ycyc: 1
+isabel allende ycyc: 1
+nathaniel hawthorne ycyc: 1
+robert louis stevenson ycyc: 1
+luigi pirandello lclc: 1
+the awakening ycyc: 1
+the history of tom jones a foundling ycyc: 1
+orhan pamuk lclc: 1
+thomas pynchon ycyc: 1
+incan mythology accept clearknowledge equivalents yc lcyc: 1
+aleksandr solzhenitsyn lclc: 1
+gunter grass ycyc: 1
+yasunari kawabata accept in either order ycyc: 1
+aldous huxley ycyc: 1
+isak dinesen accept karen blixen ycyc: 1
+shirley jackson ycyc: 1
+the ingenious hidalgo don quixote of la mancha ycyc: 1
+the bell jar mgmg: 1
+carlos fuentes ycyc: 1
+daniel defoe accept daniel foe ycyc: 1
+john dryden ycyc: 1
+the adventures of don quixote: 1
+the tragedy of hamlet prince of denmark: 1
+joanne jk rowling: 1
+virginia stephen woolf: 1
+the devil accept satan lucifer mephistopheles or other reasonable equivalents: 1
+gullivers travels or travels into several remote nations of the world in four parts by lemuel gulliver first a surgeon and then a captain of several ships: 1
+the divine comedy or la divina commedia accept paradiso or paradise before geryon: 1
+o henry or william sydney porter before mentioned: 1
+a christmas carol: 1
+diary of anne frank accept diary of a young girl: 1
+jay gatsby accept either or both underlined names accept any underlined part of james jimmy gatz accept the great gatsby: 1
+the hunchback of notre dame: 1
+mark twain or samuel langhorn clemens: 1
+republic of south africa accept word forms eg south african do not prompt on africa: 1
+jules verne: 1
+virgil accept publius vergilius maro: 1
+murakami haruki or haruki murakami: 1
+minnesota accept john berryman before this state accept university of minnesota before walnut grove: 1
+albert camus accept the fall or la chute before this author: 1
+bartleby the scrivener a story of wall street prompt on partial: 1
+notes from underground accept notes from the underground logical equivalents: 1
+the tragical history of doctor faustus: 1
+mario vargas llosa prompt on partial: 1
+journey to the west or monkey prompt on sun wukong before it is mentioned: 1
+george eliot or mary ann evans: 1
+the stranger accept equivalents like letranger the outsider the foreigner: 1
+jane eyre an autobiography: 1
+j d salinger: 1
+lycidas: 1
+cat: 1
+la chanson de roland or the song of roland: 1
+willa: 1
+alfred lord: 1
+republic of strongupolandustrong: 1
+the celebrated jumping frog of calaveras county or the notorious jumping frog of calaveras county or jim smiley and his jumping frog: 1
+objectivism: 1
+the animals: 1
+mathew arnold: 1
+battle of stamford bridge: 1
+triangle: 1
+golden: 1
+matsuo basho: 1
+john: 1
+the: 1
+rossums universal robots: 1
+eugene: 1
+upton beall sinclair jr: 1
+william carlos stronguwilliamsustrong: 1
+george eliot accept mary ann evans: 1
+inherit the wind: 1
+lines composed a few miles above tintern abbey on revisiting the banks of the wye during a tour: 1
+sinclair strongulewisustrong: 1
+gunter strongugrassustrong: 1
+strongucanto generalustrong: 1
+mark: 1
+george bernard strongushawustrong: 1
+tom strongustoppardustrong: 1
+gabriel garcia marquez prompt on just marquez: 1
+stronguode on a grecian urnustrong: 1
+the strongulotteryustrong: 1
+charles john huffam dickens prompt on boz: 1
+count graf leo lev nikolayevich tolstoy: 1
+el ingenioso hildalgo don quixote de la mancha: 1
+kurt vonnegut junior: 1
+thomas paine: 1
+burrhus frederic skinner: 1
+the naked lunch: 1
+atlas shrugged: 1
+the red and the black: 1
+gargantua and pantagruel or the lives heroic deeds and sayings of gargantua and his son pantagruel or la vie de gargantua et de pantagruel: 1
+tobacco road: 1
+nathaniel hawthorne accept nathaniel hathorne: 1
+the count of monte cristo accept le comte de montecristo: 1
+sancho panza: 1
+the metamorphosis: 1
+the acts of the apostles: 1
+carlos fuentes marcias: 1
+samuel barclay beckett: 1
+chinua achebe or albert chinualumogu achebe: 1
+albert camus cah  moo accept exile and the kingdom on early buzz: 1
+japan accept nipponkoku or nihonkoku: 1
+inferno accept divine comedy until virgil prompt from there until part: 1
+gabriel jose de la concordia garcia marquez prompt on marquez: 1
+swords: 1
+republic of india accept bharat: 1
+the picture of dorian gray: 1
+joseph conrad accept josef teodor konrad nalecz korzeniowski: 1
+albert camus kahmoo: 1
+mexico accept united mexican states: 1
+italian accept equivalents: 1
+arabian nights also accept one thousand and one nights before 1001 is mentioned: 1
+no exit accept huis clos: 1
+les miserables accept the miserable ones accept either name of jean valjean before protagonist: 1
+toni morrison accept chloe anthony wofford: 1
+the house of the seven gables: 1
+soldiers: 1
+the lady or the tiger: 1
+james arthur baldwin accept the amen corner early: 1
+count of monte cristo: 1
+marcus brutus: 1
+george gordon byron or lord byron: 1
+the childrens hour: 1
+john yossarian prompt on john give 1 to those that say yoyo and take it: 1
+atticus finch: 1
+vaclav havel: 1
+mark twain accept samuel clemens: 1
+saracen: 1
+golgotha accept calvary: 1
+ode on a grecian urn dont take ode to a grecian urn etc: 1
+benjamin franklin norris jr: 1
+the tale of genji accept genji monogatari: 1
+rappacinis daughter: 1
+the cherry orchard accept vishnovy sad: 1
+le corbusier or charlesedouard jeanneret: 1
+harry rabbit angstrom accept either: 1
+communist manifesto: 1
+the house of the spirits or la casa de los espiritus: 1
+oliver wendell holmes: 1
+fauvism: 1
+the murders in the rue morgue: 1
+the flowers of evil or les fleurs du mal: 1
+the golden bough: 1
+the prince accept il principe: 1
+aldous stronguhuxleyustrong: 1
+emma lazarus: 1
+berthold brecht: 1
+a worn path: 1
+thomas wolfe: 1
+the pit and the pendulum: 1
+the arabian nights entertainments or the thousand and one arabian nights or alf layla walayla accept: 1
+anne dudley bradstreet: 1
+candide or optimism or candide ou loptimisme: 1
+the sermon on the mount prompt on the beatitudes before it is read: 1
+jorge francisco isidoro luis borges acevedo: 1
+inferno accept hell before it is read accept comedia or divine comedy before third is read: 1
+john keats accept the eve of st agnes before this author is read: 1
+maya angelou or marguerite johnson: 1
+o henry or william sidney porter prompt on porter: 1
+gunter wilhelm grass accept dog years before this author is read: 1
+portuguese: 1
+ernest miller hemingway accept hills like white elephants before this author is read: 1
+ken elton kesey: 1
+john ernst steinbeck jr: 1
+gabriel jose strongugarcia marquezustrong: 1
+the overcoat or shinel or the cloak: 1
+johann wolfgang von goethe gerrtuh: 1
+peoples republic of china: 1
+parables of jesus: 1
+the quran or koran: 1
+pablo neruda or ricardo eliecer neftali reyes basualto: 1
+a nose: 1
+benjamin franklin norris: 1
+the tin drum die blechtrommel: 1
+nikolay gogol: 1
+sherman alexie: 1
+gargantua: 1
+dante alighieri or dante alighieri: 1
+sonnets by shakespeare prompt on sonnets prompt on poems by shakespeare: 1
+john anthony burgess wilson or joseph kell: 1
+upton beall sinclair: 1
+henry rene albert guy de maupassant: 1
+el cid or le cid or the lay of the cid or el cantar de mio cid or the song of my lord: 1
+the little prince or le petit prince: 1
+thomas kennerly tom wolfe jr: 1
+le morte darthur or the death of arthur: 1
+benjamin ben jonson: 1
+edith wharton or edith newbold jones: 1
+mishima yukio: 1
+les miserables or the pitiable ones or anything similar: 1
+edward morgan e m forster: 1
+dr yuri zhivago accept boris pasternak before this character: 1
+david copperfield accept the personal history adventures experience and observation of: 1
+count leo tolstoy or count lev nikolayevich tolstoy: 1
+harriet beecher stowe or catharine stowe or harriet elizabeth beecher: 1
+jack kerouac or jeanlouis lebris de kerouac: 1
+jack london or john griffith chaney: 1
+maurice bernard sendak: 1
+love accept all for love or loves labors lost or modern love: 1
+emile edouard charles antoine zola: 1
+jay gatsby or james gatz: 1
+kate chopin or catherine oflaherty: 1
+republic of guatemala: 1
+delta wedding: 1
+euripedes: 1
+the overcoat or shinel: 1
+the general prologue to the canterbury tales prompt on partial answer: 1
+matsuo basho or matsuo kinsaku: 1
+the tartuffe or the impostor or le tartuffe ou limposteur: 1
+william wilkie collins: 1
+aeschylus esskuhliss: 1
+adonis: 1
+kingdom of spain or reino de espana: 1
+romance of the three kingdoms or sanguozhi yanyi: 1
+death comes for the archbishop: 1
+the trial or der prozess: 1
+adeline virginia stephen woolf: 1
+henrirenealbertguy de maupassant: 1
+babbit: 1
+saul bellow or solomon belo: 1
+isak christenze dinesen or karen von blixenfinecke: 1
+leo tolstoy or lev nikolayevich tolstoy: 1
+english language: 1
+henry v: 1
+toni morrison or chloe anthony wofford: 1
+alan paton pay ton: 1
+spanish language accept espanol: 1
+the new york times or new york times oped page or equivalents or nyt: 1
+mishima yukio or hiraoka kimitake power mark continues despite the for 10 points  so: 1
+edgar allan poe accept sonnet to science before author: 1
+anthony burgess or john burgess wilson: 1
+the spanish golden age accept siglo de oro or golden century award 15 points for a: 1
+the wild duck or vildanden power mark goes past ftp so award 15 on any buzz before: 1
+hiawatha or the song of hiawatha: 1
+fathers and sons or ottsy i deti: 1
+rip van winkle or rip: 1
+lewis carroll or charles lutwidge dodgson: 1
+pearl comfort sydenstricker buck or john sedges: 1
+gargantua do not accept pantagruel: 1
+kingdom of norway or kongeriket norge: 1
+thomas hobbes: 1
+irving allen ginsburg: 1
+karamazov: 1
+anne frank or annalies marie frank: 1
+the adventures of huckleberry finn: 1
+the arabian nights entertainments or the thousand and one arabian nights or alf layla: 1
+samuel dashiell hammett: 1
+the inferno or hell accept the divine comedy or la commedia before virgil is read: 1
+one day in the life of ivan denisovich or a day in the life of ivan denisovich or odin den: 1
+aristophanes arristahfuhneez: 1
+rosencrantz and guildenstern or guildenstern and rosencrantz do not accept or prompt on: 1
+the legend of sleepy hollow do not accept or prompt on partial answers: 1
+yukio mishima or mishima yukio do not accept or prompt on yukio by itself or kimitake: 1
+albert camus camoo: 1
+bonaparte: 1
+hester prynne or hester prynne: 1
+pop art: 1
+emily jane bronte prompt on bronte: 1
+the tragedy of macbeth: 1
+tom kennerly wolfe prompt on wolfe do not accept thomas wolfe: 1
+petrarch or francesco petrarca: 1
+voltaire or francismarie arouet: 1
+publius ovidius naso or publius ovidius naso: 1
+toni morrison or chloe ardelia wofford: 1
+japan or nihon or nippon: 1
+spanish or espanol or castellano: 1
+robert and elizabeth barrett browning do not accept elizabeth barrett moulton: 1
+peoples republic of china or zhonghua renmin gongheguo: 1
+boris pasternak: 1
+kingdom of denmark or kongeriget danmark: 1
+william i or william the conqueror: 1
+matsuo basho or matsuo munefusa: 1
+rosetti: 1
+truman capote or truman persons: 1
+the song of roland or chanson de roland: 1
+fyodor mikhaylovich dostoevsky: 1
+desiderius erasmus: 1
+africa: 1
+one hundred years of solitude or a hundred years of solitude or cien anos de soledad: 1
+katherine oflaherty kate chopin: 1
+satan or lucifer prompt on the devil or equivalents: 1
+charles ives: 1
+the confederate states of america or the confederacy or csa do not accept or prompt on: 1
+summa theologica or summa theologiae: 1
+othello: 1
+doris lessing or doris may taylor or jane somers: 1
+strauss: 1
+france or the french republic or republique francaise: 1
+horatio alger: 1
+carson mccullers accept lula carson smith: 1
+the tin drum accept die blechtrommel: 1
+ajax: 1
+oedipus rex accept oedipus tyrannus or oedipus the king: 1
+don quixote de la mancha accept el ingenioso hidalgo don quixote de la mancha: 1
+jeanjacques rousseau: 1
+vergil accept publius vergilius maro: 1
+the brothers karamazov accept bratya karamazovy: 1
+czech republic prompt on czechoslovakia accept czech literature: 1
+sea accept the sailor who fell from grace with the sea or gogo no eik before also appears: 1
+lemuel gulliver accept either or both parts: 1
+next year accept obvious equivalents or bashanah habaah before catch me: 1
+medea: 1
+the courtship of miles standish: 1
+henry v accept prince hal or prince harry: 1
+jean valjean accept either or both names prompt on 24601 or 9430: 1
+animal farm a fairy story: 1
+sister carrie: 1
+george gordon lord byron accept either or both parts: 1
+august wilson or frederick august kittel jr: 1
+der steppenwolf or the steppenwolf prompt on either or both parts of harry haller before mentioned: 1
+william dean howells: 1
+holiday holly golightly accept any underlined part or combinations thereof: 1
+gao xingjian or kao hsiengchien: 1
+fathers and sons accept ottsy i deti: 1
+the little foxes: 1
+ode to the west wind: 1
+sir philip sidney: 1
+pablo neruda or neftali ricardo reyes y basoalto: 1
+orestes do not accept oresteia: 1
+maxim gorky accept aleksey maksimovich peshkov: 1
+der rosenkavalier accept the knight of the rose: 1
+bertolt brecht or eugen berthold friedrich brecht: 1
+william shakespeares sonnets prompt on partial answers like works of shakespeare or sonnets: 1
+john bunyan: 1
+denis diderot: 1
+endgame or fin de partie: 1
+joan of arc accept equivalents like jeanne darc prompt on la pucelle: 1
+general william booth enters into heaven: 1
+a rose for emily: 1
+the good sol: 1
+joaquim maria machado de assis: 1
+the house of mirth: 1
+gargantua and pantagruel: 1
+sinners in the hands of an angry god: 1
+katherine anne porter: 1
+jean paul sartre: 1
+phyllis wheatley: 1
+hedda ga: 1
+the open boat: 1
+the temple of the golden pavilion accept kikakuji: 1
+sarah orne jewett: 1
+dr heinrich faust: 1
+there will be blood: 1
+titus andronicus accept the most lamentable roman tragedy of titus andronicus: 1
+count leo nikoleyivich tolstoy: 1
+the trial accept der process: 1
+the tragedy of puddnhead wilson: 1
+the mayor of casterbridge du: 1
+eugene onegin or yevgeny onegin du: 1
+ralph ellison yc: 1
+e kenzabur gt: 1
+edward estlin cummings gt: 1
+spain or espana du: 1
+the prophet du: 1
+endgame or fin de partie du: 1
+pablo neruda or neftali ricardo reyes basoalto gt: 1
+william blake du: 1
+anton chekhov yc: 1
+frankenstein or the modern prometheus du: 1
+journey to the west or xyouji prompt on monkey dukk: 1
+o captain my captain gt: 1
+albert camus sj: 1
+guy de maupassant mt: 1
+wystan hugh auden tc: 1
+athol harold lannigan fugard gt: 1
+oliver goldsmith yc: 1
+the maltese falcon mt: 1
+portuguese gt: 1
+twelfth night or what you will du: 1
+emile zola yc: 1
+mishima yukio du: 1
+colonial america accept anything mentioning america as a british colony prompt on america or modern names for it accept massachusetts bay colony because all the clues apply to that too gt: 1
+kalevala or poems from the kaleva district or similar mt: 1
+lord of the flies du: 1
+venice accept venice preservd or a plot discovered until city gt: 1
+john donne gt: 1
+stephen crane gt: 1
+herman melville ycdu: 1
+the little prince or le petit prince mt: 1
+house cats accept felis catus gt: 1
+aristophanes yc: 1
+the scarlet letter dusj: 1
+bret harte yc: 1
+nikolai gogol yc: 1
+to his coy mistress du: 1
+one flew over the cuckoos nest mt: 1
+ali baba and the 40 thieves mt: 1
+vidiadhar surajprasad naipaul dusj: 1
+franz kafka du: 1
+gabriel garcia marquez mt: 1
+joseph conrad or teodor josef korzienowski: 1
+the prince: 1
+george eliot or marian evans or mary ann evans: 1
+fiddler on the roof: 1
+love: 1
+charles wright mills: 1
+sutras: 1
+a good man is hard to find: 1
+poor laws accept workhouses before sturges bourne is read: 1
+dorian gray prompt on partial name: 1
+li po: 1
+akinwande oluwole wole soyinka accept a dance of the forests before this mans: 1
+friedrich engels: 1
+the song of roland or la chanson de roland: 1
+heimdallr: 1
+the crito: 1
+peoples republic of china accept zhongguo or zhonghua remin gongheguo do not accept republic of china feel free to accept a magical psychic buzz with ding ling before this country: 1
+james agee: 1
+la fronde accept frondes: 1
+alger hiss: 1
+fruit accept fruity accept froot prompt on fruitylicious: 1
+mishima yukio accept in either order: 1
+normans accept italian normans or italonormans before bastard is read: 1
+a bar at the foliesbergere or un bar aux foilesbergere: 1
+the life of gargantua and pantagruel: 1
+john stuart mill: 1
+kurtis eugene kurt warner: 1
+rome or roma: 1
+benjamin or ben jonson: 1
+thucydides: 1
+sanskrit or samskrta or samskrtam: 1
+kenzaburo oe accept in either order: 1
+the lady of shalott: 1
+ryunosuke akutagawa accept in either order: 1
+eitheror or: 1
+the sorrows of young werther or die leiden des jungen werther: 1
+cars or automobiles: 1
+incubus: 1
+meleager: 1
+michael chabon: 1
+mr edward rochester: 1
+bertolt brecht or eugen bertold friedrich brecht: 1
+leo tolstoy or count lev nikolayevich tolstoy: 1
+langston hughes accept ballad of the landlord before author: 1
+a tale of two cities: 1
+dr johann georg faustus: 1
+the tragedy of othello the moor of venice: 1
+the life of gargantua and pantagruel accept other words as part of the title like adventure etc: 1
+tess durbeyfield accept tess of the durbervilles: 1
+go down moses: 1
+carson mccullers accept lily carson smith accept a tree a rock a cloud early: 1
+meditation: 1
+outlaws of the marsh accept water margin all men are brothers the marshes of mount liang or shuihu zhuan: 1
+kobo abe: 1
+clarissa: 1
+billiards at halfpast nine: 1
+imagism: 1
+e m forster: 1
+mark twain or samuel clemens: 1
+the red and the black or scarlet and black or le rouge et le noir: 1
+the stranger or the outsider or letranger: 1
+jean valjean: 1
+victor frankenstein: 1
+humbert humbert accept either: 1
+the piano lesson: 1
+les fleurs du mal or the flowers of evil: 1
+windmills: 1
+amanda wingfield prompt on wingfield: 1
+the bride comes to yellow sky: 1
+school for scandal: 1
+twenty love poems and a song of despair: 1
+twenty love poems and a song of despair or viente poemas de amor y una cancion desesperada accept translation equivalents: 1
+orlando furioso: 1
+thomas sterns eliot: 1
+the decameron prencipe galeotto: 1
+simone de strongubeauvoirustrong: 1
+the water margin or outlaws of the marsh or all men are brothers or the marshes of mount liang or shuihu zhuan: 1
+count lev nikolayevich tolstoy: 1
+notre dame de paris: 1
+country: 1
+henry james prompt on james: 1
+rabindrath tagore or gurudev: 1
+the seagull: 1
+washington irving accept geoffrey crayon before it is read: 1
+the knights tale: 1
+yukio mishima or kimitaki hiraoka accept either name in reverse order: 1
+the importance of being earnest: 1
+hank morgan either or both names accept a connecticut yankee in king arthurs court: 1
+yasunari kawabata accept in reverse order: 1
+saint peter accept simon peter prompt on simon prompt on cephus: 1
+tiresias: 1
+levleo nikolayevich tolstoy: 1
+spain or espana: 1
+measure for measure: 1
+stoicism accept word forms: 1
+benjamin disraeli or first earl of beaconsfield: 1
+elegy written in a country churchyard: 1
+nikolai vassilievich gogol: 1
+federative republic of brazil: 1
+othello or the moor of venice: 1
+don quixote keehotay or el ingenioso hidalgo don quixote de la mancha or alonzo or: 1
+holden caulfield accept either or both names: 1
+brown: 1
+one thousand and one nights or the arabian nights entertainments: 1
+feathers: 1
+duchess: 1
+karamazov family or brothers karamazov: 1
+death in venice or der todig in venedig: 1
+oedipus tyrannos or oedipus rex: 1
+the necklace or la parure: 1
+victormarie hugo: 1
+bloom: 1
+the merry wives of windsor: 1
+anton chekov: 1
+wolfe spelled wolff in tobias wolffs case: 1
+ralph ellison: 1
+the naked and the dead: 1
+the sea exact word required accept the lady from the sea before maurya is read: 1
+a portrait of the artist as a young man: 1
+william shakespeares sonnets prompt on sonnets prompt on poems by shakespeare: 1
+the magic mountain or die zauberberg: 1
+faust exact answer required: 1
+equestrian monuments accept logical equivalents like statues of people on horseback etc: 1
+knights: 1
+hedda gabbler: 1
+the sleeping beauty or spashchaya krasavitsa or la belle au bois dormant: 1
+leo tolstoy or lev nikolayovich tolstoy: 1
+the sorrows of young werther: 1
+titus maccius plautus: 1
+madrigals: 1
+tom: 1
+simone de beauvoir: 1
+frederick douglass: 1
+chinese or equivalents: 1
+the strange case of dr jekyll and mr hyde: 1
+death in venice or der tod in venedig: 1
+yukio mishima accept in either order: 1
+robinson crusoe accept either accept cruso: 1
+polaris prompt on north star before mentioned: 1
+mark twain accept samuel langhorne clemens accept charles dudley warner before: 1
+russia accept the twelve chairs before mentioned: 1
+heinrich theodor boll: 1
+john the baptist prompt on john: 1
+hollywood prompt on los angeles prompt on southern california: 1
+ode on a grecian urn: 1
+to althea from prison: 1
+oe kenzaburo accept in reverse order: 1
+philip morin freneau: 1
+the divine comedy or la divina commedia accept purgatorio before geryon: 1
+dune: 1
+the metamorphosis or die verwandlung: 1
+joseph stalin: 1
+the secret life of walter mitty: 1
+cleopatra vii philopator: 1
+giants or gargantua and pantagruel before mention: 1
+o captain my captain: 1
+dreams: 1
+le corbusier or charlesedouard jeanneretgris: 1
+betty friedan or bettye naomi goldstein: 1
+the hunchback of notre dame accept notredame de paris: 1
+gaia hypothesis: 1
+the idiot accept idiot: 1
+hell accept clear equivalents: 1
+book of daniel: 1
+athena or athene: 1
+voltaire or francoismarie arouet de voltaire: 1
+edward: 1
+the metamorphoses: 1
+percy bysshe shelley prompt on shelley: 1
+fritz lang: 1
+st augustine of hippo or aurelius augustinus: 1
+savien cyrano de bergerac: 1
+kingdom of sweden: 1
+washington irving or jonathan oldstyle or geoffrey crayon: 1
+spanish or espanol: 1
+dorian gray accept either: 1
+phillip glass: 1
+haruki murakami accept names in either order: 1
+slaves or clearknowledge equivalents: 1
+william ernest henley: 1
+the brothers karamazov or bratya karamazovy: 1
+tragedy or tragedies: 1
+for whom the bell tolls: 1
+crime and punishment or prestupleniye i nakazaniye: 1
+spanish accept espanol: 1
+isak dinesen or karen blixen or karen christence dinesen or baroness blixenfinecke: 1
+salmon rushdie: 1
+the venerable bede: 1
+the ingenious hidalgo don quixote of la mancha or el ingenioso hidalgo don quijote de la: 1
+tom sawyer both or either name acceptable: 1
+charlotte bronte prompt on bronte: 1
+the sorcerers apprentice or lapprenti sorcier: 1
+the idiot accept myshkin until read: 1
+alfred tennyson 1st baron tennyson: 1
+gabriel jose de la concordia garcia marquez prompt on partial last name: 1
+palestine: 1
+maus vol i my father bleeds history and vol ii and here my troubles began: 1
+song of roland or chanson de roland: 1
+richard strauss: 1
+the jungle book do not accept the second jungle book: 1
+tale of genji accept genji monogatari: 1
+robin goodfellow accept either or both parts or puck: 1
+one day in the life of ivan denisovich or odin den ivana denisovicha accept any reason: 1
+samuel clemens accept mark twain before mentioned: 1
+sherlock holmes accept either or both parts: 1
+william porter or o henry prompt on partial answer: 1
+coda: 1
+epistolary: 1
+utopia: 1
+magical realism: 1
+cat on a hot tin roof: 1
+titus andronicus: 1
+yoknapatawpha yok na pa taw fa county: 1
+sir thomas tom stoppard accept tomas straussler before mentioned: 1
+rosencrantz and guildenstern are dead: 1
+antonia shimerda cuzak prompt on shimerda prompt on cuzak: 1
+robert browning accept two in the campagna before this author is read: 1
+women in love: 1
+everything that rises must converge: 1
+a dream deferred: 1
+doctor faustus: 1
+stephen vincent benet prompt on benet: 1
+on first looking into chapmans homer: 1
+the nose or nos: 1
+arthur koestler: 1
+slave narratives accept obvious equivalents: 1
+smith: 1
+anna christie: 1
+lucky jim: 1
+the cherry orchard or vishnyovy sad: 1
+lilacs: 1
+ignatius j reilly accept reilly: 1
+the human comedy accept la comedie humaine no specific part fits the opening clues so do not accept or prompt on particular novels in the series: 1
+stanley milgram: 1
+graham greene accept the potting shed before it is read: 1
+dwarf accept equivalents: 1
+death in venice der tod in venedig: 1
+a streetcar named desire: 1
+moliere or jeanbaptiste poquelin: 1
+zorba the greek: 1
+muriel spark: 1
+dr frankensteins monster or the frankenstein creature etc do not accept or prompt on frankenstein alone: 1
+north american indian or native american accept obvious equivalents prompt on answers that do not distinguish from east indians accept spokane or coeur dalene before love medicine is read: 1
+la belle dame sans merci: 1
+journey to the west or hsi yu chi or xi you ji or monkey before it is mentioned: 1
+jane eyrechenchen: 1
+charlespierre baudelaire: 1
+confessions: 1
+carson mccullers or lula carson smith: 1
+the return of the native: 1
+interpreter of maladies do not accept the interpreter of maladies: 1
+the erlking or der erlksnig: 1
+anne dudley bradstreet accept either underlined portiondeesdees: 1
+bartleby the scrivener a story of wallstreet prompt on bartleby: 1
+mark twain or samuel langhorne clemensdeesdees: 1
+maria von trapp: 1
+rodion romanovitch raskolnikov: 1
+the pirates of penzance or slave to dutychengcheng: 1
+junichiro tanizaki: 1
+mayans: 1
+alexander dumas: 1
+boxer: 1
+the tale of the genji or genji monogatari: 1
+hg wells: 1
+li po or li bo or li bai: 1
+lines composed a few miles above tintern abbey on revisiting the banks of the wye during a tour july 12 1798: 1
+the octopus: 1
+cavalier poets: 1

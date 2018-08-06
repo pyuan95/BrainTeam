@@ -1,0 +1,6264 @@
+: 87
+emily dickinson: 52
+de la: 51
+pablo neruda: 50
+jorge luis borges: 49
+edgar poe: 48
+robert frost: 47
+virginia woolf: 47
+nathaniel hawthorne: 44
+john keats: 39
+ernest hemingway: 38
+don quixote: 38
+johann von: 38
+franz kafka: 38
+william butler yeats: 37
+robert browning: 36
+leo tolstoy: 34
+madame bovary: 34
+chinua achebe: 34
+love song: 34
+cry beloved country: 33
+mario vargas llosa: 33
+john milton: 33
+stephen crane: 32
+charles baudelaire: 32
+umberto eco: 32
+john donne: 31
+de maupassant: 31
+henry james: 31
+thomas hardy: 30
+joseph conrad: 30
+carlos fuentes: 30
+thomas mann: 29
+yasunari kawabata: 29
+albert camus: 29
+nadine gordimer: 29
+nikolai gogol: 29
+yukio mishima: 29
+bysshe shelley: 29
+henrik ibsen: 29
+anton chekhov: 29
+john coetzee: 29
+the: 28
+salman rushdie: 28
+william blake: 28
+hundred years: 28
+canterbury tales: 28
+hermann hesse: 28
+ben jonson: 28
+langston hughes: 27
+george bernard: 27
+walt whitman: 27
+sylvia plath: 27
+christopher marlowe: 27
+george orwell: 27
+henry wadsworth: 27
+wole soyinka: 27
+invisible man: 27
+waste land: 27
+mexico: 26
+james joyce: 26
+gabriel garcia marquez: 26
+anna karenina: 26
+arthur miller: 26
+august strindberg: 26
+vanity fair: 26
+flannery oconnor: 26
+brave world: 26
+eugene ionesco: 26
+aristophanes: 25
+ezra pound: 25
+allen ginsberg: 25
+alfred lord: 25
+herman melville: 25
+jeanpaul sartre: 25
+oscar wilde: 25
+eugene oneill: 25
+wystan hugh auden: 25
+china: 24
+catch22: 24
+athol fugard: 24
+wallace stevens: 24
+luigi pirandello: 24
+italo calvino: 24
+ulysses: 23
+beowulf: 23
+washington irving: 23
+scott fitzgerald: 23
+jane eyre: 23
+kenzaburo oe: 23
+derek walcott: 23
+tale genji: 23
+toni morrison: 22
+margaret atwood: 22
+edward cummings: 22
+pride prejudice: 22
+harold pinter: 22
+kurt vonnegut: 22
+bertolt brecht: 22
+anne bradstreet: 22
+alexander pushkin: 22
+graham greene: 22
+petrarch: 21
+edward albee: 21
+samuel taylor coleridge: 21
+tennessee williams: 21
+fyodor dostoyevsky: 21
+frankenstein modern prometheus: 21
+naguib mahfouz: 21
+de balzac: 21
+dylan thomas: 21
+gustave flaubert: 21
+the decameron: 20
+the tempest: 20
+japan: 20
+ivan turgenev: 20
+world war: 20
+david herbert: 20
+ancient mariner: 20
+andrew marvell: 20
+samuel beckett: 20
+crime punishment: 20
+rudyard kipling: 20
+lord flies: 20
+cherry orchard: 20
+orhan pamuk: 20
+william shakespeare: 20
+wuthering heights: 20
+howl: 19
+isabel allende: 19
+ralph waldo: 19
+seamus heaney: 19
+milan kundera: 19
+philip roth: 19
+walter scott: 19
+robert louis stevenson: 19
+sinclair lewis: 19
+jack london: 19
+thomas pynchon: 19
+great expectations: 19
+william wordsworth: 19
+william faulkner: 19
+death salesman: 19
+things fall apart: 19
+lolita: 18
+the awakening: 18
+carlos williams: 18
+rubaiyat omar: 18
+peoples republic china: 18
+kill mockingbird: 18
+eyes watching god: 18
+matthew arnold: 18
+august wilson: 18
+edward morgan: 18
+arlington robinson: 18
+quiet western front: 18
+vladimir nabokov: 18
+john whittier: 18
+ambrose bierce: 18
+uncle toms: 18
+william golding: 18
+george herbert: 18
+miguel de: 18
+jonathan swift: 18
+gwendolyn brooks: 18
+italy: 17
+aeschylus: 17
+federico lorca: 17
+rabindranath tagore: 17
+huckleberry finn: 17
+alexander pope: 17
+edna st vincent millay: 17
+john steinbeck: 17
+thomas eliot: 17
+octavio paz: 17
+o henry: 17
+james baldwin: 17
+saul bellow: 17
+death venice: 17
+streetcar named desire: 17
+heart darkness: 17
+william cullen bryant: 17
+fathers sons: 17
+master margarita: 17
+importance being earnest: 17
+old man: 17
+ray bradbury: 17
+french: 16
+australia: 16
+moliere: 16
+arabian nights: 16
+thornton wilder: 16
+unbearable lightness being: 16
+robert lowell: 16
+paradise lost: 16
+willa cather: 16
+daniel defoe: 16
+robinson crusoe: 16
+three musketeers: 16
+midnights children: 16
+marcel proust: 16
+song roland: 16
+rosencrantz guildenstern: 16
+mark twain: 16
+emile zola: 16
+tin drum: 16
+haruki murakami: 16
+edith wharton: 16
+sense sensibility: 16
+chronicle death foretold: 16
+ryunosuke akutagawa: 16
+the crucible: 15
+argentina: 15
+to the lighthouse: 15
+chicago: 15
+sophocles: 15
+our town: 15
+jerome david salinger: 15
+satanic verses: 15
+young man: 15
+victor hugo: 15
+waiting godot: 15
+dolls house: 15
+dorian gray: 15
+king lear: 15
+charles dickens: 15
+tom jones: 15
+cormac mccarthy: 15
+song myself: 15
+james cooper: 15
+iceman cometh: 15
+gerard manley hopkins: 15
+gunter grass: 15
+the trial: 14
+euripides: 14
+antigone: 14
+thanatopsis: 14
+portugal: 14
+the idiot: 14
+handmaids tale: 14
+either underlined: 14
+lord byron: 14
+oliver wendell holmes: 14
+philip larkin: 14
+alan paton: 14
+dover beach: 14
+scarlet letter: 14
+aldous huxley: 14
+kate chopin: 14
+hedda gabler: 14
+much ado nothing: 14
+war peace: 14
+isak dinesen: 14
+wilfred owen: 14
+karel capek: 14
+julio cortazar: 14
+publius ovidius naso: 14
+david copperfield: 14
+eudora welty: 14
+junichiro tanizaki: 14
+love cholera: 14
+les miserables: 14
+the stranger: 13
+faust: 13
+horace: 13
+clockwork orange: 13
+romance kingdoms: 13
+red black: 13
+george eliot: 13
+birthday party: 13
+rainer rilke: 13
+tale two cities: 13
+commonwealth australia: 13
+tender night: 13
+lay dying: 13
+evelyn waugh: 13
+romeo juliet: 13
+notre dame: 13
+south africa: 13
+brothers karamazov: 13
+gaius valerius catullus: 13
+cat hot tin: 13
+tom stoppard: 13
+enemy people: 13
+crying lot 49: 13
+coy mistress: 13
+dante alighieri: 13
+spoon river anthology: 13
+emma: 12
+saki: 12
+voltaire: 12
+ghosts: 12
+dracula: 12
+the raven: 12
+the lottery: 12
+katherine mansfield: 12
+republic poland: 12
+catcher rye: 12
+maxim gorky: 12
+kazuo ishiguro: 12
+winters night: 12
+jane austen: 12
+herman hesse: 12
+grapes wrath: 12
+holden caulfield: 12
+oliver twist: 12
+anatole france: 12
+kubla khan: 12
+doctor zhivago: 12
+jose saramago: 12
+young werther: 12
+hamlet prince: 12
+mrs dalloway: 12
+duino elegies: 12
+wa thiongo: 12
+brideshead revisited: 12
+beloved: 11
+the dead: 11
+the overcoat: 11
+macbeth: 11
+on the road: 11
+the seagull: 11
+candide: 11
+volpone: 11
+chile: 11
+tartuffe: 11
+no exit: 11
+ozymandias: 11
+du mal: 11
+house seven gables: 11
+alfred edward housman: 11
+truman capote: 11
+kings men: 11
+darkness noon: 11
+eugene onegin: 11
+oliver goldsmith: 11
+vidiadhar naipaul: 11
+count monte cristo: 11
+good man hard find: 11
+david foster wallace: 11
+doris lessing: 11
+miss jean brodie: 11
+arthur rimbaud: 11
+raisin sun: 11
+aleksandr solzhenitsyn: 11
+hart crane: 11
+sons lovers: 11
+ethan frome: 11
+david mamet: 11
+native son: 11
+john dryden: 11
+glass menagerie: 11
+winesburg ohio: 11
+jack kerouac: 11
+six characters author: 11
+flew over cuckoos nest: 11
+geoffrey chaucer: 11
+carson mccullers: 11
+interpreter maladies: 11
+tom wolfe: 11
+sonnets portuguese: 11
+she stoops conquer: 11
+mikhail bulgakov: 11
+elegy written country: 11
+jew malta: 11
+gabriela mistral: 11
+robert burns: 11
+glengarry glen ross: 11
+elizabeth bishop: 11
+julys people: 11
+divine comedy: 11
+manuel puig: 11
+london: 10
+rur: 10
+steppenwolf: 10
+pygmalion: 10
+german: 10
+absalom absalom: 10
+grendel: 10
+the jungle: 10
+the metamorphosis: 10
+the birds: 10
+great gatsby: 10
+friedrich schiller: 10
+little prince: 10
+patrick white: 10
+john barth: 10
+john updike: 10
+mayor casterbridge: 10
+john cheever: 10
+heart lonely hunter: 10
+somerset maugham: 10
+archibald macleish: 10
+ode nightingale: 10
+green knight: 10
+lion jewel: 10
+tristram shandy: 10
+walter whitman: 10
+ivan denisovich: 10
+journey west: 10
+bartleby scrivener: 10
+sound fury: 10
+thomas gray: 10
+dumb waiter: 10
+pilgrims progress: 10
+mr biswas: 10
+dead souls: 10
+de y: 10
+cyrano de bergerac: 10
+shirley jackson: 10
+bald soprano: 10
+sonnets: 9
+virgil: 9
+france: 9
+disgrace: 9
+death: 9
+haiku: 9
+the plague: 9
+siddhartha: 9
+spain: 9
+snow: 9
+oedipus: 9
+the republic: 9
+ivanhoe: 9
+arcadia: 9
+jhumpa lahiri: 9
+du maurier: 9
+miss julie: 9
+red badge courage: 9
+andre gide: 9
+chikamatsu monzaemon: 9
+name rose: 9
+abraham lincoln: 9
+midsummer nights dream: 9
+mobydick whale: 9
+ode west wind: 9
+tess durbervilles: 9
+bell jar: 9
+snow country: 9
+julia scriptwriter: 9
+moby dick: 9
+alice munro: 9
+don delillo: 9
+dean howells: 9
+oedipus rex: 9
+gao xingjian: 9
+angels america: 9
+christina rossetti: 9
+castle otranto: 9
+shropshire lad: 9
+september 1939: 9
+cats cradle: 9
+publius maro: 9
+samuel johnson: 9
+lemuel gulliver: 9
+tom sawyer: 9
+o pioneers: 9
+william makepeace thackeray: 9
+henry v: 9
+candide optimism: 9
+both either: 9
+rape lock: 9
+last duchess: 9
+james thurber: 9
+philip freneau: 9
+bret harte: 9
+theodore dreiser: 9
+waiting barbarians: 9
+white noise: 9
+gravitys rainbow: 9
+billiards nine: 9
+either name: 9
+leaves grass: 9
+room ones own: 9
+matsuo basho: 9
+satan: 8
+russian: 8
+gitanjali: 8
+spanish: 8
+nausea: 8
+measure for measure: 8
+canada: 8
+v: 8
+to a skylark: 8
+a room with a view: 8
+babbitt: 8
+stendhal: 8
+frankenstein: 8
+ustrong: 8
+last mohicans: 8
+lord tennyson: 8
+power glory: 8
+billy budd: 8
+sherlock holmes: 8
+charterhouse parma: 8
+julius caesar: 8
+crossing brooklyn ferry: 8
+house bernarda alba: 8
+mikhail lermontov: 8
+jules verne: 8
+house spirits: 8
+alexandre dumas: 8
+little women: 8
+edmund spenser: 8
+rip van winkle: 8
+charge light brigade: 8
+bluest eye: 8
+breakfast tiffanys: 8
+dream red chamber: 8
+lady shalott: 8
+ruben dario: 8
+arms man: 8
+paul laurence dunbar: 8
+farewell arms: 8
+john dos passos: 8
+richard wright: 8
+magic mountain: 8
+maya angelou: 8
+miguel asturias: 8
+zora neale hurston: 8
+silas marner: 8
+federico garcia: 8
+carl sandburg: 8
+zorba greek: 8
+mansfield park: 8
+sherwood anderson: 8
+second coming: 8
+lady windermeres fan: 8
+maria de: 8
+walter mitty: 8
+thirteen ways looking blackbird: 8
+pale fire: 8
+sun rises: 8
+foucaults pendulum: 8
+heinrich von: 8
+ode grecian urn: 8
+civil war: 8
+san francisco: 8
+little foxes: 8
+sanskrit: 7
+switzerland: 7
+brazil: 7
+the alchemist: 7
+sappho: 7
+hamlet: 7
+persian: 7
+the frogs: 7
+dubliners: 7
+poland: 7
+as you like it: 7
+arabic: 7
+nigeria: 7
+blindness: 7
+caliban: 7
+okonkwo: 7
+cuba: 7
+inferno: 7
+rhinoceros: 7
+the prophet: 7
+othello: 7
+ovid: 7
+all my sons: 7
+1984: 7
+kalidasa: 7
+the aeneid: 7
+lysistrata: 7
+robert lee: 7
+maria rilke: 7
+imaginary invalid: 7
+god small things: 7
+li bai: 7
+east eden: 7
+far madding crowd: 7
+tintern abbey: 7
+marianne moore: 7
+dulce et decorum est: 7
+republic india: 7
+glass bead game: 7
+things carried: 7
+harriet beecher stowe: 7
+kingdom spain: 7
+american tragedy: 7
+lewis carroll: 7
+anne frank: 7
+fahrenheit 451: 7
+fyodor dostoevsky: 7
+luck roaring camp: 7
+libation bearers: 7
+arthur conan doyle: 7
+middlemarch study provincial life: 7
+master builder: 7
+federal republic: 7
+animal farm: 7
+twelfth night: 7
+pierre corneille: 7
+theodore roethke: 7
+heinrich heine: 7
+raymond chandler: 7
+sean ocasey: 7
+naked lunch: 7
+remains day: 7
+bernard malamud: 7
+infinite jest: 7
+legend sleepy hollow: 7
+duchess malfi: 7
+lady macbeth: 7
+gargantua pantagruel: 7
+kingsley amis: 7
+gerhart hauptmann: 7
+orlando furioso: 7
+outlaws marsh: 7
+giovanni boccaccio: 7
+titus maccius plautus: 7
+lady chatterleys lover: 7
+connecticut yankee king arthurs court: 7
+lady dog: 7
+le de: 7
+mending wall: 7
+journey night: 7
+taming shrew: 7
+road taken: 7
+stephen vincent benet: 7
+lord jim: 7
+lilacs last dooryard bloomd: 7
+three sisters: 7
+portrait lady: 7
+uncle vanya: 7
+anthony burgess: 7
+li po: 7
+good soldier: 7
+jean racine: 7
+quo vadis: 7
+benjamin franklin: 7
+abe kobo: 7
+juno paycock: 7
+mother courage: 7
+word forms: 7
+robinson jeffers: 7
+notes underground: 7
+united states: 7
+whom bell tolls: 7
+house mirth: 7
+man havana: 7
+spanish tragedy: 7
+childrens crusade death: 7
+wine: 6
+the cantos: 6
+the odyssey: 6
+homer: 6
+fences: 6
+jb: 6
+the road: 6
+smith: 6
+night: 6
+new zealand: 6
+moli„®re: 6
+roland: 6
+lycidas: 6
+dartagnan: 6
+robert: 6
+the ambassadors: 6
+the prince: 6
+iago: 6
+my antonia: 6
+wh auden: 6
+egypt: 6
+joan didion: 6
+heinrich theodor: 6
+york city: 6
+death hired man: 6
+essay man: 6
+amazing adventures kavalier: 6
+pillow book: 6
+vietnam war: 6
+treasure island: 6
+don juan: 6
+artemio cruz: 6
+daisy miller: 6
+howards end: 6
+maria remarque: 6
+cannery row: 6
+oskar matzerath: 6
+memoriam ahh: 6
+confederacy dunces: 6
+lillian hellman: 6
+gullivers travels: 6
+life dream: 6
+john yossarian: 6
+vaclav havel: 6
+upton sinclair: 6
+hans christian: 6
+john irving: 6
+mice men: 6
+nikos kazantzakis: 6
+richard brinsley: 6
+penal colony: 6
+wild duck: 6
+lower depths: 6
+easter 1916: 6
+philip sidney: 6
+rose emily: 6
+katherine porter: 6
+robert herrick: 6
+vikram seth: 6
+nathanael west: 6
+wilkie collins: 6
+joseph heller: 6
+sir john: 6
+el cid: 6
+why live po: 6
+jorge amado: 6
+mysteries udolpho: 6
+jerusalem delivered: 6
+edward rochester: 6
+alice walker: 6
+jean valjean: 6
+school scandal: 6
+henry fielding: 6
+thousand nights: 6
+dr jekyll: 6
+heinrich boll: 6
+main street: 6
+chalk circle: 6
+sunday morning: 6
+personal matter: 6
+vicar wakefield: 6
+occurrence owl creek bridge: 6
+good earth: 6
+william carlos: 6
+doctor faustus: 6
+lucky jim: 6
+john millington synge: 6
+neil simon: 6
+muriel spark: 6
+return native: 6
+sinbad sailor: 6
+gertrude stein: 6
+tobias smollett: 6
+bend river: 6
+silas lapham: 6
+isaac bashevis singer: 6
+winters tale: 6
+goblin market: 6
+turn screw: 6
+lope de vega: 6
+louisa alcott: 6
+temple golden: 6
+el de: 6
+yellow wallpaper: 6
+jean genet: 6
+hazard fortunes: 6
+george washington: 6
+death kings horseman: 6
+timon athens: 6
+saki hector hugh munro: 6
+silent cry: 6
+key west: 6
+sing body electric: 6
+ben okri: 6
+st petersburg: 6
+paradiso: 5
+hungary: 5
+the lusiads: 5
+the bacchae: 5
+in search of lost time: 5
+the time machine: 5
+agamemnon: 5
+hell: 5
+yiddish: 5
+edward: 5
+bliss: 5
+paris: 5
+greece: 5
+detectives: 5
+a hero of our time: 5
+jamaica: 5
+jim: 5
+the ramayana: 5
+the natural: 5
+satires: 5
+i claudius: 5
+daddy: 5
+oklahoma: 5
+terence: 5
+cats: 5
+red: 5
+john: 5
+herzog: 5
+the sandman: 5
+the eumenides: 5
+william: 5
+the aleph: 5
+the clouds: 5
+sula: 5
+hopscotch: 5
+the tyger: 5
+hesiod: 5
+india: 5
+cymbeline: 5
+mobydick: 5
+the moonstone: 5
+iris murdoch: 5
+the knights: 5
+selfreliance: 5
+clive staples: 5
+the pearl: 5
+the necklace: 5
+gargantua: 5
+jos„© saramago: 5
+niccolo machiavelli: 5
+arrowsmith: 5
+republic cuba: 5
+republic chile: 5
+faerie queene: 5
+jonathan franzen: 5
+nineteen eightyfour: 5
+golden ass: 5
+world according garp: 5
+rabbit angstrom: 5
+zoo story: 5
+blood meridian: 5
+joseph rudyard: 5
+dante gabriel rossetti: 5
+wise blood: 5
+call wild: 5
+stephen dedalus: 5
+william burroughs: 5
+playboy western world: 5
+nick carraway: 5
+william inge: 5
+gift magi: 5
+rappaccinis daughter: 5
+garcia lorca: 5
+song solomon: 5
+master boys: 5
+confessions mask: 5
+primo levi: 5
+finnegans wake: 5
+house usher: 5
+richard lovelace: 5
+human bondage: 5
+peer gynt: 5
+jude obscure: 5
+rob roy: 5
+woe wit: 5
+michael k: 5
+sancho panza: 5
+lady tiger: 5
+george gordon byron: 5
+color purple: 5
+norman mailer: 5
+richard iii: 5
+dr zhivago: 5
+jay gatsby: 5
+death comes archbishop: 5
+republic kenya: 5
+tragedy macbeth: 5
+pelham grenville wodehouse: 5
+noel coward: 5
+age innocence: 5
+vile bodies: 5
+raymond carver: 5
+dr john: 5
+charlotte perkins gilman: 5
+passage india: 5
+anita desai: 5
+j m: 5
+modest proposal: 5
+diary madman: 5
+narrow road: 5
+henryk sienkiewicz: 5
+mahmoud darwish: 5
+rub„©n dar„≠o: 5
+man without: 5
+look back anger: 5
+snows kilimanjaro: 5
+under volcano: 5
+le cid: 5
+petals blood: 5
+vachel lindsay: 5
+joyce carol oates: 5
+michael chabon: 5
+walker percy: 5
+way flesh: 5
+gotthold lessing: 5
+emperor jones: 5
+augie march: 5
+il penseroso: 5
+du fu: 5
+reading gaol: 5
+blithe spirit: 5
+julien sorel: 5
+captain ahab: 5
+old gringo: 5
+siegfried sassoon: 5
+natsume soseki: 5
+phillis wheatley: 5
+robert penn warren: 5
+shakespeares sonnets: 5
+telltale heart: 5
+mourning becomes electra: 5
+prefer nettles: 5
+philip dick: 5
+everything rises must converge: 5
+francois rabelais: 5
+merchant venice: 5
+rodion raskolnikov: 5
+emperor ice cream: 5
+desiderius erasmus: 5
+loneliness runner: 5
+valediction forbidding: 5
+day locust: 5
+grain wheat: 5
+laurence sterne: 5
+kristin lavransdatter: 5
+let go: 5
+algernon swinburne: 5
+nine stories: 5
+elizabeth gaskell: 5
+history young: 5
+lazarillo de tormes: 5
+aureliano buendia: 5
+bertha mason: 5
+blood knot: 5
+el presidente: 5
+iv henry: 5
+peter carey: 5
+chambered nautilus: 5
+light august: 5
+accidental death anarchist: 5
+bronze horseman: 5
+yevgeny zamyatin: 5
+death naturalist: 5
+john osborne: 5
+gabriela clove cinnamon: 5
+bus stop: 5
+go down moses: 5
+tis pity shes whore: 5
+thousand cranes: 5
+anna christie: 5
+bleak house: 5
+the scholargipsy: 4
+new orleans: 4
+catullus: 4
+prospero: 4
+prometheus: 4
+russia: 4
+portia: 4
+ireland: 4
+afrikaans: 4
+yellow: 4
+daffodils: 4
+love: 4
+chinese: 4
+salome: 4
+e e cummings: 4
+oblomov: 4
+faust tragedy: 4
+latin: 4
+brown: 4
+ragtime: 4
+medea: 4
+italian: 4
+diary: 4
+slaughterhousefive: 4
+eugene: 4
+omeros: 4
+ramayana: 4
+thomas: 4
+christabel: 4
+the castle: 4
+demian: 4
+ariel: 4
+the bostonians: 4
+white: 4
+endgame: 4
+the birthmark: 4
+meno: 4
+purple: 4
+wales: 4
+portuguese: 4
+kidnapped: 4
+euthyphro: 4
+sir thomas: 4
+the fall: 4
+frogs: 4
+symposium: 4
+billy pilgrim: 4
+crito: 4
+zadie smith: 4
+sonnet: 4
+water margin: 4
+ancient greek: 4
+gilgamesh: 4
+the maids: 4
+wilhelm grass: 4
+vidiadhar surajprasad: 4
+german language: 4
+to autumn: 4
+the prelude: 4
+union dead: 4
+epic gilgamesh: 4
+equus: 4
+aeneas: 4
+roberto bola„±o: 4
+republic italy: 4
+the robbers: 4
+robert graves: 4
+harold bloom: 4
+ian mcewan: 4
+john crowe ransom: 4
+norwegian wood: 4
+inspector javert: 4
+kim: 4
+harlem renaissance: 4
+john berryman: 4
+francesco petrarca: 4
+english patient: 4
+david henry: 4
+funes memorious: 4
+v naipaul: 4
+erskine caldwell: 4
+portnoys complaint: 4
+breakfast champions: 4
+garden forking paths: 4
+brothers grimm: 4
+blanche dubois: 4
+ayn rand: 4
+seneca younger: 4
+side paradise: 4
+daniel webster: 4
+northanger abbey: 4
+kiss spider woman: 4
+christmas carol: 4
+blood wedding: 4
+outcasts poker flat: 4
+thomas de quincey: 4
+ernst theodor: 4
+satan devil: 4
+marcus valerius martialis: 4
+book laughter forgetting: 4
+magnificent ambersons: 4
+blind assassin: 4
+johann christian: 4
+american pastoral: 4
+ivan bunin: 4
+volpone fox: 4
+doktor faustus: 4
+miss lonelyhearts: 4
+waiting lefty: 4
+makioka sisters: 4
+henry adams: 4
+ebenezer scrooge: 4
+circle hell: 4
+decline fall: 4
+lyrical ballads: 4
+diary young girl: 4
+pickwick papers: 4
+kafka shore: 4
+jesus christ: 4
+ts eliot: 4
+harry rabbit: 4
+murders rue morgue: 4
+walden life woods: 4
+house mango street: 4
+hollow men: 4
+tartuffe impostor: 4
+akinwande oluwole soyinka: 4
+boris pasternak: 4
+desire under elms: 4
+john ford: 4
+four quartets: 4
+war worlds: 4
+french lieutenants woman: 4
+ee cummings: 4
+der steppenwolf: 4
+purloined letter: 4
+phyllis wheatley: 4
+desirees baby: 4
+guillaume apollinaire: 4
+randall jarrell: 4
+plum golden vase: 4
+jamaica kincaid: 4
+christopher okigbo: 4
+m butterfly: 4
+oryx crake: 4
+ode intimations immortality recollections early childhood: 4
+aime cesaire: 4
+isaac asimov: 4
+canto general: 4
+paul verlaine: 4
+man superman: 4
+beaux stratagem: 4
+oscar lucinda: 4
+cloud messenger: 4
+against day: 4
+tawfiq alhakim: 4
+after fall: 4
+heights macchu picchu: 4
+adam bede: 4
+sigrid undset: 4
+roald dahl: 4
+robertson davies: 4
+martin fierro: 4
+confessions nat turner: 4
+romeo montague: 4
+drunken boat: 4
+dona flor: 4
+tale tub: 4
+juan rulfo: 4
+clarice lispector: 4
+ars poetica: 4
+dom casmurro: 4
+gottfried keller: 4
+piano lesson: 4
+othello moor venice: 4
+ralph ellison: 4
+althea prison: 4
+joseph stalin: 4
+erich remarque: 4
+dh lawrence: 4
+tenant wildfell hall: 4
+woman white: 4
+james agee: 4
+white teeth: 4
+vision piers plowman: 4
+skunk hour: 4
+elizabeth bennet: 4
+sound mountain: 4
+czech republic: 4
+antonia shimerda: 4
+arthur koestler: 4
+slave narratives: 4
+samuel butler: 4
+ignatius j reilly: 4
+human comedy: 4
+cask amontillado: 4
+book daniel: 4
+rupert brooke: 4
+georg buchner: 4
+henry miller: 4
+susan sontag: 4
+merry wives windsor: 4
+cradle endlessly rocking: 4
+skin teeth: 4
+good country people: 4
+songs experience: 4
+true history: 4
+mrs warrens profession: 4
+boule de suif: 4
+grub street: 4
+master go: 4
+michael frayn: 4
+ransom red chief: 4
+puddnhead wilson: 4
+benito cereno: 4
+michael ondaatje: 4
+james russell lowell: 4
+earthquake chile: 4
+odd couple: 4
+ford madox: 4
+garden party: 4
+jose rizal: 4
+william gass: 4
+life save own: 4
+lu xun: 4
+independent people: 4
+moon sixpence: 4
+man mode: 4
+coney island mind: 4
+appointment samarra: 4
+go tell mountain: 4
+voltaire arouet: 4
+palmwine drinkard: 4
+lawrence ferlinghetti: 4
+handful dust: 4
+beauty: 3
+the temple: 3
+the tower: 3
+bells: 3
+satyricon: 3
+tigers: 3
+poetry: 3
+jews: 3
+what is to be done: 3
+scotland: 3
+woyzeck: 3
+the group: 3
+adonais: 3
+orestes: 3
+yerma: 3
+the tunnel: 3
+aladdin: 3
+harmonium: 3
+rain: 3
+the rivals: 3
+solaris: 3
+ice: 3
+ young: 3
+rhyme: 3
+doctors: 3
+cathedral: 3
+painters: 3
+2666: 3
+thomas : 3
+harlem: 3
+charlemagne: 3
+walden: 3
+tom : 3
+ john: 3
+robert : 3
+israel: 3
+massachusetts: 3
+theocritus: 3
+the homecoming: 3
+touchstone: 3
+composer: 3
+macduff: 3
+knights: 3
+electra: 3
+polish: 3
+macondo: 3
+jerusalem: 3
+shipwrecks: 3
+purgatorio: 3
+the erasers: 3
+birches: 3
+odysseus: 3
+bront„´: 3
+africa: 3
+nightingales: 3
+prostitutes: 3
+tiresias: 3
+roth: 3
+a e housman: 3
+pigs: 3
+robots: 3
+queequeg: 3
+the sea: 3
+america: 3
+doctor: 3
+iceland: 3
+picnic: 3
+the misanthrope: 3
+the betrothed: 3
+callimachus: 3
+ironweed: 3
+ceremony: 3
+aethiopica: 3
+novalis: 3
+baudolino: 3
+tamil: 3
+daisy: 3
+autobiography: 3
+panurge: 3
+sheep: 3
+mahabharata: 3
+adonis: 3
+meursault: 3
+trojan war: 3
+colombia: 3
+greek: 3
+poems: 3
+the kalevala: 3
+werther: 3
+rome: 3
+soldiers: 3
+the chosen: 3
+czech: 3
+the moviegoer: 3
+lowell: 3
+norway: 3
+lallegro: 3
+kaddish: 3
+rumi: 3
+joseph brodsky: 3
+macflecknoe: 3
+rossetti: 3
+plato: 3
+to a waterfowl: 3
+crane: 3
+nikolai: 3
+rosmersholm: 3
+american buffalo: 3
+california: 3
+ man: 3
+john keatss: 3
+the fixer: 3
+nora helmer: 3
+wall street: 3
+rebecca: 3
+natty bumppo: 3
+aesop: 3
+silence: 3
+revelation: 3
+the leopard: 3
+parzival: 3
+the changeling: 3
+invisible cities: 3
+king england: 3
+convex mirror: 3
+the bear: 3
+john banville: 3
+amis: 3
+paul thomas: 3
+answer equivalents: 3
+song hiawatha: 3
+my „Åntonia: 3
+puck: 3
+les mis„©rables: 3
+wolfe: 3
+agatha christie: 3
+bridges: 3
+michel de montaigne: 3
+ode confederate dead: 3
+betrayal: 3
+usa trilogy: 3
+margaret: 3
+dantons death: 3
+mystery plays: 3
+samson agonistes: 3
+entropy: 3
+through lookingglass: 3
+fables: 3
+hunger games: 3
+dogs: 3
+eug„®ne ionesco: 3
+rashomon: 3
+season hell: 3
+the critic: 3
+thyrsis: 3
+the time of your life: 3
+dorothy parker: 3
+frost midnight: 3
+midnight good: 3
+mcteague: 3
+locksley hall: 3
+hairy ape: 3
+the bridge: 3
+ode: 3
+vergil: 3
+ answer: 3
+soviet union: 3
+gregor samsa: 3
+hunchback notredame: 3
+hansel gretel: 3
+chaim potok: 3
+five acts: 3
+millers tale: 3
+dream songs: 3
+man thursday: 3
+walked evening: 3
+tradition individual talent: 3
+karel 268apek: 3
+willie stark: 3
+life death: 3
+hans castorp: 3
+nicholas nickleby: 3
+d h lawrence: 3
+hilda doolittle: 3
+ball fat: 3
+mordecai richler: 3
+the flea: 3
+plot against america: 3
+chester himes: 3
+white devil: 3
+republic turkey: 3
+uncle tom: 3
+comedy errors: 3
+gabriel garc„≠a m„°rquez: 3
+a: 3
+giacomo leopardi: 3
+rk narayan: 3
+arrow god: 3
+whitsun weddings: 3
+lucy poems: 3
+gustav von aschenbach: 3
+alexander solzhenitsyn: 3
+the waves: 3
+pindar: 3
+young goodman brown: 3
+francis petrarch: 3
+sextus propertius: 3
+menander: 3
+sentimental journey through france italy: 3
+flann obrien: 3
+white tiger: 3
+song despair: 3
+person porlock: 3
+robber bridegroom: 3
+helen troy: 3
+jay gatsbys: 3
+elizabeth barrett browning: 3
+jean rhys: 3
+duino elegy: 3
+william saroyan: 3
+tam o shanter: 3
+daisy buchanan: 3
+samuel pepys: 3
+two gentlemen verona: 3
+cairo trilogy: 3
+thomas middleton: 3
+auguste dupin: 3
+czech language: 3
+metamorphosis die verwandlung: 3
+erewhon: 3
+confessions saint augustine: 3
+junot diaz: 3
+amy lowell: 3
+j d salinger: 3
+edward ii: 3
+christopher isherwood: 3
+hunger artist: 3
+sheltering sky: 3
+imre kertesz: 3
+the octopus: 3
+guy montag: 3
+jumping frog calaveras: 3
+john gower: 3
+childe harolds pilgrimage: 3
+quentin compson: 3
+jeffrey eugenides: 3
+seymour glass: 3
+holy sonnets: 3
+inherit wind: 3
+donald barthelme: 3
+hymn intellectual beauty: 3
+identity card: 3
+aphra behn: 3
+secret agent: 3
+gilbert keith chesterton: 3
+constantine cavafy: 3
+civil disobedience: 3
+beast jungle: 3
+blessed damozel: 3
+seven gothic tales: 3
+stone raft: 3
+notes toward supreme fiction: 3
+name red: 3
+sun stone: 3
+lawrence durrell: 3
+breath eyes memory: 3
+andre brink: 3
+giovannis room: 3
+paul celan: 3
+peter shaffer: 3
+eve st agnes: 3
+sweden: 3
+robert sherwood: 3
+rose tattoo: 3
+season migration: 3
+flowers evil: 3
+ken kesey: 3
+lorraine hansberry: 3
+sherman alexie: 3
+amy tan: 3
+atticus finch: 3
+prince pauper: 3
+kingdom norway: 3
+hester prynne: 3
+aleksandr pushkin: 3
+joy luck club: 3
+vladimir vladimirovich: 3
+thomas keneally: 3
+childrens hour: 3
+jose marti: 3
+looking backward 20001887: 3
+frederic henry: 3
+alejo carpentier: 3
+gimpel fool: 3
+martin amis: 3
+nick adams: 3
+optimists daughter: 3
+piazza tales: 3
+major barbara: 3
+death family: 3
+edna pontellier: 3
+either way: 3
+gore vidal: 3
+jennie gerhardt: 3
+art spiegelman: 3
+diamond big ritz: 3
+james dickey: 3
+either part: 3
+william godwin: 3
+murder orient express: 3
+alice b toklas: 3
+jeanjacques rousseau: 3
+courtship miles standish: 3
+sarah orne jewett: 3
+endgame de partie: 3
+william gilmore simms: 3
+under milk wood: 3
+slouching towards bethlehem: 3
+charles chesnutt: 3
+fern hill: 3
+golden gate: 3
+joel chandler harris: 3
+wild geese: 3
+t hoffmann: 3
+la vita nuova: 3
+parades end: 3
+revengers tragedy: 3
+foundation pit: 3
+pamela virtue rewarded: 3
+into night: 3
+clive lewis: 3
+soul mountain: 3
+tobacco road: 3
+expedition clinker: 3
+confessions english: 3
+look homeward angel: 3
+pere goriot: 3
+anthony trollope: 3
+ivan ilyich: 3
+scarlet pimpernel: 3
+angela carter: 3
+windup bird chronicle: 3
+adding machine: 3
+devils dictionary: 3
+wilhelm meister: 3
+charles lamb: 3
+mans fate: 3
+wreck deutschland: 3
+george etherege: 3
+marquis de sade: 3
+adolf hitler: 3
+anxiety influence: 3
+american novel: 3
+halldor laxness: 3
+talk love: 3
+man blue guitar: 3
+sotweed factor: 3
+worn path: 3
+posthumous memoirs cubas: 3
+quiet flows don: 3
+story stone: 3
+masque red death: 3
+tess durbeyfield: 3
+elmer rice: 3
+john galsworthy: 3
+mariano azuela: 3
+bernice bobs her hair: 3
+anthony hecht: 3
+john ashbery: 3
+stendhal beyle: 3
+english language: 3
+thomas shadwell: 3
+platero y yo: 3
+miles gloriosus: 3
+le et: 3
+stranger letranger: 3
+les du: 3
+decameron prencipe galeotto: 3
+knights tale: 3
+nikolayevich tolstoy: 3
+federative republic brazil: 3
+victormarie hugo: 3
+know why caged bird sings: 3
+simone de: 3
+white fang: 3
+cleopatra vii: 3
+o captain: 3
+betty friedan: 3
+kingdom sweden: 3
+charlotte bronte: 3
+dumas pere: 3
+adrienne rich: 3
+geoffrey hill: 3
+peckham rye: 3
+wreck hesperus: 3
+beautiful damned: 3
+old english: 3
+deptford trilogy: 3
+ode melancholy: 3
+inter ice age 4: 3
+delicate balance: 3
+alexandria quartet: 3
+kimball ohara: 3
+jungle book: 3
+titus andronicus: 3
+rossums universal robots: 3
+lines composed few miles above: 3
+sailing byzantium: 3
+roland barthes: 3
+washington square: 3
+john gabriel borkman: 3
+three men boat say nothing: 3
+diving into wreck: 3
+rasipuram narayan: 3
+white heron: 3
+zelda fitzgerald: 3
+amiri baraka: 3
+childe roland dark tower came: 3
+way world: 3
+george chapman: 3
+seize day: 3
+dwarf dvargen: 3
+sidney lanier: 3
+mario magician: 3
+joseph andrews: 3
+maggie girl: 3
+famished road: 3
+moll flanders: 3
+village blacksmith: 3
+peter weiss: 3
+isaac babel: 3
+elmer gantry: 3
+trojan women: 3
+suddenly last summer: 3
+because could stop death: 3
+confessions zeno: 3
+love suicides: 3
+john mcphee: 3
+evangeline tale acadie: 3
+man early: 3
+scandal bohemia: 3
+sister carrie: 3
+angle repose: 3
+maurice maeterlinck: 3
+shooting elephant: 3
+richard cory: 3
+sentimental education: 3
+leucippe clitophon: 3
+where going: 3
+woman dunes: 3
+dr pangloss: 3
+swans coole: 3
+night iguana: 3
+joseph knecht: 3
+way pay old debts: 3
+shusaku endo: 3
+true west: 3
+dorothea brooke: 3
+joe orton: 3
+mary stuart: 3
+samuel richardson: 3
+jose donoso: 3
+david malouf: 3
+nip buds shoot kids: 3
+autumn patriarch: 3
+snowbound winter: 3
+castle das: 3
+delta wedding: 3
+johnson: 2
+1910s: 2
+horse: 2
+witches: 2
+persuasion: 2
+nuns: 2
+ion: 2
+romanticism: 2
+the mousetrap: 2
+the nose: 2
+araby: 2
+swamplandia: 2
+hiroshima: 2
+dreams: 2
+1940s: 2
+atonement: 2
+topdogunderdog: 2
+offa mercia: 2
+baghdad novel saddam hussein: 2
+k: 2
+romania: 2
+summer: 2
+rose: 2
+alexandria: 2
+desdemona: 2
+italiano: 2
+roughing it: 2
+john gaunt: 2
+williams: 2
+elena ferrante: 2
+cain: 2
+roses: 2
+ runner: 2
+botchan: 2
+renascence: 2
+algeria: 2
+charles : 2
+ life: 2
+great : 2
+ pushkin: 2
+ white: 2
+la : 2
+bed rest cure: 2
+mr rochester: 2
+malgudi: 2
+george: 2
+the cyclops: 2
+dadaism: 2
+t eliot: 2
+peace: 2
+rostam: 2
+autodaf„©: 2
+thucydides: 2
+classical chinese: 2
+harold athol lanigan: 2
+john jack: 2
+the bet: 2
+trees: 2
+tereza: 2
+noh: 2
+margarita: 2
+underground man: 2
+pittsburgh: 2
+brooklyn: 2
+byzantium: 2
+lebanon: 2
+louisiana: 2
+max beerbohm: 2
+performance lovers vows: 2
+dumas: 2
+eugene jerome: 2
+bronte: 2
+veil: 2
+cleopatra: 2
+bear: 2
+donkey: 2
+jane: 2
+eclogues: 2
+thebes: 2
+antarctica: 2
+burma: 2
+cordelia: 2
+walking: 2
+jeeves: 2
+the albatross: 2
+modern greek: 2
+hector: 2
+libraries: 2
+english: 2
+lilliput: 2
+time: 2
+texas: 2
+everyman: 2
+trains: 2
+symbolism: 2
+books: 2
+metaphor: 2
+fran„ßois rabelais: 2
+baseball: 2
+churchill: 2
+thames river: 2
+monkeys: 2
+urns: 2
+ophelia: 2
+gooseberries: 2
+valmiki: 2
+a rebours: 2
+the clown: 2
+goodbye to all that: 2
+the sisters: 2
+molloy: 2
+harry houdini: 2
+jorge: 2
+james: 2
+life glgl: 2
+alexander: 2
+alice: 2
+emma bovary: 2
+the acharnians: 2
+vautrin: 2
+the miser: 2
+fools: 2
+angels: 2
+malvolio: 2
+the magus: 2
+hell screen: 2
+petersburg: 2
+friar: 2
+the dwarf: 2
+anne bronte: 2
+hunger: 2
+ah q: 2
+cairo: 2
+oxford: 2
+apology: 2
+nature: 2
+forsyte saga: 2
+black: 2
+orleans louisiana: 2
+life pi: 2
+farms: 2
+chineseamerican: 2
+bees: 2
+cosette: 2
+ae housman: 2
+jeanbaptiste racine: 2
+ohio: 2
+sydney carton: 2
+john ruskin: 2
+swimming: 2
+brick lane: 2
+sylvia plaths: 2
+dragon beowulf: 2
+ivanov: 2
+grace: 2
+a view from the bridge: 2
+south korea: 2
+bluebeard: 2
+the flies: 2
+christopher durang: 2
+maratsade: 2
+germany: 2
+decameron: 2
+no„´l coward: 2
+icelandic sagas: 2
+pastoralia: 2
+republic: 2
+braithwaite: 2
+le bourgeois: 2
+up from slavery: 2
+heartbreaking work staggering genius: 2
+john le carr„©: 2
+vladimir: 2
+maggie: 2
+lady flowers: 2
+wb yeats: 2
+laura: 2
+middle english: 2
+charles marlow: 2
+jean anouilh: 2
+the novel: 2
+william hazlitt: 2
+another author: 2
+art arts sake: 2
+rings saturn: 2
+the pardoner: 2
+autobiography excolored man: 2
+vathek: 2
+elias canetti: 2
+france republic: 2
+mark antony: 2
+road wigan pier: 2
+persia: 2
+wis322awa szymborska: 2
+robert hayden: 2
+the recognitions: 2
+maine: 2
+sweeney: 2
+dazai osamu: 2
+mont blanc: 2
+burnt norton: 2
+modern love: 2
+patterns: 2
+lydia davis: 2
+yehuda amichai: 2
+japanese: 2
+the inferno: 2
+committing suicide: 2
+the bells: 2
+david: 2
+cinderella: 2
+asphodel greeny flower: 2
+miguel street: 2
+swans: 2
+belgium: 2
+suicide end: 2
+minnesota: 2
+humbert humbert: 2
+simon: 2
+barabas: 2
+friday: 2
+lara: 2
+bartleby: 2
+shylock: 2
+ishmael: 2
+grass: 2
+john brown: 2
+mississippi: 2
+good woman: 2
+sea: 2
+winter: 2
+count dracula: 2
+candide ou loptimisme: 2
+baseball players: 2
+heidi chronicles: 2
+the judgment: 2
+prisoner zenda: 2
+james hogg: 2
+white album: 2
+counterparts: 2
+countess ellen olenska: 2
+united kingdom: 2
+vampires: 2
+home burial: 2
+thomas bernhard: 2
+scoop: 2
+orientalism: 2
+biglow papers: 2
+gypsy ballads: 2
+inspector general: 2
+water chocolate: 2
+brief wondrous life oscar wao: 2
+in a free state: 2
+eugene henderson: 2
+weep child: 2
+beat generation: 2
+the wasteland: 2
+troy: 2
+glass: 2
+paradise: 2
+aunt ester: 2
+pierre de: 2
+sailor fell grace sea: 2
+the physicists: 2
+passionate shepherd love: 2
+ligeia: 2
+the canonization: 2
+shame: 2
+william w: 2
+play within frame story: 2
+goats: 2
+phaedo: 2
+aeneid: 2
+kenzabur333 332e: 2
+shahnameh: 2
+florida: 2
+horatio: 2
+journey center earth: 2
+germinal: 2
+david mitchell: 2
+elegy: 2
+ story: 2
+james weldon johnson: 2
+russian language: 2
+man seasons: 2
+anderson: 2
+hebrew: 2
+anne green gables: 2
+labyrinths: 2
+ equivalents: 2
+amos tutuola: 2
+w h auden: 2
+much land does man need: 2
+anything indicating: 2
+ruritania: 2
+basketball: 2
+open window: 2
+balcony le balcon: 2
+vs naipaul: 2
+equivalents stuff after: 2
+german deutsch: 2
+portugal portuguese republic: 2
+emily ellis bell: 2
+sleepwalking: 2
+nelson algren: 2
+venus: 2
+butterfly: 2
+glassbead game: 2
+john ronald reuel tolkien: 2
+giles goatboy: 2
+alice adams: 2
+libra: 2
+odes horace: 2
+the narcissus: 2
+generation 27: 2
+nikos kazantakis: 2
+boxing: 2
+naipaul: 2
+apology socrates: 2
+greek language: 2
+parmenides: 2
+awake sing: 2
+ancient egyptian: 2
+dream monkey mountain: 2
+homeric hymn: 2
+cesar vallejo: 2
+the oversoul: 2
+end affair: 2
+mexican revolution: 2
+antonia susan byatt: 2
+1q84: 2
+the immoralist: 2
+tithonus: 2
+manderley: 2
+brooklyn bridge: 2
+cloud atlas: 2
+offred: 2
+ministers black veil: 2
+letters young poet: 2
+frank wedekind: 2
+the outsiders: 2
+hitchhikers guide galaxy: 2
+short story: 2
+margaret simon: 2
+monkeys paw: 2
+plough stars: 2
+arthur boo radley: 2
+the egoist: 2
+saint joan: 2
+dogs canines hounds anything else dog: 2
+tartuffe imposter: 2
+oulipo: 2
+wild honeysuckle: 2
+the satyricon: 2
+emily: 2
+michel houellebecq: 2
+philip carey: 2
+juvenal: 2
+the windhover: 2
+hero leander: 2
+catherine earnshaw: 2
+pearl poet: 2
+winter dreams: 2
+florentino ariza: 2
+utopia: 2
+frank norris: 2
+chicago illinois: 2
+equivalents take: 2
+edmund wilson: 2
+eminent victorians: 2
+berenger: 2
+library babel: 2
+the rubaiyat: 2
+suitable boy: 2
+amerika: 2
+we: 2
+milo minderbinder: 2
+plutarch: 2
+alan alexander milne: 2
+until read: 2
+multivac: 2
+aran islands: 2
+death fugue: 2
+erica jong: 2
+thebaid: 2
+plutus: 2
+marguerite duras: 2
+barchester towers: 2
+europe central: 2
+confessions: 2
+player piano: 2
+travesties: 2
+captive mind: 2
+typee peep polynesian life: 2
+visit goon squad: 2
+ishmael reed: 2
+maud muller: 2
+bone people: 2
+prometheus bound: 2
+chimamanda ngozi adichie: 2
+vicente aleixandre: 2
+tlon uqbar orbis tertius: 2
+berlin alexanderplatz: 2
+david balfour: 2
+bharati mukherjee: 2
+patient griselda: 2
+nectar sieve: 2
+malte laurids brigge: 2
+rameaus nephew: 2
+old creole days: 2
+biographies muhammad: 2
+tyrone family: 2
+mill floss: 2
+clarissa: 2
+the fountainhead: 2
+zazie metro: 2
+serbian: 2
+baltasar blimunda: 2
+madmen specialists: 2
+imogen: 2
+death maiden: 2
+a wrinkle in time: 2
+orlando: 2
+willy loman: 2
+chekhov: 2
+yossarian: 2
+wallace: 2
+rand: 2
+francis macomber: 2
+dao de: 2
+nazi party: 2
+witches macbeth: 2
+khalil gibran: 2
+dantes inferno: 2
+epic poem: 2
+paul revere: 2
+the nutcracker: 2
+essay: 2
+gothic literature: 2
+sestina: 2
+roots saga american family: 2
+tragedy: 2
+deus ex machina: 2
+st crispins day speech: 2
+drowning: 2
+beatrice portinari: 2
+usa: 2
+pedro paramo: 2
+phedre: 2
+venus adonis: 2
+idylls king: 2
+a fable: 2
+marius epicurean: 2
+de chateaubriand: 2
+temptation anthony: 2
+whiskey priest: 2
+le goriot: 2
+the weavers: 2
+benya krik: 2
+wallace stegner: 2
+joseph sheridan le fanu: 2
+julian barnes: 2
+juvenals satires: 2
+frank ohara: 2
+henry green: 2
+lady aoi ue: 2
+the time of the hero: 2
+man corrupted hadleyburg: 2
+the metamorphoses: 2
+the lesson: 2
+hikaru genji: 2
+sappho lesbos: 2
+miss havisham: 2
+edgar lawrence doctorow: 2
+wife baths tale: 2
+wilfred ivanhoe: 2
+leagues under sea: 2
+jose y: 2
+ash wednesday: 2
+tim obrien: 2
+alex delarge: 2
+conversation cathedral: 2
+william congreve: 2
+ideal husband: 2
+alice liddell: 2
+watership down: 2
+around world eighty days le tour du monde en quatrevingts jours: 2
+fidelio: 2
+hiawatha: 2
+trilby: 2
+eliot rosewater: 2
+burgers daughter: 2
+gorgias: 2
+titus livy: 2
+publius papinius statius: 2
+home to harlem: 2
+detective agency: 2
+golden notebook: 2
+tale heike: 2
+enchantress florence: 2
+lapis lazuli: 2
+cousin bette: 2
+flowering judas: 2
+crome yellow: 2
+palm wine drinkard: 2
+effi briest: 2
+sir william: 2
+count alexei vronsky: 2
+the inspectorgeneral: 2
+harry angstrom: 2
+el aleph: 2
+baba yaga: 2
+cancer ward: 2
+winston churchill: 2
+spring snow: 2
+family pascual duarte: 2
+molly blooms soliloquy: 2
+dutchman: 2
+winfried georg sebald: 2
+les de: 2
+four million: 2
+empire falls: 2
+joachim du bellay: 2
+golden: 2
+elizabeth costello: 2
+ode death cat drowned tub: 2
+king gesar: 2
+changing light sandover: 2
+wild asss skin: 2
+poetics: 2
+babylon revisited: 2
+boleslaw prus: 2
+gone wind: 2
+ramona quimby: 2
+joseph: 2
+word equivalents: 2
+seven against thebes: 2
+wife bath: 2
+georges simenon: 2
+bessie head: 2
+simple heart: 2
+real thing: 2
+la du: 2
+ruins great house: 2
+menaechmi: 2
+toccata galuppis: 2
+lost translation: 2
+the corrections: 2
+david lodge: 2
+blue: 2
+lament death bullfighter: 2
+finland: 2
+sredni vashtar: 2
+dario fo: 2
+heartbreak house: 2
+amos oz: 2
+joy kogawa: 2
+azul: 2
+exile kingdom: 2
+parable grand inquisitor: 2
+judge holden: 2
+seascape: 2
+giovanni verga: 2
+memento mori: 2
+descent into: 2
+invention morel: 2
+old curiosity shop: 2
+house fame: 2
+thomas becket: 2
+jose: 2
+compson family: 2
+philip pirrip: 2
+metamorphoses: 2
+rynosuke akutagawa: 2
+alan sillitoe: 2
+eliezer elie wiesel: 2
+flatland romance many dimensions: 2
+heathcliff: 2
+joseph campbell: 2
+annie proulx: 2
+santiago nasar: 2
+darkling thrush: 2
+jk rowling: 2
+nana: 2
+abel sanchez: 2
+francois villon: 2
+prelude growth poets: 2
+upon appleton house: 2
+louis macneice: 2
+wide sargasso sea: 2
+house leaves: 2
+rafael leonidas trujillo: 2
+owen meany: 2
+poor folk: 2
+baron trees: 2
+fable critics: 2
+quiet american: 2
+miss jane: 2
+thomas carlyle: 2
+life galileo: 2
+black boy: 2
+karl popper: 2
+gulag archipelago: 2
+de francisco: 2
+battle bridge: 2
+the congo: 2
+science health key scriptures: 2
+claude mckay: 2
+love demons: 2
+far cry africa: 2
+shoemakers holiday pleasant comedy gentle craft: 2
+st teresa: 2
+kiran desai: 2
+turnus: 2
+prometheus unbound: 2
+jerome klapka: 2
+dodsworth: 2
+arab republic egypt: 2
+pierre menard: 2
+os lusiadas: 2
+long days journey into: 2
+ghosts gengangere: 2
+fanny price: 2
+ender wiggin: 2
+tartarus: 2
+robert‚nbspgraves: 2
+czeslaw milosz: 2
+come back little sheba: 2
+maid cheapside: 2
+jimmie blacksmith: 2
+roberto bolano: 2
+pot gold: 2
+oliver cromwell: 2
+gold bug: 2
+joe turners come gone: 2
+couriers tragedy: 2
+buried child: 2
+autodafe: 2
+rockinghorse winner: 2
+dream play: 2
+invitation beheading: 2
+grouch dyskolos: 2
+apologia pro vita sua: 2
+meghaduta: 2
+leigh hunt: 2
+life had stooda loaded gun: 2
+eveline: 2
+lionel trilling: 2
+art war: 2
+angry men: 2
+jrr tolkien: 2
+sonnets portugese: 2
+em forster: 2
+thomas paine: 2
+anna akhmatova: 2
+jewish cemetery: 2
+helen hunt jackson: 2
+writes colonel: 2
+betrayed rita hayworth: 2
+marble faun: 2
+wild side: 2
+the‚nbspinvention morel‚nbsp: 2
+sidney brusteins window: 2
+de profundis: 2
+communist manifesto: 2
+pit pendulum: 2
+thomas wolfe: 2
+le morte darthur: 2
+maurice bernard: 2
+spanish golden age: 2
+emily bronte: 2
+kingdom denmark: 2
+weary blues: 2
+le misanthrope: 2
+emma lazarus: 2
+alls well ends: 2
+trial der prozess: 2
+quintus horatius flaccus: 2
+haldor laxness: 2
+republic someone: 2
+last temptation christ: 2
+ 5: 2
+duddy kravitz: 2
+john gardner: 2
+ballad sad: 2
+charlotte temple: 2
+most dangerous game: 2
+lois lowry: 2
+something wicked way comes: 2
+separate peace: 2
+professor either: 2
+seven pillars wisdom: 2
+song bernadette: 2
+napoleon notting hill: 2
+mary mccarthy: 2
+mary rowlandson: 2
+herman wouk: 2
+custom country: 2
+idiots delight: 2
+lair white worm: 2
+man golden arm: 2
+mystery edwin drood: 2
+barefoot park: 2
+jane smiley: 2
+voices rooms: 2
+billy bathgate: 2
+ring lardner: 2
+robert bloch: 2
+golden boy: 2
+kinsman major molineux: 2
+nella larsen: 2
+johnny got gun: 2
+until second line: 2
+susan glaspell: 2
+androids dream electric sheep: 2
+mycroft holmes: 2
+gentlemen prefer blondes: 2
+robert heinlein: 2
+musee des: 2
+golden bough: 2
+rappacinis daughter: 2
+tiberius claudius caesar augustus germanicus: 2
+holly golightly: 2
+denis diderot: 2
+open boat: 2
+allende llona: 2
+heinrich faust: 2
+maltese falcon: 2
+anything mentioning: 2
+venice preservd: 2
+ali baba: 2
+sex equivalents: 2
+consolation philosophy consolatio philosophiae: 2
+richard feverel: 2
+frans eemil: 2
+odysseus elytis: 2
+gabriel conroy: 2
+love among ruins: 2
+ihara saikaku: 2
+hard times: 2
+michelle cliff: 2
+moliere jeanbaptiste poquelin: 2
+george lamming: 2
+queen spades dama: 2
+road mecca: 2
+odour chrysanthemums: 2
+bjornstjerne bjornson: 2
+buch der: 2
+john suckling: 2
+keep aspidistra flying: 2
+handsomest drowned man world: 2
+heart midlothian: 2
+fra lippo lippi: 2
+witold gombrowicz: 2
+snow kar: 2
+eugenie grandet: 2
+edna ferber: 2
+wings dove: 2
+give them: 2
+chretien de troyes: 2
+murder cathedral: 2
+kamala markandaya: 2
+ko un: 2
+beaver coat der biberpelz: 2
+watch rhine: 2
+country doctor: 2
+sturm und drang: 2
+beowulf monsters critics: 2
+lesson comic drama la le„ßon: 2
+francois duvalier: 2
+charles wright mills: 2
+friedrich von: 2
+arthur schopenhauer: 2
+playing poker: 2
+crime sylvester bonnard: 2
+cane: 2
+indian burying ground: 2
+sunstone piedra sol: 2
+mutual friend: 2
+midaq alley: 2
+clown ansichten eines clowns: 2
+school wives: 2
+robert southey: 2
+bridge drina: 2
+shmuel agnon: 2
+longer ease: 2
+real cool: 2
+troilus cressida: 2
+william styron: 2
+gunga din: 2
+erewhon over range: 2
+john webster: 2
+christopher fry: 2
+prince myshkin: 2
+bigger thomas: 2
+admirable crichton: 2
+osip mandelstam: 2
+barn burning: 2
+r k narayan: 2
+american dream: 2
+growth soil: 2
+hugh selwyn mauberley: 2
+kreutzer sonata: 2
+tirso de molina: 2
+redcrosse knight: 2
+ring book: 2
+hunting snark: 2
+manhattan transfer: 2
+winifred sebald: 2
+republic senegal: 2
+anthills savannah: 2
+gerard de: 2
+franny zooey: 2
+lady gregory: 2
+murder roger ackroyd: 2
+heard fly buzz died: 2
+speak memory: 2
+amp p: 2
+elements style: 2
+tam oshanter: 2
+stella dubois kowalski: 2
+lone ranger tonto fistfight heaven: 2
+looking zora: 2
+robert bridges: 2
+cloven viscount: 2
+sexual personae: 2
+black lamb grey falcon: 2
+dr faustus: 2
+kahlil gibran: 2
+alessandro manzoni: 2
+physicists physiker: 2
+stream consciousness: 2
+strange interlude: 2
+vicente blasco: 2
+princess casamassima: 2
+leda swan: 2
+zuleika dobson: 2
+epic sundiata: 2
+julia kristeva: 2
+nikolai leskov: 2
+knight panthers skin: 2
+bicycle thief: 2
+m forster: 2
+victor frankenstein: 2
+karamazov family: 2
+naked dead: 2
+sleeping beauty: 2
+le corbusier: 2
+william ernest henley: 2
+ghost sonata: 2
+bride comes yellow sky: 2
+black rain: 2
+praise limestone: 2
+clifford odets: 2
+colored girls considered suicidewhen rainbow enuf: 2
+nuruddin farah: 2
+master har: 2
+lucian samosata: 2
+children gebelawi: 2
+conrad aiken: 2
+poem without: 2
+pictures brueghel poems: 2
+jonathan edwards: 2
+american scholar: 2
+martin chuzzlewit: 2
+richard crashaw: 2
+alfred tennyson: 2
+plague la peste: 2
+anton chekov: 2
+the dumbwaiter: 2
+partial answer: 2
+women love: 2
+dream deferred: 2
+looking into chapmans homer: 2
+frankensteins monster: 2
+la belle dame sans merci: 2
+albert chinualumogu achebe: 2
+cavalier poets: 2
+road serfdom: 2
+kindly ones les bienveillantes: 2
+paul erdos: 2
+ursula le guin: 2
+riders sea: 2
+ivan karamazov: 2
+dr heideggers experiment: 2
+william gaddis: 2
+venice: 2
+la cousine bette: 2
+loves lost: 2
+knut hamsun: 2
+wilhelm tell william: 2
+execution rosenbergs: 2
+ken sarowiwa: 2
+black mountain: 2
+walter van tilburg clark: 2
+robert musil: 2
+becky sharp: 2
+ma raineys black: 2
+charles bovary: 2
+beggars opera: 2
+tears idle: 2
+she walks beauty: 2
+dharma bums: 2
+aim„© c„©saire: 2
+john proctor: 2
+lake isle innisfree: 2
+cat mouse: 2
+voss: 2
+history rasselas prince: 2
+pa ubu: 2
+william wilson: 2
+charlie marlow: 2
+battle maldon: 2
+pumpkinification divine claudius apocolocyntosis: 2
+simplicissimus simplicius: 2
+life bush ghosts: 2
+essay limits painting: 2
+notes camp: 2
+dead awaken: 2
+diana crossways: 2
+hopscotch rayuela: 2
+stage manager: 2
+visit old: 2
+knocking gate macbeth: 2
+silent snow secret: 2
+la y: 2
+lancelot du lac: 2
+henry fielding‚nbsp: 2
+jordan baker either: 2
+world too much: 2
+fabliaux: 2
+enoch soames: 2
+songs chants: 2
+chairs les chaises: 2
+james matthew barrie: 2
+essay criticism: 2
+rocking horse winner: 2
+absalom achitophel: 2
+roger chillingworth: 2
+mandrake la mandragola: 2
+terence stupid stuff: 2
+par lagerkvist: 2
+general william booth enters into heaven: 2
+dangerous liaisons les dangereuses: 2
+franz werfel: 2
+abigail williams: 2
+channel firing: 2
+edward taylor: 2
+doctor aziz: 2
+thalaba destroyer: 2
+too late phalarope: 2
+district columbia trilogy: 2
+louisferdinand c„©line: 2
+agnes grey: 2
+cat wagahai wa neko de aru: 2
+jerzy kosinski: 2
+tiepolos hound: 2
+winterset: 2
+hugo von hofmannsthal: 2
+few figs thistles: 2
+ole rolvaag: 2
+penguin island des pingouins: 2
+john fowles: 2
+sir kay: 2
+frogs batrachoi: 2
+robbers die rauber: 2
+crossing bar: 2
+brighton rock: 2
+giants earth: 2
+plautine slaves: 1
+tobermory: 1
+ghazals: 1
+poloniuss death: 1
+edwidge danticat: 1
+the graveyard by the sea: 1
+the electric koolaid acid test: 1
+esther summerson: 1
+a lesson before dying: 1
+german romanticism: 1
+the three body problem: 1
+turkish: 1
+an inspector calls: 1
+roman dinners: 1
+a whore: 1
+napoleon bonaparte: 1
+thieves: 1
+john guare: 1
+mimesis: 1
+three tall women: 1
+torvald helmer: 1
+the golden bowl: 1
+welcome to the monkey house: 1
+thomas jefferson: 1
+melancholy: 1
+ experience : 1
+the  woodpile : 1
+colson whitehead: 1
+the virgin mary: 1
+the preface to the renaissance: 1
+leopold bloom: 1
+nothing: 1
+languages: 1
+wild strawberry: 1
+the beach: 1
+judith shakespeare: 1
+gilbert osmond: 1
+hilda wangel: 1
+wake eld: 1
+jia jyah family: 1
+icardo reis: 1
+eve: 1
+arnaut daniel: 1
+the great proletarian cultural revolution: 1
+the blue flower: 1
+schoolmaster: 1
+the buried giant: 1
+phe768dre: 1
+requiem: 1
+dulcinea del toboso: 1
+oedipus at colonus: 1
+roberto bolan771o bohlahnyoh: 1
+1755 lisbon earthquake: 1
+death of ophelia: 1
+watchmen: 1
+the persians: 1
+dean moriarty: 1
+schoolteachers: 1
+lamb family: 1
+awyers: 1
+french language: 1
+dramatic unities: 1
+hilary mantel mantell: 1
+lions: 1
+car accidents: 1
+austria: 1
+bogs: 1
+a void: 1
+kokoro: 1
+zibaldone da pensieri: 1
+inklings: 1
+the tale of the: 1
+georges bataille: 1
+radio golf: 1
+wessex: 1
+tahar ben jelloun: 1
+father mapples sermon: 1
+hedvig ekdal: 1
+anna letitia barbauld: 1
+the country wife: 1
+eastwick: 1
+king sebastian: 1
+dhalgren: 1
+having three moles: 1
+bruno schulz: 1
+mark rothko: 1
+tshirt: 1
+abbot joseph liebling: 1
+ammu: 1
+the door: 1
+knoxville summer of 1915: 1
+crusoe in england: 1
+beirut: 1
+stratagem: 1
+signifyin: 1
+sevastopol sketches: 1
+the comic illusion: 1
+the english mailcoach: 1
+guido: 1
+assassination of indira gandhi: 1
+heptameron: 1
+teeth: 1
+donald justice: 1
+a dry white season: 1
+encyclopedia of the dead: 1
+vera brittain: 1
+in parenthesis: 1
+a true story: 1
+how the garcia girls lost their accents: 1
+choreopoems: 1
+paul valerys great silence: 1
+ichabod crane: 1
+w b yeats: 1
+farsi: 1
+shoshone: 1
+bohemian lights: 1
+campos de castilla: 1
+requiem for a spanish peasant: 1
+rube769n dari769o: 1
+miguel herna769ndez: 1
+miguel delibes: 1
+repu769blica de cuba: 1
+count julian: 1
+platero: 1
+ce769sar abraham vallejo: 1
+green: 1
+la regenta: 1
+the joke or z711ert : 1
+profiles in courage: 1
+astronaut prompt on pilot or fighter pilot: 1
+madame butterfly: 1
+oscar hopkins: 1
+fran 807cois rabelais: 1
+lovesuicide or shinju accept double suicide prompt on suicide: 1
+enkidu: 1
+in a grove or yabu no naka: 1
+tropic of cancer: 1
+ah but your land is beautiful: 1
+rhine: 1
+the bel l jar: 1
+travels with charley: 1
+new york new york: 1
+wolfgang amadeus mozart: 1
+bob dylan or robert allan zimmerman: 1
+the wall or le mur: 1
+paradiso or paradise prompt on heaven or equivalents: 1
+chuck palahniuk: 1
+having children accept equivalents accept equivalents of birth of a firstborn son: 1
+red oleanders: 1
+the princess bride: 1
+our american cousin: 1
+hunter stockton thompson: 1
+anthony bourdain: 1
+the call of cthulhu: 1
+prostitutes accept equivalents: 1
+j 769ose mart 769305: 1
+a wild sheep chase or hitsuji o meguru b 772oken: 1
+swan: 1
+train: 1
+the man who would be king: 1
+traveling salesman: 1
+d 769esir 769ees baby: 1
+annis stockton: 1
+james jones: 1
+focus: 1
+the hotel new hampshire: 1
+thomas dixon jr: 1
+the fox: 1
+jon krakauer: 1
+sexual perversity in chicago: 1
+the man in the high castle: 1
+the westing game: 1
+mat burke the player is matt birk but the pronunciation is the same: 1
+robert james waller: 1
+tony hillerman: 1
+east coker: 1
+the pillowman: 1
+rothschilds violin: 1
+republic of the philippines the first author is nick joaquin: 1
+the republic of san lorenzo: 1
+irish people: 1
+alexander ostrovsky: 1
+simon legree: 1
+salammbo: 1
+jean mandeville: 1
+oisin: 1
+tamar the great: 1
+amy chua: 1
+malay: 1
+abe ravelstein: 1
+the tartar steppe: 1
+goswami tulsidas: 1
+allgirls boarding  school s: 1
+parenthesis: 1
+shakespearean  fool s: 1
+louis xiv: 1
+the earths  moon: 1
+ rashomon : 1
+horse s: 1
+lawn tennis: 1
+journey s: 1
+c apitalization: 1
+okonkwos wives: 1
+byron: 1
+rains: 1
+bowler  hat s: 1
+baskerville s: 1
+swim ming: 1
+18th  century: 1
+new jersey: 1
+arab s: 1
+orangutan: 1
+sinbad: 1
+the  underground railroad: 1
+the  birthmark : 1
+eliza   doolittle: 1
+the  necklace : 1
+iphigenia: 1
+the  new yorker: 1
+involuntary  memory: 1
+a  churchyard: 1
+the  mad hatter: 1
+the  tempest: 1
+drown ing: 1
+funeral s: 1
+ i wandered lonely as a cloud : 1
+matsuo  basho772: 1
+marco  polo: 1
+monique wittig: 1
+the crackup: 1
+anecdote: 1
+anglosaxon metrical charms: 1
+edward bond: 1
+an orison of sonmi451: 1
+tomcat murr: 1
+sganarelle: 1
+nobody: 1
+wakefield: 1
+aaba: 1
+the audience: 1
+boniface viii: 1
+wife: 1
+mary roach: 1
+terry southern: 1
+the death of a pet dog: 1
+philosophy in the bedroom: 1
+john barleycorn: 1
+disneyland with the death penalty: 1
+nikki giovanni: 1
+james family: 1
+henri barbusse: 1
+usura: 1
+gao: 1
+prosthetics: 1
+the book of tea: 1
+you cant take it with you: 1
+amy hempel: 1
+jindyworobak: 1
+emily dickinsons dashes: 1
+angel clare: 1
+gregory nunzio corso: 1
+not write: 1
+the nightingale a conversation poem: 1
+in the next room: 1
+augusto monterroso bonilla: 1
+the playwithinaplay from the seagull: 1
+popeye the sailor man: 1
+ashenden: 1
+unborn children: 1
+catullus 64: 1
+oleanna: 1
+bertie woosters aunts: 1
+grossman: 1
+1700s: 1
+the man who loved children: 1
+running: 1
+william stanley merwin: 1
+grove press: 1
+circles: 1
+the chaplain: 1
+1914: 1
+ferenc molna769r: 1
+their first name is the same as their last name: 1
+james bond: 1
+table talk: 1
+science: 1
+the octoroon: 1
+emigrating  to  australia  prompt on leaving the country etc: 1
+mughal emperor: 1
+meiji period: 1
+letters: 1
+simon bradstreet: 1
+albania: 1
+spiders: 1
+oriental republic of uruguay: 1
+sanatoriums: 1
+dictator: 1
+ruslan: 1
+lottery: 1
+professors: 1
+shepherds: 1
+b„©renger: 1
+the golden legend: 1
+max havelaar: 1
+zeno cosini: 1
+hally: 1
+fielding: 1
+katherina minola: 1
+faber: 1
+hawks: 1
+the  classics: 1
+decline of the english murder: 1
+the  pioneers or the sources of the susquehanna: 1
+karen russell: 1
+aids: 1
+edith  sitwell: 1
+the  lusiads: 1
+marriage „nbsp la mode: 1
+pierre beaumarchais: 1
+ottoman empire: 1
+cairo egypt: 1
+mali empire: 1
+elizabeth  bowen: 1
+plowman: 1
+underworld: 1
+liu bei: 1
+translations: 1
+pierre bezhukov: 1
+theodosius i: 1
+the scholars: 1
+the arab from the stranger: 1
+hildegard von bingen: 1
+the age of anxiety: 1
+babettes feast: 1
+elizabeth i: 1
+ravelstein: 1
+genres: 1
+the rape of lucrece: 1
+yo el supremo: 1
+newgate prisongaol: 1
+the soul: 1
+esquire magazine: 1
+cesar: 1
+queen mab: 1
+lost in yonkers: 1
+andr„© malraux: 1
+hideous men: 1
+horacio  quiroga: 1
+william  wycherley: 1
+cancer: 1
+mr ramsay: 1
+egypt or egyptus: 1
+the aspern papers: 1
+  endings: 1
+stanislaw lem: 1
+pecola breedlove: 1
+fagin: 1
+horatio hornblower: 1
+duke of bilgewater and dauphin of france: 1
+the 1980s: 1
+tom buchanan: 1
+dante: 1
+s„©ances: 1
+paul b„§umer: 1
+turning into a rhinoceros: 1
+state of japan: 1
+being buried alive: 1
+the beat8203 generation: 1
+walt buwhitmanub8203: 1
+buconcentration campub8203s: 1
+classical bupersianub: 1
+travelers: 1
+memories of west street and lepke: 1
+cynthia ozick: 1
+layla and majnun: 1
+albius tibullus: 1
+elizabeth willard: 1
+jeanmarie gustave le clezio: 1
+love for love: 1
+frank bascombe: 1
+notes from the house of the dead: 1
+javier mar„≠as: 1
+wuxia: 1
+theatrical stages: 1
+jealousy: 1
+anne boleyn: 1
+queequegs tattoos: 1
+amitav ghosh: 1
+villages: 1
+james orin incandenza jr: 1
+yasmina reza: 1
+the browning version: 1
+autobiography of red: 1
+radetzky march: 1
+sensation novels: 1
+butterfield 8: 1
+paper lion confessions of a laststring quarterback: 1
+ruth prawer jhabvala: 1
+andrea del sarto: 1
+the moon: 1
+death of little nell: 1
+sins: 1
+thomas carew: 1
+by night in chile: 1
+karl moor: 1
+raise high the roof beam carpenters: 1
+louisantoine de saintjust: 1
+jeannette winterson: 1
+patricia highsmith: 1
+roy cohn: 1
+adam hochschild: 1
+ian watt: 1
+brooks: 1
+louise erdrich: 1
+yoshimoto banana: 1
+ariyoshi sawako: 1
+awabata yasunari: 1
+oni: 1
+uno chiyo: 1
+enchi fumiko: 1
+floating clouds: 1
+chikamatsu mozaemon: 1
+fox spirit: 1
+dumbshows: 1
+epicene or the silent woman: 1
+ralph roister doister: 1
+the malcontent: 1
+the wakefield second shepherds play: 1
+robin hood: 1
+gammer gurtons needle: 1
+croxton play of the sacrament: 1
+the ship of widows: 1
+novel with cocaine: 1
+lydia korneyevna chukovskaya: 1
+envy: 1
+lyudmila stefanovna petrushevskaya: 1
+time forward: 1
+boris godunov: 1
+tatyana nikitichna tolstaya: 1
+karenin: 1
+the steppenwolf: 1
+peloponnesian war: 1
+richard: 1
+yiddish the leadin is about s anskys the dybbuk: 1
+time the first line is from miltons sonnet 7: 1
+daughter: 1
+auschwitz: 1
+temples: 1
+confessional poetry: 1
+erotic fiction: 1
+sutpen family: 1
+cemetery: 1
+giannina braschi: 1
+florence: 1
+my struggle: 1
+julian fellowes: 1
+genocides: 1
+middlemarch: 1
+edward vi: 1
+negritude: 1
+the poisonwood bible: 1
+newts: 1
+harvard university: 1
+solar eclipse: 1
+science fiction: 1
+iowa: 1
+hp lovecraft: 1
+franklin: 1
+trueba family: 1
+love in a cold climate: 1
+amoretti: 1
+the doctors wife: 1
+hemingways iceberg theory: 1
+jewel robbery: 1
+gothic fiction: 1
+mary dalton: 1
+the game of love and chance: 1
+murakami: 1
+umbrellas: 1
+floods: 1
+marienbad elegy: 1
+zimbabwe: 1
+the tutsi: 1
+picaresque fiction: 1
+brennus: 1
+lamb: 1
+suicide notes: 1
+native american reservations: 1
+thirty years war: 1
+balzac and the little chinese seamstress: 1
+the haunting of hill house: 1
+barricades: 1
+secondperson narration: 1
+british empire: 1
+bengali: 1
+uriah heep: 1
+alcoholism: 1
+oral history: 1
+the poets father: 1
+ghost stories: 1
+the law: 1
+they have large noses: 1
+the devil: 1
+james boswell: 1
+march family: 1
+dutch: 1
+plays: 1
+ancient egypt: 1
+the murder of king duncan in macbeth: 1
+chimney sweepers: 1
+kunta kinte: 1
+weste  rn: 1
+garden: 1
+the black death: 1
+jackson: 1
+minister: 1
+atherine  mansfield  murry: 1
+compiling the  oxford  english  dictionary: 1
+memoirs: 1
+the hunchback of notre‚≠dame: 1
+typefaces: 1
+stanley  kowalski: 1
+anarchy: 1
+duels: 1
+maryland: 1
+banks: 1
+ships of aeneas: 1
+emperors of rome: 1
+british india: 1
+maggie johnson: 1
+josef s780vejk yosef shvake: 1
+g k chesterton: 1
+lotus flowers: 1
+verona: 1
+jose769 marti769: 1
+keller: 1
+adolf eichmann ikemahn: 1
+rosenberg: 1
+mexicanamerican: 1
+a salesman: 1
+words: 1
+ewell: 1
+walden pond: 1
+book burning: 1
+american revolution: 1
+infinity: 1
+lolita haze: 1
+travelogues: 1
+winston smith: 1
+homeric similes: 1
+congo river: 1
+shipwreck: 1
+painter: 1
+annabel lee: 1
+rosa: 1
+jewish people: 1
+spanish accept espan 771ol 65532: 1
+scotland accept alba: 1
+the odyssey 65532: 1
+italian accept italiano: 1
+dictionary accept dictionaries: 1
+diamonds: 1
+you: 1
+the government inspector: 1
+sicily: 1
+w‚nbsph‚nbspauden: 1
+lightness: 1
+saint petersburg: 1
+graves: 1
+opium: 1
+the buddenbrooks: 1
+evelyn: 1
+priest: 1
+lennie small: 1
+epistle to dr arbuthnot: 1
+friars: 1
+tsukuru tazaki: 1
+the dog in the manger: 1
+cecil daylewis: 1
+an horatian ode upon cromwells return from ireland: 1
+michael kohlhaas: 1
+facundo civilization and barbarism: 1
+the tragedy of coriolanus: 1
+queen gertrude: 1
+claudius ptolemy: 1
+shanghai: 1
+between the acts: 1
+the makioka family: 1
+john buchan: 1
+dictionary of the khazars a lexicon novel: 1
+harun alrashid: 1
+romain rolland: 1
+septimus hodge: 1
+nicholas salmanovitch rubashov: 1
+the cambridge five spy ring: 1
+julia alvarez: 1
+candida a mystery: 1
+malaria: 1
+the fifth column: 1
+the innocents abroad: 1
+a hightoned old christian woman: 1
+mephistopheles: 1
+my brilliant career: 1
+eyeless in gaza: 1
+the heroides: 1
+the lantier family: 1
+ha jin: 1
+ge769rard de nerval: 1
+going after cacciato: 1
+ukrainian: 1
+the sinking of the rms titanic: 1
+franc807ois villon: 1
+tar baby: 1
+marie de france: 1
+caddy compson: 1
+magicians: 1
+j alfred prufrock: 1
+albatrosses: 1
+the lorelei: 1
+the masque of anarchy: 1
+alec durberville: 1
+happy loman: 1
+the bridge of san luis rey: 1
+julio cort„°zar: 1
+shoopuffs: 1
+final fantasy iv: 1
+chefs: 1
+missing: 1
+instantly getting a game over: 1
+tanks: 1
+dr strangelove or how i learned to stop worrying and love the bomb jrjr: 1
+anna gl  gl: 1
+beloved glgl: 1
+radio glgl: 1
+oscar: 1
+medea glgl: 1
+syphilis glgl: 1
+being dead: 1
+mr darcy: 1
+guinevere: 1
+jd salinger: 1
+aeneas glgl: 1
+pygmalion glgl: 1
+thornton: 1
+a bell: 1
+hermann: 1
+elementary schools: 1
+a throw of the dice will never abolish chance: 1
+philadelphia: 1
+fleas: 1
+osamu tezuka: 1
+republic of peru: 1
+bohumil hrabal: 1
+the case for reparations: 1
+the graveyard poetsschooletc: 1
+martin mcdonagh: 1
+the prague cemetery: 1
+seven types of ambiguity: 1
+john dowell: 1
+fear and loathing in las vegas: 1
+eagles: 1
+roxana the fortunate mistress: 1
+spring and all: 1
+sudan: 1
+religio medici: 1
+the middle passage: 1
+marilynne robinson: 1
+do„±a rosita the spinster or the language of flowers: 1
+the suppliants: 1
+mori 332gai: 1
+penny dreadfuls: 1
+the monster and other stories: 1
+the feast of the goat: 1
+giorgos seferis: 1
+britomart: 1
+jerry: 1
+indian summer: 1
+mars: 1
+castle rackrent: 1
+carlo goldoni: 1
+vivie warren: 1
+juan goytisolo: 1
+horaces satires: 1
+henry iii: 1
+college or university: 1
+wyoming: 1
+catholic priests: 1
+western prompt on cowboy novel or oater if respondent over 80 years old: 1
+william b: 1
+boston: 1
+tennis: 1
+chess: 1
+tiger: 1
+buendia: 1
+bloomsday: 1
+george steiner: 1
+adam: 1
+sonnets of death: 1
+wit: 1
+byronic hero: 1
+campus novels: 1
+dmitris trial: 1
+george saunders: 1
+aborigines: 1
+marcel: 1
+wapshot: 1
+tanuki: 1
+brangwen: 1
+authors: 1
+francoprussian war: 1
+ gerontion: 1
+falstaff: 1
+the franklin: 1
+mechanical hound: 1
+assassins of caesar: 1
+dresden: 1
+mohun biswas: 1
+pliny: 1
+charlotte s: 1
+the destruction of sennacherib: 1
+shall i compare thee to a summers day: 1
+the human stain: 1
+beaches: 1
+babies: 1
+paul benjamin auster: 1
+the marabar caves: 1
+plautus: 1
+the partition of india: 1
+the capulet tomb: 1
+father brown: 1
+erik: 1
+charles: 1
+the earnshaw family: 1
+rocinante: 1
+old french: 1
+sailors: 1
+the fish: 1
+stars: 1
+moscow: 1
+joe dimaggio: 1
+adam trask: 1
+the trial of dmitri karamazov: 1
+oliver mellors: 1
+the fourth circle: 1
+raveloe: 1
+emily grierson: 1
+theogony: 1
+the madeleine from in search of lost time: 1
+daodejing: 1
+comic books: 1
+arrowsmit: 1
+sledding: 1
+eb white: 1
+theory of the four humors: 1
+indian reservations: 1
+e l doctorow: 1
+bronte776: 1
+colleges: 1
+alexey alexandrovich karenin: 1
+harry hopes saloon: 1
+polynices: 1
+performing abortions: 1
+buddenbrooks the decline of a family: 1
+the glass family: 1
+fairy tales: 1
+if‚ñ: 1
+no country for old men: 1
+alcott: 1
+the summoners tale: 1
+the suitors of penelope: 1
+swiss alps: 1
+orphans: 1
+abbey: 1
+michael obiajulu okonkwo: 1
+archangels: 1
+ballad: 1
+ron: 1
+donna tartt: 1
+17th century: 1
+wans: 1
+names: 1
+the gift outright: 1
+jime769nez: 1
+cathy earnshaw: 1
+myyouretc blood: 1
+iraq war: 1
+eye: 1
+young to776rless: 1
+miikhail mikhailovich bakhtin: 1
+the conch shell: 1
+margot: 1
+christian conversion: 1
+albertine simonet: 1
+children: 1
+praisesinging: 1
+henry ford: 1
+british army: 1
+franz peter schubert: 1
+ubu: 1
+the curious incident of the dog in the nighttime: 1
+red sorghum a novel of china: 1
+proserpine: 1
+bosnia and herzegovina: 1
+communism or state socialism: 1
+the history boys: 1
+toothed whales: 1
+the new life: 1
+our sorrow: 1
+each in his own way: 1
+antonio salieri: 1
+dewey dells abortion: 1
+mountains: 1
+rontal fog: 1
+mohsin hamid: 1
+christine de pizan: 1
+chinatown: 1
+alexander popes translation of homers iliad: 1
+drinking alcohol: 1
+delianpythian apollo: 1
+harper: 1
+flush: 1
+grimes family: 1
+the double: 1
+cinnamon: 1
+meursaults trial for murder: 1
+having a hunchback or humped back: 1
+hour: 1
+high court judges: 1
+opera singer: 1
+the shadowline: 1
+sleeping: 1
+frances franny glass: 1
+proposing marriage: 1
+human hearts: 1
+times arrow or the nature of the offence: 1
+culture and anarchy: 1
+shepherd: 1
+the simurgh: 1
+funeral: 1
+district doctors: 1
+edgar lee masters: 1
+zembla: 1
+hadrian: 1
+fanny: 1
+the769ophile gautier: 1
+freud: 1
+cocaine: 1
+robinson: 1
+twin prime numbers: 1
+human the leadin is from thom gunns the human condition: 1
+stephen jay greenblatt: 1
+the leadin is from yvonne adhiambo owuors strongly recommended dust: 1
+snipebearstagducketc hunting: 1
+sadi: 1
+the other reader: 1
+cats accept felis catus or felis silvestris catus accept logical slang for cats such as kitty prompt on feline: 1
+haiku accept hokku: 1
+the tell‚≠tale heart: 1
+nelle harper lee: 1
+nineteen eighty‚≠four: 1
+pulitzer prize for fiction: 1
+lady lazarus: 1
+dialogues: 1
+bundrens: 1
+alex: 1
+junot d„≠az: 1
+andr„© gide: 1
+natsume s333seki: 1
+gerontion: 1
+persepolis: 1
+weavers: 1
+now is the winter of our discontent: 1
+name day celebrations: 1
+the shipping news: 1
+lisbon: 1
+gilbert adair: 1
+naomi: 1
+jensen: 1
+richard yates: 1
+gyres: 1
+josef ‚ävejk: 1
+movies: 1
+terence francis terry eagleton: 1
+swift: 1
+draupadi: 1
+lily bart: 1
+orpheus: 1
+the laughing man: 1
+utopian novels: 1
+the lords prayer: 1
+little father time: 1
+fallacies: 1
+literary genres: 1
+tanehisi nehahsee coates: 1
+on photography: 1
+courtly love: 1
+the objective correlative: 1
+dido: 1
+the myth of sisyphus: 1
+english romanticism: 1
+i hear america singing: 1
+ruslan and lyudmila: 1
+the black monk: 1
+jordanes: 1
+tortilla flat: 1
+pavel ivanovich chichikov: 1
+the steeple jack: 1
+ryszard kapuscinski: 1
+benjy compson: 1
+at swimtwobirds: 1
+detective ‚Åction or stories: 1
+david ives: 1
+the magic barrel: 1
+mary tyrone: 1
+la pere gorio: 1
+the goldbug: 1
+tess durbey‚Åeld: 1
+a supposedly fun thing ill never do again: 1
+abbey of theleme: 1
+king lears fool: 1
+church going: 1
+grotesque: 1
+faehmel family: 1
+thomas dekker: 1
+fatelessness: 1
+judas iscariot: 1
+the black riders and other lines: 1
+wolf hall: 1
+jonathan lethem: 1
+vladimir propp: 1
+maggie tulliver: 1
+belami: 1
+tevye the dairyman: 1
+ashwednesday: 1
+orlando a biography: 1
+platos republic: 1
+anthony powell: 1
+a loaf of bread: 1
+aampp: 1
+the seawolf: 1
+neolatin: 1
+professor james moriarty: 1
+gandalf the grey: 1
+santiago: 1
+gilgamesh the king: 1
+pearls: 1
+aristotle of stagira: 1
+pianoforte: 1
+the end of the world as we know it: 1
+houses: 1
+bilbo baggins: 1
+luck: 1
+kingdom of france: 1
+portuguese language: 1
+albatrosses jr  jr: 1
+big brother glgl: 1
+dictionary: 1
+jack a k gladney: 1
+rita frances dove: 1
+caliban upon setebos or natural theology in the island: 1
+belgian congo: 1
+the year of the death of ricardo reis: 1
+formalism: 1
+republic of austria: 1
+rope: 1
+for esm„©‚ówith love and squalor: 1
+paulmarie verlaine: 1
+foxes: 1
+samuel shepard rogers iii: 1
+gilgamesh or bilgames: 1
+jake barnes: 1
+henry white: 1
+the temple of dawn: 1
+hetty sorrel: 1
+the big money: 1
+the spirit catches you and you fall down: 1
+nathan the wise: 1
+the garden: 1
+a report to an academy: 1
+nine: 1
+ludwig: 1
+milton a poem: 1
+wt: 1
+alan bennett: 1
+ah wilderness: 1
+gikuyu language: 1
+walter: 1
+charles simic769: 1
+harlan: 1
+on being blue a philosophical inquiry: 1
+forest of arden: 1
+ah are you digging on my grave: 1
+out out‚ó: 1
+julio: 1
+dust: 1
+peter handke: 1
+lucasta: 1
+greek theaters: 1
+cyborgs: 1
+12	modernismo: 1
+16	panchatantra: 1
+baron corvo: 1
+„¢‚Ä‚úgimpel the fool„¢‚Ä‚ù: 1
+tommy d: 1
+osip: 1
+„¢‚Ä‚úthe ocean full of bowling balls„¢‚Ä‚ù: 1
+an encounter: 1
+little gidding: 1
+the goat: 1
+4	the kingdom of this world: 1
+paul val„©ry: 1
+the shortest way with the dissenters: 1
+the vagina monologues: 1
+kojiki: 1
+the white mans burden: 1
+sand: 1
+h l mencken: 1
+the diamond necklace: 1
+the two noble kinsmen: 1
+tralfamadore: 1
+syria: 1
+bill bryson: 1
+second jacobite rising: 1
+tokyo: 1
+bears: 1
+film criticism accept film review movie writing film theory etc: 1
+turkey: 1
+stopping by woods on a snowy evening: 1
+beatrice: 1
+priests: 1
+baker: 1
+emilia galotti: 1
+waiting: 1
+the spectator papers: 1
+paul: 1
+typhoon: 1
+the crime of father amaro: 1
+hernani: 1
+ludwig van beethoven: 1
+the classic of poetry: 1
+paul claudel: 1
+the enigma of arrival: 1
+the shahnameh: 1
+the awful rowing toward god: 1
+lenz: 1
+dentist: 1
+mating: 1
+tobias trilogy: 1
+terrence mcnally: 1
+for the marriage of faustus and helen: 1
+balthasar or balthazar or balt: 1
+iain: 1
+in praise of shadows: 1
+muriel rukeyser: 1
+jesus son: 1
+blackmail: 1
+the defense: 1
+hemingway code hero: 1
+romeo: 1
+clarence beeftank: 1
+pyncheon family: 1
+after applepicking: 1
+a frolic of his own: 1
+architect: 1
+homecoming: 1
+nothing on: 1
+cornelius suttree: 1
+dreamtigers: 1
+berenice: 1
+madame de sta„´l: 1
+shelleys skylark: 1
+death poems: 1
+the postman: 1
+the collar: 1
+the yiddish policemens union: 1
+juan ram„≥n jim„©nez: 1
+a psalm of life: 1
+aristomenes: 1
+gertrude and claudius: 1
+jessica mitford: 1
+cogwheels: 1
+the sun family: 1
+gabriela mistrals mother: 1
+uncle wiggily in connecticut: 1
+a cool million the dismantling of lemuel pitkin: 1
+hymns to the night: 1
+seth pecksniff: 1
+amory blaine: 1
+the book of margery kempe: 1
+tamburlaine the great: 1
+the thebaid: 1
+beyond the pleasure principle: 1
+forbidden colors: 1
+an arundel tomb: 1
+a modern instance: 1
+jude fawley: 1
+sea grapes: 1
+junkie: 1
+the sun rising: 1
+big twohearted river: 1
+lord byrons mistresses: 1
+yugoslav wars: 1
+epic proems: 1
+the joke: 1
+gaius cilnius maecenas: 1
+the berlin stories: 1
+das nibelungenlied: 1
+all for: 1
+the savage detectives: 1
+six degrees of separation: 1
+perfume: 1
+du‚öan charles simi: 1
+the murder of gonzago: 1
+rikkitikkitavi: 1
+flyting: 1
+the prioresss tale: 1
+auguries of innocence: 1
+larry slade: 1
+eclogue iv: 1
+bishop charles myriel: 1
+the hill: 1
+thomas sutpens mansion: 1
+wordless novels: 1
+the anatomy of melancholy: 1
+bhagavadgita prompt on mahabharata until fight: 1
+j b: 1
+peter pan: 1
+macbeth prompt on thane of fife or thane of cawdor: 1
+charlottes web: 1
+harlequin: 1
+lowry: 1
+gardens: 1
+the walrus and the carpenter: 1
+christina rosetti: 1
+villanelle: 1
+221b baker street: 1
+beautiful losers: 1
+anything referring to dumbledore being gay: 1
+elinor wylie: 1
+lucy maud montgomery: 1
+abortion: 1
+zooey: 1
+the shooting of dan mcgrew: 1
+theodore teddy laurie lawrence: 1
+chickamauga: 1
+beren erchamion or camlost and l„∫thien tin„∫viel: 1
+rats: 1
+microserfs: 1
+the shark: 1
+rohinton mistry: 1
+north and south: 1
+henry reed: 1
+larrys party: 1
+the 500 hats of bartholomew cubbins: 1
+apollinaire: 1
+captain frederick wentworths letter to anne elliot: 1
+apartheid: 1
+italian language: 1
+lady murasaki shikibu: 1
+book i of the aeneid: 1
+big daddy pollitt: 1
+the glengarry leads: 1
+lily briscoe: 1
+auschwitzbirkenau: 1
+buddenbrooks: 1
+the american south: 1
+sethe suggs: 1
+chimney sweeps: 1
+coal miners: 1
+nuremberg nazi rallies: 1
+birthdays: 1
+blues: 1
+storytelling: 1
+julio corta769zar: 1
+rivers: 1
+visigoths: 1
+cathedrals: 1
+bananafish: 1
+mrs malaprop: 1
+the raft in huck finn: 1
+joad family: 1
+airplanes: 1
+iran: 1
+bullfights: 1
+collins: 1
+hotels: 1
+satyricon liber: 1
+out of africa: 1
+dionysus: 1
+anne sexton: 1
+the mann family: 1
+the sonnets to orpheus: 1
+the bostoanians: 1
+being and nothingness an essay on phenomenological ontology: 1
+edmund: 1
+three: 1
+the atlantic monthly: 1
+supermarkets: 1
+harry s truman: 1
+kites: 1
+narnia: 1
+firemen: 1
+aesops fables: 1
+colonial america: 1
+socratic dialogues: 1
+drama: 1
+immigrating to america: 1
+homeros: 1
+alices adventures in wonderland: 1
+dreams or nightmares or baldurs dreams or baldrs draumar or the dreamtime or the dreaming: 1
+p„§r fabian lagerkvist: 1
+dutch or nederlands: 1
+trimalchio: 1
+the pearl or the pearl of the world: 1
+deliverance: 1
+john cleland: 1
+karl kraus: 1
+the adventures of roderick random: 1
+the tragedians: 1
+sholom aleichem: 1
+aravind adiga: 1
+private lives: 1
+sunflower sutra: 1
+tom robbins: 1
+alyosha the pot: 1
+ding ling: 1
+vita sackvillewest: 1
+oceanus: 1
+joel barlow: 1
+the mayor of zalamea: 1
+turandot: 1
+marcus tullius cicero: 1
+gypsies or gypsy: 1
+goodbye columbus: 1
+written chinese: 1
+ama ata aidoo: 1
+the deerslayer: 1
+swanns way: 1
+heritage: 1
+hadji murad: 1
+mike fink: 1
+john ohara: 1
+alain robbegrillet: 1
+friedrich durrenmatt: 1
+annie john: 1
+the master of petersburg: 1
+the country of the pointed firs: 1
+the narrative of arthur gordon pym of nantucket: 1
+paul valery: 1
+the eolian harp: 1
+thomas sutpen: 1
+shakespearean fools: 1
+stutter: 1
+salem massachusetts: 1
+graveyards: 1
+publius cornelius tacitus: 1
+earthly powers: 1
+the train was on time: 1
+a confederate general from big sur: 1
+the hour of the star: 1
+the lieutenant of innishmore: 1
+the woman at the washington zoo: 1
+the psychiatrist: 1
+le pingpong: 1
+english bards and scotch reviewers a satire: 1
+nizami ganjavi: 1
+reginald: 1
+the story of the eye or lhistoire de loeil: 1
+narratives of empire or american chronicle: 1
+we were the mulvaneys: 1
+liliom: 1
+fifth business: 1
+friar bacon and friar bungay: 1
+ill take my stand the south and the agrarian tradition: 1
+the face of another or tanin no kao: 1
+stand on zanzibar: 1
+the spell or die verzauberung: 1
+macedonio fernandez: 1
+stefan zweig: 1
+mori ogai: 1
+the sunlight dialogues: 1
+ostap suleiman berta maria benderbey: 1
+histories of rome: 1
+the twilight saga new moon: 1
+beards: 1
+crossdressing: 1
+chorus: 1
+heart: 1
+concentration camps: 1
+blind people: 1
+plague breakout: 1
+all the worlds a stage: 1
+william beckford: 1
+istanbul: 1
+william trevor: 1
+nightwood: 1
+pahom: 1
+the zhuangzi: 1
+arden of faversham: 1
+guido cavalcanti: 1
+zhu bajie: 1
+madame defarge: 1
+ramona: 1
+pelleas and melisande: 1
+lute: 1
+under western eyes: 1
+radio playdramatheater: 1
+ward no 6: 1
+the stone diaries: 1
+larry kramer: 1
+dwarfism: 1
+host: 1
+pan tadeusz: 1
+antonio machado y ruiz: 1
+a childs christmas in wales: 1
+ben hecht: 1
+the palmwine tapster: 1
+william faulkners nobel acceptance speech: 1
+this limetree bower my prison: 1
+arkady ivanovich svidrigailov: 1
+the gambler the nun and the radio: 1
+pro caelio: 1
+the graveyard from act v scene i of hamlet: 1
+felicia hemans: 1
+iphigenia in tauris: 1
+the new york trilogy: 1
+the thief and the dogs or elliss wa elkilab: 1
+cleon: 1
+marianne dashwood: 1
+gilead: 1
+the battle of actium: 1
+platos laws: 1
+the lost steps: 1
+moses joseph roth: 1
+uji: 1
+cacus: 1
+buck: 1
+fahrenheit451: 1
+the tale of despereaux: 1
+bridge to terabithia: 1
+the phantom tollbooth: 1
+gordon korman: 1
+the wind in the willows: 1
+the hobbit: 1
+henrik: 1
+irwin allen ginsber: 1
+the clouds or nephelai: 1
+richard nixon: 1
+n„©gritude: 1
+dwarfs: 1
+dan brown: 1
+japan or nippon: 1
+the wasteland prompt on the grail kingdom: 1
+lillian hellmann: 1
+virginia: 1
+seven deadly sins: 1
+light accept elaborations like the furthest city light or daylight: 1
+blue or bleu or bluest: 1
+bennet family: 1
+piano: 1
+tess of the durvervilles: 1
+allegory of the cave: 1
+khaled hosseini: 1
+mercutio: 1
+myrmidons: 1
+theaters: 1
+albrecht von wallenstein: 1
+nora leaving her family: 1
+life studies: 1
+amadeus: 1
+the grandmother: 1
+earthquakes: 1
+professor: 1
+esther greenwood: 1
+the stronguovercoatustrong: 1
+the okonkwo family: 1
+new york state: 1
+the finches: 1
+england: 1
+a prison: 1
+owen: 1
+aluminum: 1
+a study in scarlet: 1
+zarathustra: 1
+laura wingfield: 1
+anne radcliffe: 1
+george f babbitt: 1
+the duchess of ferrara: 1
+the seven ages of man speech: 1
+shakespearean authorship question: 1
+the histories: 1
+snow white: 1
+finch family: 1
+ostap bender accept either: 1
+the last leaf: 1
+der sandmann or the sandman: 1
+sejanus his fall: 1
+volcanoes accept lava before loves these things: 1
+digital fortress: 1
+it cant happen here: 1
+i am charlotte simmons: 1
+the swiss family robinson or der schweizerische robinson: 1
+babylon: 1
+vivian grey accept either: 1
+counterattack: 1
+the spiders thread or kumo no ito: 1
+eclogues or bucolics before mention: 1
+purgatorio or purgatory: 1
+the night of january 16th: 1
+horse races: 1
+babiyy yar: 1
+horace smith: 1
+chuzzlewit: 1
+yeats introduction to gitanjali prompt on gitanjali accept synonyms for introduction: 1
+tomas transtromer: 1
+the lusty argonian maid everything is in superpower: 1
+plane crashes accept basically any synonym for crash that indicates a plane getting destroyed like explosions: 1
+el sur or the south: 1
+islands: 1
+playing scrabble prompt on things like offred secretly visiting the commander at night: 1
+ciceros first oration against catiline accept synonyms prompt generously: 1
+the wasps or sphekes: 1
+randle mcmurphy: 1
+breaking dawn: 1
+porfiry petrovich accept either: 1
+catullus carmen 16 accept pedicabo ego vos et irrumabo or translations of the first line like i will sodomize you and irrumate you before mention: 1
+lorelei or lore lay i guess: 1
+butler: 1
+the magician of lublin: 1
+eros turannos: 1
+fantastic beasts and where to find them: 1
+the banquet of trimalchio word order doesnt matter accept synonyms for banquet like dinner or feast: 1
+eyes: 1
+max accept specific maxs like max ophuls or boris max: 1
+reverend hooper: 1
+juniper beatrice junie b jones accept either: 1
+the moon be lenient if they answer like moonlight or something: 1
+richard halley: 1
+lotteries accept specific types like those occurring in babylon: 1
+the circus animals desertion: 1
+chess story accept the royal game or schachnovelle: 1
+hecyra or the motherinlaw: 1
+sanctuary: 1
+jia baoyu prompt on jia: 1
+lemony snicket accept daniel handler begrudgingly: 1
+spice or melange: 1
+the little mermaid or den lille havfrue or the little sealady: 1
+macbeth prompt on the scottish play: 1
+the fault in our stars: 1
+stamp act of 1765: 1
+the recognition of 346akuntal257: 1
+farts: 1
+the netherlands: 1
+nurse ratched: 1
+gothic novels: 1
+roses or rosebuds: 1
+egyptian: 1
+greek chorus: 1
+wheel of time: 1
+euclid: 1
+sequoyah: 1
+sor juana: 1
+the final problem: 1
+a catholic priest: 1
+william patrick kinsella: 1
+figaro: 1
+william studs lonigan: 1
+griselda: 1
+hesiodos: 1
+ezra pounds pisan cantos: 1
+the tragedy of the dutchess of malfi: 1
+ordinary people: 1
+abel magwitch: 1
+don carlos infant von spanien: 1
+irvine welsh: 1
+modernismo: 1
+down at the dinghy: 1
+gabriel oak: 1
+the sebastopol sketches: 1
+the waterbabies a fairy tale for a landbaby: 1
+wild nights wild nights: 1
+the countess of pembrokes arcadia: 1
+frank algernon cowperwood: 1
+coronations of british monarchs: 1
+brendan behan: 1
+the auroras of autumn: 1
+swords in beowulf: 1
+the childhood of jesus: 1
+camille paglia: 1
+memoirs of hadrian: 1
+timofey pnin: 1
+woodcutters: 1
+troilus: 1
+bohemia: 1
+essay on blindness: 1
+alyosha: 1
+wingfield family: 1
+zenobia: 1
+ramsay family: 1
+anthony robert tony kushner: 1
+roman satire: 1
+mirrors: 1
+henry louis mencken: 1
+pantagruel: 1
+strange meeting: 1
+gulistan: 1
+middlesex: 1
+anais nin: 1
+the war with the newts: 1
+snowbound: 1
+morocco: 1
+two trains running: 1
+pharsalia: 1
+hudibras: 1
+nostromo: 1
+audre lorde: 1
+lady brett ashley: 1
+the breasts of tiresias: 1
+eliza harris: 1
+sir gareth: 1
+heracles: 1
+the prioress tale: 1
+wright: 1
+elemental odes: 1
+a sportmans sketches: 1
+emperor of mexico: 1
+ship of fools: 1
+pierreaugustin caron de beaumarchais: 1
+richard ford: 1
+john the savage: 1
+torquato tasso: 1
+masnavi i manavi: 1
+charles the great: 1
+bunraku: 1
+maori people: 1
+isaak babel: 1
+don quixotes attack on the windmills: 1
+josef k: 1
+surrealism: 1
+cockroaches: 1
+berlin: 1
+thunder: 1
+the compleat angler: 1
+the swimmer: 1
+heinrich mann: 1
+havana or habana: 1
+barnaby rudge: 1
+in memoriam a h h: 1
+procopius of caesarea: 1
+the revolt of islam: 1
+encyclopedias: 1
+mann: 1
+mower poems: 1
+the day of doom: 1
+crabwalk: 1
+sidney aaron paddy chayefsky: 1
+nicanor parra or nicanor parra sandoval: 1
+the revolt of the angels or la revolte des anges: 1
+black like me: 1
+henrik pontoppidan: 1
+alfred noyes: 1
+a pair of blue eyes: 1
+steven millhauser: 1
+red calvary or konarmija: 1
+ren„©: 1
+chitra divakaruni: 1
+homo faber: 1
+andrei platonov: 1
+pictures from an institution: 1
+rachid boudjedra: 1
+cooking spaghetti: 1
+stevens: 1
+neil gaiman: 1
+the ugly duckling: 1
+auld lang syne: 1
+katniss everdeen: 1
+mr poppers penguins: 1
+the polar express: 1
+essays: 1
+mrs frisby and the rats of nimh: 1
+guns: 1
+john fitzgerald kennedy assassination: 1
+emperor: 1
+poltava: 1
+the caribbean: 1
+dog: 1
+raskolnikov: 1
+le petit prince: 1
+to be or not to be soliloquy: 1
+the swedish academy: 1
+miami: 1
+merovingian dynasty: 1
+dublin: 1
+finlandia: 1
+to an athlete dying young: 1
+pearl prynne: 1
+the dark lady: 1
+walpole: 1
+six records of a floating life: 1
+the thinkery: 1
+ossian: 1
+christa wolf: 1
+divinity school address: 1
+ode to ethiopia: 1
+three gorges dam: 1
+bathsheba everdene: 1
+the stronguravenustrong: 1
+spanishamerican war: 1
+benjamin jonson: 1
+willys funeral: 1
+suicide note: 1
+resurrection: 1
+bestiaries: 1
+andrea chenier: 1
+the lives of the caesars: 1
+the solitary reaper: 1
+lady rowena: 1
+alcestis: 1
+the big sleep: 1
+revolutionary road: 1
+the laramie project: 1
+spring and autumn annals: 1
+henryk: 1
+aubade: 1
+the apotheosis of homer: 1
+sallust: 1
+egdon heath: 1
+lazaro cardenas del rio: 1
+tonight i can write the saddest lines: 1
+pilot: 1
+the girls of slender means: 1
+peter quince at the clavier: 1
+lindisfarne: 1
+sizwe banzi is dead: 1
+the mother: 1
+the homeric hymns: 1
+the way we live now: 1
+lady chatterley: 1
+jabberwocky: 1
+venice italy: 1
+elsinore castle: 1
+herbert: 1
+the heart: 1
+allie caulfields baseball mitt: 1
+chief bromden: 1
+george willard: 1
+the euthyphro: 1
+the lotoseaters: 1
+philoctetes: 1
+the hound of the baskervilles: 1
+the iliad: 1
+donkeys: 1
+los angeles california: 1
+xenophon: 1
+mark antonys funeral oration: 1
+teachers: 1
+jason compson iv: 1
+the soliloquies of hamlet: 1
+ode to joy: 1
+the screwtape letters: 1
+italo svevo: 1
+oscar hijuelos: 1
+central intelligence agency: 1
+edward george earle lytton bulwerlytton: 1
+piccoline or piccolino or the dwarf: 1
+georgics: 1
+the dial: 1
+the book of the courtier or il cortegiano: 1
+jared diamond: 1
+edmond dant„®s: 1
+a supermarket in california: 1
+second baron: 1
+fathers: 1
+hamlets soliloquies: 1
+us presidents: 1
+goose: 1
+hippolytus: 1
+pamela: 1
+sun wukong: 1
+mercy: 1
+athens: 1
+the martian chronicles: 1
+charlotte bront„´: 1
+pierre bezukhov or pierre bezuhov: 1
+the chairs: 1
+g„ºnter grass: 1
+enders game: 1
+boston tea party: 1
+douglas noel adams: 1
+nautilus: 1
+tales of moonlight and rain: 1
+hugh mcdiarmid: 1
+robert hass: 1
+franz grillparzer: 1
+eva luna: 1
+blast: 1
+the butterflys evil spell: 1
+hubert selby jr: 1
+cato: 1
+astolfo: 1
+the ark sakura: 1
+beyond the horizon: 1
+perfume the story of a murderer: 1
+librettos: 1
+gunnar gunnarsson: 1
+the year of magical thinking: 1
+nevil shute: 1
+pippa passes: 1
+war of canudos: 1
+the balcony scene: 1
+zuihitsu: 1
+peter abrahams: 1
+alastor or the spirit of solitude: 1
+puerto rico: 1
+gwendolen harleth: 1
+suzanlori parks: 1
+boris vian: 1
+prosper m„©rim„©e: 1
+the fortunes of richard mahony: 1
+v„°clav havel: 1
+uruguay: 1
+a party down at the square: 1
+the paris review: 1
+latin american boom: 1
+requiem for a nun: 1
+james wood: 1
+erec and enide: 1
+patrick branwell bront„´: 1
+indian camp: 1
+the gas heart: 1
+in evil hour: 1
+macaulay: 1
+the church porch: 1
+why i want to fuck ronald reagan: 1
+the tree of knowledge: 1
+hungarian: 1
+dusklands: 1
+alfred d„∂blin: 1
+michelangelo buonarroti: 1
+gentians: 1
+tryst with destiny: 1
+a dissertation upon roast pig: 1
+ayi kwei armah: 1
+sara teasdale: 1
+the broom of the system: 1
+fanny hill: 1
+songs of a sourdough: 1
+raja rao: 1
+richard doddridge blackmore: 1
+the secret sharer: 1
+friedrich klopstock: 1
+i taste a liquor never brewed: 1
+hymn to aphrodite: 1
+francisco sionil jos„©: 1
+slam poetry: 1
+ishmaelia: 1
+clouds: 1
+barbados: 1
+the south: 1
+tim winton: 1
+the investiture of the gods: 1
+in the first circle: 1
+the comedian as the letter c: 1
+leonard cohen: 1
+the skin game: 1
+la celestina: 1
+mia couto: 1
+mr lockwood: 1
+alison bechdel: 1
+phaeacians: 1
+st„©phane mallarm„©: 1
+the post office: 1
+white buildings: 1
+ithaca: 1
+architecture: 1
+netherlands: 1
+john berger: 1
+song dynasty: 1
+trimalchios feast: 1
+nana coupeau: 1
+c„©sar vallejo: 1
+farid uddin attar: 1
+hans fallada: 1
+i rigoberta mench„∫: 1
+let us now praise famous men: 1
+arthur charles clarke: 1
+kalevala: 1
+kongis harvest: 1
+william morris: 1
+russalka: 1
+reinaldo arenas: 1
+lotte in weimar the beloved returns: 1
+marian halcombe: 1
+abraham bulli yehoshua: 1
+aucassin and nicolette or aucassin et nicolette: 1
+tom wingfield: 1
+papageno: 1
+uncle toby: 1
+indonesia: 1
+mumbo jumbo: 1
+the whiteness of the whale: 1
+cities of salt or mudun almilh: 1
+samson and delilah: 1
+the song of maldoror: 1
+spatial antialiasing: 1
+candida: 1
+the fable of the bees: 1
+richard avedon: 1
+wendy wasserstein: 1
+the peony pavillion: 1
+the conformist: 1
+saga of burnt njal: 1
+ada or ardor a family chronicle: 1
+joao guimaraes rosa: 1
+saintjohn perse: 1
+the parliament of fowls: 1
+incidents in the life of a slave girl: 1
+elizabeth f loftus: 1
+richard purdy wilbur: 1
+limestone accept travertine before mentioned i guess prompt on sedimentary: 1
+the contrast: 1
+walking around: 1
+cassius dio: 1
+charles kingsley: 1
+trinidad and tobago: 1
+cassius: 1
+herbert jeffrey herbie hancock: 1
+therese raquin: 1
+heathcliffe: 1
+course in general linguistics: 1
+the tolstoy family: 1
+the black cat: 1
+canzoniere: 1
+book of job: 1
+preacher: 1
+akutagawa ryuunosuke: 1
+edwin meese: 1
+the book of martyrs accept the actes and monuments until thats mentioned: 1
+atala: 1
+ryu murakami prompt murakami of course: 1
+robert pinksy: 1
+harold mitch mitchell: 1
+nastasya filipovna or barashkova  any underlined portion is acceptable on its own: 1
+walker: 1
+stephen john fry: 1
+alan ayckbourn: 1
+port royal des champs: 1
+countee cullen: 1
+alfred jarry: 1
+the iron heel: 1
+tilbury town: 1
+tristan tzara: 1
+casement report: 1
+stephane mallarme: 1
+lucrezia borgia: 1
+euhemerus of messene: 1
+sozaboy a novel in rotten english: 1
+the violent bear it away: 1
+history will absolve me: 1
+city lights: 1
+lola montez or eliza rosanna gilbert or countess of landsfeld before mentioned: 1
+the merchants tale: 1
+yaar kemal or kemal sadk gokceli: 1
+ran: 1
+logic minimization: 1
+sarah ruhl: 1
+stella: 1
+jim burden: 1
+john edward masefield: 1
+the hunter gracchus: 1
+james graham ballard: 1
+judy blume: 1
+the mysterious benedict society: 1
+the chocolate war: 1
+holes: 1
+across five aprils: 1
+the giver: 1
+ernest: 1
+langston: 1
+one thousand and one: 1
+salinger: 1
+donkeyass: 1
+oconnor: 1
+burroughs: 1
+wasteland: 1
+injun joe: 1
+montaigne: 1
+judge: 1
+cooper: 1
+boccacio: 1
+invisibility: 1
+castle: 1
+wollstonecraft: 1
+hughes: 1
+mishima: 1
+surrealists: 1
+raven: 1
+sonnets by milton: 1
+pirandello: 1
+anomie: 1
+hemingway: 1
+greene: 1
+the boardingschool girl: 1
+ the bishop orders his tomb at st praxeds church: 1
+harvey: 1
+wormwood: 1
+and then there were none: 1
+if‚ó: 1
+merry: 1
+republica argentina: 1
+king arthur: 1
+peyton farquhar: 1
+yellow kid: 1
+edward anthony jenner: 1
+jackson pollock: 1
+frank lloyd wright: 1
+notredame de paris: 1
+che guevera: 1
+the riddler: 1
+edgar rice burroughs: 1
+quasimodo: 1
+epic poems: 1
+nonfiction novels: 1
+jerry seinfeld: 1
+irony: 1
+satire: 1
+hero: 1
+mary shelley: 1
+epistolary novel: 1
+morality play: 1
+epics: 1
+to throw: 1
+iambs: 1
+journalism: 1
+allegory: 1
+the social network: 1
+flowers: 1
+canon: 1
+metaphysical: 1
+aside: 1
+cavalier: 1
+orange: 1
+swan lake: 1
+inigo montoya: 1
+black beauty: 1
+in medias res: 1
+peasant revolts: 1
+roman a clef: 1
+nouns: 1
+tuskegee: 1
+umlauts: 1
+dictionaries: 1
+claudius: 1
+joads: 1
+state of israel: 1
+metaphysical poets: 1
+salt: 1
+sirius black: 1
+nathaniel stronguhawthorneustrong: 1
+the encantadas or the enchanted isles: 1
+the moors last sigh: 1
+to roosevelt: 1
+fateless or fatelessness or sorstalansag: 1
+bokononism: 1
+ernesto sabato: 1
+leopold senghor: 1
+francis burney: 1
+antonin artaud: 1
+hills like white elephants: 1
+amores or loves: 1
+odyssey: 1
+bertholt brecht: 1
+phaedra: 1
+sir: 1
+estella havisham drummle: 1
+the long goodbye: 1
+manon: 1
+the britishprison ship: 1
+the lady with the lapdog: 1
+tripmaster monkey his fake book: 1
+jim casy: 1
+emanuel swedenborg: 1
+abigail adams: 1
+batter my heart three persond god: 1
+the visit: 1
+the defence of poesy: 1
+the good person of szechwan: 1
+the heptameron: 1
+death and the compass: 1
+john bulls other island: 1
+the executioners song: 1
+luke havergal: 1
+yevegeniy aleksandrovich yevtushenko: 1
+abb„© faria: 1
+gran chaco war: 1
+sophies choice: 1
+maksim gorky: 1
+maxine hong kingston: 1
+despicable me: 1
+fluorescence: 1
+cheerleading: 1
+ally bank: 1
+carrie a portrait of a girl: 1
+noh drama: 1
+lawyer: 1
+the octopus a story of california: 1
+cunegonde: 1
+torah scrolls: 1
+vertigo: 1
+dueling: 1
+a sportsmans sketches: 1
+cormac mcca: 1
+the seven samurai: 1
+john stein: 1
+alexandria egypt: 1
+allen tate: 1
+edgar: 1
+eilert lovborgs manuscript: 1
+st simeon stylites: 1
+the lotos eaters: 1
+speeches of dr martin luther king jr: 1
+vowels: 1
+flowers for algernon: 1
+the recognition of sakuntala: 1
+australia ycyc: 1
+alfred stieglitz mag ycmag: 1
+steppenwolf mama: 1
+poland ycyc: 1
+the idiot ryry: 1
+dahomey: 1
+annalou annie leibovitz: 1
+eitheror or enteneller: 1
+alhambra: 1
+the battle of the books: 1
+sam shepard: 1
+paul reveres ride: 1
+outsourced: 1
+1666 great fire of london: 1
+scout finch: 1
+calcium also accept ca: 1
+middletown: 1
+jarndyce and: 1
+coal mines: 1
+george sand: 1
+parrots: 1
+paterson: 1
+music teacher: 1
+the gambler: 1
+endymion: 1
+susanna and the elders: 1
+the unfortunate traveler: 1
+enoch: 1
+john howard griffin: 1
+love medicine: 1
+edmond dantes: 1
+pilar: 1
+the phantom of the opera: 1
+umuofia: 1
+may day: 1
+roxane: 1
+little dorrit: 1
+mice: 1
+haroun and the sea of stories: 1
+lynching: 1
+teacher: 1
+wilfrid owen: 1
+the world as will and idea or the world as will and representation or die welt als wille und vorstellung: 1
+a clean well lighted place: 1
+paul baumer: 1
+the leopard or il gattopardo: 1
+bel ami: 1
+oliver wolf sacks md: 1
+child of god: 1
+convergence of the twain: 1
+perkin warbeck or perkin de werbecque: 1
+dirty hands or les mains sales: 1
+universal house of justice: 1
+patriotic gore: 1
+where angels fear to tread: 1
+the uses of enchantment: 1
+stockholm bloodbath or stockholm massacre or stockholms blodbad or det stockholmske blodbad: 1
+the hamlet: 1
+annus mirabilis: 1
+jane jacobs: 1
+the march: 1
+spinorbit coupling: 1
+hubbard model: 1
+toward a psychology of being: 1
+moses e herzog: 1
+money accept equivalents cash currency etc: 1
+rashi: 1
+the great god brown: 1
+micromegas: 1
+thomas merton: 1
+oration on the dignity of man or on the dignity of man: 1
+comus: 1
+homo or highest occupied molecular orbital: 1
+memories of my melancholy whores or memoria de mis putas tristes: 1
+pather panchali or the song of the little road or the lament of the path: 1
+right you are if you think you are or right you are if you think so or cosi e se vi pare: 1
+the blue hotel: 1
+francois mauriac: 1
+ian smith: 1
+where the air is clear or la region mas transparente: 1
+the italian or the confessional of the black penitents: 1
+the shadow of a gunman: 1
+the red room accept roda rommet: 1
+francois truffaut: 1
+empire: 1
+john shade: 1
+colorado rivers: 1
+the hedgehog and the fox: 1
+sir michael kemp tippett: 1
+towards a new architecture: 1
+the confessing church: 1
+richard dick diver: 1
+natsume: 1
+margaret sanger: 1
+the dry salvages pronounced to rhyme with assuages: 1
+the song of the lark: 1
+the peony pavilion or mudan ting: 1
+ising model: 1
+the vanity of human wishes: 1
+andre malraux: 1
+the four horsemen of the apocalypse: 1
+cyril lionel robert jame: 1
+the crime against kansas: 1
+yevgeny yevtushenko: 1
+n scott momaday: 1
+stephen decatur: 1
+heartbreak tango or boquitas pintadas: 1
+russian federation: 1
+the magic flute: 1
+the sun: 1
+gulliver: 1
+fallout 3: 1
+the lady of shallott: 1
+joseph stiglitz: 1
+gabriel garciamarquez: 1
+newton booth tarkington: 1
+rabbit: 1
+glyph1197ew zealand: 1
+norwegian wood: 1
+the forsytes: 1
+glyph817ausea: 1
+ode to a glyph1197ightingale: 1
+einstein on the beach: 1
+king berenge: 1
+the threepenny opera: 1
+boniface: 1
+the woman warrior: 1
+the mysterious flame of queen loana: 1
+bertold brecht: 1
+virgilius: 1
+burmese days: 1
+the rhinoceros: 1
+time of your life: 1
+the sevenstorey mountain: 1
+wang wei: 1
+athanasius of alexandria: 1
+l g: 1
+bhima the a is not always pronounced in hindi: 1
+sefer hazohar: 1
+the pit a story of chicago: 1
+jerusalem the emanation of the giant albion: 1
+the unvanquished: 1
+decarboxylation: 1
+atta troll: 1
+providence: 1
+as i lay with my head in your lap camerado: 1
+blind willow sleeping woman: 1
+rhodopsin: 1
+mary renault: 1
+philosophy and the mirror of nature: 1
+penn central transportation company: 1
+wozzeck: 1
+bread and wine: 1
+the sea and the mirror a commentary on shakespeares the tempest: 1
+ruddigore: 1
+billy phelans greatest game: 1
+kebra nagast: 1
+william graham sumner: 1
+on the concept of history: 1
+alphonse daudet: 1
+peter strongucareyustrong: 1
+the spectator: 1
+the shipyard or el astillero: 1
+at melvilles tomb: 1
+on murder considered as one of the fine arts: 1
+going to the moon: 1
+delmore schwartz: 1
+martha quest: 1
+sunday in the park with george sy: 1
+lupe fiasco: 1
+william byrd jha: 1
+the oxbow: 1
+ousmane sembene sy: 1
+domenico scarlatti: 1
+prince igor or knyaz igor jha: 1
+claes oldenburg haseeb: 1
+mulholland drive sy: 1
+the bartered bride or prodana nevsta jha: 1
+fanny and alexander: 1
+sun ra: 1
+the eichendorff liederkreis: 1
+nanook of the north sy: 1
+dream a little dream of me sy: 1
+hans arp: 1
+rear window sy: 1
+strange fruit sy: 1
+la bonne chanson jha: 1
+paul klee: 1
+louis malle sy: 1
+charade sy: 1
+decolonizing the mind: 1
+ernst junger: 1
+hafez: 1
+white jacket: 1
+the moons of jupiter: 1
+fasti: 1
+pity this busy monstermanunkind: 1
+sir giles overreach: 1
+kenilworth: 1
+raskolnikovs dreams: 1
+no44 the mysterious stranger: 1
+hymn to aten or akhenatens great hymn or great hymn to the sun before mentioned: 1
+the dog beneath the skin or where is francis: 1
+arthur schnitzler: 1
+the bridal canopy or hakhnasat kallah: 1
+catherine maria sedgwick: 1
+works and days or erga kai hemerai or opera et dies: 1
+blowup: 1
+song of the nibelungs or nibelunglied: 1
+the days of his grace or hans nades tid: 1
+lynne cheney: 1
+extremely loud and incredibly close: 1
+max frisch: 1
+william bradford: 1
+the celestial railroad: 1
+intercourse: 1
+roman elegies or erotica romana or romsiche elegien: 1
+uncle remus: 1
+eta hoffman: 1
+the garcia family: 1
+denis johnson: 1
+nikolai gumiliev: 1
+olaudah equiano or gustavus vassa: 1
+karen blixen or isaak dinesin: 1
+jaccuse: 1
+jack burden: 1
+a long way from chicago: 1
+california gurls: 1
+barcelona: 1
+st francis of assisi: 1
+salmon of knowledge or wisdom: 1
+free will accept free choice though some might frown on this: 1
+louis the pious or louis i: 1
+ahimsa: 1
+phillip ii: 1
+penelope: 1
+marie antoinette: 1
+welsh mythology: 1
+carbon dioxide or co2: 1
+a rakes progress: 1
+mt vesuvius: 1
+captain america: 1
+the beats: 1
+frodo baggins: 1
+francisco petrarca: 1
+michael anthony dorris: 1
+raymond queneau: 1
+the twelve: 1
+thomas love peacock: 1
+men dressing as women accept clear knowledge equivalents: 1
+invictus: 1
+frederic ogden nash: 1
+allen drury: 1
+wells: 1
+we have always lived in the castle: 1
+an account of my hut: 1
+friedrich‚nbspd„ºrrenmatt: 1
+translation‚nbsp: 1
+the‚nbspnonexistent knight: 1
+the‚nbspdivine comedy‚nbspor la‚nbspdivina commedia‚nbsp: 1
+named‚nbspyears‚nbspin haruki‚nbspmurakami‚nbspworks: 1
+the monk: 1
+saturnian poems: 1
+a r ammons: 1
+hemoglobin: 1
+charles mingus: 1
+flu drugs: 1
+winterreise: 1
+doc: 1
+questions of travel: 1
+tests of general relativity: 1
+sartoris family: 1
+the wasps: 1
+the grandissimes: 1
+slavoj zizek: 1
+call it sleep: 1
+naming and necessity: 1
+wilco: 1
+q: 1
+plotinus: 1
+the conservationist: 1
+pale horse pale rider: 1
+the sheep well: 1
+book of judges: 1
+hickey or theodore hickman: 1
+bruno latour: 1
+lethe: 1
+prize stock accept the catch: 1
+horaces carpe diem poem: 1
+theognis: 1
+satires of juvenal: 1
+attic nights: 1
+octavius: 1
+pervigilium veneris: 1
+eunuchus: 1
+batrachomyomachia: 1
+lucius apuleius: 1
+decimus magnus ausonius: 1
+simonides: 1
+on the marriage of mercury and philology: 1
+phaenomena: 1
+lucius accius: 1
+mordor: 1
+el doctorow: 1
+remembrance of things past: 1
+prix goncourt: 1
+zombies: 1
+the redheaded league: 1
+qfwfq: 1
+nervous conditions: 1
+the sunstone: 1
+sophies world: 1
+against the grain: 1
+little big or the fairies parliament: 1
+basque: 1
+this be the verse: 1
+doubt a parable: 1
+anyone lived in a pretty how town: 1
+the mystery of the yellow room: 1
+life a users manual: 1
+ts garp: 1
+the princess of cleves: 1
+bless me ultima: 1
+astrid lindgren: 1
+novelas ejemplares: 1
+mr wilkins micawber: 1
+charles brockden brown: 1
+laughable loves: 1
+jeanette winterson: 1
+david kepesh: 1
+bamboo: 1
+after many a summer dies the swan: 1
+joyce kilmer: 1
+kong yiji: 1
+polonius: 1
+brunhilde: 1
+the father: 1
+the knight of the burning pestle accept the london merchant until mentioned: 1
+strongusweeney among the nightingalesustrong: 1
+the book of common prayer and administration of the sacraments and other rites and ceremonies of the church according to the use of the church of england together with the psalter or psalms of david pointed as they are to be sung or said in churches and the form and manner of making ordaining and consecrating of bishops priests and deacons: 1
+once were warriors: 1
+harry harlow: 1
+victor frankl: 1
+subotai: 1
+kill bill: 1
+the unfortunate traveller or the life of jack wilton: 1
+khwajeh samsu ddin muammad hafeze shirazi: 1
+william of baskerville: 1
+kauravas: 1
+ismail kadare: 1
+zadig or fate: 1
+grand theft auto vice city: 1
+b traven: 1
+la bayadere: 1
+the concept of mind: 1
+mark helprin: 1
+corinnas going amaying: 1
+grover: 1
+nevsky prospect: 1
+wilfred edward salter: 1
+elmer: 1
+emile: 1
+teresa: 1
+step brothers: 1
+gregor: 1
+renoir: 1
+romulus: 1
+manchester: 1
+pc: 1
+ivan: 1
+martin arrowsmith: 1
+goblins: 1
+soames forsyte: 1
+alyosha karamazov: 1
+malcolm lowry: 1
+ernest james gaines: 1
+silent spring: 1
+harrison bergeron: 1
+genji: 1
+kenneth kesey: 1
+amartya sen: 1
+edward duke ellington: 1
+the decameron tales: 1
+x chromosomes: 1
+scarlett ohara: 1
+katerina minola: 1
+the negro speaks of rivers: 1
+james hilton: 1
+schindlers ark: 1
+mansfield: 1
+ruben: 1
+cadmus: 1
+nadine: 1
+eudora: 1
+aldous leonard: 1
+walden two: 1
+jall addn muammad: 1
+nikolay vasilyevich: 1
+waverley: 1
+khalil: 1
+ralph: 1
+arthur: 1
+kakfa on the shore: 1
+talcott: 1
+gabriela: 1
+derek: 1
+aleksandr sergeyevich: 1
+ian: 1
+republic of: 1
+flannery: 1
+the gospel of: 1
+seamus: 1
+jerome k jerome: 1
+umayyad: 1
+la: 1
+tobias: 1
+octavio: 1
+giovanni: 1
+niobe: 1
+echidna: 1
+phenomenology of mind: 1
+john hoyer stronguupdikeustrong: 1
+hongloumong: 1
+the luncheon on the grass: 1
+juventus football club: 1
+blackscholes model: 1
+leatherstocking tales: 1
+star trek: 1
+in cold blood: 1
+matsuo: 1
+catch22 ycyc: 1
+italy lclc: 1
+classical latin lclc: 1
+aristophanes ycyc: 1
+herodotus of halicarnassus zzzz: 1
+the awakening ycyc: 1
+incan mythology: 1
+the waking: 1
+bad faith or mauvais foi: 1
+the sleepwalkers: 1
+tzvetan todorov: 1
+the tenth muse lately sprung up in america: 1
+the origin of table manners: 1
+copenhagen: 1
+francis picabia: 1
+babi yar: 1
+the proci: 1
+from here to eternity: 1
+alexander nevsky cantata: 1
+battle of the metaurus river: 1
+sarah vowell: 1
+charles bukowski: 1
+desolation row: 1
+the subjection of women: 1
+john dillinger: 1
+battle of dien bien phu: 1
+wallenstein: 1
+pollice verso or with turned thumb: 1
+dative case: 1
+wernickes aphasia: 1
+pearl: 1
+the city in the sea: 1
+the panther: 1
+czesaw milosz chesswav meelosh: 1
+comedy: 1
+artemis: 1
+yu hua: 1
+skara brae: 1
+wayne shorter: 1
+edward kamau braithwaite: 1
+lost illusions: 1
+carbene: 1
+jean toomer: 1
+the trickster of seville: 1
+urea cycle: 1
+anna fierling: 1
+shhnmeh: 1
+frank capra: 1
+the barber of seville or the useless precaution: 1
+john willoughby: 1
+earl warren: 1
+norma: 1
+jenufa or jeji pastorkya: 1
+etienne maurice falconet: 1
+john henry cardinal newman: 1
+stanley kubrick: 1
+diffraction: 1
+astrophil and stella: 1
+the river merchants wife a letter: 1
+rna interference: 1
+arrested development: 1
+albert schweitzer: 1
+hilberts third problem accept anything involving cutting up a polyhedron and reassembling it into another one: 1
+the interpretation of cultures: 1
+maccabees: 1
+what is the third estate: 1
+malcolm gladwell: 1
+brideshead: 1
+gordon riots: 1
+john dewey: 1
+cat: 1
+giselle: 1
+albany new york: 1
+speed dating: 1
+the grandissimes a story of creole life: 1
+a dance to the music of time: 1
+terra nostra: 1
+john browns body: 1
+four books of sentences: 1
+the razors edge: 1
+the interlopers: 1
+wisawa szymborska: 1
+having the words love and hate tattooed on ones knuckles: 1
+the ethics of ambiguity: 1
+the dissents of antonin scalia: 1
+irving langmuir: 1
+dona floripedes dos guimaraes: 1
+finestructure constant: 1
+histidine: 1
+the interpretation of dreams: 1
+dog years: 1
+peru: 1
+cycloid: 1
+la gioconda: 1
+saint nicholas: 1
+the odessa tales: 1
+shangrila: 1
+dinosaurs: 1
+william ewart gladstone: 1
+john philip sousa: 1
+arthur dent: 1
+don jose: 1
+old spice: 1
+sonnet sequence: 1
+herbert spencer: 1
+barack obama: 1
+the confessions: 1
+lao tzu: 1
+rna splicing: 1
+an ass: 1
+three trapped tigers: 1
+willa: 1
+republic of strongupolandustrong: 1
+objectivism: 1
+the animals: 1
+mathew arnold: 1
+triangle: 1
+aarons rod: 1
+friedrich holderlin: 1
+james ingram merrill: 1
+the great train robbery: 1
+zeami motokiyo: 1
+adams memorial: 1
+the profumo affair: 1
+vowel harmony: 1
+colly cibber: 1
+sonnetto science: 1
+luke: 1
+moloch: 1
+feste the jester: 1
+cytokinesis: 1
+the protagoras: 1
+the fire next time: 1
+zaire: 1
+thunder bay: 1
+the kraken: 1
+on heroes and tomb: 1
+denisdiderot: 1
+quus: 1
+robertfrost: 1
+god bless you mr rosewater: 1
+mandragola: 1
+robert oxton bolt: 1
+the third earl of shaftesbury or lord shaftesbury: 1
+lorenzo valla: 1
+the killers: 1
+canzonier: 1
+acre: 1
+god only knows: 1
+pianos: 1
+orishas prompt on things like yoruban deities: 1
+leon battista alberti: 1
+sleipnir: 1
+cyclic amp or camp or cyclic adenosine monophosphate: 1
+joseph k: 1
+rampage: 1
+desiderus erasmus: 1
+guitar: 1
+aida: 1
+yevgeny vasilevich bazarov: 1
+tommy walker: 1
+ thanatopsis: 1
+sinclair strongulewisustrong: 1
+gunter strongugrassustrong: 1
+strongucanto generalustrong: 1
+mark: 1
+tom strongustoppardustrong: 1
+stronguode on a grecian urnustrong: 1
+the strongulotteryustrong: 1
+paul‚nbspval„©ry: 1
+charles‚nbspmaturin: 1
+the‚nbspthird policeman: 1
+the‚nbsptrojan war‚nbsp: 1
+tonio kr„∂ger: 1
+edward‚nbspalbee: 1
+mayor: 1
+edward‚nbspashburnham: 1
+a‚nbspbend in the river‚nbsp: 1
+manciples tale: 1
+hilda‚nbspdoolittle: 1
+sophie portnoy: 1
+yevgeny‚nbspzamyatin: 1
+guatemala‚nbsp: 1
+the doubledealer: 1
+amelia: 1
+astrophel and stella: 1
+the‚nbspmarble faun: 1
+punjabi: 1
+the‚nbspgrouch‚nbsp: 1
+georges‚nbspperec: 1
+barry lyndon: 1
+friedrich‚nbspdurrenmatt: 1
+a‚nbspfar‚nbspcry‚nbspfrom‚nbspafrica: 1
+arthur‚nbspkoestler: 1
+eugenio‚nbspmontale: 1
+margaret fuller: 1
+edward casaubon: 1
+william‚nbspwycherley: 1
+philip: 1
+vladimir vladimirovich‚nbspmayakovsky: 1
+edward kamau‚nbspbrathwaite‚nbsp: 1
+arthur‚nbspadamov‚nbsp: 1
+a rebours‚nbsp: 1
+jurgen: 1
+the‚nbspwhite devil: 1
+st„©phane‚nbspmallarm„©: 1
+the‚nbspunderdogs‚nbsp: 1
+the‚nbspbone people: 1
+the well of loneliness: 1
+autodafe ‚nbsp: 1
+ferdydurke: 1
+stephan mallarme: 1
+julian jaynes: 1
+the magic theater: 1
+negative capability: 1
+after the quake: 1
+lemminkainen: 1
+a retrieved reformation: 1
+the school for husbands: 1
+as byatt: 1
+new historicism: 1
+boesman and lena: 1
+the english mail coach: 1
+le citta invisibili: 1
+the real inspector hound: 1
+the decay of lying: 1
+mateo falcone: 1
+62 a model kit: 1
+the blacks a clown show: 1
+one way to heaven: 1
+the autobiography of malcom x: 1
+sometimes a great notion: 1
+the argonautica: 1
+hands: 1
+the hive: 1
+the new york school: 1
+joris karl huysmans: 1
+flann obrian: 1
+little eyolf: 1
+against interpetation: 1
+jimmy corrigan the smartest kid on earth: 1
+the dream of the rood: 1
+clarel: 1
+coriolanus: 1
+sir henry maximilian beerbohm: 1
+the house by the medlar tree: 1
+the country of the blind: 1
+forsyte: 1
+areopagitica: 1
+the shahnameh ferdowsi: 1
+sidoniegabrielle colette: 1
+the woman from sarajevo: 1
+the possessed: 1
+benito perez galdos: 1
+homage to catalonia: 1
+can the subaltern speak: 1
+josephy brodsky: 1
+if this is a man: 1
+the cremation of sam mcgee: 1
+the parnassians or the parnassus school or parnassianism: 1
+august osage county: 1
+tamerlane: 1
+popol vuh: 1
+phillip roth: 1
+cu chulainn: 1
+west side story: 1
+peter and the wolf: 1
+lulu: 1
+casey at the bat: 1
+jm coatzee: 1
+burrhus frederic skinner: 1
+atlas shrugged: 1
+the acts of the apostles: 1
+swords: 1
+the kentucky derby is decadent and depraved: 1
+stigma: 1
+real irish republican army: 1
+lytton strachey: 1
+alex haley: 1
+the persian letters: 1
+philippineamerican war or philippine revolt or philippine revolution: 1
+aurengzebe or the great mogul: 1
+shadows: 1
+kermit: 1
+hamlet and his problems: 1
+samuel von pufendorf: 1
+orishas: 1
+first gulf war: 1
+trout fishing in america: 1
+thomas henry huxley: 1
+myra breckinridge: 1
+aeolian harps: 1
+book of ezra: 1
+anna bolena: 1
+conservatives: 1
+william joseph kennedy: 1
+on the jewish question or zur judenfrage: 1
+eloi: 1
+american gods: 1
+bao dai: 1
+melville: 1
+dice or die: 1
+jules et jim or jules and jim: 1
+atalanta in calydon: 1
+if: 1
+samuel osborne barber ii: 1
+marcus brutus: 1
+greece or hellenic republic: 1
+saracen: 1
+golgotha accept calvary: 1
+quincas borba‚nbsp: 1
+de‚nbsprerum natura‚nbsp: 1
+the‚nbspcarnal prayer mat‚nbsp: 1
+infants of the spring: 1
+max‚nbspfrisch: 1
+the‚nbspburning babe: 1
+the‚nbspbook of disquietude‚nbsp: 1
+summer and smoke: 1
+hopkins: 1
+the‚nbspgarden: 1
+the‚nbspdevils dictionary: 1
+persian letters‚nbsp: 1
+edward‚nbsptaylor: 1
+gao‚nbspxingjian‚nbsp: 1
+life in the ironmills: 1
+robert‚nbspsouthey: 1
+waiting for godot‚nbsp: 1
+the life of mr‚nbspjonathan wild‚nbspthe great: 1
+rudin: 1
+fernando‚nbsparrabal: 1
+the‚nbsplion and the jewel‚nbsp‚nbsp: 1
+felix holt the radical: 1
+the‚nbspgraveyard by the sea‚nbsp: 1
+the‚nbspbig money‚nbsp: 1
+pinball 1973‚nbsp: 1
+the‚nbspconfidenceman: 1
+the‚nbsprespectful prostitute‚nbsp: 1
+walter savage‚nbsplandor: 1
+brand: 1
+the‚nbspedible woman: 1
+you know me al: 1
+the‚nbspchangeling: 1
+fauvism: 1
+aldous stronguhuxleyustrong: 1
+berthold brecht: 1
+the sermon on the mount: 1
+gabriel jose strongugarcia marquezustrong: 1
+parables of jesus: 1
+the quran: 1
+a nose: 1
+nikolay gogol: 1
+sonnets by shakespeare: 1
+republic of guatemala: 1
+euripedes: 1
+aeschylus esskuhliss: 1
+babbit: 1
+spanish language: 1
+the new york times: 1
+pearl comfort sydenstricker buck: 1
+thomas hobbes: 1
+irving allen ginsburg: 1
+karamazov: 1
+samuel dashiell hammett: 1
+aristophanes arristahfuhneez: 1
+bonaparte: 1
+pop art: 1
+william i: 1
+rosetti: 1
+charles ives: 1
+the confederate states of america: 1
+summa theologica: 1
+strauss: 1
+horatio alger: 1
+lillith: 1
+the recognition of shakuntala accept abhijnanashakuntala: 1
+to a mouse: 1
+evangeline: 1
+essais or essays or like montaignes essais or essays of montaigne: 1
+christmas: 1
+the marriage of heaven and hell: 1
+apollyon: 1
+brobdingnag we can be lenient on the pronunciation: 1
+bronte family: 1
+the namesake: 1
+the tell tale heart: 1
+cherry: 1
+in memoriam: 1
+troubadours prompt on chansonniers before certamen accept troubaritz until marcabru anyone who buzzes in with poet needs to be slapped and not prompted: 1
+persian language or parsi prompt on iranian because it is actually a class of languages: 1
+goldberg variations: 1
+the third man: 1
+litaliana in algeri accept the italian girl in algiers: 1
+the 400 blows: 1
+ornette coleman: 1
+the effect of gamma rays on manin themoon marigolds: 1
+armadale: 1
+jacob steendam: 1
+tom browns school days: 1
+pat conroy: 1
+the man who came to dinner: 1
+a message to garcia: 1
+to sir toby: 1
+the america play: 1
+empire  of the ants: 1
+john p marquand: 1
+tucker max: 1
+smokey the bear sutra: 1
+mackinley kantor: 1
+this sandwich has no mayonnaise: 1
+rockland i guess prompt on howl prompt on new york: 1
+matilda: 1
+no highway accept no highway in the sky: 1
+society upon the stanislaus: 1
+armistead maupin jr: 1
+politically correct bedtime stories modern tales for our life and time: 1
+anthem: 1
+the ugly american: 1
+jacob marley accept either: 1
+harriet prescott spofford: 1
+the unbearable bassington: 1
+robert shaw: 1
+the wayward bus: 1
+why i am not a painter: 1
+the neverending story accept die unendliche geschichte: 1
+fear of flying: 1
+chris van allsburg: 1
+the land that time forgot accept the people that time forgot or people out of time or out of times abyss: 1
+ashenden or the british agent: 1
+the unicorn in the garden: 1
+battlefield earth: 1
+larry mcmurtry: 1
+walter mosley: 1
+jacqueline susann: 1
+torch song trilogy accept fugue in a nursery and the international stud accept widows and children first until mentioned: 1
+xaviera hollander accept happy hooker until mentioned: 1
+michael shayne accept either: 1
+don marquis: 1
+the comedians: 1
+claudius the god do not accept i claudius: 1
+a kiss before dying: 1
+owen wister: 1
+aa milne accept the red house mystery until mentioned: 1
+the mambo kings play songs of love: 1
+all gods chillun got wings: 1
+cloudcuckoo land accept nephelokokkygia or wolkenkuckucksheim: 1
+james m cain: 1
+dark laughter: 1
+george smiley accept either: 1
+naked came the stranger: 1
+judith rossner: 1
+the cop and the anthem: 1
+maurice: 1
+mr dooley accept finley peter dunne before mentioned: 1
+mervyn bunter accept either: 1
+sloan wilson: 1
+advise and consent: 1
+eustace tilley accept either: 1
+the big bear of arkansas: 1
+william peter blatty: 1
+lawrence block: 1
+james grainger: 1
+the bonfire of the vanities: 1
+the indian in the cupboard accept the return of the indian or the secret of the indian: 1
+ann vickers: 1
+wallace shawn: 1
+the mysterious island accept llle mysterieuse: 1
+paul clifford: 1
+eric ambler: 1
+gods little acre: 1
+harlan ellison: 1
+enoch arden accept too many husbands until miriam lane: 1
+colonel sun: 1
+l frank baum: 1
+will success spoil rock hunter: 1
+barbara fritchie: 1
+moxons master: 1
+ned buntline accept ez judson: 1
+defender of the faith: 1
+earl derr biggers: 1
+beau geste: 1
+lew wallace: 1
+to serve man accept how to serve man: 1
+mitch albom: 1
+the book of repulsive women: 1
+coming up for air: 1
+cinna the poet: 1
+martin eden: 1
+orpheus descending: 1
+the gambler i guess prompt on early buzzes of alex and emma: 1
+robert caro: 1
+the lost world: 1
+clare boothe luce accept either: 1
+tom ripley accept either accept the talented mr ripley: 1
+susan orlean: 1
+john grisham: 1
+will eisner: 1
+a bell for adano: 1
+farewell my lovely: 1
+jb priestley: 1
+oil: 1
+the vampyre: 1
+mules and men: 1
+alas babylon: 1
+ the facts in the case of m valdemar accept facts in m valdemars case or the last days of m valdemar or mesmerism in articulo mortis: 1
+acres of diamonds: 1
+goodbye mr chips: 1
+little lord fauntleroy: 1
+woody allen: 1
+the canterville ghost: 1
+mary chase: 1
+elmore leonard: 1
+tales of the black freighter accept marooned: 1
+my brother paul: 1
+falconer: 1
+the loved one: 1
+mrs spring fragrance: 1
+davitas harp: 1
+what maisie knew: 1
+tonobungay: 1
+mustafa saeed accept either accept hassan or charles or amin or mustafa or richard: 1
+damon runyon: 1
+pierre or the ambiguities: 1
+penrod schofield accept either: 1
+she a history of adventure: 1
+terrorist: 1
+johnny tremain grudgingly accept johnny deformed: 1
+bread givers: 1
+happy birthday wanda june: 1
+bruce barton: 1
+erich von daniken: 1
+richard matheson: 1
+ragged dick or street life in new york with the bootblacks: 1
+stephen glass: 1
+nick hornby: 1
+the track of the cat: 1
+the godfather accept godfather returns or godfathers revenge or the sicilian: 1
+john jakes: 1
+clifford irving: 1
+phileas fogg accept either also accept either form of phineas fogg: 1
+breasts: 1
+ahab: 1
+georg wilhelm friedrich hegel: 1
+isabel: 1
+social: 1
+yogi berra: 1
+triumph of the will: 1
+europa: 1
+luigi: 1
+jester: 1
+sir vidiahar surajprasad: 1
+nicknames of shaquille oneal: 1
+mesons: 1
+as you like: 1
+ajax: 1
+next year: 1
+der rosenkavalier: 1
+john bunyan: 1
+joan of arc: 1
+the good sol: 1
+sinners in the hands of an angry god: 1
+jean paul sartre: 1
+hedda ga: 1
+there will be blood: 1
+e kenzabur: 1
+spain or espana: 1
+kalevala or poems from the kaleva district or similar: 1
+house cats: 1
+epimetheus: 1
+elamites: 1
+om: 1
+book of genesis: 1
+culhwch and olwen: 1
+rene girard: 1
+epictetus: 1
+efficient market hypothesis: 1
+porphyry: 1
+pasiphae: 1
+the dagda: 1
+haddad or baal: 1
+alfred jules ayer: 1
+on the genealogy of morals or on the genealogy of morality: 1
+oeconomicus: 1
+stanley louis cavell: 1
+arthashastra: 1
+homage to mistress bradstreet: 1
+eternal curse on the reader of these pages maldici„≥n eternal a quien lea estas paginas: 1
+krik krak: 1
+a kind of alaska: 1
+quicksand: 1
+justice: 1
+why read the classics: 1
+kant and the platypus: 1
+the rhodora: 1
+light of the world: 1
+axels castle: 1
+arnold wesker: 1
+pylon: 1
+lamia: 1
+a manual for manuel libro de manuel: 1
+twelve chairs: 1
+the breadwinners a social study: 1
+aghwee the sky monster: 1
+theophile gautier: 1
+puerperal fever or the contagiousness of puerperal fever: 1
+the soft machine: 1
+the hasty pudding: 1
+vathek vathek an arabian tale or the history of the caliph vathek: 1
+life in the iron mills: 1
+polyolbion: 1
+emperor and galilean: 1
+dragons accept lucky dragon ‚ñ the full name of the boat ‚ñ but dont accept snakes etc: 1
+a lesson from aloes: 1
+louisferdinand: 1
+metal gear solid 4 guns of the patriots accept either: 1
+war of the pacific: 1
+thedor wesengrund adorno: 1
+neorealism: 1
+moraine: 1
+simon magus: 1
+miniver cheevy: 1
+patricia peppermint patty reinhardt: 1
+apostles creed: 1
+mikhail: 1
+jean: 1
+nosferatu a symphony of horror: 1
+upon the circumcision: 1
+roger malvins burial: 1
+the yellow violet: 1
+baal: 1
+infantes inferno or la habana para un infante difunto: 1
+gustavo adolfo becquer: 1
+vox clamantis: 1
+a tenured professor: 1
+the visit or der besuch der alten dame: 1
+augusto roa bastos: 1
+sadi or mosharrif oddin bin moslih oddin abdullah: 1
+mademoiselle de maupin: 1
+glowworms: 1
+the village or derevnya: 1
+jagua nana: 1
+giosue carducci: 1
+the ladys not for burning: 1
+the book of the duchess: 1
+les rougonmacquart: 1
+john wain: 1
+the pilot: 1
+the meeting at telgte or das treffen in telgte: 1
+the divan or the diwan or hafezs divan or divan ihafiz: 1
+my neighbor radilov or moy sosed radilov: 1
+sweet bird of youth: 1
+the duchess of padua: 1
+bouvard and pecuchet or bouvard et pecuchet: 1
+pantomime: 1
+ivan goncharov: 1
+typee: 1
+jalal aldin rumi or mawlana jalal aldin muhammad balkhi: 1
+helena: 1
+ohio impromptu: 1
+sozaboy: 1
+palm of the hand stories: 1
+spanish dancer or spanische tanzerin: 1
+the piazza: 1
+leopold ritter von sachermasoch: 1
+the rising of the moon: 1
+senegal: 1
+john grady cole: 1
+little herr friedemann or der kleine herr friedemann: 1
+the nymphs reply to the shepherd: 1
+the netherlands or dutch republic or any other equivalents: 1
+lots wife or lotova zhena: 1
+andrei bely: 1
+none to accompany me: 1
+the blacker the berry: 1
+tyrone slothrop: 1
+the immoralist or limmoraliste: 1
+rebellion in the backlands or os sertoes: 1
+the inheritors: 1
+the proposal or a marriage proposal or predlozhenie: 1
+solitude: 1
+kofi awoonor: 1
+the forced marriage or the jealous bridegroom: 1
+wieland: 1
+tropic of capricorn: 1
+chaka: 1
+tango: 1
+the deans december: 1
+unrequited love: 1
+leon damas: 1
+summerfolk or dachniki: 1
+clay: 1
+the rope: 1
+omovo: 1
+romulo gallegos: 1
+martin walser: 1
+the forty days of musa dagh or die vierzig tage des musa dagh: 1
+carpenters gothic: 1
+ode on a distant prospect of eton college: 1
+the philippines: 1
+pierre and jean or pierre et jean: 1
+the forest of a thousand demons or ogboju ode ninu igbo irunmale: 1
+the tale of kieu or truyen kieu or kim van kieu: 1
+the yemassee: 1
+guest the oneeyed or borgslaegtens historie: 1
+ape and essence: 1
+huswifery: 1
+sestina altaforte: 1
+pramoedya ananta toer: 1
+cuttlefish bones or the bones of cuttlefish or ossi di seppia: 1
+mario benedetti: 1
+the palliser novels: 1
+artist descending a staircase: 1
+ficciones or fictions: 1
+the beautyful ones are not yet born: 1
+postcannibalism: 1
+fiddler on the roof: 1
+soliloquy of the spanish cloister: 1
+protagoras: 1
+mily alekseyevich balakirev: 1
+maud miller: 1
+the misfit: 1
+leaf storm: 1
+tiny tim: 1
+on crimes and punishments or dei delitti e delle penne: 1
+sutras: 1
+poor laws: 1
+friedrich engels: 1
+heimdallr: 1
+the crito: 1
+la fronde: 1
+alger hiss: 1
+fruit: 1
+normans: 1
+a bar at the foliesbergere: 1
+john stuart mill: 1
+kurtis eugene kurt warner: 1
+eitheror: 1
+cars: 1
+incubus: 1
+meleager: 1
+pseudolus prompt on the cheat or the deceitful slave or equivalents: 1
+melmoth the wanderer: 1
+octopus or octopi: 1
+sartor resartus: 1
+anabasis kyrou prompt the persian expedition or some equivalent: 1
+the autocrat of the breakfasttable: 1
+one of ours: 1
+antoine roquentin accept either: 1
+the marquise of o: 1
+st ignatius of antioch: 1
+mosses from an old manse: 1
+the ballad of the brown girl: 1
+ruth: 1
+kublai khan: 1
+henry: 1
+heinrich b„∂ll: 1
+gaius suetonius tranquillus: 1
+dissociation of sensibility: 1
+moll pitcher: 1
+silver: 1
+the ladys dressing room: 1
+segismundo: 1
+the children of the night: 1
+timothy mcsweeneys quarterly concern: 1
+i am a cat: 1
+jacques the fatalist and his master: 1
+carlo gozzi: 1
+denmark: 1
+brekekekex koax koax: 1
+serenus zeitbloom: 1
+shaka zulu: 1
+bokonon: 1
+language poetry: 1
+the tale of the bamboo cutter: 1
+guillermo cabrera infante: 1
+jitney: 1
+mystery play cycles: 1
+luis vaz de camoes: 1
+the marrow of tradition: 1
+the autocrat of the breakfast table: 1
+temple: 1
+the last question: 1
+the blithedale romance: 1
+pilgrim at tinker creek: 1
+the elephant vanishes: 1
+secret: 1
+the kite runner: 1
+seven: 1
+songs and sonnets: 1
+the scholar gypsy: 1
+flatland: 1
+john jemmy legs claggart: 1
+filippo tommaso marinetti: 1
+an ethiopian romance: 1
+thomas nashe: 1
+the most lamentable comedy and the most cruel death of pyramus and thisbe: 1
+suzanna arundhati roy: 1
+the toilers of the sea: 1
+the renaissance studies in art and poetry: 1
+theme for english b: 1
+percy wyndham lewis: 1
+julia: 1
+david garrick: 1
+afternoon of a faun: 1
+miranda: 1
+toads: 1
+the sign of the four: 1
+confessio amantis: 1
+william t vollmann: 1
+bussy dambois: 1
+the moon is a harsh mistress: 1
+book of songs: 1
+the author to her book: 1
+in praise of folly: 1
+arthur yvor winters: 1
+the siege of krishnapur: 1
+hilaire belloc: 1
+the celestial omnibus: 1
+the wall: 1
+beneath the wheel: 1
+curzio malaparte: 1
+chaireas and callirhoe: 1
+women celebrating the thesmophoria: 1
+the strong breed: 1
+the critic as artist: 1
+abc of reading: 1
+meditation: 1
+henry stimson: 1
+dolls: 1
+pied beauty: 1
+democracy: 1
+bram stoker: 1
+zeno: 1
+juneteenth: 1
+harriet jacobs accept linda brent before it is read: 1
+ubu roi or pere ubu: 1
+when i heard the learnd astronomer: 1
+mikhail sholokov: 1
+ivo andric: 1
+the adventures of peregrine pickle in which are included memories of a lady of quality: 1
+shoemakers prompt on cobblers: 1
+a moon for the misbegotten: 1
+the satires: 1
+charlotte: 1
+caleb carr: 1
+the sound of waves or shiosai: 1
+fabian society: 1
+julius 1: 1
+how to do things with words 5: 1
+childrens corner 3: 1
+victory over the sun 5: 1
+a tale of possessors selfdispossessed 6: 1
+brazilian muslims: 1
+wieland or the transformation an american tale 3: 1
+mills 2: 1
+translate in search of lost time: 1
+imperium in imperio 6: 1
+mormon 1: 1
+brother jero: 1
+carlo emilio gadda 6: 1
+royall tyler 5: 1
+peacocks 1: 1
+la cucaracha: 1
+the lost honor of katharina blum or how violence can develop and where it can lead: 1
+zembla 4: 1
+philomela 3: 1
+fenimore coopers literary offenses 5: 1
+george farquhar 3: 1
+ballistic ecks vs sever 4: 1
+ambroisepaultoussaintjules valery 4: 1
+poland 2: 1
+blood on the forge 6: 1
+isis unveiled 5: 1
+vineland 4: 1
+avery enterprises 2: 1
+hinton rowan helper 5: 1
+the battles of coxinga 6: 1
+floating point numbers 1: 1
+rukhnama 4: 1
+imagism: 1
+humbert humbert accept either: 1
+windmills: 1
+amanda wingfield prompt on wingfield: 1
+country: 1
+rabindrath tagore: 1
+hank morgan: 1
+saint peter: 1
+stoicism: 1
+benjamin disraeli: 1
+feathers: 1
+duchess: 1
+oedipus tyrannos: 1
+bloom: 1
+equestrian monuments: 1
+hedda gabbler: 1
+madrigals: 1
+tom: 1
+frederick douglass: 1
+polaris: 1
+john the baptist: 1
+hollywood: 1
+dune: 1
+giants: 1
+gaia hypothesis: 1
+athena: 1
+fritz lang: 1
+st augustine of hippo: 1
+phillip glass: 1
+slaves: 1
+salmon rushdie: 1
+the venerable bede: 1
+the sorcerers apprentice: 1
+all aunt hagars children: 1
+the devils disciple: 1
+italian journey or italienische reise: 1
+pauls case: 1
+niki jumpei: 1
+adonis or adunis: 1
+the petrified forest: 1
+sonnet sequences: 1
+masks or onnamen: 1
+an apology for the life of miss shamela andr: 1
+gayatree chakravorty spivak: 1
+playing baseball: 1
+the bean eaters: 1
+i will marry when i want: 1
+1887: 1
+savonarola brown: 1
+the oxbow incident: 1
+chayka or the seagull: 1
+hamlet of the shchigrovsky districtprovincecounty or hamlet of shtchigri provincedistrictcounty: 1
+the threecornered world: 1
+zakes mda: 1
+machines: 1
+the american: 1
+philosopher or dog: 1
+light the kettle: 1
+erik axel karlfeldt: 1
+death of a hero: 1
+anatomy of criticism: 1
+the conversion of the jews: 1
+tender buttons objects food and rooms: 1
+mrs erlynne accept margaret erlynne but not margaret windermere: 1
+sarrasine: 1
+lady mary wortley montagu: 1
+the‚nbspthree men: 1
+on the nature of things or de rerum natura: 1
+tsitsi dangarembga: 1
+riders in the chariot: 1
+mimesis the representation of reality in western literature: 1
+a hanging: 1
+to a honey bee: 1
+the steeplejack: 1
+mason amp dixon: 1
+the thames: 1
+a cemetery by the sea or le cimetiere marin: 1
+florence onye buchi emecheta: 1
+crucifixion: 1
+a touch of the poet: 1
+judith butler: 1
+petals: 1
+the road from colonus: 1
+the catch: 1
+the uprooted pine: 1
+eating a heart: 1
+the boor: 1
+bengali or bangla: 1
+a dynamo: 1
+the white guard: 1
+the enormous room: 1
+aura: 1
+whos afraid of virginia woolf‚nbsp: 1
+pi: 1
+long john silver: 1
+other people or others: 1
+george meredith: 1
+birds: 1
+david bengurion: 1
+palestine: 1
+maus vol i my father bleeds history and vol ii and here my troubles began: 1
+richard strauss: 1
+coda: 1
+epistolary: 1
+magical realism: 1
+yoknapatawpha: 1
+lilacs: 1
+stanley milgram: 1
+dwarf: 1
+north american indian: 1
+jane eyrechenchen: 1
+charlespierre baudelaire: 1
+the erlking or der erlksnig: 1
+maria von trapp: 1
+the pirates of penzance or slave to dutychengcheng: 1
+mayans: 1
+alexander dumas: 1
+boxer: 1
+hg wells: 1
+just world effect: 1
+the apology ma: 1
+tuonela: 1
+inca ba: 1
+empedocles of acragas: 1
+ray luo: 1
+philipp melanchthon: 1
+hosea ba: 1
+the blue mosque: 1
+tsukuyomi ba: 1
+albertus magus: 1
+morrigan: 1
+krishna ba: 1
+just war theory ba: 1
+fujin ba: 1
+pensees: 1
+anomie wd: 1
+amidah or shmonah esrei or tfilat haamidah en: 1
+parmenides skma: 1
+max horkheimer and theodor adorno accept wiesengrund for adorno prompt on partial answers ma: 1
+shields wd sk: 1
+atomists sk: 1
+cossacks or kazakhi: 1
+giambattista vico giovanni battista vico: 1
+newland archer accept either: 1
+samson: 1
+metastasis: 1
+the scriptwriter accept early pedro camacho: 1
+yellow accept yellow sarong before sarong is mentioned: 1
+house: 1
+djoser or zoser: 1
+boron: 1
+christianity: 1
+tomas: 1
+the aviator: 1
+dejection an ode: 1
+rotifera or rotifers: 1
+guns n roses: 1
+katsushika hokusai: 1
+georg simmel: 1
+necronomicon or al azif: 1
+arjuna: 1
+bertholdt brecht: 1
+job: 1
+orisha: 1
+ismailis: 1
+marcus annaeus lucanus: 1
+gil blas: 1
+the labyrinth of solitude: 1
+the houyhnhnms: 1
+souls: 1
+the pearl poet‚nbsp: 1
+phillip marlowe: 1
+matsuo bash333‚nbsp: 1
+de optimo reipublicae statu deque nova insula utopia: 1
+john fletcher: 1
+the bluest eye‚nbsp: 1
+histoire du chevalier des grieux et de manon lescaut: 1
+the coast of utopia‚nbsp‚nbsp: 1
+sinbad the sailor‚nbsp: 1
+the dance of death: 1
+nibelungenlied: 1
+villette: 1
+ballad of sir patrick spens: 1
+war and peace‚nbsp: 1
+second person point of view prompt on you before said‚nbsp: 1
+george crabbe‚nbsp‚nbsp: 1
+the country wife‚nbsp: 1
+generation of 1898: 1
+the theatre of the absurd: 1
+penguin island‚nbsp‚nbsp‚nbsp‚nbsp: 1
+howard phillips lovecraft‚nbsp: 1
+molly or marion bloom: 1
+francois villon‚nbsp: 1
+woyzeck voicheck‚nbsp: 1
+the devil and tom walker‚nbsp‚nbsp: 1
+the book of ecclesiastes: 1
+robyn the miller accept either: 1
+the compleat angler‚nbsp: 1
+wizards: 1
+the dunciad: 1
+the popul vuh: 1
+bartholomew fair: 1
+lucky: 1
+caedmons hymn or caedmons song: 1
+brahma: 1
+suzanlori parks‚nbsp: 1
+new criticism: 1
+maus a survivors tale: 1
+the sea of fertility: 1
+terence or publius terentius afer: 1
+pedro p„°ramo: 1
+to build a fire: 1
+macflecknoe‚nbsp: 1
+the romance of the rose: 1
+emerald city‚nbsp: 1
+the spectator‚nbsp: 1
+rabbit is rich‚nbsp: 1
+the rover or the banished cavaliers‚nbsp: 1
+phyllis wheatley‚nbsp: 1
+„Ä rebours: 1
+hydriotaphia or urnburial accept either: 1
+john wilmot the second earl of rochester accept either‚nbsp: 1
+design: 1
+to a skylark‚nbsp: 1
+the adventure of the speckled band‚nbsp: 1
+the doctor in spite of himself‚nbsp: 1
+mikhail bakhtin: 1
+v„§in„§m„∂inen: 1
+the quaker graveyard in nantucket‚nbsp: 1
+i like to see it lap the miles or number 43: 1
+the elder statesman: 1
+john skelton: 1
+charlesaugustin de saintebeuve: 1
+the demon a poem: 1
+camilla of volscia: 1
+theogony‚nbsp: 1
+hypnerotomachia poliphili or the strife of love in a dream acc poliphilos strife of love in a dream: 1
+kwan yu or guanyu: 1
+negative capability‚nbsp: 1
+dinner at eight: 1
+snorri sturluson prompt on sturluson: 1
+john burgoyne: 1
+camilo jos„© cela trulock: 1
+hotspur prompt on henry percy: 1
+the mystery of marie roget: 1
+biedermeier: 1
+pillow: 1
+stephane mallarm„©: 1
+a little cloud: 1
+amadis of gaul amadis de gaula: 1
+equu: 1
+after apple picking: 1
+anne finch: 1
+antonio accept shylock at the end but only from bryce avery: 1
+edward p jones: 1
+risten lavransdatter accept either: 1
+two gallants: 1
+et tu brute accept et tu healy early: 1
+expfc wintergreen: 1
+the plain dealer: 1
+dirk gently accept either: 1
+the miser or lavare: 1
+the schlegels: 1
+neal cassady: 1
+spenserian stanzas: 1
+gabriele dannunzio: 1
+the unknown citizen accept early with a cocked eyebrow js07m378: 1
+the grandessimes: 1
+melquiades: 1
+the pathetic fallacy: 1
+hunger or sult: 1
+a narrow fellow in the grass: 1
+robert walton accept either: 1
+richard ghormley eberhart: 1
+gibreel farishta accept either or ismail: 1
+the life of johnson: 1
+nose: 1
+nestor: 1
+hamlin hannibal garland: 1
+darkling: 1
+postmodernism: 1
+humphrey chimpden earwicker accept hce: 1
+the acharnians akharne297s: 1
+sister mary ignatius explains it all for you: 1
+islands not isles: 1
+godot: 1
+the sacred wood: 1
+sarah fielding: 1
+montsaint michel and chartres a study of thirteenth century unity: 1
+narcissus and goldmund accept death and the lover or narziss und goldmund: 1
+daniel deronda: 1
+jean santeuil: 1
+street scene: 1
+manas with over twice the content of the mahabharata: 1
+vampire vampyr or the vampire or anything like that: 1
+aurora leigh: 1
+the gods are athirst also accept les dieux ont soif or other english translations like the gods will have blood etc: 1
+to have and have not: 1
+james whitcomb riley: 1
+the thaw or a change of season or ottepel: 1
+mercy of a rude stream: 1
+the ponder heart: 1
+thirty tyrants: 1
+the knights or hippeis: 1
+duino eligies or duineser elegien: 1
+saleem sinai prompt on sinai: 1
+the libationbearers or choephori: 1
+the principles of psychology: 1
+prosper merimee: 1
+charles fourier: 1
+die lustige witwe the merry widow operetta accept die lustige witwe: 1
+sif: 1
+timaeus: 1
+the second crusade: 1
+aeolus: 1
+creedence clearwater revival: 1
+valhalla: 1
+castles: 1
+coffins: 1

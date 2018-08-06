@@ -1,0 +1,3397 @@
+charlemagne: 31
+thirty years war: 25
+otto von bismarck: 23
+gaius julius caesar: 23
+giuseppe garibaldi: 21
+greece: 20
+martin luther: 20
+united states presidential: 19
+portugal: 18
+oliver cromwell: 17
+crimean war: 16
+battle of hastings: 16
+battle of gettysburg: 16
+andrew jackson: 15
+alexander hamilton: 15
+mali empire: 15
+daniel webster: 15
+george washington: 15
+henry clay: 15
+war of 1812: 15
+catherine the great: 14
+alexander the great: 14
+battle of waterloo: 14
+john brown: 14
+hungary: 14
+mughal empire: 14
+ming dynasty: 14
+justinian i: 14
+han dynasty: 14
+abraham lincoln: 14
+war austrian succession: 14
+hundred years war: 14
+charles de gaulle: 14
+argentina: 13
+italy: 13
+louis xiv: 13
+mao zedong: 13
+gamal abdel nasser: 13
+france: 12
+carthage: 12
+meiji restoration: 12
+romania: 12
+peter the great: 12
+attila the hun: 12
+martin van buren: 12
+sicily: 11
+simon bolivar: 11
+ottoman empire: 11
+commonwealth of australia: 11
+battle of marathon: 11
+sparta: 11
+battle of stalingrad: 11
+labour party: 11
+treaty of versailles: 11
+alfred the great: 11
+lyndon baines johnson: 11
+brown v board education topeka: 11
+war triple alliance: 11
+federative republic brazil: 11
+spanish civil war: 11
+war spanish succession: 11
+canada: 10
+poland: 10
+quebec: 10
+first crusade: 10
+pericles: 10
+switzerland: 10
+pompey the great: 10
+berlin: 10
+hanseatic league: 10
+republic of the philippines: 10
+spanishamerican war: 10
+wars of the roses: 10
+jawaharlal nehru: 10
+irish potato famine: 10
+ku klux klan: 10
+nero claudius germanicus: 10
+herbert clark hoover: 10
+united states constitution: 10
+teapot dome scandal: 10
+francisco franco bahamonde: 10
+joseph raymond mccarthy: 10
+tamerlane: 9
+magna carta: 9
+georgia: 9
+constantine i: 9
+theodore roosevelt: 9
+brazil: 9
+vikings: 9
+california: 9
+kiev: 9
+huguenots: 9
+prague spring: 9
+james monroe: 9
+napoleon bonaparte: 9
+elizabeth i: 9
+republic of poland: 9
+cyrus the great: 9
+spanish armada: 9
+francoprussian war: 9
+mexicanamerican war: 9
+irancontra affair: 9
+battle of lepanto: 9
+richard milhous nixon: 9
+world war ii: 9
+republic south africa: 9
+marie isidore de robespierre: 9
+james knox polk: 9
+great northern war: 9
+jose de la: 9
+islamic republic pakistan: 9
+scotland: 8
+east germany: 8
+new zealand: 8
+harry s truman: 8
+etruscans: 8
+george iii: 8
+ethiopia: 8
+watergate scandal: 8
+apartheid: 8
+jamestown: 8
+mauryan empire: 8
+kublai khan: 8
+russojapanese war: 8
+boston massacre: 8
+ivan the terrible: 8
+john adams: 8
+benjamin franklin: 8
+battle of antietam: 8
+ireland: 8
+whiskey rebellion: 8
+margaret hilda thatcher: 8
+idi amin dada: 8
+john quincy adams: 8
+haymarket square riot: 8
+martin luther king jr: 8
+english civil war: 8
+klemens wenzel von: 8
+scopes trial monkey: 8
+kingdom of sweden: 7
+battle of saratoga: 7
+finland: 7
+mexico: 7
+qing dynasty: 7
+napoleon iii: 7
+solidarity: 7
+japan: 7
+cardinal richelieu: 7
+john jay: 7
+thailand: 7
+battle of agincourt: 7
+hannibal barca: 7
+kingdom of cambodia: 7
+republic of cuba: 7
+charles ii: 7
+athens: 7
+benito mussolini: 7
+tokugawa shogunate: 7
+william the conqueror: 7
+genghis khan: 7
+council of trent: 7
+third crusade: 7
+peace of westphalia: 7
+bacons rebellion: 7
+gunpowder plot: 7
+tang dynasty: 7
+ulysses s grant: 7
+leon trotsky: 7
+thomas jefferson: 7
+grover cleveland: 7
+louis xvi: 7
+republic of uganda: 7
+punic wars: 7
+maori: 7
+battle of shiloh: 7
+battle of salamis: 7
+battle of the bulge: 7
+suleiman i: 7
+new york: 7
+shays rebellion: 7
+margaret thatcher: 7
+john fitzgerald kennedy: 7
+john paul ii: 7
+marcus tullius cicero: 7
+robert edward lee: 7
+plessy v ferguson: 7
+winston leonard spencer churchill: 7
+_____________________________________________________ Item #186; ~30% of answers; 5.5% of distinct answers
+attack pearl harbor: 7
+william jennings bryan: 7
+ronald wilson reagan: 7
+mary queen scots: 7
+holy roman empire: 7
+marcus aurelius antoninus augustus: 7
+antonio de santa anna: 7
+second punic war: 7
+josip broz tito: 7
+william jefferson clinton: 7
+dwight david eisenhower: 7
+nelson rolihlahla mandela: 7
+nikita sergeyevich khrushchev: 7
+louis ix: 6
+florence: 6
+baghdad: 6
+saladin: 6
+vichy france: 6
+battle of yorktown: 6
+aztec empire: 6
+aztecs: 6
+edward i: 6
+republic of chile: 6
+chicago: 6
+battle of tours: 6
+louis: 6
+william mckinley: 6
+australia: 6
+philadelphia: 6
+cuba: 6
+tokugawa ieyasu: 6
+republic of peru: 6
+frederick barbarossa: 6
+state of israel: 6
+henry iv: 6
+cherokee: 6
+ramses ii: 6
+vietnam war: 6
+mahatma gandhi: 6
+sun yatsen: 6
+byzantine empire: 6
+vandals: 6
+henry vii: 6
+battle of new orleans: 6
+tammany hall: 6
+texas: 6
+united states representatives: 6
+winfield scott: 6
+benjamin harrison: 6
+macedonia: 6
+persian gulf war: 6
+boston tea party: 6
+federal democratic republic: 6
+henry viii england: 6
+benito amilcare andrea mussolini: 6
+clear knowledge equivalents: 6
+battle bunker hill: 6
+gerald rudolph ford: 6
+philip ii spain: 6
+peoples democratic republic: 6
+george walker bush: 6
+dred scott v sandford: 6
+sherman antitrust act: 6
+mustafa kemal ataturk: 6
+lisbon: 5
+assyria: 5
+vienna: 5
+spain: 5
+republic of panama: 5
+deng xiaoping: 5
+republic of ghana: 5
+new york city: 5
+prague: 5
+silver: 5
+chiang kaishek: 5
+richard i: 5
+gandhi: 5
+trajan: 5
+erie canal: 5
+zulu: 5
+maria theresa: 5
+moscow: 5
+republic of indonesia: 5
+mikhail gorbachev: 5
+william gladstone: 5
+constantinople: 5
+venice: 5
+nelson mandela: 5
+abbasid caliphate: 5
+frederick the great: 5
+wales: 5
+republic of albania: 5
+republic of finland: 5
+peter i: 5
+huns: 5
+vietnam: 5
+berlin wall: 5
+president of mexico: 5
+battle of verdun: 5
+indonesia: 5
+republic of kenya: 5
+assyrian empire: 5
+gustavus adolphus: 5
+peloponnesian war: 5
+hadrian: 5
+kingdom of belgium: 5
+caligula: 5
+calvin coolidge: 5
+benedict arnold: 5
+mark antony: 5
+nicholas ii: 5
+republic of liberia: 5
+girolamo savonarola: 5
+kansas: 5
+alexander: 5
+babylon: 5
+maryland: 5
+west germany: 5
+saint petersburg: 5
+denmark: 5
+pullman strike: 5
+somalia: 5
+great society: 5
+republic of india: 5
+adolf hitler: 5
+henry viii: 5
+sepoy mutiny: 5
+second angloboer war: 5
+weimar republic: 5
+yom kippur war: 5
+william howard taft: 5
+bank united states: 5
+thomas woodrow wilson: 5
+alexander ii russia: 5
+assassination abraham lincoln: 5
+peoples republic china: 5
+salem witch trials: 5
+battle bull run: 5
+lewis clark expedition: 5
+catherine ii russia: 5
+henry viii tudor: 5
+federal republic nigeria: 5
+korea north south: 5
+united kingdom great britain: 5
+united states america: 5
+william tecumseh sherman: 5
+franklin delano roosevelt: 5
+louis xiv france: 5
+publius aelius hadrianus: 5
+rutherford birchard hayes: 5
+william henry seward: 5
+roe v wade: 5
+gideon v wainwright: 5
+wilhelm ii: 4
+philip ii: 4
+egypt: 4
+milan: 4
+peasants revolt: 4
+emperor of japan: 4
+iran: 4
+albania: 4
+hawaii: 4
+henry ford: 4
+the draft: 4
+thebes: 4
+gregory: 4
+augsburg: 4
+belgium: 4
+kingdom of hawaii: 4
+world war i: 4
+ferdinand magellan: 4
+henry: 4
+whig party: 4
+womens suffrage: 4
+william wallace: 4
+glorious revolution: 4
+earl warren: 4
+constantine the great: 4
+suez crisis: 4
+khmer empire: 4
+russia: 4
+joseph mccarthy: 4
+douglas macarthur: 4
+benito juarez: 4
+my lai massacre: 4
+inca empire: 4
+song dynasty: 4
+malcolm x: 4
+pennsylvania: 4
+inca: 4
+chile: 4
+kansasnebraska act: 4
+opium wars: 4
+ukraine: 4
+frederick douglass: 4
+alaska: 4
+battle of midway: 4
+isabella: 4
+shah jahan: 4
+battle of actium: 4
+woodrow wilson: 4
+london: 4
+toyotomi hideyoshi: 4
+czechoslovakia: 4
+akhenaten: 4
+edward: 4
+frederick ii: 4
+dreyfus affair: 4
+house of hanover: 4
+rome: 4
+zachary taylor: 4
+republic of hungary: 4
+zhou enlai: 4
+robert walpole: 4
+incan empire: 4
+boxer rebellion: 4
+north carolina: 4
+battle of zama: 4
+republic of zimbabwe: 4
+republic of colombia: 4
+archduke franz ferdinand: 4
+________________________________________________________ item #407; ~50% of answers; 12% of distinct answers
+holy roman emperor: 4
+kingdom of denmark: 4
+teutonic knights: 4
+secretary of the treasury: 4
+jerusalem: 4
+idaho: 4
+atahualpa: 4
+henry ii: 4
+clinton: 4
+benjamin disraeli: 4
+compromise of 1850: 4
+cambodia: 4
+afghanistan: 4
+central intelligence agency: 4
+republic union myanmar: 4
+mikhail sergeyevich gorbachev: 4
+battle of trafalgar: 4
+prime minister canada: 4
+benjamin disraeli earl beaconsfield: 4
+islamic republic iran: 4
+henry iv france: 4
+susan brownell anthony: 4
+jalaluddin muhammad akbar great: 4
+fidel castro ruz: 4
+islamic republic afghanistan: 4
+cuban missile crisis: 4
+wounded knee massacre: 4
+james i: 4
+theodore teddy roosevelt: 4
+mohandas karamchand gandhi: 4
+booker taliaferro washington: 4
+warren gamaliel harding: 4
+battle little bighorn: 4
+ghana: 4
+battle bosworth field: 4
+indira priyadarshini gandhi: 4
+arab republic egypt: 4
+march washington jobs freedom: 4
+east india company: 4
+great fire london: 4
+oliver wendell holmes jr: 4
+seneca falls convention: 4
+vasco da gama: 4
+richard dick cheney: 4
+rhode island providence plantations: 4
+gustavus adolphus ii: 4
+james earl jimmy carter: 4
+marcus licinius crassus: 4
+battle coral sea: 4
+thomas stonewall jackson: 4
+miranda v arizona: 4
+john pierpont morgan: 4
+lucius cornelius sulla: 4
+prohibition: 3
+jamaica: 3
+french revolution: 3
+china: 3
+delhi: 3
+tecumseh: 3
+new orleans: 3
+storming of the bastille: 3
+marcus aurelius: 3
+tibet: 3
+alabama: 3
+boston: 3
+jews: 3
+coins: 3
+emancipation proclamation: 3
+germany: 3
+affirmative action: 3
+us civil war: 3
+king of rome: 3
+eleanor roosevelt: 3
+mecca: 3
+tenochtitlan: 3
+sixday war: 3
+kingdom of hungary: 3
+yalta conference: 3
+augusto pinochet: 3
+tobacco: 3
+korea: 3
+sioux: 3
+partitions of poland: 3
+slave revolts: 3
+james i of england: 3
+los angeles: 3
+munich: 3
+blackbeard: 3
+roosevelt: 3
+robert i: 3
+falklands war: 3
+panic of 1837: 3
+cossacks: 3
+taiwan: 3
+dday: 3
+winter war: 3
+republic of the sudan: 3
+genoa: 3
+ronald reagan: 3
+cotton: 3
+tariffs: 3
+yugoslavia: 3
+pakistan: 3
+gold: 3
+corinth: 3
+john c calhoun: 3
+taiping rebellion: 3
+battle of leipzig: 3
+boston massachusetts: 3
+fall of constantinople: 3
+new deal: 3
+christopher columbus: 3
+duke of wellington: 3
+standard oil: 3
+jefferson davis: 3
+wisconsin: 3
+australian aborigines: 3
+prime minister australia: 3
+republic of turkey: 3
+missouri: 3
+charles sumner: 3
+ghana empire: 3
+illinois: 3
+sweden: 3
+delaware: 3
+spartacus: 3
+charles martel: 3
+inca civilization: 3
+reconstruction: 3
+colombia: 3
+panama canal: 3
+antarctica: 3
+ashoka: 3
+wa: 3
+black death: 3
+umayyad caliphate: 3
+armenians: 3
+bill clinton: 3
+first council of nicaea: 3
+daniel boone: 3
+hirohito: 3
+war of the pacific: 3
+soviet socialist republics: 3
+haiti: 3
+neville chamberlain: 3
+republic of texas: 3
+fidel castro partial answer before raul read: 3
+warsaw pact: 3
+shaka zulu: 3
+suleiman the magnificent: 3
+the netherlands: 3
+yasser arafat: 3
+korean war: 3
+kingdom saudi arabia: 3
+jomo kenyatta: 3
+knights templar: 3
+san francisco california: 3
+fourth crusade: 3
+john: 3
+ralph nader: 3
+arizona: 3
+paris: 3
+francisco franco: 3
+republic of venice: 3
+ferdinand: 3
+first transcontinental railroad: 3
+iron: 3
+south carolina: 3
+emperor hirohito: 3
+george: 3
+medici family: 3
+submarines: 3
+timur the lame: 3
+dominican republic: 3
+michigan: 3
+libya: 3
+korean peninsula: 3
+battle of austerlitz: 3
+jameson raid: 3
+homestead strike: 3
+franklin roosevelts courtpacking scheme: 3
+kingdom of prussia: 3
+manhattan project: 3
+visigoths: 3
+second defenestration prague: 3
+algerian war independence: 3
+mustafa kemal atat„ºrk: 3
+fidel castro: 3
+winston churchill: 3
+rockefeller: 3
+mali: 3
+babur: 3
+jimmy carter: 3
+beijing: 3
+zulu empire: 3
+alger hiss: 3
+john tyler: 3
+bulgaria: 3
+barry goldwater: 3
+second great awakening: 3
+indiana: 3
+iran hostage crisis: 3
+nicolas sarkozy: 3
+vladimir ilyich lenin: 3
+florida: 3
+council of constance: 3
+mccarthy: 3
+republic cote divoire: 3
+federalist papers: 3
+california gold rush: 3
+republic of yemen: 3
+joseph stalin: 3
+embargo act: 3
+kingdom of the netherlands: 3
+mongols: 3
+queen elizabeth i: 3
+john marshall: 3
+arthur neville chamberlain: 3
+andrew johnson: 3
+saint joan arc: 3
+second boer war: 3
+impeachment andrew johnson: 3
+burma: 3
+augusto pinochet ugarte: 3
+james madison: 3
+de secondat baron montesquieu: 3
+oklahoma city bombing: 3
+salvador allende gossens: 3
+the spanishamerican war: 3
+songhai empire: 3
+battle iwo jima: 3
+missouri compromise 1820: 3
+edict of nantes: 3
+prime minister israel: 3
+hannibal: 3
+ivan iv terrible: 3
+american revolutionary war: 3
+nikita khrushchev: 3
+ivan iv russia: 3
+french indian war: 3
+vladimir ilich lenin: 3
+the philippines: 3
+bay pigs invasion: 3
+hernan cortes de monroy y pizarro: 3
+king philips war: 3
+articles confederation perpetual union: 3
+herbert hoover: 3
+worms: 3
+titus flavius vespasianus: 3
+falkland islands war: 3
+juan domingo peron: 3
+first opium war: 3
+united republic tanzania: 3
+hashemite kingdom jordan: 3
+committee public safety: 3
+paul von hindenburg: 3
+francisco pancho villa: 3
+alexander great iii: 3
+united states v: 3
+james gillespie blaine: 3
+cleopatra vii philopator: 3
+james abram garfield: 3
+william lloyd garrison: 3
+united states state: 3
+salt march dandi: 3
+mansa kankan musa: 3
+battle san jacinto: 3
+night long knives: 3
+the duke of wellington: 3
+treaty paris 1783: 3
+huey pierce long: 3
+beer hall putsch: 3
+margaret thatcher baroness: 3
+saddam hussein altikriti: 3
+standard oil company: 3
+triangle shirtwaist factory fire: 3
+john f kennedy: 3
+battle before mentioned: 3
+philip ii macedon: 3
+democratic republic congo: 3
+pierre elliott trudeau: 3
+civil service reform: 2
+farc: 2
+zimbabwe: 2
+kulturkampf: 2
+cicero: 2
+newspapers: 2
+apollo program: 2
+khmer rouge: 2
+otto i: 2
+challenger disaster: 2
+pierre trudeau: 2
+akbar the great: 2
+george i: 2
+slobodan milosevic: 2
+witch trials: 2
+yorktown: 2
+paper: 2
+japaneseamericans: 2
+amsterdam: 2
+gallipoli campaign: 2
+roads: 2
+draco: 2
+hotels: 2
+croatia: 2
+isabella i: 2
+chariots: 2
+the blitz: 2
+idi amin: 2
+charles i: 2
+venezuela: 2
+richard nixon: 2
+stonewall riots: 2
+william of orange: 2
+cecil rhodes: 2
+reconquista: 2
+northern ireland: 2
+fascism: 2
+palace of versailles: 2
+nigeria: 2
+mayflower compact: 2
+1980: 2
+virginia: 2
+mau mau uprising: 2
+louis xv: 2
+yemen: 2
+clarence darrow: 2
+detroit: 2
+brutus: 2
+kingdom of morocco: 2
+house of orangenassau: 2
+alexander ii: 2
+carolingian dynasty: 2
+rwandan genocide: 2
+puritans: 2
+cato: 2
+los angeles california: 2
+warfare: 2
+prague accept praha: 2
+george w bush: 2
+election of 1800: 2
+oklahoma: 2
+isabella i of castile: 2
+secretary of state: 2
+duchy of burgundy: 2
+atlanta georgia: 2
+albert einstein: 2
+austria: 2
+clovis i: 2
+claudius: 2
+pirates: 2
+rameses ii: 2
+franklin pierce: 2
+zhou dynasty: 2
+louisiana purchase: 2
+battle of chancellorsville: 2
+babylonian empire: 2
+league of nations: 2
+otto: 2
+missouri compromise: 2
+chicago illinois: 2
+wyoming: 2
+west virginia: 2
+munich 1972 summer: 2
+samurai: 2
+lyndon johnson lbj: 2
+ataturk: 2
+corn laws: 2
+peasants: 2
+sinking rms titanic: 2
+american civil war: 2
+gaul: 2
+red: 2
+republic of rwanda: 2
+macedon: 2
+the emancipation proclamation: 2
+battle of vicksburg: 2
+treaty of ghent: 2
+battle of the alamo: 2
+colorado: 2
+republic of namibia: 2
+seljuk turks: 2
+leo: 2
+easter rising: 2
+charleston south carolina: 2
+constantine: 2
+new orleans louisiana: 2
+puerto rico: 2
+vienna austria: 2
+sugar cane: 2
+galileo galilei: 2
+1968: 2
+florence nightingale: 2
+wallace: 2
+republic of nicaragua: 2
+pyrrhus of epirus: 2
+iceland: 2
+emperor meiji: 2
+jonathan edwards: 2
+transatlantic slave trade: 2
+aircraft carriers: 2
+pol pot: 2
+wall street: 2
+hammurabi: 2
+revolutions of 1848: 2
+camp david accords: 2
+jackson: 2
+john smith: 2
+bubonic plague black death: 2
+andrew carnegie: 2
+sumerian civilization: 2
+augustus: 2
+marshall plan: 2
+gauls: 2
+new jersey: 2
+gaius marius: 2
+chief joseph: 2
+tanks: 2
+marie antoinette: 2
+trail of tears: 2
+archbishop of canterbury: 2
+commonwealth of massachusetts: 2
+rep„∫blica argentina: 2
+montgomery bus boycott: 2
+louisiana: 2
+england: 2
+gallic wars: 2
+yellow: 2
+charles darwin: 2
+oregon territory: 2
+hydrogen bomb: 2
+hurricane katrina: 2
+joseph philippe pierre yves elliott: 2
+yuan dynasty: 2
+republica argentina republic: 2
+richard: 2
+king of sweden: 2
+iraniraq war: 2
+new york times: 2
+henry v: 2
+et al v: 2
+haymarket riot: 2
+olmecs: 2
+glorious revolution 1688: 2
+william conqueror guillaume: 2
+volcanic eruptions: 2
+sim„≥n bol„≠var: 2
+cardinal richelieu armandjean du plessis: 2
+tutankhamun or tutankhaten: 2
+the new york times: 2
+space shuttle challenger disaster: 2
+minoan civilization: 2
+catherine great ii: 2
+louisnapoleon bonaparte napoleon iii: 2
+juan domingo per„≥n: 2
+siege of vicksburg: 2
+hosni mubarak: 2
+romulus: 2
+norway: 2
+dalai lama: 2
+elephants: 2
+thomas nast: 2
+paris commune: 2
+sir winston churchill: 2
+battle of tippecanoe: 2
+harold ii: 2
+the federalist papers: 2
+aaron burr: 2
+nuremberg trials: 2
+syracuse: 2
+republic of singapore: 2
+the nation of islam: 2
+dresden: 2
+queen anne i: 2
+coal mining industry: 2
+queen alexandrina victoria: 2
+battle of jutland: 2
+patrick henry: 2
+world trade center: 2
+kingdom of spain: 2
+otto the great: 2
+battle of cr„©cy: 2
+federal republic somalia: 2
+joseph ii: 2
+bolivarian republic venezuela: 2
+sitting bull: 2
+serbia: 2
+secretary of the navy: 2
+san francisco: 2
+ashoka the great: 2
+cherokee nation: 2
+equivalents partial answer: 2
+gettysburg address: 2
+common sense: 2
+york city nyc: 2
+roman word forms rome: 2
+caesar augustus octavian: 2
+mayflower: 2
+supreme court united states: 2
+battle of trenton: 2
+chandragupta maurya: 2
+interstate highway system: 2
+dom pedro ii: 2
+darius i: 2
+mexico city: 2
+mansa musa: 2
+timur lame tamerlane: 2
+japaneseamerican internment: 2
+rape of nanking: 2
+warren g harding: 2
+frederick i: 2
+republic of iraq: 2
+watergate hotel: 2
+mughal empire dynasty: 2
+peloponnesian wars: 2
+anabaptists: 2
+battle of britain: 2
+kgb: 2
+long: 2
+manchuria: 2
+gold rush: 2
+haile selassie i: 2
+death penalty: 2
+captain james cook: 2
+the bastille: 2
+fourteenth amendment: 2
+battle of gaugamela: 2
+basques: 2
+secretary of the interior: 2
+algeria: 2
+kenya: 2
+berlin airlift: 2
+lee: 2
+ford motor company: 2
+vespasian: 2
+the communist manifesto: 2
+kingdom of norway: 2
+kolkata: 2
+election of 1876: 2
+thucydides: 2
+nathaniel turner: 2
+verdun: 2
+both underlined required: 2
+labor unions: 2
+charlemagne charles great carolus magnus: 2
+equivalent partial answers: 2
+king louis xvi: 2
+war before mentioned: 2
+word forms equivalents: 2
+birmingham: 2
+luddites: 2
+elizabeth i of england: 2
+asoka: 2
+ivan iv: 2
+xerxes i: 2
+bosnia and herzegovina: 2
+abolitionism: 2
+syria: 2
+tyler: 2
+darius: 2
+mughal: 2
+moon: 2
+knights of labor: 2
+david lloyd george: 2
+michele bachmann: 2
+soviet union: 2
+william pitt younger: 2
+samuel houston: 2
+dorrs rebellion: 2
+julius robert oppenheimer: 2
+hezbollah: 2
+mayor of chicago: 2
+nicolaus copernicus: 2
+purchase of alaska: 2
+tutankhamun: 2
+john wilkes booth: 2
+john dickinson: 2
+edward the confessor: 2
+the sudan: 2
+richard iii: 2
+pius: 2
+equal rights amendment: 2
+huey long: 2
+burning washington dc: 2
+dunkirk evacuation: 2
+tony blair: 2
+republic of haiti: 2
+medici: 2
+vermont: 2
+guy fawkes: 2
+erwin johannes eugen rommel: 2
+james buchanan: 2
+battles of saratoga: 2
+richard i of england: 2
+horatio nelson: 2
+alqaeda: 2
+peru: 2
+charles lindbergh kidnapping: 2
+congo: 2
+marquis de lafayette: 2
+federal reserve system: 2
+massachusetts: 2
+election of 2000: 2
+thirteenth amendment: 2
+hull house: 2
+charles augustus lindbergh: 2
+capetian dynasty: 2
+noble order knights labor: 2
+european union: 2
+abortion: 2
+hernan cortes: 2
+party united kingdom: 2
+george armstrong custer: 2
+milano: 2
+richard joseph daley: 2
+michinomiya hirohito: 2
+battle of thermopylae: 2
+hugo chavez: 2
+edward vi: 2
+second paris commune: 2
+arthur wellesley duke wellington: 2
+charles v: 2
+battle siege yorktown: 2
+dollree mapp v ohio: 2
+ramesses ii great ozymandias before: 2
+robert francis kennedy: 2
+sir winston spencerchurchill: 2
+must either both names: 2
+porfirio diaz: 2
+henry vii england: 2
+john tyler jr: 2
+john of england: 2
+muhammad ibn abdullah: 2
+wilhelm ii kaiser: 2
+george iii hanover: 2
+19th amendment: 2
+caesar augustus: 2
+republic venice venezia: 2
+genghis khan chinggis temujin: 2
+mobutu sese seko: 2
+congress of vienna: 2
+zheng he: 2
+republic of ireland: 2
+james garfield: 2
+knownothing party: 2
+grand ayatollah ruhollah khomeini: 2
+uganda: 2
+vasco nunez de balboa: 2
+battle manila bay: 2
+schmalkaldic league: 2
+south sea company: 2
+vichy france government: 2
+dont ask tell: 2
+willy brandt: 2
+harlem: 2
+first punic war: 2
+peoples republic bangladesh: 2
+solon: 2
+george mcclellan: 2
+robert f kennedy: 2
+credit mobilier america scandal: 2
+chairman mao zedong: 2
+henry clay sr: 2
+vlad the impaler: 2
+leonid brezhnev: 2
+memphis: 2
+marbury v madison: 2
+horatio nelson viscount: 2
+indira gandhi: 2
+cultural revolution: 2
+henry ii england: 2
+david bengurion: 2
+robert la follette: 2
+millard fillmore: 2
+six day war: 2
+gadsden purchase: 2
+peter stuyvesant: 2
+george wallace: 2
+battle of puebla: 2
+flavius petrus sabbatius: 2
+william mckinley jr: 2
+peter great russia: 2
+assassination franz ferdinand: 2
+european union eu: 2
+portugal republic republica portuguesa: 2
+tennessee valley authority: 2
+cyrus ii great: 2
+louis xiv sun king: 2
+meiji restoration period: 2
+magna carta libertatum: 2
+maximilien robespierre: 2
+shayss rebellion: 2
+great wall china: 2
+george catlett marshall: 2
+eugene victor debs: 2
+mormons: 2
+scott v sanford: 2
+french wars religion: 2
+bloody sunday: 2
+maria theresa austria: 2
+nepal: 2
+paraguay: 2
+battle dien bien phu: 2
+websterashburton treaty: 2
+george smith patton: 2
+de medicis: 2
+the magna carta: 2
+giuseppi garibaldi: 2
+henry morton stanley: 2
+slave rebellions: 2
+vatican city state: 2
+czar nicholas ii: 2
+ferdinand ii aragon: 2
+ralph waldo emerson: 2
+united states senator: 2
+harry truman: 2
+james strom thurmond: 2
+stephen arnold douglas: 2
+james ii england: 2
+chartism: 2
+oliver hazard perry: 2
+the paris commune: 2
+syrian arab republic: 2
+nicola sacco bartolomeo vanzetti: 2
+rafael leonidas trujillo: 2
+nebuchadnezzar ii: 2
+new kingdom: 2
+william marcy boss tweed: 2
+rightly guided caliphs: 2
+irish republican army: 2
+republic of angola: 2
+charlesmaurice de talleyrand: 2
+great proletarian cultural revolution: 2
+democratic national convention: 2
+decembrist revolt uprising: 2
+cardinal jules mazarin: 2
+muhammad ali pasha almasud ibn agha: 2
+henry navigator seafarer infante duke viseu henrique: 2
+hamas harakat almuqawamat: 2
+muhammad ali jinnah: 2
+jeanpaul marat: 2
+lollards: 2
+abbasid caliphate dynasty: 2
+winston leonard spencerchurchill: 2
+tennis court oath: 2
+charles maurice de: 2
+roger brooke taney: 2
+john calvin coolidge jr: 2
+lee harvey oswald: 2
+monroe doctrine: 2
+francoisdominique toussaint louverture: 2
+jays treaty london: 2
+world war great: 2
+battle lake erie: 2
+mccullough v maryland: 2
+house of bourbon: 2
+john caldwell calhoun: 2
+joseph robinette biden: 2
+federalist party: 2
+tiberius caesar augustus: 2
+seven years war: 2
+orenthal james simpson: 2
+the glorious revolution: 2
+chester william nimitz: 2
+adlai ewing stevenson: 2
+bartholomews day massacre: 2
+know nothing party: 2
+great leap forward: 2
+eugene v debs: 2
+federal reserve act: 2
+kublai khan kubla: 2
+robert strange mcnamara: 2
+tamil tigers liberation eelam: 2
+indian removal act: 2
+whiskey ring scandal: 2
+green mountain boys: 2
+alien sedition acts: 2
+my lai   mee lye  massacre: 1
+mountain  climbing: 1
+valley forge  pennsylvania: 1
+founding  of  rome: 1
+roman  forum: 1
+ma772ori: 1
+harpers ferry: 1
+democratic political  machines: 1
+gaius  marius: 1
+darius  i: 1
+harry s  truman  and douglas  macarthur: 1
+cavalier s: 1
+battle of  chickamauga: 1
+kosovo  war: 1
+university of  alabama: 1
+partition s of  poland: 1
+alexander i: 1
+nicolaus  copernicus: 1
+haiti  and the  dominican republic: 1
+bank ing: 1
+cargo cult s: 1
+boxer  rebellion: 1
+19 30 s: 1
+1936  berlin  summer  olympics: 1
+scientist s: 1
+emperor  of the  inca: 1
+richelieu: 1
+stephen  decatur: 1
+navarre: 1
+sicilian  mafia: 1
+e leanor  roosevelt: 1
+republic of  sierra leone: 1
+1910 s: 1
+santa fe  new mexico: 1
+the  troubles: 1
+horatio herbert kitchener 1st earl  kitchener: 1
+give me  liberty  or give me  death  speech: 1
+chemical  weapons: 1
+liberty bell: 1
+1964  us presidential election: 1
+winter palace: 1
+coronation s of english monarchs: 1
+winston  churchill  and joseph  stalin: 1
+shang  dynasty: 1
+world s  fair: 1
+university of  oxford: 1
+brigham  young: 1
+elephant s: 1
+unification  of  italy: 1
+governor  of  michigan: 1
+ivory: 1
+us  postal service: 1
+iraq: 1
+ottoman sultan: 1
+indulgence s: 1
+nobel  prizes: 1
+phoenicia ns: 1
+apollo 11: 1
+uighur s  weegurz: 1
+roman navy: 1
+baltic sea: 1
+railroad industry: 1
+william iii of orange: 1
+singapore: 1
+republic of china: 1
+thomas „nbsp becket: 1
+russian civil war: 1
+kingdom of italy: 1
+oil: 1
+britain and russia: 1
+union of burma: 1
+english longbow: 1
+stephen grover cleveland: 1
+republic of genoa: 1
+james8203: 1
+king8203s of rome8203: 1
+ancient egypt: 1
+the roman catholic church8203: 1
+bumassacreubs of native americans: 1
+bujapanub8203 and burussia8203ub: 1
+kingdom of buprussiaub: 1
+buaugustusub: 1
+second continental congress: 1
+england and the netherlands: 1
+wine: 1
+richmond virginia: 1
+corpses: 1
+german peasants: 1
+royal library of alexandria: 1
+eli whitney: 1
+1940s: 1
+2nd century ad: 1
+buffalo: 1
+harvard university: 1
+abbasid caliphatedynasty: 1
+escaping slavery: 1
+armenian genocide: 1
+sheeps wool: 1
+charles guiteau: 1
+timbuktu: 1
+napoleon is invasion of russia: 1
+toussaint louverture: 1
+jewish ghettos: 1
+catherine: 1
+india: 1
+log cabins: 1
+agriculture: 1
+sarajevo: 1
+ten: 1
+richard francis burton: 1
+appeasement: 1
+rockefeller family: 1
+september 11 attacks: 1
+bananas: 1
+1905: 1
+king of italy: 1
+theaters: 1
+oil industry: 1
+homosexual acts: 1
+richard nixons china visit in 1972: 1
+zulu people: 1
+banks: 1
+gulag prison camps: 1
+presidential election of 1980: 1
+doctors: 1
+richard is imprisonment: 1
+the irish: 1
+british columbia: 1
+public executions during the french revolution: 1
+danes: 1
+john a macdonald: 1
+william h seward: 1
+georges clemenceau: 1
+washington dc: 1
+frederick: 1
+cattle: 1
+the underground railroad: 1
+plebeians: 1
+kwame nkrumah: 1
+british labour party: 1
+nanjing: 1
+israel: 1
+republic of florence: 1
+the military draft: 1
+the roman catholic church: 1
+nazi ss: 1
+servile wars: 1
+song dynasty ll jrll: 1
+the renaissance: 1
+queen victoria llll: 1
+continental congresses: 1
+fall of the western roman empire: 1
+aboriginal australians: 1
+huey: 1
+nikola tesla nwnw: 1
+jewish revolt: 1
+benedict arnold jwjw: 1
+geographic south pole: 1
+leonid: 1
+democratic republic of afghanistan or dra or jumhuriye dimukrateeye afganistan or d afganistan dimukrati jumhuriyat or jumhuriye afganistan or d afganistan jumhuriyat jwjw: 1
+the bronze age: 1
+persian wars: 1
+george washington glgl: 1
+european wars of religion: 1
+alexander ii romanov: 1
+sparta jrjr: 1
+boudica: 1
+olmec jrjr: 1
+the prince: 1
+the balkan peninsula: 1
+new york new york: 1
+opium llll: 1
+city of paris: 1
+london llll: 1
+mauryan empire mw jrmw: 1
+crossing the english channel: 1
+cyrus the great or cyrus of persia: 1
+reaching the north pole accept any clearknowledge equivalents: 1
+john calhoun: 1
+jews or jewish europeans: 1
+iraq war: 1
+confederate states of america: 1
+coffee: 1
+election of 1860: 1
+tsar of russia accept emperor prompt on ruler: 1
+invasion of france by nazi germany accept battle of france fall of france or other 	equivalent descriptions ‚nbsp‚nbsp: 1
+nursing accept nurse: 1
+1890s: 1
+the republic of indonesia: 1
+cesar chavez: 1
+greenland: 1
+railroads: 1
+oliver cromwel: 1
+douglas: 1
+naval impressment: 1
+hellenistic period: 1
+russian pogroms: 1
+manchu people: 1
+african americans: 1
+stephen vincent benet: 1
+university of chicago: 1
+turtles: 1
+battleships: 1
+chinese imperial examination: 1
+american national red cross: 1
+codebreaking: 1
+louis philippe i: 1
+nebraska: 1
+griots: 1
+french invasion of egypt and syria: 1
+grecopersian wars: 1
+astronauts: 1
+anc: 1
+mutiny on the bounty: 1
+barricades: 1
+he construction of hoover dam: 1
+kyoto japan: 1
+canute the great: 1
+italian unification: 1
+sandinistas: 1
+the troubles in northern ireland: 1
+rothschild family: 1
+alexander vi: 1
+prince albert: 1
+flowers: 1
+cubanamericans: 1
+fur trading: 1
+hunting: 1
+geneva switzerland: 1
+father coughlin: 1
+nuremberg: 1
+piracy: 1
+the civil war: 1
+al capone: 1
+the military: 1
+slaves: 1
+king: 1
+russia civil war: 1
+angola: 1
+antipersonnel land mines: 1
+king juan carlos i: 1
+t e lawrence: 1
+fires: 1
+chineseamericans: 1
+roman coins: 1
+vietnam veterans memorial: 1
+crowns: 1
+volstead act: 1
+fort ticonderoga: 1
+shah accept shahanshah accept shah of any country: 1
+sugar: 1
+black: 1
+charles accept carl before manfred: 1
+barbary wars: 1
+iroquois confederacy or haudenosaunee: 1
+chandragupta maurya accept sandracottus: 1
+peter i or peter the great prompt on peter: 1
+tories or tory party do not accept conservative party: 1
+coal antiprompt on types of coal like lignite bituminous anthracite: 1
+arabian sea do not accept or prompt on indian ocean: 1
+masondixon line: 1
+yellow river also called the huang he: 1
+bubonic plagues: 1
+borgia family: 1
+barry: 1
+calendars: 1
+sepoy rebellion: 1
+tiananmen square: 1
+arthur neville chamberlai: 1
+submarine: 1
+japanese emperors: 1
+usa and the confederacy: 1
+nagasaki: 1
+the indian subcontinent: 1
+witches: 1
+chartists: 1
+assassination of james: 1
+us presidential election of 1948: 1
+right to keep and bear arms: 1
+ashoka maurya: 1
+origami: 1
+prasat angkor wat: 1
+ancient empire of carthage: 1
+zulu kingdom: 1
+space shuttle orbiter vehicle: 1
+kim: 1
+invasion of the korean peninsula: 1
+john james marshall: 1
+robert gabriel mugabe: 1
+scottish independence: 1
+uss constitution: 1
+mcdonalds corporation: 1
+reunification of germany: 1
+state of new york: 1
+city of vienna: 1
+fur trade: 1
+king john lackland: 1
+caliph: 1
+city of birmingham alabama: 1
+being a christian: 1
+anglosaxons: 1
+spears: 1
+kingdom of portugal: 1
+atomic bombs: 1
+gladiators: 1
+natural rubber: 1
+third century bce: 1
+charles i stuart: 1
+warsaw: 1
+invading the indian subcontinent: 1
+crimean peninsula: 1
+francoalgerian war: 1
+popes: 1
+greek alphabet: 1
+municipality of beijing: 1
+the church of england: 1
+pope francis: 1
+commonwealth of virginia jwjw: 1
+the sahara: 1
+dictator fmfm: 1
+1992: 1
+abolition of slavery accept reasonable synonyms for abolition like eliminationat least in orlando: 1
+assassination of william mckinley: 1
+japaneseamerican internment accept clearknowledge equivalents: 1
+atlanta: 1
+justinian i or justinian the great: 1
+us senator from illinois: 1
+bull run or manassas: 1
+wheat: 1
+governor of arkansas: 1
+chicago police department: 1
+norway or norge or noreg: 1
+two: 1
+roman christians: 1
+1945: 1
+tripoli: 1
+phineas taylor barnum: 1
+airplanes: 1
+rubber: 1
+anna eleanor roosevelt: 1
+paintings: 1
+summer olympic games: 1
+mayan civilization: 1
+calvinism: 1
+seven: 1
+temperance or prohibition: 1
+suez canal: 1
+james ii: 1
+francisco pizarro gonz„°lez: 1
+roman britain: 1
+consuls: 1
+embassy or consulate: 1
+labor strikes: 1
+valley forge: 1
+hitler youth: 1
+pope: 1
+assassination of julius caesar: 1
+chemical weapons: 1
+sherman: 1
+nicholas ii or nikolay ii: 1
+taliban accept taleban prompt on students: 1
+naacp accept national association for the advancement of colored people: 1
+geneva conventions prompt on geneva protocols do not accept geneva accords which are tied to the liberation of vietnam: 1
+shah jahan accept prince khurram: 1
+assassination of robert kennedy accept synonyms for assassination the player must give at least part of the first name prompt if not given accept bobby in place of robert: 1
+eminent domain accept compulsory purchase before it is mentioned do not accept confiscation: 1
+second crusade prompt on crusades: 1
+republic of fiji: 1
+etruscans accept etrusci tusci tyrsenoi tyrrhenoi accept rasenna before mentioned: 1
+black hawk war: 1
+roanoke island prompt on north carolina until richard prompt on lost colony: 1
+tokugawa ieyasu accept matsudaira takechiyo or matsudaira motoyasu: 1
+the overthrow of salvador allende accept clear equivalents: 1
+the sudan do not accept south sudan: 1
+malcolm x accept malcolm little or elhajj malik elshabazz: 1
+fort ticonderoga prompt on carillon: 1
+voting rights act of 1965: 1
+siege of orleans: 1
+libya accept the libyan republic or aljumhuriyyah allibiyyah: 1
+battle of britain accept operation sea lion: 1
+spanish inquisition: 1
+berlin west africa conference: 1
+mansa musa i: 1
+donald henry rumsfeld: 1
+navajo code talkers: 1
+alaqsa mosque: 1
+james edward oglethorpe: 1
+looms: 1
+samuel sam houston: 1
+education: 1
+soviet nuclear weapons program: 1
+utah territory: 1
+ports: 1
+prince grigory alexandrovich potemkintavricheski: 1
+united states embassies: 1
+irish home rule: 1
+ypres: 1
+title ix of the education amendments of 1972: 1
+helen adams keller: 1
+adolf otto eichmann: 1
+hungarian revolution of 1956: 1
+volcanic eruptions of mount vesuvius: 1
+italianamericans: 1
+7th century ce: 1
+woodstock music amp art fair: 1
+william bligh: 1
+balkan peninsula: 1
+farming: 1
+karl friedrich benz: 1
+wives of muhammad: 1
+hudsons bay company: 1
+pri: 1
+cromwell: 1
+maps: 1
+king of belgium: 1
+brazilian slaves: 1
+integration of public schools: 1
+israeli war of independence: 1
+shah of iran: 1
+bhutto family: 1
+viceadmiral horatio nelson: 1
+the atlanta compromise: 1
+alba longa: 1
+the girondins: 1
+brooklyn: 1
+murad: 1
+german reunification: 1
+albert: 1
+tamil tigers: 1
+normans: 1
+vietnamese: 1
+policemen: 1
+mustafa kemal: 1
+ghibellines: 1
+pontiacs war: 1
+antonys friends roman countrymen speech: 1
+albanians: 1
+ashanti kingdom: 1
+virginia colony: 1
+sforza family: 1
+yellow fever epidemic: 1
+incan roads: 1
+burning at the stake: 1
+damascus: 1
+smith: 1
+mycenae: 1
+roman roads: 1
+house of medici: 1
+booker t washington: 1
+automobiles: 1
+bigfoot: 1
+rio de janeiro: 1
+perestroika and glasnost: 1
+presidential appointments: 1
+ontario: 1
+one flew over the cuckoos nest: 1
+silk: 1
+liberal party: 1
+american bombing raids on japan: 1
+prime minister of japan: 1
+election of 1912: 1
+invasions of england: 1
+marco polo: 1
+austria or „ñsterreich: 1
+eleanor roosevelt accept eleanor alone after roosevelt is read: 1
+tutankhamun accept king tut: 1
+i have a dream: 1
+finland accept suomi: 1
+the killing or equivalents of osama bin laden: 1
+mexican american war: 1
+huns or the hunnic empire: 1
+capital punishment or the death penalty execution or equivalents prompt on lethal injection before mentioned: 1
+cosmonauts accept russiansoviet astronauts before mentioned prompt on astronaut alone: 1
+longbow prompt on bow accept additional mention of arrows but do not prompt or accept arrows alone: 1
+table rock or sea salt accept sodium chloride before mentioned: 1
+united states navyaccept obvious equivalents prompt on navy: 1
+the murder of john lennon: 1
+east india companies: 1
+nazi germany: 1
+refugees who flee their home countries: 1
+the whiskey rebellion: 1
+president of france: 1
+geneva: 1
+right to an attorney: 1
+the theory of evolution by means of natural selection: 1
+socialist federal republic of yugoslavia: 1
+dictator of rome: 1
+fish: 1
+lord frederick north 2nd earl of guilford: 1
+valois dynasty: 1
+death of james riddle jimmy hoffa: 1
+russian serfs: 1
+norman invasion of england: 1
+kingdom of portugal and the algarves and kingdom of spain: 1
+declaration of independence: 1
+diamonds: 1
+ernesto che guevara: 1
+phoenicians: 1
+polandlithuania: 1
+james madison jr: 1
+saint thomas: 1
+axes: 1
+chariot racing: 1
+the 2010 health care reform law: 1
+qu„©bec: 1
+republic of mali: 1
+pacific ocean: 1
+camels: 1
+great britain and france: 1
+state of connecticut: 1
+the amazulu: 1
+roger williams: 1
+tiananmen square protestmassacre: 1
+japaneseamerican internment camps: 1
+thomas a becket: 1
+chairman of the board of governors of the federal reserve: 1
+mongol empire: 1
+ellis island: 1
+operation barbarossa: 1
+charleston: 1
+pastors: 1
+international court of justice: 1
+kaiser: 1
+ok corral gunfight: 1
+refugees from cuba: 1
+continental army: 1
+ancient olympic games: 1
+shoes: 1
+american flag: 1
+stockholm sweden: 1
+montreal: 1
+circumnavigating the earth: 1
+boris yeltsin: 1
+the mob: 1
+orange: 1
+professional baseball players: 1
+ruhollah khomeini: 1
+the declaration of independence: 1
+courtiers: 1
+benito: 1
+boer wars: 1
+kingdom of portuga: 1
+commerce clause: 1
+antonio: 1
+republic of croatia: 1
+john calvin: 1
+electricity: 1
+constantine accept answers with following epithets like the great: 1
+dwight d eisenhower: 1
+college students accept equivalents that include a synonym for college: 1
+slave narratives: 1
+department of education: 1
+heinz: 1
+state of the union address: 1
+darius the great or darius i: 1
+birmingham alabama: 1
+october: 1
+car crash or accident accept synonyms: 1
+university of californiaberkeley accept cal or berkeley: 1
+tennessee: 1
+nine: 1
+bush family: 1
+governor of florida: 1
+fur trade accept pelts i reckon: 1
+roman catholicism church: 1
+defenestrations accept jum: 1
+2004: 1
+genocide: 1
+911: 1
+state of libya: 1
+irancontra affair accept irangate or contragate: 1
+chinese cultural revolution: 1
+punic wars accept specific wars like first second third or mercenary: 1
+gladiators prompt on slaves: 1
+whig: 1
+john lackland: 1
+argentina or argentine republic: 1
+irancontra scandal: 1
+joseph lieberman: 1
+constantine the great or constantine i prompt on constantine: 1
+nile river accept aboukir bay before mention i suppose: 1
+pompeii: 1
+vikings prompt on norsemen prompt on danes prompt on scandinavians: 1
+umayyad caliphate or umayyad dynasty: 1
+the scarlet letter: 1
+mayor of chicago prompt on mayor: 1
+tokugawa shogunate or tokugawa bafuku or edo period: 1
+benjamin harrison prompt on harrison: 1
+nazi party accept national socialist german workers party nationalsozialistische deutsche arbeiterpartei or nsdap: 1
+republic of cuba also accept haiti before mckinley do not accept or prompt afterwards: 1
+marco polo prompt on polo or m polo: 1
+first crusade accept crusade after first is mentioned otherwise prompt on it: 1
+ethiopia accept eritrea anywhere before addis ababa because all those things happened before it became independent: 1
+egyptian tombs or pyramids accept mastabas before mentioned prompt on tombs: 1
+elizabeth i of england prompt on elizabeth: 1
+mark antony or marcus antonius: 1
+versailles versigh accept palace of versailles or chateau de versailles accept treaty of versailles: 1
+the red badge of courage: 1
+long march: 1
+benito ju„°rez: 1
+otto eduard leopold von bismarcksch„∂nhausen: 1
+scopes trial: 1
+olympic games: 1
+invasions of afghanistan: 1
+sh333gun: 1
+akkadian empire: 1
+fourth amendment: 1
+nathaniel nat turner: 1
+ama zulu: 1
+king leopold ii: 1
+phoenician: 1
+ninjas: 1
+hms gasp„©e affair: 1
+republic of bulgaria: 1
+samuel taliaferro rayburn: 1
+tafthartley act: 1
+pedro „Ålvares cabral: 1
+sec: 1
+fran„ßoisdominique toussaint louverture: 1
+carrie amelia moore nation: 1
+napoleon i: 1
+us department of the treasury: 1
+fiveyear plans: 1
+leif stronguericsonustrong: 1
+strongucairoustrong egypt: 1
+republic of stronguturkeyustrong: 1
+strongueast germanyustrong: 1
+john strongushermanustrong: 1
+douglas strongumacarthurustrong: 1
+mikhail afanasyevich bulgakov: 1
+white supremacy: 1
+mass famines: 1
+manila: 1
+the black death: 1
+speeches of nikita khrushchev: 1
+baltimore: 1
+battle of guadalcanal: 1
+the black panthers: 1
+battle of mobile bay: 1
+house of lancaster: 1
+ayatollah ruhallah khomeini: 1
+lebanon: 1
+moscow russia: 1
+charlesmaurice de talleyrandperigord prince de b„©n„©vent: 1
+falange espanola tradicionalista de las juntas de ofensiva nacionalsindicalista: 1
+monastery: 1
+destroying books: 1
+american film industry: 1
+nicholas i: 1
+first battle of trenton: 1
+dilma vana rousseff: 1
+julius ii: 1
+meat packing industry: 1
+tea: 1
+cardinal thomas wolsey: 1
+taking a census: 1
+clocks: 1
+public lending libraries: 1
+gore: 1
+antislavery: 1
+manchester: 1
+the hyksos: 1
+medical doctors: 1
+president of the republic of poland: 1
+dalit people: 1
+khmer empirekingdometc: 1
+president of south korea: 1
+liberty ships: 1
+black and tans: 1
+pepin: 1
+kingdom of castile: 1
+leopold: 1
+taft: 1
+battle of kadesh: 1
+budapest: 1
+seminoles: 1
+mohenjodaro: 1
+duvalier: 1
+1755 lisbon earthquake: 1
+jan hus: 1
+100: 1
+herod: 1
+gibraltar: 1
+james: 1
+samuel finley breese morse: 1
+marcus porcius cato: 1
+key west: 1
+cosmonauts: 1
+baghdad iraq: 1
+battle of adrianople: 1
+conscription: 1
+mayor of new york city: 1
+conservative and unionist party: 1
+thrones: 1
+nuclear bombs weapons or warheads: 1
+ohio: 1
+per„≥n: 1
+flanders: 1
+ambassadors of the united kingdom: 1
+chester a arthur: 1
+execution by firing squad: 1
+james cook: 1
+siege of yorktown: 1
+icebergs: 1
+tuskegee institute or university: 1
+haitian revolution: 1
+sudan: 1
+horses: 1
+president of mexico prompt on president accept porfirio diaz before this position: 1
+berlin accept west berlin: 1
+chernobyl nuclear reactor explosion accept equivalents like chernobyl accident: 1
+usa patriot act of 2001 or uniting and strengthening america by providing appropriate tools required to intercept and obstruct terrorism act of 2001: 1
+first crusade prompt on holy crusades prompt on council of clermont before mentioned: 1
+mongol empire accept mongols do not accept mongolia or mongolian empire: 1
+nineteenth amendment to the us constitution or amendment 19: 1
+united nations accept un: 1
+dday or operation overlord accept operation neptune accept normandy invasion normandy landings or similar before normandy is mentioned: 1
+us declaration of independence: 1
+apollo 11 mission accept first lunar landing prompt on moon landing or lunar landing alone accept clearknowledge equivalents and prompt on partial answers prompt on apollo mission: 1
+burma accept myanmar before mentioned: 1
+pocahontas accept matoaka accept rebecca rolfe: 1
+battle of lexington: 1
+federal bureau of investigation or fbi: 1
+zulu kingdom or empire accept zululand: 1
+sir walter raleigh: 1
+sixth amendment to the us constitution: 1
+jack the ripper: 1
+kingdom of thailand: 1
+lord north: 1
+russian empire: 1
+disappearance of amelia earhart: 1
+election of 1864: 1
+louisphilippe i: 1
+mahdi revolt: 1
+genocides: 1
+muhammad: 1
+election of 1980: 1
+warsawa: 1
+rightlyguided caliphs: 1
+bartolom„© de las casas: 1
+albert gore jr: 1
+the third crusade: 1
+poliomyelitis: 1
+robert bobby fischer: 1
+salt: 1
+appeasement of nazi germany: 1
+skulls: 1
+war of: 1
+dreyfus affair scandal etc: 1
+russojapanese war of 19045: 1
+qin dynasty: 1
+lech walesa: 1
+jamestown virginia: 1
+joe mccarthy: 1
+socialist republic of vietnam or cong hoa xa hoi chu nghia viet nam: 1
+ronald: 1
+nikita: 1
+the boxer rebellion: 1
+margaret: 1
+the netherlands or holland accept united provinces until batavian republic i spose: 1
+gamel abdul nasser: 1
+picketts charge: 1
+guilds: 1
+1988: 1
+mary i or bloody mary: 1
+fire: 1
+sieges of vienna: 1
+egypt prompt on presentday arabiclanguage name of almisralmasr i guess: 1
+the mayans: 1
+fort sumter: 1
+philip of france: 1
+kingdom of jordan: 1
+peter the great or peter i: 1
+tokyo metropolis: 1
+mary: 1
+presidential debates: 1
+crusades: 1
+john i: 1
+pandit jawaharlal nehru: 1
+bridges: 1
+populist movement: 1
+oil spills: 1
+iroquois: 1
+ramesses the great: 1
+malian empire: 1
+saturn: 1
+falklands islands war: 1
+grigori yefimovich rasputin: 1
+themistocles: 1
+louis xiii: 1
+king of poland: 1
+sassanid dynastyempire: 1
+king john i: 1
+history: 1
+roman senate: 1
+panama: 1
+maria theresa walburga amalia christina: 1
+province of quebec: 1
+presidential election of 1860: 1
+the pentagon papers: 1
+speeches of winston churchill: 1
+st valentines day massacre: 1
+kim il sung: 1
+textile industry: 1
+director of the fbi: 1
+saint louis: 1
+southern rhodesia: 1
+granges: 1
+april: 1
+homosexuality: 1
+naples: 1
+el salvador: 1
+the family: 1
+second opium war: 1
+albany congress: 1
+anwar sadat: 1
+howl: 1
+tower of london: 1
+blessed mother teresa of calcutta: 1
+marcel proust: 1
+the nazi german navy: 1
+eunuchs: 1
+lord palmerston: 1
+emilio aguinaldo: 1
+atlantic charter: 1
+the university of texas: 1
+the velvet divorce: 1
+gypsies: 1
+stockholm: 1
+doolittle raid: 1
+tasmania: 1
+ india and pakistan: 1
+byzantine iconoclasm: 1
+universal suffrage: 1
+the danelaw: 1
+victor emmanuel ii: 1
+david davy crockett: 1
+the tariff of abominations: 1
+empress theodora: 1
+shang dynasty: 1
+tokugawa: 1
+nuclear program: 1
+kim ilsung: 1
+battle of tours or battle of poitiers: 1
+borgia: 1
+pizarro: 1
+siege of constantinople: 1
+robert walpole 1st earl of orford: 1
+bears: 1
+colonies of imperial germany: 1
+planned parenthood federation of america inc: 1
+ramesses ii: 1
+gamel abdel nasser hussein: 1
+iroquois confederacy: 1
+siberia: 1
+brigham young: 1
+invasions of korea: 1
+speeches by abraham lincoln: 1
+election of 1988: 1
+indira gandhi prompt on just gandhi: 1
+casey anthony: 1
+emperor napoleon i: 1
+english channel accept strait of dover or dover strait before dieppe but its wrong after prompt on channel: 1
+general benedict arnold: 1
+joseph stalin accept joseph jughashvili: 1
+second amendment to the us constitution accept amendment 2: 1
+prohibition prompt on temperance prompt on descriptions of banning alcohol before mentioned at the end: 1
+munich germany: 1
+wars of the roses all underlined portions required: 1
+roe vs wade: 1
+tsar nicholas ii prompt on nicholas: 1
+kingdom of spain accept reino de espa„±a: 1
+religion of islam accept muslim religion accept equivalent terms such as muslim or islamic faith creed etc accept al702isl257m accept sunni islam or 702ahlussunn: 1
+virginia colony accept commonwealth of virginia: 1
+czechoslovakia do not accept or prompt on czech republic or slovakia: 1
+jannisaries: 1
+erik the red: 1
+astroturfing: 1
+the napoleonic invasion of russia: 1
+aborigines: 1
+i have a dream speech: 1
+phoenicia: 1
+nazi gold: 1
+monica lewinsky affair: 1
+war of the austrian succesion: 1
+prime minister of india: 1
+william ewart gladstone: 1
+carlos: 1
+selfimmolation: 1
+hittites: 1
+versailles: 1
+treaty of lisbon: 1
+the boston massacre: 1
+trial jury: 1
+hiram ulysses s grant: 1
+aaron burr jr: 1
+hawaiian islands: 1
+ferdinand and isabella of spain: 1
+lyndon johnson: 1
+mauryan dynasty: 1
+african slave trading: 1
+vladimir: 1
+great schism: 1
+thomas woodrow wilso: 1
+praying in school: 1
+penn: 1
+constantine i or the great: 1
+1948: 1
+kublai: 1
+mussolini: 1
+meir: 1
+rough riders: 1
+plane crash: 1
+sons of libert: 1
+farmer: 1
+predestination: 1
+tallahassee: 1
+civil rights act 1964: 1
+bolivar: 1
+kitchen debate: 1
+lawrence: 1
+sherman anti trust: 1
+1972: 1
+bulge: 1
+stamp act: 1
+republican party: 1
+joan of arc: 1
+jamestown settlement: 1
+thermopylae: 1
+governor of california: 1
+seceding from the union: 1
+william hubbs rehnquist: 1
+grigory yefimovich rasputin: 1
+uss maine: 1
+battle of chattanooga: 1
+live 8: 1
+louisa may alcott: 1
+zimmermann telegram: 1
+central park: 1
+ivan: 1
+chief seattle: 1
+grigori alexandrovich potemkin: 1
+polygamy: 1
+leopold ii: 1
+marshall plan or european recovery plan or erp: 1
+zoot suit riots: 1
+democratic socialist republic of sri lanka: 1
+dr david livingstone: 1
+rwandan genocide of 1994: 1
+presidential election of 1848: 1
+the significance of the frontier in american history: 1
+mad men: 1
+eighteenth amendment to the us constitution: 1
+the apology of socrates: 1
+henry iii of england: 1
+jehovahs witnesses: 1
+horace greeley: 1
+the washington post: 1
+milton friedman: 1
+urban ii: 1
+cornelius vanderbilt: 1
+typhoid mary: 1
+mark twain: 1
+black panther party: 1
+luiz inacio lula da silva: 1
+pinkerton national detective agency: 1
+smoothawley act: 1
+ferdinand emmanuel marcos: 1
+william james: 1
+john charles fremont: 1
+frederick william: 1
+peter the greats beard tax: 1
+parthians: 1
+john wycliffe: 1
+npr: 1
+checkers speech: 1
+telephone: 1
+kingdom of bohemia: 1
+medgar evers: 1
+brian mulroney: 1
+wagner act: 1
+japanese navy: 1
+eighty years war: 1
+environmental protection agency: 1
+dominion of new england: 1
+campaign finance reform: 1
+american federation of laborcongress of industrial organizations: 1
+cuban war of independence: 1
+american football: 1
+wilfrid laurier: 1
+john singleton copley: 1
+the true chronicle of the history of the life and death of king lear and his three daughters: 1
+quasiwar: 1
+expulsions of the jews: 1
+transistor: 1
+fireworks: 1
+john steinbeck: 1
+second vatican council: 1
+zahir uddin muhammad babur: 1
+harriet beecher stowe: 1
+white army: 1
+comstock lode: 1
+carnival of venice: 1
+nation of islam: 1
+archimedes: 1
+william iii: 1
+john locke: 1
+charlie chaplin: 1
+strom thurmond: 1
+dmitry medvedev: 1
+great flood of 1993: 1
+assassination of olof palme: 1
+the house of lords: 1
+stono rebellion: 1
+jack london: 1
+arlington virginia: 1
+fortyfive: 1
+the art of war: 1
+franz liszt: 1
+king abdullah ii: 1
+johnny appleseed or john chapman: 1
+coronation of napoleon: 1
+nancy patricia dalesandro pelosi: 1
+samuel fb morse: 1
+lapd: 1
+leningrad symphony: 1
+apache: 1
+portraits of mao zedong: 1
+the john profumo affair: 1
+house of vasa: 1
+battle of adowa: 1
+pequot war: 1
+hopi: 1
+american reform judaism: 1
+roanoke island: 1
+alfred emanuel smith jr: 1
+fireside chats: 1
+walter frederick mondale: 1
+greenwich observatory: 1
+bearbaiting: 1
+tulsa: 1
+claudius ptolemy: 1
+the red brigades: 1
+troubadours: 1
+long island: 1
+david wilmot: 1
+chairman of the joint chiefs of staff: 1
+khalid sheikh mohammed: 1
+lynching: 1
+vicksburg: 1
+andersonville prison camp: 1
+gottfried wilhelm leibniz: 1
+pius ix: 1
+thutmose iii: 1
+democracy in america: 1
+cocaine: 1
+black hawk: 1
+manuel noriega morena: 1
+washington irving: 1
+human genome project: 1
+senet: 1
+rene descartes: 1
+commonwealth of puerto rico: 1
+robert peel: 1
+marcus garvey: 1
+presidential election of 1856: 1
+belgian neutrality: 1
+edouard manet: 1
+georgia okeeffe: 1
+muammar muhammad algaddafi: 1
+iowa: 1
+bombing of pearl harbor: 1
+sudetenland: 1
+robert bob dole: 1
+mark kirk: 1
+great zimbabwe: 1
+encomienda system: 1
+dwight david eisenhowers farewell address to the nation: 1
+bahai faith: 1
+karl rove: 1
+jousting: 1
+second viennese school: 1
+francois quesnay: 1
+patent medicines: 1
+monarch of the united kingdom: 1
+photography: 1
+nat turners rebellion: 1
+assassination of tsar alexander ii: 1
+savannah: 1
+the huguenots: 1
+robert goddard: 1
+nigerian civil war: 1
+god save the queen: 1
+lochner v new york: 1
+richard dawkins: 1
+octavian: 1
+weather underground: 1
+james fenimore cooper: 1
+great turkish war: 1
+globe theatre: 1
+construction of the berlin wall: 1
+teachers: 1
+seven samurai: 1
+populist party: 1
+columbia river: 1
+epicurus: 1
+nicolae ceausescu: 1
+billy graham: 1
+michael i romanov: 1
+new mexico: 1
+lay investiture controversy: 1
+gran chaco war: 1
+jaccuse: 1
+robert mcnamara: 1
+catholics in the united kingdom: 1
+shooting of gabrielle giffords: 1
+copperheads: 1
+dixie: 1
+empress matilda of england: 1
+marches on washington dc: 1
+the 1905 revolution in russia: 1
+canals: 1
+mutsuhito meiji: 1
+house of habsburg: 1
+transcontinental railroads: 1
+ron paul: 1
+john davison rockefeller: 1
+anne of great britain: 1
+reign of terror: 1
+benito pablo juarez: 1
+black plague: 1
+priests: 1
+calcium: 1
+john boehner: 1
+iranian revolution: 1
+united kingdom: 1
+leif ericson: 1
+writs: 1
+invading canada: 1
+caesar trajanus hadrianus augustus: 1
+russian federation: 1
+david howell petraeus: 1
+franz ferdinand: 1
+george iii of great britain: 1
+avignon: 1
+pontiacs rebellion: 1
+cia: 1
+charles i of england: 1
+the peasants revolt: 1
+felipe de jesus calderon cahldayroan hinojosa: 1
+great chicago fire of 1871: 1
+patient protection and affordable care act: 1
+the world series: 1
+lisa ann murkowski: 1
+robert fitzgerald kennedy: 1
+mount hood: 1
+jonestown massacre: 1
+sean connery: 1
+jesse jackson: 1
+united states senate: 1
+the us military draft: 1
+election of 1896: 1
+birth of a nation: 1
+fugitive slave acts: 1
+michael bloomberg: 1
+la reconquista: 1
+the euro: 1
+henry louis mencken: 1
+prince william arthur philip louis of wales: 1
+hugo rafael chavez frias: 1
+vitamin c: 1
+streetcars: 1
+house of romanov: 1
+henry knox: 1
+populists: 1
+victoria of england: 1
+stonewall jackson: 1
+federal income tax: 1
+muckrakers: 1
+governor of minnesota: 1
+placing japaneseamericans into internment camps: 1
+stephen douglas: 1
+blaise pascal: 1
+zulus: 1
+microlending: 1
+floods: 1
+assassination of jfk: 1
+richmond: 1
+ben bernanke: 1
+popular sovereignty: 1
+republic of the union of mynamar: 1
+womens christian temperance union: 1
+lisa murkowski: 1
+william henry harrison: 1
+dole: 1
+elena kagan: 1
+the medici: 1
+antitrust acts: 1
+huldrych zwingli: 1
+carnation revolution: 1
+the french resistance: 1
+republic of tunisia: 1
+bernie madoff: 1
+pure food and drug act of 1906: 1
+david cameron: 1
+greece and persia: 1
+kitchen cabinet: 1
+michele marie bachmann: 1
+bahrain: 1
+socialist party of america: 1
+sicilian vespers: 1
+indian reservations: 1
+citizens united v federal election commission: 1
+etruscan civilization: 1
+leo tolstoy: 1
+ho chi minh: 1
+prussia: 1
+kingdom of songhai: 1
+united nations: 1
+jose francisco de san martin: 1
+kurds: 1
+the hapsburglorraine family: 1
+republic of south af: 1
+the battle of bosworth f: 1
+thomas p: 1
+the french directory: 1
+the telegraph: 1
+la riots: 1
+tiberius sempronius gracchus: 1
+the olympics: 1
+battle of teutoburg forest: 1
+web du bois doboys: 1
+warsaw poland: 1
+william ewart glads: 1
+louis xi the prudent: 1
+juan domingo p: 1
+planned parenthood: 1
+muhammad ali: 1
+alcibiades: 1
+philip: 1
+commercial fishing: 1
+the fourth amendment: 1
+: 1
+junius brutus: 1
+three mile island crisis: 1
+georges jean raymond pompidou: 1
+ptolemy: 1
+choson dynasty: 1
+presidential election of 1840: 1
+bolivia: 1
+tiananmen square protests of 1989: 1
+abdallah: 1
+the bulgars: 1
+banking: 1
+the jews: 1
+womens suffrage movement: 1
+sepoy mutiny or sepoy revolt: 1
+diet of worms of 1521: 1
+the railroad transport industry: 1
+1861 russian emancipation of the serfs: 1
+the borgia family: 1
+schutzstaffel: 1
+council of chalcedon: 1
+speaker of the us house of representatives zzzz: 1
+republic of peru ryry: 1
+qing dynasty ryry: 1
+california zzzz: 1
+otto i or otto the great zzzz: 1
+edward the black prince or edward of woodstock: 1
+benjamin disraeli zzzz: 1
+three kingdoms period ryry: 1
+spanishamerican war zzzz: 1
+pliny the elder: 1
+battle of sedan zzzz: 1
+heian period ryry: 1
+mauryan empire ryry: 1
+woodrow wilson zzzz: 1
+prague zzzz: 1
+alexander hamilton zzzz: 1
+silvio berlusconi ryry: 1
+chiang kaishek or jiang jieshi ryry: 1
+gulf of tonkin resolution zzzz: 1
+romania zzzz: 1
+indonesia ryry: 1
+munich massacre: 1
+grand duchy of luxembourg zzzz: 1
+ptolemaic dynasty or lagid dynasty: 1
+john i or john lackland or john softsword zzzz: 1
+uss chesapeakehms leopold affair: 1
+republic of zaire: 1
+sassanid empire ryry: 1
+saladin or salahuddin or salahaddin yusuf ibn ayyub ryry: 1
+thomas paine: 1
+kansasnebraska act of 1854: 1
+zulu accept amazulu and answers like zulu kingdom: 1
+detroit michigan: 1
+oregon trail: 1
+roman colosseum accept flavian amphitheater: 1
+battle of concord: 1
+battle of antietam or battle of sharpsburg: 1
+battle of baghdad accept fall of baghdad or anything else that describes combat in baghdad: 1
+xerxes the great accept xerxes i: 1
+federalist party accept federalists: 1
+john joseph black jack pershing: 1
+poland accept polishlithuanian commonwealth polandlithuania or other things signifying a union of poland and lithuania before world war i is read: 1
+gunpowder treason plot: 1
+state of maryland: 1
+saint flavius valerius aurelius constantinus i: 1
+tsar ivan iv vasilyevich: 1
+chilean miners: 1
+house of stuart: 1
+the republic of poland: 1
+benjamin disraeli viscount hughenden of hughenden: 1
+battle of antietam creek: 1
+state of florida: 1
+nicholas ii of russia: 1
+louis xvi of france: 1
+battle of the little big horn: 1
+siege of leningrad: 1
+zanzibar: 1
+slavic languages: 1
+cardinal de richelieu: 1
+mata hari: 1
+south korea: 1
+david william donald cameron: 1
+georgia colony: 1
+presidents of mexico: 1
+six: 1
+first council of nicea: 1
+national rifle association or nra: 1
+yellow turban rebellion: 1
+carmina burana: 1
+phenomenology: 1
+new journalism: 1
+battle of hampton roads accept battle of the monitor and merrimack: 1
+chichen itza: 1
+janissaries: 1
+ming: 1
+speaker of the house: 1
+roanoke: 1
+seventhday adventist church: 1
+qing dynasty or ching: 1
+manifest destiny: 1
+easter island: 1
+republic of argentina: 1
+william i or william the conqueror: 1
+spanish inquisition or the tribunal of the holy office of the inquisition: 1
+mormons or church of jesus christ of latterday saints: 1
+shogunates: 1
+the louisiana purchase: 1
+constantinople or istanbul: 1
+eminent domain: 1
+romanov dynasty or family: 1
+monarchy: 1
+william the conqueror or william i or william the bastard: 1
+pompey: 1
+al franken: 1
+h chi minh: 1
+costa rica: 1
+phillip ii: 1
+shanghai: 1
+james i stuart: 1
+rameses ii or rameses the great: 1
+governor of new york: 1
+battle  siege of stalingrad: 1
+yuan dyansty: 1
+irancontra affair  scandal  deal: 1
+war of the roses: 1
+october revolution: 1
+herodotus: 1
+rhodesia: 1
+first battle of manassas: 1
+the fronde: 1
+connecticut: 1
+paul joseph goebbels gurbulz: 1
+joseph joe pulitzer: 1
+ferdinand marcos: 1
+hideki tj: 1
+jays treaty: 1
+marshall josip brozovich tito: 1
+anne: 1
+sargon i: 1
+benjamin bibi netanyahu: 1
+battlesiege of orleans: 1
+dag hjalmar agne carl hammarskjold: 1
+stokely carmichael: 1
+amerigo vespucci: 1
+illegal drugs: 1
+will: 1
+cuzco: 1
+giuseppe mazzini: 1
+joseph vissarionovich stalin: 1
+fred korematsu: 1
+battle of aegospotami: 1
+sinn fein: 1
+battle of fredericksburg: 1
+entente cordiale: 1
+cherokee nationtribe: 1
+alexander i pavlovich of russia: 1
+menes: 1
+henry ross perot: 1
+pragmatic sanctions: 1
+robert jenkins: 1
+the lombard league: 1
+neoassyrian empire: 1
+doge of venice: 1
+decembrist revolt: 1
+jawaharlal n: 1
+treaty of utrecht: 1
+greek war of independence: 1
+kkk: 1
+joseon or choseon: 1
+alexius i komnenos: 1
+indus river: 1
+emilio aguinaldo y famy: 1
+lithuania: 1
+tulip: 1
+king of sparta: 1
+the grangers: 1
+fallsiegebattle of constantinople: 1
+tunisia: 1
+parthian empire: 1
+1956 hungarian revolt against the ussr: 1
+jewish revolts or romanojewish wars: 1
+ashanti empire: 1
+simon de montfort 6th earl of leicester: 1
+pequotyo war: 1
+democratic national conventions: 1
+frederick william i: 1
+crusader states: 1
+battle of poitiers: 1
+iriquois confederacy: 1
+muammar algaddafi: 1
+auschwitzbirkenau: 1
+blue mosque: 1
+the border between germany and poland: 1
+louis xviii: 1
+creek war: 1
+harold godwinson: 1
+peninsular war: 1
+hearsay rule: 1
+the house divided speech: 1
+miami: 1
+house of plantagenet: 1
+the golden horde: 1
+council of nicaea: 1
+julian: 1
+louisphilippe: 1
+aethelred ii: 1
+chester alan ar: 1
+ali ibn abi talib: 1
+the long parliament: 1
+iroquois confederacy dxdx: 1
+republic of mexico zzzz: 1
+battle of the alamo dx pmdx: 1
+ming dynasty or empire or da ming di guo zzzz: 1
+napoleon i or napoleon buonaparte or bonaparte zzzz: 1
+battle of trafalgar zzzz: 1
+korea zzzz: 1
+the mughal dynasty: 1
+ulysses s grant pmpm: 1
+battle of hastings zzzz: 1
+james buchanan gbgb: 1
+battle of midway zzzz: 1
+ramses ii or ramses the great until great is read mgmg: 1
+the war of 1812 pmpm: 1
+henry iv zzzz: 1
+franks or frankish people zzzz: 1
+grover cleveland zz pmzz: 1
+saint jeremiah lclc: 1
+switzerland or swiss confederation or confederacy zzzz: 1
+republic of colombia zzzz: 1
+john calhoun pmpm: 1
+republic of stronguindonesiaustrong: 1
+herbert hoover mtmt: 1
+yugoslavia lclc: 1
+missouri compromise mtmt: 1
+republic of finland zzzz: 1
+martin luther pmpm: 1
+bloody sundays zzzz: 1
+thailand cdcd: 1
+republic of uganda zzzz: 1
+new zealand or aotearoa zz lczz: 1
+battle of panipat or panduprastha zzzz: 1
+homestead strike mtmt: 1
+armand jean du pless de richelieu or cardinalduc de richelieu pmpm: 1
+louisiana purchase pmpm: 1
+republic of iceland zzzz: 1
+simon bolivar gtgt: 1
+theodore roosevelt pmpm: 1
+the pope or the papacy: 1
+mayor of chicago accept reasonable equivalents: 1
+mount st helens: 1
+plessy vs ferguson: 1
+st petersburg: 1
+english channel: 1
+italy accept italian republic: 1
+joseph smith jr: 1
+halleys comet: 1
+byzantine empire or byzantium: 1
+1st amendment accept establishment clause before this amendment: 1
+arrows impossibility theorem: 1
+tea party movement: 1
+qin shi huangdi: 1
+swiss minaret ban: 1
+great peloponnesian war: 1
+sir robert peel: 1
+republic of kazakhstan: 1
+fuerzas armadas revolucionarias de colombia  ejercito del pueblo: 1
+sonia sotomayor: 1
+emperor napoleon i of france: 1
+harry reid: 1
+soccer war: 1
+draconian code: 1
+edward kennedy: 1
+battle of crecy: 1
+the arian heresy: 1
+vladimir lenin: 1
+gamal abdel: 1
+pullman: 1
+battle of princeton: 1
+shaka: 1
+gustavus adolphus of sweden: 1
+battle of bannockburn: 1
+jeanbaptiste colbert: 1
+henry ii of france: 1
+guelphs: 1
+casablanca conference: 1
+chamberlain: 1
+election of 1884: 1
+cape town: 1
+charlesedouard jeanneretgris: 1
+george brinton mcclellan: 1
+peasant revolts: 1
+war of the: 1
+oasis: 1
+nicaragua: 1
+merovingian dynasty: 1
+louis ix of france: 1
+eugenics: 1
+republic of zambia: 1
+christ the redeemer: 1
+samuel j tilden: 1
+william randolph hearst: 1
+rod blagojevich be nice with pronunciation: 1
+ethan allen: 1
+habsburgs familyhousedynasty also accept hapsburgs: 1
+mughal empiredynasty: 1
+george dewey: 1
+saladin accept salahuddin ayyubi: 1
+the mongol invasions of japan accept equivalents: 1
+battle of plassey: 1
+tuskeegee study of syphilis in the negro male accept clear equivalents: 1
+imam: 1
+hammurabis codelaw: 1
+bernard made off with a lot money madoff: 1
+joseph strongustalinustrong accept iosif vissarionovich dzhugashvili: 1
+rosetta stone: 1
+charles j guiteau: 1
+timothy geithner: 1
+falklands war accept malvinas war do not accept battle of falklands which was in wwi: 1
+attilla the hun: 1
+radical republicans prompt on republican: 1
+hong kong handover accept any clear knowledge equivalent: 1
+sandra day oconnor: 1
+napoleone i di bonaparte: 1
+suleiman muhtesem i: 1
+friedrich wilhelm ii viktor albert: 1
+peter i the great: 1
+muammar alqaddafi or: 1
+brahmaputra river: 1
+maximilian robespierre: 1
+house of burgesses: 1
+peace or treaty of westphalia: 1
+24th amendment: 1
+porifio diaz: 1
+marcus iunius brutus: 1
+burj dubai: 1
+falkland islands: 1
+sonia maria sotomayor: 1
+the battle of okinawa: 1
+islamic abbasid caliphate: 1
+qing dynasty or manchu dynasty or qingchao: 1
+edict of nantes or edit de nantes: 1
+1944: 1
+boer war: 1
+appian way: 1
+clement richard attlee 1st earl attlee: 1
+carolus linnaeus or carl linnaeus or carl von linne: 1
+battle of agincourt or bataille dazincourt: 1
+george iii or george william frederick: 1
+emperor napoleon i bonaparte: 1
+amyotrophic lateral sclerosis: 1
+republic of the sudan or jumhuriyat as sudan: 1
+battle of the bulge or ardennesalsace campaign or unternehmen wacht am rhein or operation watch on the rhine or operation guard on the rhine: 1
+isabella i of spain: 1
+xerxes i of persia: 1
+gustavus adolphus the great: 1
+naacp or: 1
+auschwitzbirkenau or konzentrationslager auschwitz: 1
+great awakenings: 1
+scotland or alba: 1
+cross of gold speech: 1
+trygve lie: 1
+trying to kill elizabeth i accept equivalents make sure they have the first elizabeth not the second: 1
+windfall profits tax on oil: 1
+henry kissinger: 1
+partido revolucionario institucional accept institutional revolutionary party: 1
+thojib n j suharto accept raden suharto or soeharto: 1
+ghana empire anyone can also get away with kingdom of ghana: 1
+darfur: 1
+hunting and gathering accept word forms accept huntergatherer society: 1
+translating homer accept equivalents accept translating iliad and odyssey prompt on translating odyssey or translating iliad: 1
+peter i the great accept either the regnal number or the appellation prompt on peter alone: 1
+ramses the second accept ramses the great before mentioned: 1
+margaret sanger: 1
+mayans accept stuff like maya peoples: 1
+nationalist party or kuomintang early: 1
+el alamein: 1
+harriet araminta tubman: 1
+praetorian guard: 1
+fountains: 1
+teapot dome: 1
+saturday night massacre: 1
+troubled asset relief program lets take the bailout: 1
+bismarck: 1
+shirley anita st hill chisholm: 1
+austria and hungary: 1
+nero: 1
+the temple: 1
+vladimir illyich lenin: 1
+most serene republic of venice: 1
+pontifex maximus: 1
+pocahontas: 1
+black hole of calcutta: 1
+warren earl burger: 1
+the french navy: 1
+artificial languages: 1
+presidential assassinations: 1
+articles of confederation: 1
+pharaohs: 1
+bill of rights: 1
+king saul: 1
+vladimir vladimirovich putin: 1
+betty friedan: 1
+japanese internment: 1
+amistad case: 1
+meiji period: 1
+amazulu: 1
+henry alfred wolfgang kissinger: 1
+gold rushes: 1
+mughal dynasty: 1
+brunei darussalam: 1
+1824 presidential election: 1
+the alamo: 1
+nikita krushchev: 1
+constantine i of rome: 1
+republic of georgia: 1
+rhode island: 1
+john knox: 1
+boycotting the summer olympics: 1
+pope benedict xvi: 1
+intolerable acts: 1
+hare krishnas: 1
+sinners in the hands of an angry god: 1
+republic of poland or rzeczpospolita polska: 1
+heinrich himmler: 1
+arkansas: 1
+yom kippur: 1
+english bibles: 1
+francis gary powers: 1
+battle of berlin: 1
+pancho villa: 1
+the uss maine: 1
+phenotype: 1
+treaty of guadalupe hidalgo: 1
+napoleon iii of france: 1
+charles i of england ireland and scotland: 1
+aviz dynasty: 1
+vice president of franklin roosevelt: 1
+german navy: 1
+menilek ii: 1
+stephen joseph harper: 1
+google inc: 1
+the empire of mali: 1
+space shuttle explosions: 1
+peter i of russia: 1
+syngman rhee: 1
+allah: 1
+the copenhagen summit: 1
+predators: 1
+urban: 1
+george corley wallace jr: 1
+lakota: 1
+the incans: 1
+the ottoman empire: 1
+publius cornelius scipio africanus major: 1
+helots: 1
+sandinista national liberation front: 1
+the kingdom of hawaii: 1
+dulles duless: 1
+the wpa: 1
+honduras: 1
+lewis: 1
+the battle of verdun ver done: 1
+the peterloo massacre: 1
+the chernobyl disaster: 1
+tokugawa ieyasu eeayyahsoo: 1
+monks: 1
+cogito ergo sum: 1
+the merovingian dynasty: 1
+roman emperors: 1
+the iranian revolution: 1
+the peloponnesian war: 1
+nat turner: 1
+jacques rene chirac: 1
+ss: 1
+the roman republic: 1
+confederate states navy: 1
+czar: 1
+the republic of venice: 1
+margaret louise sanger: 1
+lieberman: 1
+british empire: 1
+ulysses simpson grant: 1
+milorad blagojevich blugoyuhvich: 1
+the red baron: 1
+the teutonic knights of st marys hospital in jerusalem: 1
+mir hossein mousavi: 1
+science: 1
+republic of the phillipines: 1
+commonwealth of virginia: 1
+mongolia: 1
+kristallnacht kreestahlknocked: 1
+kingdom of mali: 1
+janet napolitano: 1
+william iii of england: 1
+natural gas: 1
+reykjavik: 1
+kuala lumpur: 1
+rwanda: 1
+thyroid gland: 1
+salt march: 1
+lendlease: 1
+the taiping rebellion: 1
+phillip iv of france: 1
+s: 1
+easter rebellion: 1
+richard i or richard the lionhearted: 1
+the childrens crusade: 1
+mayans: 1
+longboats: 1
+stock market crashes: 1
+saint dominic: 1
+vidkun quisling: 1
+james ewell brown jeb stuart: 1
+the reichstag fire: 1
+oligarchy: 1
+louis xvi prompt on louis: 1
+abbasid dynasty: 1
+josephine de beauharnais: 1
+limpopo river: 1
+erwin rommel: 1
+the admission of turkey to the european union: 1
+american indian movement: 1
+barcelona: 1
+king john of england: 1
+battle of issus: 1
+papal infallibility: 1
+shogunate: 1
+mao zedong tsetung: 1
+election of 1964: 1
+invasion of grenada: 1
+1915 armenian genocide: 1
+prince henry the navigator: 1
+hungarian revolution: 1
+iroquois confederacyleague: 1
+vidkun abraham lauritz jonsson quisling: 1
+tao te ching: 1
+john edgar hoover: 1
+alfred dreyfus: 1
+angkor wat: 1
+the missouri compromise: 1
+lendlease acts: 1
+toledo: 1
+royal proclamation of 1763: 1
+habeas corpus: 1
+attack on the uss cole: 1
+land mines: 1
+ambrose everett burnside: 1
+prince consort albert: 1
+konrad adenauer: 1
+boris fyodorovich godunov: 1
+battle of san juan hill: 1
+gang of four: 1
+1759 battle of quebec: 1
+georgy konstantinovich zhukov: 1
+aung san suu kyi: 1
+king harold godwinson: 1
+battle of lake champlain: 1
+konrad hermann josef adenauer: 1
+abraham lincolns cabinet: 1
+arlen specter: 1
+treaty of verdun: 1
+joseph ii of austria: 1
+meiji restorationperiod: 1
+republic of iceland: 1
+julia aurelia: 1
+the kingdom of denmark: 1
+the visigoths: 1
+selma: 1
+san jose: 1
+kyoto protocol: 1
+kingdom of jerusalem: 1
+saint stephen i of hungary: 1
+advent: 1
+el cid campeador: 1
+axumite kingdom: 1
+bangkok: 1
+the purchase of alaska: 1
+the: 1
+capital city of warsaw: 1
+clayton antitrust act: 1
+black friday: 1
+congress of berlin: 1
+uyghurs: 1
+the gag rule: 1
+shahabuddin muhammad shah jahan i: 1
+christopher dodd: 1
+republic of austria: 1
+alfredo stroessner matiauda: 1
+the cuban revolution: 1
+ayers rock: 1
+tanzania: 1
+lucius septimius severus: 1
+tet offensive accept equivalents or tong cong kich or tong khoi ngia: 1
+nevada: 1
+the saccovanzetti trial: 1
+kevin rudd: 1
+normandy: 1
+the mahdi: 1
+duck and cover: 1
+tuskegee airmen: 1
+treaty of brestlitovsk: 1
+napoleon i bonaparte: 1
+mukden: 1
+vlad iii: 1
+lotus: 1
+dams: 1
+harald: 1
+the salvation army: 1
+battle of the wilderness: 1
+battl: 1
+elbridge thomas gerry: 1
+walls: 1
+the naacp: 1
+union of myanmar: 1
+aachen: 1
+north dakota: 1
+theodoric the great: 1
+second amendment: 1
+georges benjamin clemenceau: 1
+lateran accept the second lateran council before first: 1
+first battle of the marne prompt on marne: 1
+japanese invasion of manchuria: 1
+bacons rebellion accept equivalents: 1
+intercontinental ballistic missiles or icbms do not accept ballistic missile: 1
+louis brandeis: 1
+henry hudson: 1
+nonaligned movement: 1
+obscenity prompt on things like pornography: 1
+mori: 1
+hamilton: 1
+mau mau uprising accept rebellion revolt etc: 1
+morocco: 1
+republic of albania or shqiperia or republika e shqiperise or shqipnija from any ghegs: 1
+john browns raid of harpers ferry accept obvious equivalents: 1
+salvador allende: 1
+iranian revolution or islamic revolution or enghelbe eslmi: 1
+girolamo savanarola also accept jerome savanarola or hieronymus savanarola: 1
+taft accept alphonso taft etc: 1
+massacring jews accept pogroms or anything that mentions killing or persecuting jews: 1
+iconoclasm accept anything with destroying or being against icons or other images of jesus: 1
+siege of leningrad or battle of leningrad: 1
+frederick i or frederick barbarossa: 1
+mamluks: 1
+battle of shiloh accept battle of pittsburgh landing until mentioned: 1
+sitting bull or tatanka iyotake: 1
+constantine i or constantine the great: 1
+assyria or ashur: 1
+simon peter or cephas prompt on simon: 1
+slavery: 1
+the hanseatic league: 1
+student nonviolent coordinating committee: 1
+domitian: 1
+house of hohenzollern: 1
+the cathedral of notre dame de paris: 1
+kingdom of scotland: 1
+anglozulu war: 1
+cyprus: 1
+the rosary: 1
+robert heron bork: 1
+ludwig mies van der rohe: 1
+wagnerconnery act: 1
+thomas kuhn: 1
+republic of bolivia or: 1
+vyacheslav mikhailovich molotov: 1
+the nra: 1
+battle of the plains of abraham: 1
+peacetreaty of utrecht: 1
+emperor or archduke maximilian i of mexico: 1
+henry the navigator: 1
+frederic ii hohenzollern or frederic the great: 1
+getulio vargas: 1
+hungary accept magyarorszag until magyars: 1
+charles evan hughes: 1
+stronguteutonic knightsustrong or house of the hospitalers of saint mary of the teutons in jerusalem or duetscher ritterorden or haus der ritter des hospitals sankt marien der deutschen zu jerusalem or domus sanctae mariae theutonicorum in jerusalem: 1
+kristallnacht or night of the broken glass: 1
+edmund spenser: 1
+the star spangled banner: 1
+the jewish war: 1
+francois duvalier: 1
+umayyad caliphate or empire: 1
+william edward burghardt du bois: 1
+carrie nation: 1
+gran colombia: 1
+king richard iii york: 1
+treaty of tordesillas or tratado de tordesilhas: 1
+hawleysmoot tariff act or smoothawley tariff act: 1
+qibbutzim: 1
+delian league prompt on anything to do with athens: 1
+republic of  nicaragua: 1
+caesar vespasianus augustus: 1
+ethiopia accept: 1
+battle of chickamauga: 1
+mediterranean sea: 1
+junipero serra: 1
+burma road: 1
+amritsar: 1
+richard neville accept earl of warwick before it is mentioned prompt on kingmaker before it is mentioned: 1
+jakarta: 1
+tokugawa ieyasu accept either: 1
+ghana empire accept wagadou empire before it is mentioned: 1
+spies for the soviet union accept all reasonable equivalents including communist spies but dont accept russian spies and prompt on just spies: 1
+mughal dynasty or gurakani prompt on timurid before the word panipat: 1
+spanish armada accept invincible armada from someone with a flair for the ironic: 1
+christianity accept roman catholicism before the mention of syngman rhee who was a methodist: 1
+freedom riders: 1
+pogrom: 1
+ottoman empire prompt on the sublime porte or the turk or the great turk or turkey: 1
+rosie the riveter: 1
+james ii or james vii: 1
+livy or titus livius: 1
+george f kennan prompt on mr x: 1
+henry i prompt on henry: 1
+hearsay evidence: 1
+richard i accept richard the lionheart before the last word but prompt on richard: 1
+juries accept jury trial: 1
+vienna accept wien: 1
+roman historians accept chroniclers: 1
+soweto uprising accept soweto riots: 1
+thales of miletus: 1
+continental system accept blocus continental: 1
+the fourteen points: 1
+shiism prompt on islam before it is mentioned accept zaydi before the word alamut accept alshia do not accept twelver or sevener shiism at any point: 1
+the reign of terror or la terreur do not accept the french revolution which didnt end with the battle of fleurus: 1
+sweden accept sverige from a proud swede: 1
+von schlieffen plan: 1
+battle of monmouth: 1
+seljuk turks prompt on turks before the word turkish: 1
+mahatma gandhi accept mohandas k gandhi: 1
+national industrial recovery act accept nira do not accept national recovery administration or nra: 1
+big sur: 1
+an lushan accept an luoshan or ga luoshan: 1
+louis ix prompt on st louis or just louis: 1
+joan of arc accept jean darc: 1
+st augustine of hippo accept aurelius augustinus: 1
+suez canal accept qanat suways: 1
+charles dawes: 1
+mahmoud ahmadinejad: 1
+babylonia: 1
+chin dynasty: 1
+republica argentina: 1
+oklahoma state university: 1
+battle of fort sumter: 1
+the french army: 1
+heinrich schliemann: 1
+aragon: 1
+leonid ilyich brezhnev: 1
+california state legislature: 1
+zionism: 1
+voting: 1
+sir william wallace: 1
+viscount castlereagh: 1
+maine: 1
+chief justice of the united states: 1
+seven weeks war: 1
+2008 presidential election in the republic of zimbabwe: 1
+the battle of britain: 1
+the spanish inquisition: 1
+parabola: 1
+goldman sachs: 1
+the founding of rome: 1
+malta: 1
+tudor dynasty: 1
+united states secretary of war: 1
+mount vesuvius: 1
+george calett marshall: 1
+meiji emperor: 1
+hurricane ike: 1
+kingdom or republic of greece: 1
+the maginot line: 1
+zealots: 1
+great socialist peoples libyan arab jamahiriya: 1
+nicholas: 1
+the war of 1812: 1
+war of the three henrys: 1
+george orson welles: 1
+maya civilizationempire: 1
+transcontinental railroad: 1
+attorney general: 1
+great schisms: 1
+marseilles: 1
+sclc: 1
+gerald ford: 1
+poor richard: 1
+geronimo: 1
+the great famine: 1
+mcculloch v maryland: 1
+the ninetyfive theses: 1
+z: 1
+montgomery: 1
+bombing of guernica: 1
+louisphilippe of france: 1
+mensheviks: 1
+cesare borgia: 1
+clement attlee: 1
+bosworth field: 1
+black hawks war: 1
+german: 1
+hapsburg: 1
+louis philippe: 1
+albrecht von wallenstein: 1
+symphonie pathetique no 6 in b minor: 1
+leif ericsson: 1
+shirts: 1
+the nazi invasion of poland: 1
+election of 1948: 1
+the time of troubles: 1
+innocent iii: 1
+the estatesgeneral: 1
+corsica: 1
+cyrus: 1
+michael collins: 1
+1618 defenestration of prague: 1
+marcius portius cato: 1
+serfs: 1
+russian constitutions: 1
+rhone river: 1
+pedro i of brazil: 1
+spanish american war: 1
+frank lloyd wright: 1
+the opium wars: 1
+frederick ii of prussia: 1
+republic of honduras: 1
+jonah: 1
+drosophila: 1
+harmonic oscillator: 1
+alexander ii nikolaevich: 1
+hippocampus: 1
+the first gi bill of rights: 1
+new netherland: 1
+the formation of west virginia: 1
+storming the bastille: 1
+granada: 1
+pedro: 1
+akhnaton: 1
+maastricht treaty: 1
+atheism: 1
+parkinsons disease: 1
+john i of england: 1
+schlieffen plan: 1
+valois: 1
+vlad: 1
+underground railroad: 1
+the domesday book: 1
+tennessee v scopes: 1
+chinese eunuchs: 1
+austriahungary: 1
+pamplona: 1
+grigory potemkin: 1
+jacobins: 1
+olive branch petition: 1
+navajo accept dineh: 1
+american party accept knownothing party: 1
+james i of england accept james vi of scotland prompt on james vi: 1
+charles v or charles i of spain: 1
+babur or babar or baber the tiger accept zahiruddin muhammed: 1
+challenger deep accept marianas trench before read: 1
+camillo benso conte di cavour: 1
+battle of the nile: 1
+namibia: 1
+kadesh: 1
+sulla: 1
+wars  of  succession: 1
+prince phillip duke of edinburgh: 1
+james buchanan junior: 1
+contraband: 1
+mumbai accept bombay before  and prompt on it thereafter: 1
+computer mouse or computer mice: 1
+manuel antonio noriega: 1
+bush doctrine: 1
+emperor diocletian: 1
+nicene creed: 1
+kaleidoscope: 1
+the worlds columbian exposition or the chicago worlds fair or the worlds fair of: 1
+byzantine empire or eastern roman empire accept constantinople before : 1
+robert michael gates: 1
+palatine or palatino prompt on seven hills of rome before : 1
+mitsubishi zero accept zeke before mentioned: 1
+battle of kursk: 1
+saskatchewan: 1
+the slaughterhouse cases before  accept the butchers benevolent association of new: 1
+hungary or hungarians: 1
+brandenburg gate or brandenburg tor: 1
+golden horde: 1
+vyacheslav mikhaylovich molotov: 1
+caroline affair: 1
+pinckney: 1
+hyksos: 1
+angela merkel: 1
+jacobites: 1
+the democratic peace thesis: 1
+oranges: 1
+elihu root: 1
+stephen harper: 1
+jose daniel ortega saavedra: 1
+pontiac: 1
+castile: 1
+george clinton: 1
+the european union constitution: 1
+copts: 1
+the constitutional union party: 1
+gigantic famines: 1
+bernardo ohiggins: 1
+william fulbright: 1
+henry i: 1
+wilsons fourteen points: 1
+tortillas: 1
+republic of the congo: 1
+eamon de valera: 1
+hohenzollern: 1
+carpetbaggers: 1
+john macdonald: 1
+walter fritz mondale: 1
+thaddeus stevens: 1
+demosthenes: 1
+hawleysmoot tarriff act: 1
+lordbaron george calvert 1st baron baltimore: 1
+the spruce goose: 1
+chinese exclusion act: 1
+landmines: 1
+mughal empiredynasty etc: 1
+elisha graves otis: 1
+flute: 1
+cochise: 1
+finland accept suomi until it is mentioned: 1
+stonehenge: 1
+ethiopia accept abyssinia early: 1
+conservativeunionist party: 1
+tecumseh or tekamthi be lenient with vowels: 1
+mathew bradychengcheng: 1
+sumerians: 1
+battle of din bien ph prompt on first or french indochina war early: 1
+rwandan genocide accept equivalents: 1
+republic of ecuador: 1
+ivan petrovitch pavlov: 1
+prague spring or prazske jaro or: 1
+moscow kremlin do not accept red square: 1
+the olmec civilization: 1
+klondike gold rush prompt on yukon gold rush: 1
+abacus: 1
+jainism or jain dharma: 1
+angkor wat or angkor vat: 1
+boadicea or boudica: 1
+manuel noriega: 1
+phlogiston: 1
+battle of long island: 1
+the mayflower compact: 1
+hindenburg disaster: 1
+lendlease act: 1
+joanna of castile: 1
+battle of khartoum or siege of khartoum: 1
+operation market garden: 1
+navajo: 1
+taoism or daoism: 1
+inquisition accept cdf before said: 1
+secretary of defense: 1
+joe the plumber or joe wurzlbacher or sam wurzelbacher: 1
+ccc or civilian conservation corps: 1
+patriarch of constantinople: 1
+via appia or appian way: 1
+bratislava: 1
+kings of sparta: 1
+national road or cumberland road: 1
+greenland accept kalaallit nunaat: 1
+burkina faso: 1
+dollar diplomacy: 1
+phalanx: 1
+mather: 1

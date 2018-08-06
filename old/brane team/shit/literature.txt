@@ -1,0 +1,2478 @@
+: 37
+Pablo Neruda: 31
+Nathaniel Hawthorne: 27
+Cry the Beloved Country: 26
+Hermann Hesse: 26
+Edgar Allan Poe: 25
+Madame Bovary: 24
+Jorge Luis Borges: 23
+Catch22: 22
+William Blake: 21
+Washington Irving: 21
+Aristophanes: 21
+Brave New World: 20
+Albert Camus: 20
+Sylvia Plath: 20
+Robert Browning: 20
+William Butler Yeats: 20
+Emily Dickinson: 20
+John Keats: 20
+John Donne: 19
+Herman Melville: 19
+Umberto Eco: 19
+Christopher Marlowe: 19
+Chinua Achebe: 19
+Robert Frost: 19
+Anna Karenina: 19
+Franz Kafka: 19
+China: 18
+The Waste Land: 18
+Thomas Hardy: 18
+Alfred Lord Tennyson: 18
+Joseph Conrad: 18
+George Bernard Shaw: 17
+Henrik Ibsen: 17
+John Milton: 17
+Virginia Woolf: 17
+Johann Wolfgang von Goethe: 17
+Stephen Crane: 17
+Jane Eyre: 16
+The Cherry Orchard: 16
+The Canterbury Tales: 16
+Beowulf: 16
+Howl: 16
+Invisible Man: 16
+Pride and Prejudice: 16
+Vanity Fair: 15
+Great Expectations: 15
+Nadine Gordimer: 15
+Heart of Darkness: 15
+Samuel Taylor Coleridge: 15
+Anne Bradstreet: 15
+The Tempest: 15
+Henry James: 15
+John Maxwell Coetzee: 15
+Henry Wadsworth Longfellow: 15
+One Hundred Years of Solitude: 15
+The Love Song of J Alfred Prufrock: 15
+Gabriel Garcia Marquez: 15
+Toni Morrison: 15
+Luigi Pirandello: 15
+Lolita: 14
+George Orwell: 14
+Mexico: 14
+Ernest Miller Hemingway: 14
+Bertolt Brecht: 14
+Their Eyes Were Watching God: 14
+Mario Vargas Llosa: 14
+Guy de Maupassant: 14
+Eugene Ionesco: 14
+Edwin Arlington Robinson: 14
+Gustave Flaubert: 14
+Yukio Mishima: 14
+Crime and Punishment: 14
+Death of a Salesman: 14
+Frankenstein or The Modern Prometheus: 14
+Thomas Mann: 14
+Wuthering Heights: 14
+All Quiet on the Western Front: 13
+Wallace Stevens: 13
+Langston Hughes: 13
+Federico Garcia Lorca: 13
+Lord of the Flies: 13
+Japan: 13
+Robert Lee Frost: 13
+Things Fall Apart: 12
+Sophocles: 12
+Petrarch: 12
+Hedda Gabler: 12
+Percy Bysshe Shelley: 12
+Ulysses: 12
+Death in Venice: 12
+Paradise Lost: 12
+The Rime of the Ancient Mariner: 12
+Ben Jonson: 12
+William Carlos Williams: 12
+Alexander Pope: 12
+John Greenleaf Whittier: 12
+Yasunari Kawabata: 12
+Emily Elizabeth Dickinson: 12
+Moliere: 12
+Saul Bellow: 12
+Francis Scott Key Fitzgerald: 12
+Walt Whitman: 12
+Australia: 11
+William Shakespeare: 11
+Antigone: 11
+The Tale of Genji: 11
+The Tin Drum: 11
+Milan Kundera: 11
+Waiting for Godot: 11
+Wystan Hugh Auden: 11
+The Decameron: 11
+The Lottery: 11
+King Lear: 11
+Tennessee Williams: 11
+James Fenimore Cooper: 11
+William Cullen Bryant: 11
+Commonwealth of Australia: 11
+James Augustine Aloysius Joyce: 11
+Aeschylus: 11
+A Streetcar Named Desire: 11
+August Wilson: 11
+Daniel Defoe: 11
+Nikolai Gogol: 11
+Ernest Hemingway: 11
+Samuel Beckett: 11
+A Tale of Two Cities: 11
+O Henry: 11
+Cormac McCarthy: 10
+Robinson Crusoe: 10
+Harold Pinter: 10
+Charles Pierre Baudelaire: 10
+Our Town: 10
+The Sound and the Fury: 10
+Italo Calvino: 10
+Sense and Sensibility: 10
+The Handmaids Tale: 10
+Flannery OConnor: 10
+Kenzaburo Oe: 10
+Edward Morgan Forster: 10
+Ralph Waldo Emerson: 10
+The Stranger: 10
+Edward Estlin Cummings: 10
+Carlos Fuentes: 10
+A Clockwork Orange: 10
+JeanPaul Sartre: 10
+The Song of Roland: 10
+To His Coy Mistress: 10
+Naguib Mahfouz: 10
+The Crucible: 10
+Midnights Children: 10
+The Grapes of Wrath: 10
+Sinclair Lewis: 10
+Edith Wharton: 10
+The Raven: 10
+The Old Man and the Sea: 10
+Arthur Miller: 10
+Thomas Stearns Eliot: 10
+Beloved: 9
+To Kill a Mockingbird: 9
+The Overcoat: 9
+haiku: 9
+Robert Louis Stevenson: 9
+Sir Walter Scott: 9
+The Awakening: 9
+Candide: 9
+The Three Musketeers: 9
+William Wordsworth: 9
+Jonathan Swift: 9
+Euripides: 9
+Italy: 9
+Les Miserables: 9
+Jerome David Salinger: 9
+Holden Caulfield: 9
+The Catcher in the Rye: 9
+Margaret Eleanor Atwood: 9
+The Hunchback of Notre Dame: 9
+Eugene Gladstone ONeill: 9
+David Copperfield: 9
+Alfred Edward Housman: 9
+Sir Ahmed Salman Rushdie: 9
+Doctor Zhivago: 9
+War and Peace: 9
+Spoon River Anthology: 8
+Pygmalion: 8
+Irwin Allen Ginsberg: 8
+Uncle Toms Cabin: 8
+Leo Tolstoy: 8
+Wole Soyinka: 8
+Macbeth: 8
+Evelyn Waugh: 8
+Philip Milton Roth: 8
+The Master and Margarita: 8
+Siddhartha: 8
+Don Quixote: 8
+Geoffrey Chaucer: 8
+Rosencrantz and Guildenstern Are Dead: 8
+Victor Hugo: 8
+Oliver Goldsmith: 8
+Salman Rushdie: 8
+Chile: 8
+Portugal: 8
+Grendel: 8
+The Unbearable Lightness of Being: 8
+The Metamorphosis: 8
+Publius Ovidius Naso: 8
+The Glass Menagerie: 8
+Jack London: 8
+Peoples Republic of China: 8
+The Great Gatsby: 8
+A Raisin in the Sun: 8
+Oliver Twist: 8
+Allen Ginsberg: 8
+Ozymandias: 8
+Anton Pavlovich Chekhov: 8
+Chicago: 8
+Rabindranath Tagore: 8
+Romeo and Juliet: 8
+Kurt Vonnegut Jr: 8
+Marcel Proust: 8
+Alexander Sergeyevich Pushkin: 8
+John Steinbeck: 8
+Jack Kerouac: 8
+Emile Zola: 8
+Oscar Fingal OFlahertie Wills Wilde: 8
+Dover Beach: 8
+The Satanic Verses: 7
+My Last Duchess: 7
+The Scarlet Letter: 7
+Republic of Poland: 7
+French: 7
+The Importance of Being Earnest: 7
+Spain: 7
+A Dolls House: 7
+Haruki Murakami: 7
+sonnets: 7
+Dante Alighieri: 7
+Thanatopsis: 7
+Tartuffe: 7
+Vladimir Nabokov: 7
+The Picture of Dorian Gray: 7
+Journey to the West: 7
+Oedipus: 7
+Dracula: 7
+Argentina: 7
+No Exit: 7
+Henrik Johan Ibsen: 7
+The Republic: 7
+Joseph Rudyard Kipling: 7
+Faust: 7
+Herman Hesse: 7
+Whos Afraid of Virginia Woolf: 7
+James Baldwin: 7
+1984: 7
+Edward Franklin Albee III: 7
+Ray Bradbury: 7
+Little Women: 7
+Herbert George Wells: 7
+Truman Capote: 7
+Thornton Niven Wilder: 7
+France: 7
+Tom Stoppard: 7
+Vidiadhar Surajprasad Naipaul: 7
+One Flew Over the Cuckoos Nest: 7
+Cat on a Hot Tin Roof: 7
+David Herbert Lawrence: 7
+Oscar Wilde: 7
+Song of Myself: 7
+A Portrait of the Artist as a Young Man: 7
+The Jungle: 7
+Emma: 7
+Horace: 7
+Candide or Optimism: 7
+Kurt Vonnegut: 7
+Ethan Frome: 7
+Anton Chekhov: 7
+The Red and the Black: 7
+London: 6
+Andrew Marvell: 6
+The Frogs: 6
+Kubla Khan: 6
+Mrs Dalloway: 6
+The Count of Monte Cristo: 6
+Brideshead Revisited: 6
+Winesburg Ohio: 6
+A Good Man is Hard to Find: 6
+Jane Austen: 6
+August Strindberg: 6
+The Rubaiyat of Omar Khayyam: 6
+Inferno: 6
+Sherlock Holmes: 6
+Octavio Paz: 6
+The Bell Jar: 6
+Fathers and Sons: 6
+Alan Paton: 6
+Kate Chopin: 6
+Gunter Wilhelm Grass: 6
+Don Quixote de la Mancha: 6
+The Red Badge of Courage: 6
+The Charge of the Light Brigade: 6
+The Idiot: 6
+James Mercer Langston Hughes: 6
+Walter Walt Whitman: 6
+Miguel de Cervantes Saavedra: 6
+The Prince: 6
+Charles Baudelaire: 6
+Eugene ONeill: 6
+Willa Cather: 6
+A Farewell to Arms: 6
+Paul Thomas Mann: 6
+Vladimir Vladimirovich Nabokov: 6
+The Adventures of Huckleberry Finn: 6
+Ivan Sergeyevich Turgenev: 6
+Richard Wright: 6
+Maya Angelou: 6
+Isabel Allende Llona: 6
+My Antonia: 6
+World War I: 6
+South Africa: 6
+Publius Vergilius Maro: 6
+Alexander Pushkin: 6
+The Aeneid: 6
+Arthur Asher Miller: 6
+Alexandre Dumas pere: 6
+The Brothers Karamazov: 6
+James Joyce: 6
+On the Road: 6
+As I Lay Dying: 6
+William Golding: 6
+Lemuel Gulliver: 6
+Fyodor Dostoyevsky: 6
+Dylan Thomas: 6
+A Midsummer Nights Dream: 6
+Frankenstein: 6
+Stendhal: 6
+Thomas Pynchon: 6
+Ambrose Bierce: 6
+Much Ado About Nothing: 6
+Rudyard Kipling: 6
+Leo Nikolayevich Tolstoy: 6
+Ode to a Nightingale: 6
+Carl Sandburg: 6
+Virgil: 5
+William Faulkner: 5
+Thomas Ruggles Pynchon Jr: 5
+Jhumpa Lahiri: 5
+Robert Burns: 5
+Vanity Fair A Novel without a Hero: 5
+Gaius Valerius Catullus: 5
+Gravitys Rainbow: 5
+James Thurber: 5
+Lady Macbeth: 5
+Isak Dinesen: 5
+George Eliot: 5
+Karel Capek: 5
+Republic of South Africa: 5
+Edward Albee: 5
+Charles Dickens: 5
+Seamus Heaney: 5
+Giovanni Boccaccio: 5
+Francois Rabelais: 5
+Eugene Onegin: 5
+Elegy Written in a Country Churchyard: 5
+Ode to the West Wind: 5
+John Millington Synge: 5
+Thornton Wilder: 5
+John Dryden: 5
+Ode on a Grecian Urn: 5
+Margaret Atwood: 5
+Spanish: 5
+The Second Coming: 5
+Nikolai Vasilievich Gogol: 5
+Ivanhoe: 5
+Huckleberry Finn: 5
+The Tragedy of Hamlet Prince of Denmark: 5
+Aleksandr Solzhenitsyn: 5
+Honoré de Balzac: 5
+Bartleby the Scrivener A Story of Wall Street: 5
+The House of the Seven Gables: 5
+John Hoyer Updike: 5
+Nikos Kazantzakis: 5
+Rainer Maria Rilke: 5
+The Rape of the Lock: 5
+Six Characters in Search of an Author: 5
+Sanskrit: 5
+The Legend of Sleepy Hollow: 5
+Jay Gatsby: 5
+The Good Earth: 5
+The Taming of the Shrew: 5
+Tom Sawyer: 5
+Gunter Grass: 5
+Matsuo Basho: 5
+Harry Rabbit Angstrom: 5
+ustrong: 5
+Honore de Balzac: 5
+Lysistrata: 5
+To Kill A Mockingbird: 5
+The TellTale Heart: 5
+Animal Farm: 5
+Ezra Weston Loomis Pound: 5
+The Strange Case of Dr Jekyll and Mr Hyde: 5
+Athol Fugard: 5
+RUR: 5
+The Sun Also Rises: 5
+Eudora Welty: 5
+Les Fleurs du Mal: 5
+For Whom the Bell Tolls: 5
+The Sorrows of Young Werther: 5
+yellow: 4
+The Ingenious Gentleman Don Quixote of La Mancha: 4
+detectives: 4
+William Somerset Maugham: 4
+Isabel Allende: 4
+German: 4
+A Connecticut Yankee in King Arthurs Court: 4
+cats: 4
+Night: 4
+diary: 4
+Phillis Wheatley: 4
+The Little Prince: 4
+Graham Greene: 4
+Eugene: 4
+Of Mice and Men: 4
+Canada: 4
+The Mayor of Casterbridge: 4
+Lord Jim: 4
+The Things They Carried: 4
+Ramayana: 4
+The Magic Mountain: 4
+Oedipus Rex: 4
+Tender is the Night: 4
+The Crying of Lot 49: 4
+Native Son: 4
+Republic of India: 4
+Nigeria: 4
+The Tyger: 4
+Mary Flannery OConnor: 4
+Nineteen EightyFour: 4
+Walter Whitman: 4
+Fyodor Mikhailovich Dostoyevsky: 4
+SlaughterhouseFive or The Childrens Crusade A DutyDance with Death: 4
+William Cuthbert Faulkner: 4
+Leaves of Grass: 4
+The Bluest Eye: 4
+To the Lighthouse: 4
+edward estlin cummings: 4
+Matthew Arnold: 4
+Joseph Heller: 4
+Sonnets from the Portuguese: 4
+Oliver Wendell Holmes Sr: 4
+Sir Gawain and the Green Knight: 4
+William Gerald Golding: 4
+The Odyssey: 4
+The Time Machine: 4
+Lady Chatterleys Lover: 4
+Lewis Carroll: 4
+The Road Not Taken: 4
+Walden or Life in the Woods: 4
+Zora Neale Hurston: 4
+One Thousand and One Nights: 4
+The Dumb Waiter: 4
+F Scott Fitzgerald: 4
+Octavio Paz Lozano: 4
+Wilfred Edward Salter Owen: 4
+Harry Sinclair Lewis: 4
+Carlos Fuentes Macias: 4
+Li Po: 4
+Kingdom of Spain: 4
+The Necklace: 4
+The Merchant of Venice: 4
+Kazuo Ishiguro: 4
+Willa Sibert Cather: 4
+As You Like It: 4
+Voltaire: 4
+The Gift of the Magi: 4
+The History of Tom Jones a Foundling: 4
+Romance of the Three Kingdoms: 4
+Aldous Leonard Huxley: 4
+Fahrenheit 451: 4
+Rip Van Winkle: 4
+The Cask of Amontillado: 4
+Fyodor Mikhaylovich Dostoyevsky: 4
+Romeo Montague: 4
+Samuel Johnson: 4
+Mark Twain: 4
+Sherwood Anderson: 4
+Henry Fielding: 4
+Stephen Vincent Benet: 4
+The Trial: 4
+Gabriel Jose de la Concordia Garcia Marquez: 4
+Johan August Strindberg: 4
+Mishima Yukio: 4
+Dylan Marlais Thomas: 4
+Cats Cradle: 3
+Saki: 3
+Persian: 3
+Abraham Lincoln: 3
+Republic of Chile: 3
+Gwendolyn Brooks: 3
+Main Street: 3
+Oliver Twist or The Parish Boys Progress: 3
+Dubliners: 3
+Sir Arthur Conan Doyle: 3
+Roland: 3
+Gregor Samsa: 3
+red: 3
+The Plague: 3
+One Day in the Life of Ivan Denisovich: 3
+DArtagnan: 3
+David Foster Wallace: 3
+The Hollow Men: 3
+autobiography: 3
+Fyodor Dostoevsky: 3
+snow: 3
+Rhinoceros: 3
+Thirteen Ways of Looking at a Blackbird: 3
+Mansfield Park: 3
+East of Eden: 3
+Endgame: 3
+The Prophet: 3
+Alice Walker: 3
+Lord Byron: 3
+Ezra Pound: 3
+Edmund Spenser: 3
+Smith: 3
+Okonkwo: 3
+Republic of Kenya: 3
+Robert: 3
+Sinbad the Sailor: 3
+Henry Graham Greene: 3
+ghosts: 3
+Les Misérables: 3
+Anne Frank: 3
+Edgar Allen Poe: 3
+Erich Maria Remarque: 3
+Ray Douglas Bradbury: 3
+Jorge Francisco Isidoro Luis Borges: 3
+Uncle Toms Cabin or Life Among the Lowly: 3
+Gerard Manley Hopkins: 3
+The Merry Wives of Windsor: 3
+Robert Penn Warren: 3
+Thomas Gray: 3
+The Bald Soprano: 3
+satires: 3
+Egypt: 3
+The Jew of Malta: 3
+Niccolo Machiavelli: 3
+The Last of the Mohicans: 3
+Charles John Huffam Dickens: 3
+Mending Wall: 3
+Lines Composed a Few Miles above Tintern Abbey on Revisiting the Banks of the Wye during a Tour July 13 1798: 3
+Satan: 3
+MobyDick or The Whale: 3
+The Iceman Cometh: 3
+Adeline Virginia Woolf: 3
+Long Days Journey Into Night: 3
+The Jungle Book: 3
+Jean Valjean: 3
+MobyDick: 3
+John: 3
+Ayn Rand: 3
+Philip Roth: 3
+Tartuffe or The Impostor or Tartuffe ou lImposteur: 3
+ Moby Dick The Whale: 3
+Jose Saramago: 3
+Treasure Island: 3
+Gilgamesh: 3
+Ahmed Salman Rushdie: 3
+An Enemy of the People: 3
+The Secret Life of Walter Mitty: 3
+Wolfe: 3
+Jose de Sousa Saramago: 3
+Alan Stewart Paton: 3
+Orhan Pamuk: 3
+Edna St Vincent Millay: 3
+David Alan Mamet: 3
+Amy Tan: 3
+bridges: 3
+Iago: 3
+Neil Simon: 3
+Hester Prynne: 3
+Hans Christian Andersen: 3
+John Updike: 3
+Wilfred Owen: 3
+Tess of the DUrbervilles: 3
+dogs: 3
+Hamlet: 3
+The Birds: 3
+David Herbert Richards Lawrence: 3
+Miss Julie: 3
+Love in the Time of Cholera: 3
+Theodore Dreiser: 3
+Rodion Romanovich Raskolnikov: 3
+Captain Ahab: 3
+The Seagull: 3
+Absalom Absalom: 3
+Atticus Finch: 3
+William Makepeace Thackeray: 3
+The Color Purple: 3
+Tom Wolfe: 3
+An American Tragedy: 3
+Twelfth Night or What You Will: 3
+The Fall of the House of Usher: 3
+New Orleans: 3
+Upton Sinclair: 3
+Ebenezer Scrooge: 3
+Aleksandr Isayevich Solzhenitsyn: 3
+Moby Dick: 3
+The Pearl: 3
+The Ingenious Hidalgo Don Quixote of La Mancha: 3
+Charlotte Perkins Gilman: 3
+Death Comes for the Archbishop: 3
+Gabriela Mistral: 3
+White Fang: 3
+Kawabata Yasunari: 3
+Carson McCullers: 3
+The Decameron Prencipe Galeotto: 3
+The Divine Comedy: 3
+Rubaiyat of Omar Khayyam: 3
+Samuel Butler: 3
+To a Skylark: 3
+Ambrose Gwinnett Bierce: 3
+Akinwande Oluwole Wole Soyinka: 3
+Akinwande Oluwole Soyinka: 3
+David Mamet: 3
+Silas Marner: 3
+Prometheus: 2
+ice: 2
+hell: 2
+rose: 2
+The Dead: 2
+Harlem: 2
+Gabriel García Márquez: 2
+E T A Hoffmann: 2
+Blanche DuBois: 2
+Republic of Turkey: 2
+Paris: 2
+Russian: 2
+Yiddish: 2
+Jews: 2
+Caliban: 2
+Arthur Rimbaud: 2
+pigs: 2
+The Heart is a Lonely Hunter: 2
+John Yossarian: 2
+robots: 2
+SlaughterhouseFive: 2
+English: 2
+Death: 2
+committing suicide: 2
+wine: 2
+Republic of Cuba: 2
+time: 2
+O Pioneers: 2
+Sons and Lovers: 2
+V S Naipaul: 2
+Raymond Chandler: 2
+Cuba: 2
+Jorge: 2
+James: 2
+William: 2
+Alexander Dumas pere: 2
+angels: 2
+Kenzabur333 332e: 2
+The Alchemist: 2
+Friedrich Schiller: 2
+Miguel de Cervantes: 2
+Far From the Madding Crowd: 2
+Ariel: 2
+WH Auden: 2
+New York City: 2
+Czech: 2
+Portnoys Complaint: 2
+Dorothea Brooke: 2
+ChineseAmerican: 2
+Daphne du Maurier: 2
+the Decameron: 2
+J D Salinger: 2
+An Occurrence at Owl Creek Bridge: 2
+Seamus Justin Heaney: 2
+the Ramayana: 2
+Li Bai: 2
+The Castle: 2
+Othello: 2
+JeanLouis Jack Kerouac: 2
+purple: 2
+epic poem: 2
+Gabriel José de la Concordia García Márquez: 2
+The Prince and the Pauper: 2
+Francis Petrarch: 2
+Rosencrantz and Guildenstern: 2
+Long Days Journey into Night: 2
+German language: 2
+Federal Republic of Nigeria: 2
+The Purloined Letter: 2
+World War II: 2
+Easter 1916: 2
+Crane: 2
+Daisy Buchanan: 2
+doctor: 2
+John Brown: 2
+Chicago Illinois: 2
+v: 2
+Kingdom of Sweden: 2
+Japanese: 2
+California: 2
+The Inferno: 2
+Günter Wilhelm Grass: 2
+Rip van Winkle: 2
+The Bells: 2
+The Comedy of Errors: 2
+Count Dracula: 2
+The Ransom of Red Chief: 2
+Gwendolyn Elizabeth Brooks: 2
+Jonathan Franzen: 2
+Dr Pangloss: 2
+Kiss of the Spider Woman: 2
+Sailing to Byzantium: 2
+Old English: 2
+Sean OCasey: 2
+Kingdom of Norway: 2
+Heinrich Theodor Böll: 2
+Thomas Paine: 2
+Maxim Gorky: 2
+grass: 2
+Mississippi: 2
+A Confederacy of Dunces: 2
+death: 2
+sea: 2
+Hansel and Gretel: 2
+winter: 2
+Robert Louis Balfour Stevenson: 2
+Moby Dick or The Whale: 2
+Jules Gabriel Verne: 2
+All the Kings Men: 2
+The Importance of Being Earnest A Trivial Comedy for Serious People: 2
+frogs: 2
+Oliver Wendell Holmes Jr: 2
+Theodore Herman Albert Dreiser: 2
+Molière: 2
+Frank Norris: 2
+Dorian Gray: 2
+John Griffith Jack London: 2
+Albert Chinualumogu Chinua Achebe: 2
+Sancho Panza: 2
+The War of the Worlds: 2
+The Lady or the Tiger: 2
+Francesco Petrarca: 2
+Mahabharata: 2
+George Gordon Lord Byron: 2
+Captain John Yossarian: 2
+Edward: 2
+Latin: 2
+knights: 2
+Homer: 2
+I Know Why the Caged Bird Sings: 2
+ee cummings: 2
+Poland: 2
+Aeneid: 2
+The Three Musketeers or Les Trois Mousquetaires: 2
+The History of Tom Jones A Foundling: 2
+dogs or canines or hounds or anything else that is a dog: 2
+The Hunchback of NotreDame: 2
+The House of the Spirits: 2
+The Devils Dictionary: 2
+My Ántonia: 2
+Eugène Ionesco: 2
+Ovid: 2
+The Epic of Gilgamesh: 2
+Silas Marner The Weaver of Raveloe: 2
+Vikram Seth: 2
+Arthur Koestler: 2
+The Pilgrims Progress From This World to That Which Is to Come: 2
+In Search of Lost Time: 2
+Twenty Love Poems and a Song of Despair: 2
+Les Fleurs du mal: 2
+Harlem Renaissance: 2
+The Adventures of Tom Sawyer: 2
+Arabic: 2
+Agamemnon: 2
+The Hunger Games: 2
+Prince Hamlet: 2
+Dead Souls: 2
+The Flowers of Evil: 2
+Arthur Boo Radley: 2
+Nausea: 2
+Arthur Evelyn St John Waugh: 2
+Middlemarch A Study of Provincial Life: 2
+Johann Christoph Friedrich von Schiller: 2
+Tess Durbeyfield: 2
+Uncle Tom: 2
+Outlaws of the Marsh: 2
+The Celebrated Jumping Frog of Calaveras County: 2
+Emile Francois Zola: 2
+Henry David Thoreau: 2
+John Roderigo Dos Passos: 2
+Julio Cortazar: 2
+The Wild Duck: 2
+Katherine Mansfield: 2
+Salome: 2
+The English Patient: 2
+The Life and Opinions of Tristram Shandy Gentleman: 2
+The Chambered Nautilus: 2
+Walden: 2
+Russia: 2
+Publius Virgilius Maro: 2
+India: 2
+The Charterhouse of Parma: 2
+Sappho: 2
+The Tale of Genji or Genji Monogatari: 2
+A House for Mr Biswas: 2
+Willy Loman: 2
+Roots The Saga of an American Family: 2
+Der Steppenwolf: 2
+DH Lawrence: 2
+Plato: 2
+Dantes Inferno: 2
+MobyDick or the Whale: 2
+CHEKHOV: 2
+YOSSARIAN: 2
+rand: 2
+rime of the ancient mariner: 2
+scarlet letter: 2
+Pilgrims Progress: 2
+A Modest Proposal For Preventing The Children of Poor People in Ireland From Being: 2
+Harriet Beecher Stowe: 2
+The Pilgrims Progress from This World to That Which Is to Come: 2
+Greece: 2
+Tom Jones: 2
+Gullivers Travels: 2
+Louisa May Alcott: 2
+fables: 2
+Kim: 2
+Ralph Waldo Ellison: 2
+ode: 2
+Oklahoma: 2
+Charlotte Bronte: 2
+sonnet: 2
+The Nutcracker: 2
+Gothic literature: 2
+essay: 2
+Ambrose Gwinett Bierce: 2
+tragedy: 2
+Betty Friedan: 2
+drowning: 2
+Christina Rossetti: 2
+Lorraine Hansberry: 2
+Mikhail Afanasyevich Bulgakov: 2
+The Tragedy of Julius Caesar: 2
+The Temple of the Golden Pavilion: 2
+The Turn of the Screw: 2
+Dr John H Watson: 2
+Patrick White: 2
+The Joy Luck Club: 2
+The Ambassadors: 2
+Derek Walcott: 2
+The House on Mango Street: 2
+The Masque of the Red Death: 2
+Dr Zhivago: 2
+Pelham Grenville Wodehouse: 2
+The Remains of the Day: 2
+Eugene Ionesco ycyc: 2
+Wole Soyinka ycyc: 2
+William Somerset Maugham ycyc: 2
+George Orwell or Eric Arthur Blair: 2
+A Passage to India: 2
+Chinese: 2
+The Emperor of Ice Cream: 2
+Henri Rene Albert Guy de Maupassant: 2
+Ivan Turgenev: 2
+Shirley Jackson: 2
+Norman Kingsley Mailer: 2
+Francis Bret Harte: 2
+Richard III: 2
+The Tragedy of Macbeth: 2
+Arabian Nights: 2
+Don DeLillo: 2
+The Winters Tale: 2
+Daddy: 2
+Timon of Athens: 2
+Orestes: 2
+Gertrude Stein: 2
+Darkness at Noon: 2
+The Interpreter of Maladies: 2
+Sigrid Undset: 2
+Robert Herrick: 2
+Doris Lessing: 2
+Thomas Ruggles Pynchon: 2
+Samuel Richardson: 2
+Tartarus: 2
+John Dos Passos: 2
+Albert Chinualumogu Achebe: 2
+Volpone: 2
+Gargantua and Pantagruel: 2
+Richard Cory: 2
+Clive Staples Lewis: 2
+Aleksandr Pushkin: 2
+Friedrich von Schiller: 2
+Arthur Schopenhauer: 2
+Othello the Moor of Venice: 2
+Pierre Corneille: 2
+Le Corbusier: 2
+The Arabian Nights Entertainments: 2
+Portuguese: 2
+Victor Marie Hugo: 2
+Bernard Malamud: 2
+Gargantua: 2
+Valentin Louis Georges Eugene Marcel Proust: 2
+John Irving: 2
+Henry V: 2
+JeanPaul Charles Aymard Sartre: 2
+Sweden: 2
+Steppenwolf: 2
+The Portrait of a Lady: 2
+Titus Andronicus: 2
+Ralph Ellison: 2
+O Captain My Captain: 2
+The Life of Gargantua and Pantagruel: 2
+When Lilacs Last in the Dooryard Bloomd: 2
+Mourning Becomes Electra: 2
+The Dumbwaiter: 2
+The  Charge of the Light Brigade : 1
+Great  Britain: 1
+the Earths  Moon: 1
+ Rashomon : 1
+Ezra  Pound  AND Thomas Stearns  Eliot: 1
+horse s: 1
+lawn tennis: 1
+Robert  Browning: 1
+The  Sun Also Rises: 1
+Romania: 1
+Alexander Sergeyevich  Pushkin: 1
+journey s: 1
+summer: 1
+Robert  Lowell: 1
+Christopher  Marlowe: 1
+Portia: 1
+c apitalization: 1
+Okonkwos wives: 1
+Byron: 1
+The  Amazing Adventures of Kavalier and Clay: 1
+rains: 1
+bowler  hat s: 1
+Baskerville s: 1
+A  Portrait of the Artist as a Young Man: 1
+The  Last of the Mohicans: 1
+Charles Pierre  Baudelaire: 1
+swim ming: 1
+The  Emperor of Ice Cream : 1
+18th  century: 1
+New Jersey: 1
+Arab s: 1
+The  God of Small Things: 1
+Tom  Stoppard: 1
+Sancho  Panza: 1
+orangutan: 1
+The  Magic Mountain: 1
+Derek Alton  Walcott: 1
+John  Dryden: 1
+Kate  Chopin: 1
+Mary Flannery  OConnor: 1
+Emile  Zola: 1
+ To An Athlete Dying Young : 1
+Athol  Fugard: 1
+Thomas   Sutpen: 1
+Sinbad: 1
+the  Underground Railroad: 1
+The  BirthMark : 1
+Ireland: 1
+Eliza   Doolittle: 1
+The  Kite Runner: 1
+The  Necklace : 1
+Iphigenia: 1
+The  New Yorker: 1
+The  Remains of the Day: 1
+Daphne du  Maurier: 1
+Eugene Gladstone  ONeill: 1
+Isabel  Allende: 1
+Young  Werther   VAIRtur: 1
+Wystan Hugh  Auden: 1
+Naked Lunch: 1
+Afrikaans: 1
+Bertolt  Brecht: 1
+Middlemarch  A Study of Provincial Life: 1
+involuntary  memory: 1
+F Scott  Fitzgerald: 1
+a  churchyard: 1
+Desiderius  Erasmus: 1
+The  Mad Hatter: 1
+The  Tempest: 1
+drown ing: 1
+The  Piano Lesson: 1
+funeral s: 1
+ I Wandered Lonely as a Cloud : 1
+Ethan  Frome: 1
+Samuel  Pepys   peeps: 1
+Matsuo  Basho772: 1
+Marco  Polo: 1
+Virginia  Woolf: 1
+Herman  Hesse: 1
+Charles  Dickens: 1
+Tom   Sawyer  prompt on partial answer: 1
+Arthur  Miller: 1
+Willa  Cather: 1
+One Day in the Life of Ivan Denisovich  or  Odin den Ivana Denisovicha : 1
+The  Great Gatsby: 1
+The  Canterbury Tales: 1
+Les Miserables  Accept  The Miserables   The Wretched   The Miserable Ones   The Wretched Ones  or  The Poor Ones  do not prompt on Les Mis as tempting as it may be: 1
+Nikolai  Gogol: 1
+Thomas  Hardy: 1
+Gospel of  John: 1
+The  Road Not Taken  Do not accept or prompt on The Road Less Traveled Laugh at anyone who gives this answer: 1
+Aleksandr  Pushkin: 1
+Do Not Go Gentle Into That Good Night: 1
+MobyDick  accept  The Whale  before white whale prompt after: 1
+Joseph Rudyard  Kipling: 1
+Ernest  Hemingway: 1
+Don Quixote  de la Mancha: 1
+Arthur Evelyn St John  Waugh: 1
+e e Cummings: 1
+Ottoman Empire: 1
+Charlemagne: 1
+roses: 1
+Faust The First Part of the Tragedy: 1
+Cairo Egypt: 1
+the USA trilogy: 1
+Mali Empire: 1
+Katherine Mansfield Murry: 1
+the Beat8203 Generation: 1
+Walt buWhitmanub8203: 1
+buconcentration campub8203s: 1
+George Bernard buShawub: 1
+Classical buPersianub: 1
+Alfred Lord buTennysonub: 1
+MexicanAmerican: 1
+A E Housman: 1
+a salesman: 1
+words: 1
+Ewell: 1
+Walden Pond: 1
+Jay Gatsbys parties: 1
+Tess of the DUrbervilles A Pure Woman Faithfully Presented: 1
+Daisy Miller A Study: 1
+book burning: 1
+assassination of Abraham Lincoln: 1
+Sylvia Plaths father: 1
+American Revolution: 1
+The Cantos: 1
+Julys People: 1
+infinity: 1
+Lolita Haze: 1
+travelogues: 1
+Brooklyn: 1
+Frankensteins monster: 1
+Lilliput: 1
+Sir John Falstaff: 1
+Michel Eyquem de Montaigne: 1
+Winston Smith: 1
+Homeric similes: 1
+Congo River: 1
+Tale of Genji: 1
+Evelyn: 1
+The House of Usher: 1
+Ophelia: 1
+A character in one of this authors poems came home with a smooth round stone  as small as a world and as large as alone That poem ends with the line its always ourselves we find in the sea Another poem by this author ends how do you like your blueeyed boy  Mister Death In another poem by this author of maggie and millie and molly and may and: 1
+priest: 1
+Jim: 1
+Gitanjali: 1
+Lennie Small: 1
+the American Civil War: 1
+Doktor Faustus: 1
+William Cullen Bryant fmfm: 1
+Dr Strangelove or How I Learned to Stop Worrying and Love the Bomb jrjr: 1
+Middlemarch A Study of Provincial Life glgl: 1
+The Scarlet Letter glgl: 1
+Anna gl  gl: 1
+Beloved glgl: 1
+radio glgl: 1
+Jean Valjean jrjr: 1
+Oscar: 1
+Sylvia Plath glgl: 1
+Medea glgl: 1
+donkey: 1
+Daisy: 1
+The Turn of the Screw glgl: 1
+syphilis glgl: 1
+being dead: 1
+William Blake glgl: 1
+MobyDick or The Whale fmfm: 1
+Things Fall Apart glgl: 1
+Mr Darcy: 1
+Guinevere: 1
+Uncle Toms Cabin or Life Among the Lowly glgl: 1
+Alexander: 1
+Alice: 1
+JD Salinger: 1
+Emma Bovary: 1
+King Lear jrjr: 1
+Aeneas glgl: 1
+Hans Christian Andersen glgl: 1
+Pygmalion glgl: 1
+Thornton: 1
+Thomas Hardy glgl: 1
+a bell: 1
+Ahmed Salman Rushdie glgl: 1
+Hermann: 1
+elementary schools: 1
+college or university: 1
+Jamaica: 1
+Wyoming: 1
+Catholic priests: 1
+Western prompt on cowboy novel or oater if respondent over 80 years old: 1
+poetry: 1
+William B: 1
+Boston: 1
+Lord Byron or George Gordon: 1
+tennis: 1
+chess: 1
+tiger: 1
+William Gopher Bill Faulkner: 1
+Buendia: 1
+killing a bird accept goose after first sentence and antiprompt say more general  �nbsp�nbsp�nbsp �nbsp�nbsp�nbsp �nbsp�nbsp�nbsp �nbsp�nbsp�nbsp �nbsp      after that if they answer with seagull or albatross: 1
+George Eliot accept Mary Ann Evans before mentioned: 1
+sheep: 1
+black: 1
+Lemuel Gulliver accept either underlined portion: 1
+Daodejing: 1
+New Orleans Louisiana: 1
+comic books: 1
+Billy Pilgrim: 1
+Mikhail Bulgakov: 1
+Oryx and Crake: 1
+Arrowsmit: 1
+sledding: 1
+EB White: 1
+monkeys: 1
+A Room with a View: 1
+theory of the four humors: 1
+Indian reservations: 1
+E L Doctorow: 1
+Bronte776: 1
+E E Cummings: 1
+the Wife of Bath: 1
+The Birthmark: 1
+Life of Pi: 1
+soldiers: 1
+farms: 1
+colleges: 1
+The Chosen: 1
+Alexey Alexandrovich Karenin: 1
+Joan Didion: 1
+Ngugi wa Thiongo: 1
+The Lady with the Dog: 1
+Portrait of the Artist as a Young Man: 1
+Harry Hopes saloon: 1
+the Pearl Poet: 1
+Polynices: 1
+performing abortions: 1
+Miguel de Unamuno y Jugo: 1
+Buddenbrooks The Decline of a Family: 1
+TS Eliot: 1
+The Birthday Party: 1
+Desdemona: 1
+The Glass Family: 1
+fairy tales: 1
+Richard Lovelace: 1
+If: 1
+Bleak House: 1
+witches: 1
+Oskar Matzerath: 1
+Swiss Alps: 1
+The Romance of the Three Kingdoms: 1
+Wales: 1
+Lewis Carroll accept Charles Lutwidge Dodgson: 1
+orphans: 1
+The Ramayana: 1
+San Francisco: 1
+ Samuel Beckett: 1
+In the Penal Colony: 1
+Dido: 1
+Gargantua AND Pantagruel: 1
+Natsume Soseki: 1
+Nick Carraway: 1
+Republic: 1
+Water Margin: 1
+The Myth of Sisyphus: 1
+Richard Brinsley: 1
+White Noise: 1
+House of the Spirits: 1
+English Romanticism: 1
+Candide ou lOptimisme: 1
+Professor James Moriarty: 1
+Greek language: 1
+The Mayor of Casterbridge The Life and Death of a Man of Character: 1
+Inspector Javert: 1
+The Personal History Adventures Experience and Observation of David Copperfield the Younger of Blunderstone Rookery Which He Never Meant to Publish on Any Account: 1
+Gandalf the Grey: 1
+Kubla Khan Or A Vision in a Dream A Fragment: 1
+Vanity Fair A Novel Without A Hero: 1
+Santiago: 1
+Gilgamesh the King: 1
+Dulce et Decorum est: 1
+pearls: 1
+Aristotle of Stagira: 1
+Wystan Hugh WH Auden: 1
+John Ernst Steinbeck Junior: 1
+All Quiet On the Western Front: 1
+pianoforte: 1
+the end of the world as we know it: 1
+houses: 1
+Isaac Asimov: 1
+Doctor Yuri Zhivago: 1
+Bilbo Baggins: 1
+the three witches from Macbeth: 1
+luck: 1
+Kingdom of France: 1
+nuns: 1
+Dr Henry Jekyll: 1
+Portuguese Language: 1
+Jane: 1
+albatrosses jr  jr: 1
+WB Yeats: 1
+Vladimir: 1
+Flannery OConnor glgl: 1
+Big Brother glgl: 1
+Tokyo: 1
+bears: 1
+Texas: 1
+film criticism accept film review movie writing film theory etc: 1
+Turkey: 1
+Stopping by Woods on a Snowy Evening: 1
+Mario Vargas Llosa prompt on partial answer: 1
+Beatrice: 1
+Brazil: 1
+Dulce et Decorum Est: 1
+suicide accept specific forms early like hanging oneself for Bowker shooting 	oneself in the head for Seymour and Richard Cory antiprompt at end though: 1
+books: 1
+priests: 1
+baker: 1
+Lev Nikolayevich Tolstoy: 1
+A Shropshire Lad: 1
+Republic of Italy: 1
+baseball players: 1
+Philip Pirrip: 1
+poems: 1
+Because I could not stop for Death: 1
+Tess of the dUrbervilles A Pure Woman Faithfully Presented: 1
+Arabian Nights Entertainment: 1
+Robinson Crusoe accept either: 1
+Sindbad the Sailor accept Sinbad: 1
+Dorian Gray accept either prompt on Prince Charming: 1
+Natty Bumppo accept either accept Trapper Pathfinder the Last of the Mohicans or Deerslayer accept Hawkeye  or Leatherstocking until they are mentioned: 1
+Jeeves: 1
+Vanity Fair A Novel Without a Hero: 1
+BhagavadGita prompt on Mahabharata until fight: 1
+Edna St Vincent Millay accept Nancy Boyd: 1
+Rime of the Ancient Mariner: 1
+Peer Gynt: 1
+J B: 1
+Alexis Zorba the Greek accept either underlined part: 1
+The Man in the Iron Mask accept The Vicomte de Bragelonne or Louise de la Vallière or LHomme au Masque de Fer: 1
+Satan accept Woland Lucifer the Devil Diabolus Beelzebub Belial Beliar or equivalents: 1
+Charge of the Light Brigade: 1
+Around the World in Eighty Days accept Le Tour du monde en quatrevingts jours: 1
+The Canterbury Tales accept The Merchants Tale until collection: 1
+Winnie the Pooh accept either underlined answer accept Edward Bear: 1
+Walter Whitman Jr: 1
+Anna Karenina accept either: 1
+Diary of Anne Frank accept Diary of a Young Girl or Het Achterhuis: 1
+SlaughterhouseFive or The Childrens Crusade A Duty Dance with Death: 1
+Peter Pan: 1
+MacBeth prompt on Thane of Fife or Thane of Cawdor: 1
+A Dolls House accept A Doll House or Et dukkehjem: 1
+Charlottes Web: 1
+Sherlock Holmes accept either underlined part: 1
+Ovid accept Publius Ovidius Naso: 1
+HenriRenéAlbertGuy de Maupassant: 1
+Pablo Neruda accept Ricardo Eliecer Neftalí Reyes Basoalto: 1
+rivers: 1
+Agatha Mary Clarissa Miller Christie: 1
+Shylock: 1
+Ancient Greek: 1
+Quo Vadis A Narrative of the Time of Nero: 1
+trains: 1
+Cleopatra VII: 1
+Visigoths: 1
+dulce et decorum est pro patria mori: 1
+Robert Lowell: 1
+Ezra Loomis Pound: 1
+Tintern Abbey: 1
+Derek Alton Walcott: 1
+United States of America: 1
+Ishmael: 1
+A Modest Proposal: 1
+The Castle of Otranto a Gothic Story: 1
+Katherine Mansfield Beauchamp: 1
+Rebecca: 1
+Natty Bumppo: 1
+Dr John Watson: 1
+cathedrals: 1
+bananafish: 1
+Mrs Malaprop: 1
+Maurice Polydore Marie Bernard Maeterlinck: 1
+Ford Madox Ford: 1
+the raft in Huck Finn: 1
+Joad family: 1
+Stella Dubois Kowalski: 1
+Symposium: 1
+airplanes: 1
+Iran: 1
+bullfights: 1
+Collins: 1
+Blood Wedding: 1
+hotels: 1
+Harry S Truman: 1
+On The Road: 1
+Elizabeth Bennet: 1
+kites: 1
+Twenty Thousand Leagues Under the Sea: 1
+Narnia: 1
+firemen: 1
+Aesops Fables: 1
+Through the LookingGlass and What Alice Found There: 1
+colonial America: 1
+libraries: 1
+Socratic dialogues: 1
+drama: 1
+immigrating to America: 1
+Aesop: 1
+Gabriel Garcia Marquez prompt on partial surname: 1
+Beat Generation accept beatniks: 1
+Homeros: 1
+Thomas Lanier Tennessee Williams III: 1
+Candide or Optimism accept Candide ou loptimisme: 1
+Crime and Punishment accept Prestuplenie i nakazanie: 1
+The Inferno prompt on The Divine Comedy or La Divina commedia before mention: 1
+Clive Staples Lewis prompt on Lewis alone: 1
+play within a play accept any description of characters in a play putting on a play prompt on play prompt on frame story: 1
+Nick Carraway accept either underlined name: 1
+Alices Adventures in Wonderland: 1
+Turandot: 1
+United Kingdom: 1
+Taming of the Shrew: 1
+Walter Mitty: 1
+Eudora Alice Welty: 1
+Elizabeth Barrett Browning: 1
+Breakfast at Tiffanys: 1
+Guy Montag: 1
+Edward Rochester: 1
+Ferit Orhan Pamuk: 1
+Roth: 1
+Marcus Tullius Cicero: 1
+Northanger Abbey: 1
+gypsies or gypsy: 1
+The Beat Generation: 1
+Persia: 1
+histories of Rome: 1
+Mario Vargas Llosa YOHsah: 1
+The Twilight Saga New Moon: 1
+Dante degli Alighieri: 1
+Middlemarch A Study in Provincial Life: 1
+beards: 1
+the Epic of Gilgamesh: 1
+crossdressing: 1
+A Separate Peace: 1
+chorus: 1
+heart: 1
+American Civil War: 1
+The WasteLand: 1
+concentration camps: 1
+nightingales: 1
+the trial of Tom Robinson in To Kill a Mockingbird: 1
+the Little Prince: 1
+The Apology of Socrates: 1
+Troy: 1
+glass: 1
+Paradise: 1
+blind people: 1
+plague breakout: 1
+All the worlds a stage: 1
+Cain: 1
+Soviet Union: 1
+Amis: 1
+Henrik: 1
+Irwin Allen Ginsber: 1
+Joseph Rudyard Kiplin: 1
+Nikolai: 1
+William W Somerset Maugha: 1
+Paul Thomas Man: 1
+Harold Bloom: 1
+Dr Lemuel Gulliver: 1
+New Zealand: 1
+Clive Staples CS Lewi: 1
+Ancient Mariner: 1
+America: 1
+blindness: 1
+A Good Man Is Hard to Find: 1
+The Clouds or Nephelai: 1
+Richard Nixon: 1
+We Real Cool: 1
+play within a play dont accept or prompt on frame story: 1
+painters: 1
+William Dollar Bill Shakespeare: 1
+Maine: 1
+Bronte: 1
+Edward Arlington Robinson: 1
+Lowell: 1
+goats: 1
+Atticus Finch accept either or both names: 1
+David Herbert Lawrence or D H Lawrence: 1
+Arabic accept word forms prompt on Egyptian Arabic: 1
+Antonia Shimerda: 1
+Rainer Marie Rilke: 1
+Lord George Gordon Byron 6th Baron Byron accept either or both underlined parts: 1
+Kurt Vonnegut accept Bluebeard before author: 1
+World War I or WWI or the Great War: 1
+A Dolls House or Et dukkehjem: 1
+haikus by Matsuo Basho: 1
+Pablo Neruda or Neftalí­ Ricardo Reyes Basoalto: 1
+One Day in the Life of Ivan Denisovich or Odin den Ivana Denisovicha: 1
+ChineseAmerican the first author mentioned is David Henry Hwang: 1
+Modern Greek accept Ancient Greek when buzzing after journeys is read: 1
+Nineteen EightyFour or 1984 though this should never matter: 1
+Waiting for Godot or En Attendant Godot: 1
+snowy accept word forms: 1
+Hughes accept Ted or Langston Hughes before mention: 1
+Divine Comedy or Divina Commedia prompt on Inferno Purgatorio or Paradiso before mentioned: 1
+Li Bai accept Li Po or Li Bo: 1
+Agatha Christie: 1
+The Unbearable Lightness of Being or Nesnesitelná lehkost bytí: 1
+baseball: 1
+Lewis Carroll or Charles Lutwidge Dodgson: 1
+Yukio Mishima or Kimitake Hiraoka accept names in either order: 1
+Federico del Sagrado Corazón de Jesús García Lorca: 1
+The Human Comedy or La Comedie Humaine prompt on any specific novels from the Balzac work: 1
+A Dolls House or Et Dukkehjem: 1
+The Sorrows of Young Werther or Die Lieden des jungen Werthers: 1
+The Hunchback of NotreDame or NotreDame de Paris: 1
+time travel accept equivalents also accept an answer specific to either direction like going back in time: 1
+Kenzaburo Oe or Oe Kenzaburo: 1
+The Love Song of J Alfred Prufrock also accept Prufrock: 1
+light accept elaborations like the furthest city light or daylight: 1
+Crime and Punishment or Prestupleniye i nakazaniye: 1
+One Hundred Years of Solitude or Cien anos de soledad: 1
+blue or bleu or bluest: 1
+The Red and the Black or Le Rouge et le Noir accept answers with alternate translations for the colors like The Scarlet and the Black: 1
+Animal Farm  A Fairy Story: 1
+The Rubaiyat of Omar Khayyám: 1
+Rosencrantz and Guildenstern are Dead: 1
+Pygmalion  A Romance in Five Acts: 1
+The stronguOvercoatustrong: 1
+The stronguCelebrated Jumping Frog of Calaveras Countyustrong: 1
+the Okonkwo family: 1
+This author discussed the fate of the wreckers in a chapter entitled The History of Our Sewage Disposal System which follows a chapter in which jurists dump out a childs corpse in order to inspect a coffin Late in his career this author was lambasted for antiSemitism for his history of the Jews in his country Two Hundred Years Together He wrote a novel whose title character enjoys the company of the Latvian joker Kilgas and his benevolent  overseer Tyurin and earns a share of the care packages of the favorablytreated Caesar Many of his novels including Cancer Ward were circulated through samizdat For 10 points name this Russian author of One Day in the Life of Ivan Denisovich and The Gulag Archipelago: 1
+If on a winters night a traveler: 1
+swans: 1
+Kidnapped: 1
+Agatha Mary Clarissa Christie: 1
+Jamaica Kincaid: 1
+New York State: 1
+James Weldon Johnson: 1
+the Finches: 1
+Alex DeLarge: 1
+England: 1
+September 1 1939: 1
+Pelham Grenville PG Wodehouse: 1
+Cyrano de Bergerac: 1
+a prison: 1
+daffodils: 1
+Owen: 1
+Aluminum: 1
+dArtagnan: 1
+the Cavalier poets: 1
+the little prince: 1
+the Library of Babel: 1
+A Study in Scarlet: 1
+the green light at the end of the Buchanans dock in The Great Gatsby: 1
+Zarathustra: 1
+Laura Wingfield: 1
+Russian Language: 1
+A Man For All Seasons: 1
+Mrs Warrens Profession: 1
+Robert Traill Spence Lowell IV: 1
+Anne Radcliffe: 1
+biographies of Muhammad: 1
+Nathanael West: 1
+Roberto Bolaño Avalos: 1
+The God of Small Things: 1
+Three Sisters: 1
+John James Osborne: 1
+the Compson family: 1
+Anna Arkadyevna Karenina: 1
+the Essays of Michel de Montaigne: 1
+Sir Vidiadhar Surajprasad V S Naipaul: 1
+soldiers in World War I: 1
+George F Babbitt: 1
+Rodion Romanovich Raskolnikovs murder of the pawnbroker Alyona Ivanovna and and her sister Lizaveta Ivanova in Crime and Punishment: 1
+the duchess of Ferrara: 1
+The Histories: 1
+Snow White: 1
+Heinrich Faust: 1
+beauty: 1
+labyrinths: 1
+Finch family: 1
+German accept Deutsch: 1
+Lewis Carroll accept Charles Lutwidge Dodgeson: 1
+Kingdom of Spain accept Reino de España: 1
+Toni Morrison accept Chloe Anthony Wofford or Chloe Ardelia Wofford: 1
+Oliver Twist or The Parish Boy8223s Progress: 1
+War and Peace or Voyna i mir: 1
+The Ingenious Gentleman Don Quixote of La Mancha accept The Adventures of Don Quixote accept El ingenioso hidalgo don Quijote de la Mancha: 1
+Maya Angelou accept Marguerite Ann Johnson: 1
+Robert E Lee: 1
+One Hundred Years of Solitude accept Cien Años de Soledad: 1
+Peoples Republic of China accept Zh333nghuá Rénmín Gònghéguó: 1
+Macbeth prompt on The Scottish Play: 1
+Portugal accept Portuguese Republic or Empire: 1
+1001 Arabian Nights accept either 1001 Nights or Arabian Nights accept Arabian Nights Entertainment accept Book of 1001 Nights: 1
+Henrik Ibsen accept An Enemy of the People or En folkefiende before this man is read: 1
+Oedipus Rex or Oedipus the King prompt on Oedipus: 1
+The Fault in Our Stars: 1
+diary accept journal accept Pillow Book before mention accept Makura no Shoshi or nikki before Pillow Book is mentioned prompt on nonfiction before it is read: 1
+Stamp Act of 1765: 1
+Brontë sisters accept the Brontë family or equivalents accept Anne Brontë Charlotte Brontë andor Emily Brontë prompt on Acton Ellis andor Currer Bell: 1
+Song of Solomon: 1
+Hamlet Prince of Denmark: 1
+the Greek language: 1
+mirrors: 1
+Union of Soviet Socialist Republics: 1
+Death of a Salesman Certain Private Conversations in Two Acts and a Requiem: 1
+Federico García Lorca: 1
+Cry The Beloved Country: 1
+encyclopedias: 1
+Mann: 1
+Young Werther: 1
+Lord Tennyson: 1
+the Caribbean: 1
+The Importance of Being Earnest  A Trivial Comedy for Serious People: 1
+One Thousand and One Arabian Nights: 1
+Alexandre Dumas: 1
+dog: 1
+Raskolnikov: 1
+Thomas: 1
+Madame Bovary moeurs de province: 1
+EM Forster: 1
+Le Petit Prince: 1
+to be or not to be soliloquy: 1
+the Swedish Academy: 1
+boxing: 1
+bear: 1
+One Hundred Years of Solitude or Cien Anos de Soledad from Julio showing off: 1
+Miami: 1
+Leo or Lev Tolstoy: 1
+JRR Tolkien: 1
+The Outsiders: 1
+Israel: 1
+El ingenioso hidalgo Don Quixote de la Mancha: 1
+MobyDick or the White Whale: 1
+Waiting For Godot: 1
+Republic of Cuba or Republica de Cuba: 1
+Merovingian Dynasty: 1
+She Walks in Beauty: 1
+Cormac Charles McCarthy: 1
+Sir Vidiadhar Surajsprad Naipaul: 1
+Duino Elegies: 1
+Federal Republic of Germany: 1
+The Lord of the Flies: 1
+Oscar Finghals OFlahertie Wills Wilde: 1
+The stronguRavenustrong: 1
+SpanishAmerican War: 1
+George Gordon Noel Lord Byron: 1
+Tartuffe or The Imposter: 1
+Benjamin Jonson: 1
+The Wife of Baths Tale: 1
+Meursault: 1
+The Iliad: 1
+donkeys: 1
+The Arabian Nights Entertainment: 1
+Rashomon: 1
+Isaac Bashevis Singer: 1
+Wilkie Collins: 1
+Ian Russell McEwan: 1
+the Rubaiyat of Omar Khayyam: 1
+Los Angeles California: 1
+Xenophon: 1
+Mark Antonys funeral oration: 1
+teachers: 1
+Heinrich Theodor Bo776ll: 1
+Andre Paul Guillaume Gide: 1
+Jason Compson IV: 1
+Lapis Lazuli: 1
+Young Goodman Brown: 1
+sonnets by William Shakespeare: 1
+the soliloquies of Hamlet: 1
+Vachel Lindsay: 1
+The Red and the Black A Chronicle of the 19th Century: 1
+Kimball Kim OHara: 1
+Ode to Joy: 1
+Hart Crane: 1
+We: 1
+A Passage To India: 1
+Jude the Obscure: 1
+fathers: 1
+John Maxwell Coetzee kootzee: 1
+Hamlets soliloquies: 1
+Langston Hughes accept Silhouette before it is mentioned: 1
+The Trial or Der Prozess: 1
+Cinderella: 1
+Don Quixote  El ingenioso hidalgo Don Quijote de la Mancha: 1
+Pablo Neruda or Neftalí Ricardo Reyes Basoalto: 1
+Inferno prompt on the Divine Comedy: 1
+Odysseus: 1
+Alan Alexander Milne: 1
+Henri René Albert Guy de Maupassant: 1
+Günter Grass: 1
+Leo or Lev Nikolayevich Tolstoy: 1
+Clive S taples Jack Lewis: 1
+The Tale of Genji accept Genji Monogatari: 1
+The Most Excellent and Lamentable Tragedy of Romeo and Juliet: 1
+Inferno accept Hell before mention prompt on The Divine Comedy before mention: 1
+pigs accept swine accept boar until Fern Arable is read: 1
+Sir Arthur Ignatius Conan Doyle accept Sir Arthur Ignatius Conan Doyle: 1
+Enders Game: 1
+Voltaire or FrancoisMarie Arouet: 1
+The Count of Monte Cristo accept Le Comte de MonteCristo: 1
+Boston Tea Party: 1
+Katherine OFlaherty Kate Chopin accept At the Cadian Ball before this author is read: 1
+Douglas Noel Adams: 1
+Transcendentalism accept word forms such as the Transcendentalists: 1
+Arthur Charles Clarke: 1
+Electra: 1
+Rossetti: 1
+Emile EdouardCharlesAntoine Zola: 1
+One Hundred Years Of Solitude: 1
+Whos Afraid Of Virginia Woolf: 1
+Winesburg Ohio A Group of Tales of Ohio SmallTown Life: 1
+Kalevala: 1
+The Power and the Glory: 1
+Jorge Mario Pedro Vargas Llosa: 1
+Prometheus Bound: 1
+HenryReneAlbert Guy de Maupassant: 1
+Akutagawa Ryuunosuke: 1
+Le Misanthrope: 1
+The Fountainhead: 1
+Walter Scott: 1
+Ernest: 1
+Sir William Gerald Goldin: 1
+Emily: 1
+David: 1
+Orlando: 1
+Langston: 1
+Margaret: 1
+One Thousand and One: 1
+SALINGER: 1
+DONKEYASS: 1
+OCONNOR: 1
+STEPPENWOLF: 1
+burroughs: 1
+oedipus rex: 1
+BROTHERS KARAMAZOV: 1
+WASTELAND: 1
+dover beach: 1
+injun joe: 1
+montaigne: 1
+judge: 1
+cry the beloved country: 1
+cooper: 1
+BOCCACIO: 1
+INVISIBILITY: 1
+CASTLE: 1
+FLORIDA: 1
+DR ZHIVAGO: 1
+ARISTOPHANES: 1
+WOLLSTONECRAFT: 1
+HUGHES: 1
+MISHIMA: 1
+SURREALISTS: 1
+WHITE: 1
+NORWAY: 1
+O PIONEERS: 1
+RAVEN: 1
+BASKETBALL: 1
+SONNETS BY MILTON: 1
+NICK CARRAWAY: 1
+PIRANDELLO: 1
+NAIPAUL: 1
+CANDIDE: 1
+INVISIBLE MAN: 1
+VERGIL: 1
+ANOMIE: 1
+HEMINGWAY: 1
+DON QUIXOTE: 1
+LOWELL: 1
+hunchback of notre dame: 1
+uncle toms cabin: 1
+greene: 1
+wallace: 1
+Emily Bronte: 1
+Republica Argentina: 1
+VictorMarie Connard Hugo: 1
+The Personal History Adventures Experience and Observation of David Copperfield the: 1
+The Invisible Man: 1
+King Arthur: 1
+The Canterbury Tales accept The Knights Tale before her five marriages: 1
+Peyton Farquhar: 1
+Yellow Kid: 1
+Edward Anthony Jenner: 1
+Dao De Jing: 1
+Massachusetts: 1
+Jackson Pollock: 1
+Frank Lloyd Wright: 1
+Tess of the dUrbervilles: 1
+Nazi Party: 1
+NotreDame de Paris: 1
+Norman Mailer: 1
+spying for the Soviet Union: 1
+Madame Emma Bovary: 1
+Che Guevera: 1
+Puck: 1
+The Most Dangerous Game: 1
+The Riddler: 1
+Edgar Rice Burroughs: 1
+Oscar Fingal OFlaherty Wills Wilde: 1
+Mrs Clarissa Dalloway: 1
+the witches from Macbeth: 1
+Khalil Gibran: 1
+Arab Republic of Egypt: 1
+Quasimodo: 1
+epic poems: 1
+nonfiction novels: 1
+rhyme: 1
+stream of consciousness: 1
+Jerry Seinfeld: 1
+irony: 1
+The Life and Strange Surprising Adventures of Robinson Crusoe of York Mariner: 1
+Fyodor Mikhaylovich Dostoyevsky DOSStoyEVskee: 1
+The Elements of Style: 1
+satire: 1
+hero: 1
+Mary Shelley: 1
+Chaim CCHIGHim Potok: 1
+epistolary novel: 1
+The Outcasts of Poker Flat: 1
+morality play: 1
+metaphor: 1
+epics: 1
+to throw: 1
+iambs: 1
+journalism: 1
+Deus ex Machina accept God from the machine before mentioned: 1
+Gabriel Jose Garcia Marquez: 1
+allegory: 1
+The Social Network: 1
+Daisy Miller: 1
+flowers: 1
+Paul Revere: 1
+Edward Estlin e e Cummings: 1
+canon: 1
+metaphysical: 1
+The Diary of a Young Girl: 1
+The Bear: 1
+the Harlem Renaissance: 1
+aside: 1
+cavalier: 1
+orange: 1
+Swan Lake: 1
+Inigo Montoya: 1
+Black Beauty: 1
+in medias res: 1
+peasant revolts: 1
+The Call of the Wild: 1
+Anderson: 1
+roman a clef: 1
+sestina: 1
+nouns: 1
+Tuskegee: 1
+umlauts: 1
+Raymond Thornton Chandler: 1
+dictionaries: 1
+deus ex machina: 1
+Claudius: 1
+Daniel Webster: 1
+Joads: 1
+St Crispins Day Speech: 1
+Pygmalion A Romance in Five Acts: 1
+Marcel Proust PROOST: 1
+State of Israel: 1
+Civil Disobedience: 1
+metaphysical poets: 1
+salt: 1
+Sirius Black: 1
+Francois Duvalier: 1
+John Berryman: 1
+Beatrice Portinari: 1
+USA: 1
+Nathaniel stronguHawthorneustrong: 1
+Karel Capek CHAHpeck: 1
+the Rubaiyat: 1
+St Petersburg: 1
+The Millers Tale: 1
+Odyssey: 1
+Billy Budd Sailor: 1
+Elegy Written in a Country Churchy: 1
+A Bend in the River: 1
+Cormac McCa: 1
+William Motter Inge: 1
+Anthony Trollope: 1
+If on a Winters Night a Traveler: 1
+Hesiod: 1
+TwentyThousand Leagues Under the Sea: 1
+The School for Scandal: 1
+Erskine Caldwell: 1
+Goblin Market: 1
+Thomas De Quincey: 1
+Jose Marti y Perez: 1
+The Seven Samurai: 1
+Jean Genet: 1
+The Life of Gargantua and of Pantagruel: 1
+John Stein: 1
+Alexandria Egypt: 1
+Laurence Sterne: 1
+Chronicle of a Death Foretold: 1
+Allen Tate: 1
+Edgar: 1
+D H Lawrence: 1
+The Age of Innocence: 1
+Eilert Lovborgs manuscript: 1
+St Simeon Stylites: 1
+mentally disabled male children in the works of Kenzaburo Oe: 1
+Hopscotch: 1
+The Lotos Eaters: 1
+Foucaults Pendulum: 1
+Seven Against Thebes: 1
+The Luck of Roaring Camp: 1
+speeches of Dr Martin Luther King Jr: 1
+The Natural: 1
+The Vicar of Wakefield: 1
+The Snows of Kilimanjaro: 1
+vowels: 1
+Cat on a Hot Tin: 1
+The Ingenious Gentleman Don Quixote de la Mancha: 1
+Australia ycyc: 1
+Joseph Conrad Korzeniowski ycyc: 1
+Arthur Conan Doyle tntn: 1
+The Scarlet Letter ycyc: 1
+Pride and Prejudice mzmz: 1
+The Handmaids Tale pmpm: 1
+Leaves of Grass mama: 1
+Ben Jonson ycyc: 1
+Stendhal or MarieHenri Beyle ycyc: 1
+Octavio Paz ycyc: 1
+Silas Marner The Weaver of Raveloe ycyc: 1
+Li Po or Li Bo or Li Bai or Ri Haku: 1
+In Search of Lost Time or Remembrance of Things Past or A la recherche du temps perdu ycyc: 1
+Kate Chopin ycyc: 1
+Fathers and Sons ycyc: 1
+Yasunari Kawabata ryry: 1
+Alfred Stieglitz mag ycmag: 1
+The Tragedy of Macbeth lclc: 1
+The Crying of Lot 49 mama: 1
+Oscar Wilde ycyc: 1
+Steppenwolf mama: 1
+Cry the Beloved Country zzzz: 1
+Thomas Hardy ycyc: 1
+Leo Tolstoy ycyc: 1
+Rubaiyat of Omar Khayyam ryry: 1
+The Second Coming ycyc: 1
+Isabel Allende Llona ycyc: 1
+Sinclair Lewis ycyc: 1
+A Clockwork Orange dxdx: 1
+Italo Calvino zzzz: 1
+One Hundred Years of Solitude or Cien anos de soledad zzzz: 1
+Christopher Marlowe ycyc: 1
+Andrew Ender Wiggin mzmz: 1
+Thornton Wilder ycyc: 1
+Dead Souls or Mertvye Dushi ycyc: 1
+Nadine Gordimer ycyc: 1
+Edward Estlin Cummings ycyc: 1
+Saul Bellow ycyc: 1
+Poland ycyc: 1
+Vidiadhar Surajprasad Naipaul ycyc: 1
+William Makepeace Thackeray ycyc: 1
+Henry Graham Greene ycyc: 1
+The Idiot ryry: 1
+Stephen Crane ycyc: 1
+Things Fall Apart zzzz: 1
+Madame Bovary ycyc: 1
+Les Miserables grudgingly prompt on Les Mis: 1
+Paul Reveres Ride: 1
+World War I accept the First World War prompt The War to End All Wars or The Great War: 1
+Huckleberry Finn accept either underlined name: 1
+Browning accept Elizabeth Barrett Browning or Robert Browning: 1
+The Metamorphosis accept Die Verwandlung do not accept Metamorphoses: 1
+The Thousand and One Nights accept The Arabian Nights: 1
+Alice accept Alices Adventures in Wonderland Alice Liddell or Alice Hargreaves do not accept or prompt on Alice in Wonderland as this title only applies to the Disney film: 1
+Nathaniel Hawthorne accept The Minister8223s Black Veil before one work: 1
+Watership Down: 1
+Around the World in Eighty Days accept Le tour du monde en quatrevingts jours: 1
+Candide or Optimism accept Candide ou l8223Optimisme: 1
+Thomas Lanier Tennessee Williams: 1
+The Brothers Grimm accept Jacob andor Wilhelm Grimm or the Grimm Brothers: 1
+Ray Bradbury accept The Halloween Tree before this authors is read: 1
+Jonathan Swift accept A Tale of a Tub before this authors is read: 1
+butler accept word forms like buttling prompt on manservant do not accept valet: 1
+Anton Pavelovich Chekhov: 1
+Outsourced: 1
+The Pilgrims Progress from This World to That Which is to Come: 1
+Jorge Luis Borges BORhays: 1
+Holden Morissey Caulfield: 1
+1666 Great Fire of London: 1
+Scout Finch: 1
+Lord George Gordon Byron 6th Baron Byron: 1
+Nikolai Vasilievitch Gogol: 1
+Fences: 1
+The Miser: 1
+The Brothers Grimm: 1
+The Flea: 1
+Mother Courage and Her Children: 1
+lynching: 1
+teacher: 1
+Wilfrid Owen: 1
+David Herbert: 1
+Russian Federation: 1
+The Magic Flute: 1
+the sun: 1
+du Maurier: 1
+Sir Edward William Elgar: 1
+Jesus Christ: 1
+Gulliver: 1
+Fallout 3: 1
+Joseph: 1
+Stephen Dedalus: 1
+lynching accept obvious word equivalents: 1
+California Gurls: 1
+bathing accept mikveh before the word is read as well as reasonable equivalents: 1
+William S Burroughs: 1
+Barcelona: 1
+short stories by F Scott Fitzgerald: 1
+Because I Could Not Stop for Death: 1
+St Francis of Assisi: 1
+Salmon of Knowledge or Wisdom: 1
+The Weary Blues: 1
+free will accept free choice though some might frown on this: 1
+Louis the Pious or Louis I: 1
+ahimsa: 1
+Phillip II: 1
+The Communist Manifesto: 1
+Penelope: 1
+Marie Antoinette: 1
+Vietnam War: 1
+Yukio Mishima or Kimitake Hiraoka: 1
+The Beats: 1
+Ayn Rand or Alisa Zinovyevna Rosenbaum: 1
+The Count of Monte Cristo or Le Comte de Monte Cristo: 1
+Edward Eastlin Cummings: 1
+The Inferno prompt on Divine Comedy  or  La Divina  Commedia before it is read: 1
+Frodo Baggins: 1
+Aleksandr Sergetevich Pushkin: 1
+Francisco Petrarca: 1
+Aeneas: 1
+Diary of a Madman: 1
+John Michael Coetzee: 1
+Pedro Calderon de la Barca: 1
+Mordor: 1
+The Art of War: 1
+Aldous Huxley: 1
+EL Doctorow: 1
+Remembrance of Things Past: 1
+Genji: 1
+Edward Fairfax Rochester: 1
+Kenneth Kesey: 1
+Leo Lev Nikolayevich Tolstoy: 1
+Amartya Sen: 1
+Edward Duke Ellington: 1
+The Decameron Tales: 1
+Rappaccinis Daughter: 1
+Sir Tom Stoppard: 1
+X chromosomes: 1
+Philip Pip Pirrip: 1
+Metamorphoses: 1
+Scarlett OHara: 1
+Katerina Minola: 1
+The Negro Speaks of Rivers: 1
+The Two Gentlemen of Verona: 1
+Angels in America A Gay Fantasia on National Themes: 1
+The Libation Bearers: 1
+James Hilton: 1
+Rynosuke Akutagawa: 1
+The Satyricon: 1
+Cannery Row: 1
+Alan Sillitoe: 1
+The Cairo Trilogy: 1
+Sula: 1
+Schindlers Ark: 1
+Henryk Adam Aleksander Pius Sienkiewicz: 1
+Mikhail Yuryevich Lermontov: 1
+John Simmons Barth: 1
+Ngg wa Thiongo: 1
+Crossing Brooklyn Ferry: 1
+A Handful of Dust: 1
+Martin Louis Amis: 1
+Ruben Dario: 1
+Kalidasa: 1
+Don Juan: 1
+Chikamatsu Monzaemon: 1
+Eliezer Elie Wiesel: 1
+Tobias George Smollett: 1
+Ghosts: 1
+Charlotte Anna Perkins Gilman: 1
+Flatland A Romance of Many Dimensions: 1
+The Death of Artemio Cruz: 1
+Manuel Puig: 1
+Mansfield: 1
+The Catcher in the Rye ycyc: 1
+Things Fall Apart pmpm: 1
+The Love Song of J Alfred Prufrock ycyc: 1
+The Stranger or LEtranger ycyc: 1
+Wuthering Heights ycyc: 1
+Paul Thomas Mann ycyc: 1
+Cry The Beloved Country zzzz: 1
+Their Eyes Were Watching God ycyc: 1
+To His Coy Mistress ycyc: 1
+Victor Hugo ycyc: 1
+The Satanic Verses ycyc: 1
+Middlemarch A Study of Provincial Life ycyc: 1
+Jack London ycyc: 1
+The Count of Monte Cristo or Le Comte de Monte Cristo mzmz: 1
+Catch22 ycyc: 1
+The Red and the Black or Le Rouge et le Noir accept Red and Black or Scarlet and Black ycyc: 1
+Rabindranath Tagore pm ycpm: 1
+Margaret Atwood ycyc: 1
+Fyodor Dostoevsky ycyc: 1
+Eugene ONeill ycyc: 1
+Czech language ycyc: 1
+Sinclair Lewis pmpm: 1
+Italy lclc: 1
+Classical Latin lclc: 1
+Samuel Beckett ycyc: 1
+Bertolt Brecht lclc: 1
+Ethan Frome ycyc: 1
+Aristophanes ycyc: 1
+Edward Morgan Forster ycyc: 1
+Guy de Maupassant ycyc: 1
+Naguib Mahfouz ycyc: 1
+Herodotus of Halicarnassus zzzz: 1
+John Dos Passos pm ycpm: 1
+Heinrich Boll ycyc: 1
+Isabel Allende ycyc: 1
+Nathaniel Hawthorne ycyc: 1
+Robert Louis Stevenson ycyc: 1
+Luigi Pirandello lclc: 1
+The Awakening ycyc: 1
+The History of Tom Jones a Foundling ycyc: 1
+Orhan Pamuk lclc: 1
+Thomas Pynchon ycyc: 1
+Incan mythology: 1
+Aleksandr Solzhenitsyn lclc: 1
+Gunter Grass ycyc: 1
+Aldous Huxley ycyc: 1
+Shirley Jackson ycyc: 1
+The Ingenious Hidalgo Don Quixote of La Mancha ycyc: 1
+The Bell Jar mgmg: 1
+Carlos Fuentes ycyc: 1
+John Dryden ycyc: 1
+The Adventures of Don Quixote: 1
+Joanne JK Rowling: 1
+Virginia Stephen Woolf: 1
+the Devil Accept Satan Lucifer Mephistopheles or other reasonable equivalents: 1
+Gullivers Travels or Travels into Several Remote Nations of the World in Four Parts By Lemuel Gulliver First a Surgeon and then a Captain of several Ships: 1
+A Christmas Carol: 1
+Diary of Anne Frank Accept Diary of a Young Girl: 1
+The Metamorphosis or Die Verwandlung: 1
+Jules Verne: 1
+Murakami Haruki or Haruki Murakami: 1
+Minnesota: 1
+Notes from Underground: 1
+The Tragical History of Doctor Faustus: 1
+The Stranger accept equivalents like LEtranger The Outsider The Foreigner: 1
+Jane Eyre an Autobiography: 1
+Lycidas: 1
+Kubla Khan or A Vision in a Dream A Fragment: 1
+cat: 1
+La Chanson de Roland: 1
+Willa: 1
+Alfred Lord: 1
+Republic of stronguPolandustrong: 1
+Objectivism: 1
+The Animals: 1
+Mathew Arnold: 1
+Battle of Stamford Bridge: 1
+triangle: 1
+golden: 1
+The: 1
+Rossums Universal Robots: 1
+Upton Beall Sinclair Jr: 1
+William Carlos stronguWilliamsustrong: 1
+George Eliot Accept Mary Ann Evans: 1
+Inherit the Wind: 1
+Lines composed a few miles above Tintern Abbey on revisiting the banks of the Wye during a tour: 1
+Sinclair stronguLewisustrong: 1
+Gunter stronguGrassustrong: 1
+stronguCanto Generalustrong: 1
+Mark: 1
+Joseph Conrad accept Jozef Teodor Konrad Korzeniowski: 1
+Moliere accept JeanBaptiste Poquelin: 1
+George Bernard stronguShawustrong: 1
+Tom stronguStoppardustrong: 1
+stronguOde on a Grecian Urnustrong: 1
+The stronguLotteryustrong: 1
+Count Graf Leo Lev Nikolayevich Tolstoy: 1
+El Ingenioso Hildalgo Don Quixote de La Mancha: 1
+Kurt Vonnegut Junior: 1
+Burrhus Frederic Skinner: 1
+The Naked Lunch: 1
+Atlas Shrugged: 1
+Tobacco Road: 1
+Crime and Punishment or Prestupleniye i Nakazaniye: 1
+The Acts of the Apostles: 1
+All Quiet on the Western Front or Im Westen nichts Neues: 1
+Carlos Fuentes Marcias: 1
+Samuel Barclay Beckett: 1
+Albert Camus CAH  moo: 1
+swords: 1
+Joseph Conrad Accept Josef Teodor Konrad Nalecz Korzeniowski: 1
+Mexico Accept United Mexican States: 1
+Italian: 1
+The Three Musketeers Accept Les Trois Mousquetaires: 1
+Les Miserables Accept The Miserable Ones: 1
+Toni Morrison Accept Chloe Anthony Wofford: 1
+The Pilgrims Progress From This World to That Which is to Come: 1
+Soldiers: 1
+James Arthur Baldwin Accept The Amen Corner early: 1
+Don Delillo: 1
+The Wasteland: 1
+Count of Monte Cristo: 1
+Marcus Brutus: 1
+Greece or Hellenic Republic: 1
+George Gordon Byron or Lord Byron: 1
+The Childrens Hour: 1
+John Yossarian prompt on John give 1 to those that say Yoyo and take it: 1
+One Hundred Years of Solitude accept Cien anos de soledad: 1
+Vaclav Havel: 1
+Mark Twain accept Samuel Clemens: 1
+Saracen: 1
+Golgotha accept Calvary: 1
+Ode on a Grecian Urn dont take Ode to a Grecian Urn etc: 1
+Benjamin Franklin Norris Jr: 1
+White: 1
+Stendhal or HenriMarie Beyle: 1
+The Tale of Genji accept Genji monogatari: 1
+Rappacinis Daughter: 1
+Communist Manifesto: 1
+Oliver Wendell Holmes: 1
+Fauvism: 1
+The Murders in the Rue Morgue: 1
+The Golden Bough: 1
+Aldous stronguHuxleyustrong: 1
+Emma Lazarus: 1
+Berthold Brecht: 1
+A Worn Path: 1
+Thomas Wolfe: 1
+The Pit and the Pendulum: 1
+Anne Dudley Bradstreet: 1
+the Sermon on the Mount: 1
+Jorge Francisco Isidoro Luis Borges Acevedo: 1
+Ken Elton Kesey: 1
+John Ernst Steinbeck Jr: 1
+Gabriel Jose stronguGarcia Marquezustrong: 1
+All Quiet On The Western Front: 1
+Johann Wolfgang von Goethe GERRtuh: 1
+parables of Jesus: 1
+the Quran: 1
+Glass: 1
+Frankenstein or the Modern Prometheus: 1
+a nose: 1
+Benjamin Franklin Norris: 1
+Nikolay Gogol: 1
+Sherman Alexie: 1
+sonnets by Shakespeare: 1
+John Anthony Burgess Wilson: 1
+Upton Beall Sinclair: 1
+Henry Rene Albert Guy de Maupassant: 1
+El Cid: 1
+Thomas Kennerly Tom Wolfe Jr: 1
+Le Morte DArthur: 1
+Benjamin Ben Jonson: 1
+Edward Morgan E M Forster: 1
+Dr Yuri Zhivago: 1
+Count Leo Tolstoy: 1
+Maurice Bernard Sendak: 1
+love: 1
+Emile Edouard Charles Antoine Zola: 1
+Republic of Guatemala: 1
+Delta Wedding: 1
+Euripedes: 1
+the General Prologue to the Canterbury Tales: 1
+The Tartuffe or the Impostor: 1
+William Wilkie Collins: 1
+Aeschylus ESSkuhliss: 1
+Adonis: 1
+Adeline Virginia Stephen Woolf: 1
+HenriReneAlbertGuy de Maupassant: 1
+Babbit: 1
+Isak Christenze Dinesen: 1
+English language: 1
+Alan Paton PAY ton: 1
+Spanish Language: 1
+The New York Times: 1
+Anthony Burgess: 1
+the Spanish Golden Age: 1
+Hiawatha: 1
+Pearl Comfort Sydenstricker Buck: 1
+Thomas Hobbes: 1
+Irving Allen Ginsburg: 1
+Karamazov: 1
+Samuel Dashiell Hammett: 1
+Aristophanes ARRisTAHfuhneez: 1
+Albert Camus caMOO: 1
+Bonaparte: 1
+Pop Art: 1
+Emily Jane Bronte: 1
+Tom Kennerly Wolfe: 1
+Robert and Elizabeth Barrett Browning: 1
+To The Lighthouse: 1
+Boris Pasternak: 1
+Kingdom of Denmark: 1
+William I: 1
+Rosetti: 1
+Fyodor Mikhaylovich Dostoevsky: 1
+Desiderius Erasmus: 1
+Africa: 1
+Katherine OFlaherty Kate Chopin: 1
+Charles Ives: 1
+The Confederate States of America: 1
+Summa Theologica: 1
+Strauss: 1
+Horatio Alger: 1
+Ajax: 1
+JeanJacques Rousseau: 1
+Vergil: 1
+Czech Republic: 1
+Thirteen Ways Of Looking At A Blackbird: 1
+next year: 1
+Medea: 1
+The Courtship of Miles Standish: 1
+Animal Farm A Fairy Story: 1
+Sister Carrie: 1
+William Dean Howells: 1
+Holiday Holly Golightly: 1
+Gao Xingjian: 1
+The Little Foxes: 1
+Sir Philip Sidney: 1
+Der Rosenkavalier: 1
+William Shakespeares Sonnets: 1
+John Bunyan: 1
+Denis Diderot: 1
+Joan of Arc: 1
+General William Booth Enters Into Heaven: 1
+A Rose For Emily: 1
+The Good Sol: 1
+Joaquim Maria Machado de Assis: 1
+The House of Mirth: 1
+Sinners in the Hands of an Angry God: 1
+Katherine Anne Porter: 1
+Jean Paul Sartre: 1
+Phyllis Wheatley: 1
+Hedda Ga: 1
+The Open Boat: 1
+Sarah Orne Jewett: 1
+Dr Heinrich Faust: 1
+There Will Be Blood: 1
+Count Leo Nikoleyivich Tolstoy: 1
+The Tragedy of Puddnhead Wilson: 1
+Eugene Onegin or Yevgeny Onegin: 1
+e Kenzabur: 1
+Spain or Espana: 1
+Endgame or Fin de partie: 1
+Pablo Neruda or Neftali Ricardo Reyes Basoalto: 1
+Journey to the West or Xyouji Prompt on Monkey: 1
+Athol Harold Lannigan Fugard: 1
+The Maltese Falcon: 1
+colonial America accept anything mentioning America as a British colony prompt on America or modern names for it accept Massachusetts Bay Colony because all the clues apply to that too: 1
+Kalevala or Poems from the Kaleva District or similar: 1
+Venice accept Venice Preservd or a Plot Discovered until city: 1
+The Little Prince or Le Petit Prince: 1
+house cats: 1
+Bret Harte: 1
+Ali Baba and the 40 Thieves: 1
+Joseph Conrad or Teodor Josef Korzienowski: 1
+George Eliot or Marian Evans or Mary Ann Evans: 1
+Fiddler on the Roof: 1
+Love: 1
+Charles Wright Mills: 1
+sutras: 1
+Poor laws: 1
+Friedrich Engels: 1
+Heimdallr: 1
+the Crito: 1
+James Agee: 1
+La Fronde: 1
+Alger Hiss: 1
+fruit: 1
+Normans: 1
+A Bar at the FoliesBergere: 1
+John Stuart Mill: 1
+Kurtis Eugene Kurt Warner: 1
+Rome: 1
+Benjamin or Ben Jonson: 1
+Thucydides: 1
+The Lady of Shalott: 1
+Ryunosuke Akutagawa: 1
+EitherOr: 1
+cars: 1
+Incubus: 1
+Meleager: 1
+Norway: 1
+Michael Chabon: 1
+The Three Sisters: 1
+Mr Edward Rochester: 1
+Bertolt Brecht or Eugen Bertold Friedrich Brecht: 1
+One Hundred Years Of Solitude or Cien Anos de Soledad: 1
+Leo Tolstoy or Count Lev Nikolayevich Tolstoy: 1
+Dr Johann Georg Faustus: 1
+The Tragedy of Othello The Moor of Venice: 1
+Go Down Moses: 1
+meditation: 1
+Kobo Abe: 1
+Clarissa: 1
+Billiards at HalfPast Nine: 1
+Imagism: 1
+E M Forster: 1
+Mark Twain or Samuel Clemens: 1
+The Red and the Black or Scarlet and Black or Le Rouge et Le Noir: 1
+The Stranger or The Outsider or LEtranger: 1
+Victor Frankenstein: 1
+Humbert Humbert accept either: 1
+Les Fleurs du Mal or The Flowers of Evil: 1
+The Piano Lesson: 1
+windmills: 1
+Amanda Wingfield prompt on Wingfield: 1
+Don Quixote de La Mancha: 1
+The Bride Comes to Yellow Sky: 1
+School for Scandal: 1
+Twenty Love Poems and a Song of Despair or Viente poemas de amor y una cancion desesperada accept translation equivalents: 1
+Orlando Furioso: 1
+Thomas Sterns Eliot: 1
+Simone de stronguBeauvoirustrong: 1
+The Water Margin or Outlaws of the Marsh or All Men are Brothers or The Marshes of Mount Liang or Shuihu Zhuan: 1
+Count Lev Nikolayevich Tolstoy: 1
+Notre Dame de Paris: 1
+country: 1
+Rabindrath Tagore: 1
+The Knights Tale: 1
+Hank Morgan: 1
+Saint Peter: 1
+Tiresias: 1
+LevLeo Nikolayevich Tolstoy: 1
+Measure for Measure: 1
+Stoicism: 1
+Benjamin Disraeli: 1
+Nikolai Vassilievich Gogol: 1
+Federative Republic of Brazil: 1
+Othello or The Moor of Venice: 1
+Don Quixote keeHOtay: 1
+brown: 1
+feathers: 1
+duchess: 1
+Karamazov Family: 1
+Oedipus Tyrannos: 1
+VictorMarie Hugo: 1
+Bloom: 1
+Anton Chekov: 1
+The Naked and the Dead: 1
+the sea: 1
+William Shakespeares sonnets: 1
+equestrian monuments: 1
+Hedda Gabbler: 1
+The Sleeping Beauty: 1
+Titus Maccius Plautus: 1
+madrigals: 1
+Tom: 1
+Simone de Beauvoir: 1
+Frederick Douglass: 1
+Polaris: 1
+Heinrich Theodor Boll: 1
+John the Baptist: 1
+Hollywood: 1
+To Althea From Prison: 1
+Oe Kenzaburo: 1
+Philip Morin Freneau: 1
+Dune: 1
+Joseph Stalin: 1
+Cleopatra VII Philopator: 1
+giants: 1
+dreams: 1
+Gaia hypothesis: 1
+Book of Daniel: 1
+Athena: 1
+the Metamorphoses: 1
+Percy Bysshe Shelley prompt on Shelley: 1
+Fritz Lang: 1
+St Augustine of Hippo: 1
+Savien Cyrano de Bergerac: 1
+Dorian Gray accept either: 1
+Phillip Glass: 1
+slaves: 1
+William Ernest Henley: 1
+Salmon Rushdie: 1
+the Venerable Bede: 1
+The Sorcerers Apprentice: 1
+Alfred Tennyson 1st Baron Tennyson: 1
+Palestine: 1
+Maus Vol I My Father Bleeds History and Vol II And Here My Troubles Began: 1
+Song of Roland or Chanson de Roland: 1
+One Hundred Years of Solitude or Cien Anos de Soledad: 1
+Richard Strauss: 1
+Tale of Genji accept Genji monogatari: 1
+Robin Goodfellow accept either or both parts or Puck: 1
+One Day in the Life of Ivan Denisovich or Odin den Ivana Denisovicha accept any reason: 1
+Samuel Clemens accept Mark Twain before mentioned: 1
+Sherlock Holmes accept either or both parts: 1
+William Porter or O Henry prompt on partial answer: 1
+coda: 1
+epistolary: 1
+Utopia: 1
+magical realism: 1
+Yoknapatawpha: 1
+Sir Thomas Tom Stoppard accept Tomas Straussler before mentioned: 1
+Antonia Shimerda Cuzak: 1
+Women in Love: 1
+Everything That Rises Must Converge: 1
+a dream deferred: 1
+Doctor Faustus: 1
+On First Looking into Chapmans Homer: 1
+The Nose: 1
+slave narratives: 1
+Anna Christie: 1
+Lucky Jim: 1
+lilacs: 1
+Ignatius J Reilly: 1
+The Human Comedy: 1
+Stanley Milgram: 1
+dwarf: 1
+Death in Venice Der Tod in Venedig: 1
+Zorba the Greek: 1
+Muriel Spark: 1
+Dr Frankensteins monster: 1
+North American Indian: 1
+La Belle Dame Sans Merci: 1
+Journey to the West or Hsi yu chi or Xi you ji or Monkey before it is mentioned: 1
+Jane Eyrechenchen: 1
+CharlesPierre Baudelaire: 1
+Confessions: 1
+War and Peace or Voyna i Mir: 1
+Carson McCullers or Lula Carson Smith: 1
+The Return of the Native: 1
+Interpreter of Maladies Do not accept The Interpreter of Maladies: 1
+The Erlking or Der Erlksnig: 1
+George Orwell or Eric Blair: 1
+Anne Dudley Bradstreet accept either underlined portiondeesdees: 1
+Bartleby the Scrivener A Story of Wallstreet prompt on Bartleby: 1
+RUR Rossums Universal Robots: 1
+Mark Twain or Samuel Langhorne Clemensdeesdees: 1
+Maria von Trapp: 1
+Invisible Man do not accept The Invisible Man: 1
+Rodion Romanovitch Raskolnikov: 1
+The Pirates of Penzance or Slave to Dutychengcheng: 1
+Junichiro Tanizaki: 1
+Mayans: 1
+Alexander Dumas: 1
+Boxer: 1
+The Three Sisters or Tri Sestry: 1
+Love in the Time of Cholera or El Amor en los Tiempos del Colera: 1
+The Tale of the Genji: 1
+HG Wells: 1
+Lines Composed a Few Miles Above Tintern Abbey On Revisiting the Banks of the Wye During a Tour July 12 1798: 1
+The Octopus: 1
+Cavalier Poets: 1
