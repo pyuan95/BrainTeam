@@ -1,0 +1,2510 @@
+entropy: 29
+angular momentum: 29
+word forms: 29
+electronegativity: 28
+chromatography: 26
+linear momentum: 26
+viscosity: 23
+friction: 23
+distillation: 22
+gibbs energy: 22
+mitochondria: 21
+benzene: 21
+leonhard euler: 21
+doppler effect: 21
+water: 20
+endoplasmic reticulum: 20
+gravity: 19
+ferromagnetism: 19
+albert einstein: 19
+black holes: 19
+atp: 18
+sulfur: 18
+temperature: 18
+prime numbers: 18
+ideal gas: 18
+surface tension: 18
+hemoglobin: 17
+boron: 17
+titration: 17
+potential energy: 17
+index refraction: 17
+nernst equation: 17
+second law: 17
+halogens: 16
+quartz: 16
+pressure: 16
+ammonia: 16
+mass: 16
+kinetic energy: 16
+heat capacity: 16
+diffraction: 15
+power: 15
+strongudiffusionustrong: 15
+isaac newton: 15
+electric field: 15
+van der waals: 15
+michelsonmorley experiment: 15
+nuclear fusion: 15
+pi: 14
+resistance: 14
+stomach: 14
+enthalpy: 14
+liver: 14
+glaciers: 14
+determinant: 14
+michael faraday: 14
+alan turing: 14
+golgi apparatus: 14
+sulfuric acid: 14
+torque: 13
+electrons: 13
+sodium: 13
+insulin: 13
+neurons: 13
+mercury: 13
+superconductors: 13
+cosine: 13
+velocity: 13
+reflection: 13
+echinodermata: 13
+factorial: 13
+recursion: 13
+noble gases: 13
+moment inertia: 13
+amino acids: 13
+enrico fermi: 13
+richard feynman: 13
+carl friedrich gauss: 13
+hookes law: 13
+iron: 12
+polymers: 12
+neutrons: 12
+meiosis: 12
+polynomials: 12
+carbon: 12
+antibodies: 12
+ph: 12
+nucleus: 12
+malaria: 12
+precession: 12
+magnetic field: 12
+nuclear force: 12
+blood cells: 12
+electric charge: 12
+pierre de: 12
+hall effect: 12
+oxygen: 11
+oxidation: 11
+lasers: 11
+capacitance: 11
+refraction: 11
+ozone: 11
+photons: 11
+collagen: 11
+nitrogen: 11
+capacitors: 11
+lysosomes: 11
+trees: 11
+mollusca: 11
+alcohols: 11
+speed light: 11
+electric current: 11
+fibonacci numbers: 11
+carbon dioxide: 11
+avogadros number: 11
+stem cells: 11
+max planck: 11
+simple harmonic: 11
+activation energy: 11
+dna: 10
+calcium: 10
+glycolysis: 10
+actin: 10
+spin: 10
+x chromosome: 10
+enzymes: 10
+volume: 10
+transcription: 10
+four: 10
+pancreas: 10
+colloids: 10
+mantle: 10
+photoelectric effect: 10
+alzheimers disease: 10
+huntingtons disease: 10
+special relativity: 10
+uncertainty principle: 10
+hydrogen bonds: 10
+general relativity: 10
+cell membrane: 10
+thyroid gland: 10
+comets: 9
+sine: 9
+diffusion: 9
+ethanol: 9
+fluorine: 9
+neptune: 9
+integration: 9
+acids: 9
+volcanoes: 9
+xylem: 9
+crystals: 9
+cnidaria: 9
+orion: 9
+stratosphere: 9
+electrical resistance: 9
+dark matter: 9
+pituitary gland: 9
+small intestine: 9
+henrys law: 9
+cystic fibrosis: 9
+boiling point: 9
+hesss law: 9
+niels bohr: 9
+higgs boson: 9
+edgeworthkuiper belt: 9
+density: 8
+translation: 8
+rna: 8
+apoptosis: 8
+retina: 8
+circles: 8
+triangles: 8
+auxins: 8
+fungi: 8
+plasmas: 8
+kidneys: 8
+faults: 8
+one: 8
+porifera: 8
+catalysts: 8
+mars: 8
+ethers: 8
+venus: 8
+cerebellum: 8
+resonance: 8
+prions: 8
+chlorophyll: 8
+superconductivity: 8
+pendulums: 8
+electrolysis: 8
+hydrogen: 8
+acetic acid: 8
+equilibrium constant: 8
+speed sound: 8
+svante arrhenius: 8
+human immunodeficiency virus: 8
+nuclear fission: 8
+pythagorean theorem: 8
+bernoullis principle: 8
+convection: 7
+dopamine: 7
+heart: 7
+vitamin c: 7
+acceleration: 7
+time: 7
+scattering: 7
+lakes: 7
+protons: 7
+semiconductors: 7
+copper: 7
+derivative: 7
+silicon: 7
+cholesterol: 7
+hiv: 7
+soil: 7
+chlorine: 7
+phloem: 7
+vectors: 7
+clouds: 7
+phosphorus: 7
+jupiter: 7
+neutrinos: 7
+supernovae: 7
+quarks: 7
+alkenes: 7
+greatest common: 7
+hydrogen bonding: 7
+johannes kepler: 7
+hydrochloric acid: 7
+normal distribution: 7
+jurassic period: 7
+edwin hubble: 7
+krebs cycle: 7
+euclid alexandria: 7
+ideal gases: 7
+le principle: 7
+until read: 7
+haberbosch process: 7
+andromeda galaxy: 7
+brownian motion: 7
+square root: 7
+lungs: 6
+alkynes: 6
+tides: 6
+reduction: 6
+pcr: 6
+urea: 6
+alveoli: 6
+bone: 6
+sleep: 6
+chromosomes: 6
+java: 6
+buffers: 6
+vitamin a: 6
+three: 6
+angiosperms: 6
+ionosphere: 6
+potassium: 6
+delta: 6
+voltage: 6
+zinc: 6
+ribosomes: 6
+cochlea: 6
+work: 6
+transistors: 6
+serotonin: 6
+spleen: 6
+capacitor: 6
+esters: 6
+fractals: 6
+chloroplasts: 6
+prophase: 6
+limestone: 6
+sphere: 6
+pulsars: 6
+integers: 6
+coagulation: 6
+t cells: 6
+polymerase chain reaction: 6
+complex numbers: 6
+bernhard riemann: 6
+hydrogen peroxide: 6
+drosophila melanogaster: 6
+gustav kirchhoff: 6
+oildrop experiment: 6
+arrhenius equation: 6
+vapor pressure: 6
+pauli exclusion principle: 6
+fermats last theorem: 6
+cambrian period: 6
+fibonacci sequence: 6
+calvinbenson cycle: 6
+sorting algorithms: 6
+energy: 5
+aluminum: 5
+thyroid: 5
+helium: 5
+stacks: 5
+polarization: 5
+gamma: 5
+free radicals: 5
+roots: 5
+anaphase: 5
+strings: 5
+pointers: 5
+inductors: 5
+galaxies: 5
+supernova: 5
+earthquakes: 5
+six: 5
+gold: 5
+plasma: 5
+buoyancy: 5
+algae: 5
+cancer: 5
+granite: 5
+proton: 5
+solubility: 5
+two: 5
+influenza: 5
+titan: 5
+ribosome: 5
+lightning: 5
+speciation: 5
+titanium: 5
+axon: 5
+neutrino: 5
+circle: 5
+kidney: 5
+nematoda: 5
+resistors: 5
+neutron: 5
+graphs: 5
+electron: 5
+aorta: 5
+hyphae: 5
+feldspars: 5
+cartilage: 5
+photosynthesis: 5
+glucose: 5
+mimicry: 5
+mass density: 5
+quasar: 5
+bernoullis equation: 5
+gallbladder: 5
+tuberculosis: 5
+coriolis force: 5
+nuclear magnetic resonance: 5
+ribonucleic acid: 5
+vitamin d: 5
+opikoort cloud: 5
+matrix matrices: 5
+atomic orbitals: 5
+antoinelaurent lavoisier: 5
+reaction rate: 5
+genetic drift: 5
+subduction zones: 5
+ultraviolet light: 5
+wolfgang pauli: 5
+inner core: 5
+seafloor spreading: 5
+magnetic fields: 5
+irrational numbers: 5
+fruit fly: 5
+amperes law: 5
+coriolis effect: 5
+snells law: 5
+drag force: 5
+law thermodynamics: 5
+buffer solutions: 5
+exponential function: 5
+escherichia coli: 5
+milky way: 5
+cretaceous period: 5
+clear knowledge: 5
+quantum computers: 5
+mitochondrion mitochondria: 5
+standard deviation: 5
+paul dirac: 5
+lead: 4
+acetone: 4
+tree: 4
+sunspots: 4
+diodes: 4
+acetylcholine: 4
+tornadoes: 4
+current: 4
+antibody: 4
+e: 4
+methane: 4
+saliva: 4
+infinite: 4
+mutations: 4
+axons: 4
+iodine: 4
+taiga: 4
+charge: 4
+bacteriophages: 4
+ram: 4
+primality: 4
+eight: 4
+waves: 4
+pendulum: 4
+vacuum: 4
+amphibians: 4
+phase transitions: 4
+five: 4
+frequency: 4
+isomers: 4
+hyperbola: 4
+viruses: 4
+pluto: 4
+platelets: 4
+memory: 4
+arrays: 4
+adrenaline: 4
+saturn: 4
+population size: 4
+tension: 4
+italy: 4
+specific types: 4
+bases: 4
+xrays: 4
+subduction: 4
+wind: 4
+aquifers: 4
+gibberellins: 4
+commutative property: 4
+wavefunction: 4
+matrix: 4
+red blood: 4
+paramagnetism: 4
+drag: 4
+lithium: 4
+photon: 4
+mass spectrometry: 4
+atomic nucleus: 4
+peroxisomes: 4
+turing machines: 4
+histones: 4
+flagellum: 4
+sharks: 4
+function: 4
+lysosome: 4
+thomas young: 4
+b cells: 4
+keratin: 4
+gymnosperms: 4
+b vitamins: 4
+phosphate ion: 4
+youngs experiment: 4
+josiah willard gibbs: 4
+lanthanides: 4
+harmonic oscillator: 4
+weak force: 4
+perfect numbers: 4
+real numbers: 4
+cnidarians: 4
+nitric acid: 4
+species: 4
+ketones: 4
+blood clotting: 4
+isomerism: 4
+georg cantor: 4
+nematoda nematodes: 4
+lac operon: 4
+leprosy: 4
+boseeinstein condensate: 4
+sperm cells: 4
+raoults law: 4
+carbon monoxide: 4
+tectonic plates: 4
+robert bunsen: 4
+natural logarithm: 4
+calvinbensonbassham cycle: 4
+center mass: 4
+restriction enzymes: 4
+nitrogen fixation: 4
+taysachs disease: 4
+black body: 4
+triple point: 4
+hardyweinberg equilibrium: 4
+adrenal glands: 4
+solar wind: 4
+chemical equilibrium: 4
+lactic acid: 4
+charles darwin: 4
+ludwig boltzmann: 4
+neutron stars: 4
+linus pauling: 4
+hydrogen bond: 4
+oil drop experiment: 4
+boyles law: 4
+turbulent flow: 4
+outer core: 4
+sicklecell anemia: 4
+take until: 4
+diabetes mellitus: 4
+plancks constant: 4
+map theorem: 4
+crab nebula: 4
+glaciers ice: 4
+combustion: 3
+ethylene: 3
+redshift: 3
+distance: 3
+zero: 3
+flowers: 3
+asteroids: 3
+differentiation: 3
+chirality: 3
+insulators: 3
+calcite: 3
+continuity: 3
+2: 3
+fluorescence: 3
+alpha: 3
+epinephrine: 3
+linear: 3
+logarithm: 3
+microscopy: 3
+lava: 3
+fitness: 3
+bosons: 3
+hippocampus: 3
+normal: 3
+centrifugation: 3
+equilibrium: 3
+mean: 3
+chitin: 3
+superfluidity: 3
+melanin: 3
+glass: 3
+functions: 3
+beta: 3
+ellipse: 3
+femur: 3
+ionization energy: 3
+the sun: 3
+inverse: 3
+bone tissue: 3
+series: 3
+mitosis: 3
+aldehydes: 3
+rivers: 3
+convex: 3
+solar eclipse: 3
+stars: 3
+orthogonality: 3
+rotation: 3
+spheres: 3
+: 3
+parabola: 3
+calorimeter: 3
+parallel: 3
+hail: 3
+alcohol: 3
+ketone: 3
+seven: 3
+silver: 3
+hydrogen gas: 3
+conjugate: 3
+magnesium: 3
+chaos: 3
+antimatter: 3
+convergence: 3
+brain: 3
+cellulose: 3
+corundum: 3
+mollusca molluscs: 3
+hubble space telescope: 3
+baron william: 3
+winds: 3
+ellipses: 3
+uranus: 3
+paradoxes: 3
+telomeres: 3
+determinants: 3
+bile: 3
+flagella: 3
+relational databases: 3
+dipole: 3
+arthropoda: 3
+ether: 3
+trapezoid: 3
+curie: 3
+transition metals: 3
+alkanes: 3
+laser: 3
+inertia: 3
+momentum: 3
+lipids: 3
+estrogen: 3
+syphilis: 3
+deserts: 3
+light radiation: 3
+feldspar: 3
+c: 3
+array: 3
+square numbers: 3
+triangle inequality: 3
+nmr spectroscopy: 3
+taurus: 3
+corona: 3
+limit: 3
+diatomic oxygen: 3
+blaise pascal: 3
+operons: 3
+rate constant: 3
+encryption: 3
+cholera: 3
+nickel: 3
+microtubules: 3
+chloroplast: 3
+salts: 3
+force: 3
+sorting: 3
+breast cancer: 3
+dimensions: 3
+stephen hawking: 3
+plasma membrane: 3
+enzymes catalysts: 3
+testosterone: 3
+rational numbers: 3
+colloid: 3
+cell wall: 3
+cyclohexane: 3
+matrix determinant: 3
+plant hormones: 3
+intelligence: 3
+double bond: 3
+archimedes syracuse: 3
+cross product: 3
+galileo galilei: 3
+salesman problem: 3
+programming languages: 3
+vitamin k: 3
+sedimentary rocks: 3
+frictional force: 3
+influenza viruses: 3
+szentgyorgyikrebs cycle: 3
+adrenaline epinephrine: 3
+large hadron collider: 3
+quicksort: 3
+white dwarf: 3
+octet rule: 3
+continental drift: 3
+igneous rock: 3
+homo erectus: 3
+hardness: 3
+tropical cyclone: 3
+keplers laws: 3
+cell nucleus: 3
+redox reactions: 3
+muscular dystrophy: 3
+dna replication: 3
+earths moon: 3
+p orbitals: 3
+down syndrome: 3
+simple machines: 3
+dna sequencing: 3
+binary system: 3
+cosine function: 3
+extrasolar planets: 3
+gilbert lewis: 3
+cherenkov radiation: 3
+molecular orbital theory: 3
+lord kelvin: 3
+black hole: 3
+group 17: 3
+kinetic theory gases: 3
+hendersonhasselbalch equation: 3
+nash equilibrium: 3
+igneous rocks: 3
+linked list: 3
+beta decay: 3
+magnetic monopoles: 3
+third law: 3
+y chromosome: 3
+mobius strip: 3
+lattice energy: 3
+jacobus henricus: 3
+millerurey experiment: 3
+john dalton: 3
+absolute zero: 3
+youngs modulus: 3
+spiral galaxy: 3
+ion channels: 3
+colligative properties: 3
+spinal cord: 3
+electrical circuits: 3
+avogadros constant: 3
+maxwells demon: 3
+square units: 3
+quantum tunneling: 3
+chordates chordata: 3
+carrying capacity: 3
+marfan syndrome: 3
+http: 2
+adiabatic: 2
+ovary: 2
+electric : 2
+rubisco: 2
+tryptophan: 2
+parallax: 2
+aldehyde: 2
+vision: 2
+red: 2
+tetrahedron: 2
+echinoderms: 2
+nebulae: 2
+mri: 2
+e coli: 2
+degree: 2
+induction: 2
+null: 2
+green: 2
+edwin: 2
+france: 2
+virtual: 2
+bones: 2
+starch: 2
+uracil: 2
+noise: 2
+protein folding: 2
+elementary charge: 2
+condensation: 2
+lenses: 2
+veins: 2
+javascript: 2
+quasars: 2
+positron: 2
+james prescott joule: 2
+oceans: 2
+feathers: 2
+convexity: 2
+archaea: 2
+phobos: 2
+eigenvalues: 2
+absolute temperature: 2
+hurricanes: 2
+skin: 2
+matrices: 2
+cations: 2
+interphase: 2
+limits: 2
+light: 2
+i: 2
+penicillin: 2
+permutations: 2
+ionization: 2
+lactate: 2
+ants: 2
+even: 2
+international space station: 2
+stack: 2
+human heart: 2
+fish: 2
+lines: 2
+onehalf: 2
+caffeine: 2
+yeast: 2
+meningitis: 2
+sets: 2
+blood pressure: 2
+diamonds: 2
+end 2nd sentence: 2
+anthrax: 2
+cooling: 2
+electric dipole: 2
+dwarfism: 2
+the universe: 2
+glycogen: 2
+cyanobacteria: 2
+triassic period: 2
+bits: 2
+thomas bayes: 2
+hypothalamus: 2
+stamens: 2
+coral reefs: 2
+notochord: 2
+cobalt: 2
+petroleum: 2
+loops: 2
+volcanic eruptions: 2
+intermolecular forces: 2
+hearing: 2
+asthma: 2
+chromosome 21: 2
+regular hexagon: 2
+zero equivalents: 2
+szentgyorgikrebs cycle: 2
+crater: 2
+open: 2
+queue: 2
+solutions: 2
+prophase i: 2
+exponentiation: 2
+lens: 2
+filtration: 2
+reductions: 2
+leaves: 2
+waveparticle duality: 2
+egg cells: 2
+number constant: 2
+phosphate: 2
+r: 2
+mean average: 2
+equivalents such: 2
+oxidation reactions: 2
+end question: 2
+golden mean phidias divine place phi: 2
+sorting algorithm: 2
+ice ages: 2
+atomic radius: 2
+zero zeroth: 2
+bubbles: 2
+uranium u: 2
+amedeo avogadro: 2
+two second: 2
+regular tetrahedron: 2
+atomic nuclei: 2
+vestigial structures: 2
+fermentation: 2
+cell walls: 2
+hyperbolas: 2
+dark energy: 2
+tungsten: 2
+macrophages: 2
+tetrahedral: 2
+conjugation: 2
+amylase: 2
+electron microscopy: 2
+stress: 2
+angle: 2
+permutation: 2
+gamma rays: 2
+dna ligase: 2
+turbidity: 2
+hydrogen h: 2
+galaxy: 2
+magnesium mg: 2
+nebula: 2
+nitrogen n: 2
+halleys comet: 2
+redox reduction: 2
+7: 2
+telomerase: 2
+wavelength: 2
+phototropism: 2
+quadratic: 2
+double bonds: 2
+polarity: 2
+pulleys: 2
+springs: 2
+moons jupiter: 2
+mesosphere: 2
+cytokinesis: 2
+orbitals: 2
+lymphatic system: 2
+triangles complete graph 3graph 3 vertices: 2
+hurricane: 2
+auxin: 2
+london dispersion forces: 2
+gel electrophoresis: 2
+transformer: 2
+molting: 2
+gravitational waves: 2
+binomial coefficients: 2
+basalt: 2
+mollusks: 2
+ã–pikoort cloud: 2
+twister cyclone: 2
+neutron star: 2
+homo sapiens: 2
+polynomials equations: 2
+nikola tesla: 2
+gas exchange: 2
+sun: 2
+composite numbers: 2
+penicillins: 2
+theta cosine: 2
+ferromagnets: 2
+cpu: 2
+phase diagram: 2
+dyes: 2
+luminosity: 2
+sublimation: 2
+schizophrenia: 2
+uranium: 2
+flasks: 2
+aids: 2
+bacteria: 2
+dopplerfizeau effect: 2
+gold foil experiment rutherford: 2
+pheromones: 2
+cmbr: 2
+bacteriophage: 2
+birds: 2
+odd: 2
+angles: 2
+triangle: 2
+core: 2
+multiplication: 2
+combustion reaction: 2
+muscle: 2
+neurotransmitters: 2
+nuclear membrane: 2
+louis pasteur: 2
+gausss law: 2
+covalent bonds: 2
+cpus: 2
+gnulinux: 2
+searching: 2
+alpha particle: 2
+stamen: 2
+blackbody: 2
+peroxisome: 2
+osmosis: 2
+thermosphere: 2
+chaos theory: 2
+string theory: 2
+golgi body: 2
+trna: 2
+werner heisenberg: 2
+sagittarius: 2
+fungi fungus: 2
+addition summation: 2
+nodes read: 2
+surface area: 2
+gravity force: 2
+euclid: 2
+erwin schrã¶dinger: 2
+rayleigh scattering: 2
+base: 2
+plasmids: 2
+alpha particles: 2
+normal force: 2
+main asteroid belt: 2
+echinoderms echinodermata: 2
+laws thermodynamics: 2
+precipitation: 2
+magnetic flux: 2
+oncogenes: 2
+sine function: 2
+linked lists: 2
+modular arithmetic: 2
+robert hooke: 2
+leptons: 2
+pioneer: 2
+theory vsepr: 2
+fundamental theorem algebra: 2
+lemniscate bernoulli: 2
+linear regression: 2
+time dilation: 2
+data compression: 2
+floating point numbers: 2
+cosmological constant: 2
+operon: 2
+blood groups: 2
+ozone o3: 2
+carboxylic acids: 2
+doppler effectshift: 2
+logarithms: 2
+relativity: 2
+mesozoic era: 2
+hotspots: 2
+australopithecus: 2
+placenta: 2
+transposons: 2
+dwarf planets: 2
+extinction dinosaurs: 2
+gills: 2
+electrolytes: 2
+ganymede: 2
+glycine: 2
+bryophytes: 2
+poisson distribution: 2
+universal gravitational constant: 2
+crossing over: 2
+alternating current: 2
+spiral galaxies: 2
+sequences: 2
+de broglie: 2
+gulf stream: 2
+el ninosouthern oscillation: 2
+alkali metals: 2
+diode: 2
+anemia: 2
+capillaries: 2
+right triangles: 2
+inductive induction: 2
+artificial intelligence: 2
+pascals triangle: 2
+double displacement reactions: 2
+data types: 2
+leaf: 2
+hard drive: 2
+acidbase titration: 2
+vacuole: 2
+friction force: 2
+circadian rhythms: 2
+lord rayleigh: 2
+yeasts: 2
+variable star: 2
+atomic clocks: 2
+cirrus clouds: 2
+color charge: 2
+c4 photosynthesis: 2
+ligand: 2
+sulfate: 2
+hallheroult process: 2
+vibrio cholerae: 2
+angiosperms anthophyta flowering plants: 2
+alkenes olefins: 2
+buffer solution: 2
+cells read: 2
+hardyweinberg principle: 2
+gravity gravitation: 2
+acid rain: 2
+andromeda: 2
+atp synthase: 2
+hermann emil fischer: 2
+joseph louis lagrange: 2
+wittig reaction: 2
+william rowan hamilton: 2
+red giants: 2
+boseeinstein condensates: 2
+punctuated equilibrium: 2
+vitamin acid ascorbic: 2
+parallel postulate: 2
+searching algorithms: 2
+aufbau principle: 2
+triton: 2
+lewis acids: 2
+lhopitals rule bernoullis: 2
+vitamin b1: 2
+turing machine: 2
+jane goodall: 2
+cepheid variables: 2
+blood type: 2
+alkaline earth metals: 2
+sir herschel: 2
+clausiusclapeyron equation: 2
+neanderthals: 2
+earths core: 2
+messenger rna: 2
+cilia: 2
+de coulomb: 2
+mohorovicic discontinuity: 2
+parkinsons disease: 2
+leonard euler: 2
+beerlambertbouguer law: 2
+el nino: 2
+stomata: 2
+hydrogen atom: 2
+principia mathematica: 2
+coulombs law: 2
+molecular orbitals: 2
+ir spectroscopy: 2
+ozone layer: 2
+luminiferous ether: 2
+boolean logic: 2
+light reactions: 2
+electromagnetic induction: 2
+conservation energy: 2
+tyrannosaurus rex: 2
+freezing point: 2
+magnetic monopole: 2
+ word: 2
+george boole: 2
+nebulae nebulas: 2
+function answers: 2
+donald ervin knuth: 2
+times over: 2
+ 1 answers: 2
+faradays law induction: 2
+hertzsprungrussell diagram: 2
+p orbital: 2
+fractional distillation: 2
+plancks law: 2
+peptide bonds: 2
+duckbilled platypus: 2
+prisoners dilemma: 2
+erwin schrodinger: 2
+alpha star: 2
+hyperbolic geometry: 2
+until type: 2
+influenza flu: 2
+maxwells equations: 2
+osmotic pressure: 1
+aerodynamic  lift: 1
+carboxylic acid s: 1
+myelin  sheath: 1
+length contraction: 1
+list s: 1
+mosquito es: 1
+transistor s: 1
+ernst  mach: 1
+melting point: 1
+arithmetic: 1
+t rachea: 1
+chordata: 1
+edsger  dijkstra   dikestruh: 1
+histone s: 1
+igma: 1
+lysosome s: 1
+sand: 1
+great red spot: 1
+eating  disorders: 1
+heart beat: 1
+moore s law: 1
+cellular  motion: 1
+solvent s: 1
+quark  flavor: 1
+angular  frequency: 1
+bacterial  conjugation: 1
+cortisol: 1
+real: 1
+yeast s: 1
+cube d: 1
+vector s: 1
+ohm s law: 1
+human  gut: 1
+point s: 1
+meteorology: 1
+twilight: 1
+clock s: 1
+law of  conservation of charge: 1
+tetrahedral  geometry: 1
+gene  linkage: 1
+carpel s: 1
+sphere s: 1
+telomere s: 1
+harmonic: 1
+ribosome s: 1
+compression: 1
+lens es: 1
+substitution: 1
+symmetric: 1
+amines: 1
+rutherford scattering: 1
+dimension: 1
+even numbersfunctionspermutations: 1
+binary: 1
+color recognitionvision: 1
+variable stars: 1
+area: 1
+thin film solar cells: 1
+enzyme8203s: 1
+johannes kepler8203: 1
+halogen8203s: 1
+mechanical buequilibriumub: 1
+buozoneub: 1
+bublack8203ub: 1
+bured blood8203ub cells: 1
+darwinian evolution: 1
+guanine: 1
+bubonic plague: 1
+magic squares: 1
+empty set: 1
+reverse transcriptase: 1
+infrared spectroscopy: 1
+supercontinent: 1
+cyclic compounds: 1
+astronomical orbits: 1
+dispersion: 1
+cyclic quadrilateral: 1
+tree rings: 1
+folliclestimulating hormone: 1
+colors: 1
+variance: 1
+wasps: 1
+magellanic clouds: 1
+heterozygous: 1
+population growth: 1
+monoclonal antibodies: 1
+males: 1
+bicarbonate: 1
+reduction potential: 1
+bugs: 1
+bromine: 1
+gramnegative bacteria: 1
+reversible process or reversibility: 1
+color vision: 1
+rockets: 1
+partial: 1
+tobacco: 1
+wavefunctions: 1
+caches: 1
+interferometers: 1
+spectral line: 1
+pulmonary artery: 1
+searching for extraterrestrial life: 1
+dna synthesis: 1
+concentration: 1
+ldehydes: 1
+regression: 1
+prostate: 1
+helix: 1
+exoplanets: 1
+matrix determinants: 1
+molecular weight: 1
+oscillation: 1
+symmetry: 1
+microscope: 1
+sorting an array: 1
+ribosomes nwnw: 1
+carbon jrjr: 1
+cholesterol jrjr: 1
+glycolysis jrjr: 1
+cerebellum jrjr: 1
+vectors hxhx: 1
+space hxhx: 1
+growth: 1
+two hxhx: 1
+chloroplasts jrjr: 1
+area hxhx: 1
+red hxhx: 1
+ max: 1
+inflammation: 1
+skin jrjr: 1
+waves hxhx: 1
+bones hxhx: 1
+kidneys hxhx: 1
+er: 1
+extinction events: 1
+dna repair: 1
+multiple sclerosis: 1
+myoglobin: 1
+steel: 1
+jellyfish: 1
+indicators: 1
+tsunamis: 1
+richard dawkins: 1
+answer methane: 1
+queues: 1
+hydrogenations: 1
+inequalities: 1
+microwaves: 1
+money supply: 1
+robert oppenheimer: 1
+science: 1
+eccentricity: 1
+linear function: 1
+cytochromes: 1
+electric dipoles: 1
+ecological niches: 1
+sound intensity: 1
+extinction: 1
+computer virus: 1
+tumor protein p53: 1
+negative one: 1
+tau: 1
+ain: 1
+cetaceans: 1
+alpha decay: 1
+metamorphosis: 1
+gelatine: 1
+ovulation: 1
+thermodynamic efficiency: 1
+kinases: 1
+autoionization of water: 1
+bond energy: 1
+metals: 1
+fluoridation: 1
+hepatitis b virus: 1
+fullerenes: 1
+microsoft excel: 1
+powers of two: 1
+beers law: 1
+allergy: 1
+focal length: 1
+program optimization: 1
+sql sequel or sql: 1
+glasses: 1
+africa: 1
+soils: 1
+stress response: 1
+pyruvate: 1
+vertices: 1
+acetate: 1
+central chisquared distribution: 1
+chimpanzees: 1
+superfluid 4helium: 1
+diamagnetism: 1
+mouse: 1
+wave velocity: 1
+chlorine gas: 1
+locusts: 1
+beaches: 1
+sweating: 1
+software testing: 1
+particle size: 1
+insertion: 1
+spores: 1
+covalent bond: 1
+mirrors: 1
+titrations: 1
+beta particles: 1
+perfect squares: 1
+cathodes: 1
+alkyne: 1
+chromium: 1
+beerlambert law: 1
+fat: 1
+cesium: 1
+10: 1
+heap: 1
+thermodynamic work: 1
+dioxygen: 1
+esophagus: 1
+ java: 1
+windows 81: 1
+abiogenesis: 1
+dark: 1
+freezing: 1
+x chromosomes: 1
+supernovas: 1
+replication of deoxyribonucleic acid: 1
+tangent: 1
+seafloors: 1
+the north and south poles of the earth: 1
+habitual bipedalism: 1
+paper: 1
+maximum and minimum: 1
+hard: 1
+coastlines: 1
+the republic of india: 1
+radio waves: 1
+bees: 1
+anode: 1
+salt: 1
+dots: 1
+the menstrual cycle: 1
+game theory: 1
+kinetics: 1
+cyclic: 1
+artificial satellites: 1
+division: 1
+semiconductor nwnw: 1
+bony fish: 1
+dissolution in water: 1
+gluons: 1
+cambridge: 1
+carl sagan: 1
+k: 1
+trans: 1
+honey bees: 1
+sea water: 1
+call stacks: 1
+finding the allpairs shortest path: 1
+main sequence: 1
+mammalia: 1
+hailstones: 1
+hexagons: 1
+partition function: 1
+independent probabilitieseventsvariables: 1
+closed setsintervals: 1
+polaris: 1
+coal: 1
+cpu or central processing unit: 1
+drug addiction: 1
+crystalline solid: 1
+schrodingers cat: 1
+o: 1
+blue: 1
+parallelograms: 1
+mercury prompt on hg: 1
+amoeba or ameba: 1
+12: 1
+8: 1
+shale: 1
+virgo: 1
+frequency or frequencies: 1
+osteoarthritis accept arthralgia before joint is mentioned accept joint pain joint disorder or joint disease: 1
+malleability or malleable: 1
+trapezoid prompt on trapezium: 1
+photosynthesis prompt on lightdependent reactions or photophosphorylation: 1
+andrew wiles: 1
+darwinian or evolutionary fitness accept adaptive value selective value or adaptability prompt on ability to survive or altruism: 1
+troposphere: 1
+sample or population variance: 1
+rectangle: 1
+fritz haber: 1
+ketones prompt on carbonyl: 1
+magnitude accept apparent magnitude or absolute magnitude: 1
+linear programming accept lp prompt on linear optimization: 1
+ordinary differential equations: 1
+limacon: 1
+trojans or trojan asteroid accept lagrangian object before it is mentioned prompt centaur before it is mentioned prompt lagrangian: 1
+glucagon: 1
+brook taylor: 1
+srinivasa ramanujan: 1
+strong bases: 1
+ears accept cochlea during the first sentence: 1
+seizures prompt on convulsion: 1
+cones accept double cone or conic: 1
+pollen accept spores before ferns: 1
+complementary: 1
+hologram or holography: 1
+rational number or rationals: 1
+icosahedron or icosahedra: 1
+john napier: 1
+inequality or inequalities: 1
+vascular procambium accept secondary or lateral meristem until it is mentioned: 1
+closed or topological closure: 1
+independent or independence do not accept dependent or dependence: 1
+mollusca or mollusks: 1
+onehalf or 05: 1
+muscles: 1
+infinity or infinite or unbounded accept countable before it is mentioned prompt on undefined: 1
+thomas hunt morgan: 1
+planes: 1
+methylation: 1
+sulfate ion: 1
+markov processes: 1
+rings: 1
+pseudorandomness: 1
+reflectional symmetry: 1
+thermal conduction: 1
+rna polymerase: 1
+air pressure: 1
+pneumonia: 1
+controlled experiments: 1
+spectrophotometry: 1
+kcombinations: 1
+molar mass: 1
+keratins: 1
+crystallization: 1
+blood sugar level: 1
+lymph: 1
+mating: 1
+n: 1
+d orbitals: 1
+meselsonstahl experiment: 1
+two pi: 1
+metastasis: 1
+molar volume: 1
+32: 1
+regression analysis: 1
+adipose tissue: 1
+ldl: 1
+angle trisection: 1
+corpus callosum: 1
+inductance: 1
+nadph: 1
+vesicles: 1
+sandstone: 1
+massenergy equivalence: 1
+chromatin: 1
+pascals law: 1
+sodiumpotassium pump: 1
+cysteine: 1
+rocket fuel: 1
+salinity: 1
+strain: 1
+reducing agents: 1
+square: 1
+tundra: 1
+lake superior: 1
+mosses: 1
+blackbodies: 1
+v: 1
+staining: 1
+skull: 1
+ph indicator: 1
+aspirin: 1
+cosmic microwave background radiation: 1
+function prompt on map or mapping prompt on graph: 1
+golgi apparatusbodycomplex: 1
+power accept specific answers like electric power or mechanical power: 1
+solid accept crystals before amorphous: 1
+supernovas do not prompt on or accept nova: 1
+sodium accept na before mention: 1
+set: 1
+viruses accept bacteriophage and phage before tobacco is mentioned: 1
+relative humidity: 1
+interphase accept g1 before s subphase is read: 1
+sequences prompt on series before it is read: 1
+gregor johann mendel: 1
+metamorphic rocks: 1
+hydrophobicity: 1
+mica: 1
+blood coagulation: 1
+python: 1
+classical: 1
+the moon: 1
+hypothesis test: 1
+right angles: 1
+phospholipids: 1
+electrical insulators: 1
+molluscs: 1
+soil erosion: 1
+josephlouis lagrange: 1
+lysis: 1
+the average temperature of the earth: 1
+rounding up or down: 1
+clocks: 1
+continental crust: 1
+compilers: 1
+vaporization: 1
+lakota: 1
+cylinder: 1
+fires: 1
+superstring theory: 1
+gases: 1
+plants: 1
+infrared spectrumlightradiation: 1
+rabies: 1
+water on mars: 1
+phases of matter: 1
+the skin: 1
+fire: 1
+asymptotes: 1
+mice: 1
+stellar age: 1
+boiling: 1
+predators: 1
+a: 1
+nitrogen gas: 1
+human growth hormone: 1
+reference frames: 1
+not: 1
+lymph nodes: 1
+heat: 1
+nephrons: 1
+andrey: 1
+alkene: 1
+dry friction: 1
+bernoulli equation: 1
+telescopes: 1
+eliminations: 1
+hersheychase experiment: 1
+transcendental numbers: 1
+superacids: 1
+g proteins: 1
+dmitri: 1
+operating systems: 1
+bladder: 1
+challenger: 1
+diffusion coefficient: 1
+trapezoids: 1
+cephalopods: 1
+esherichia coli: 1
+electrochemical cell potential: 1
+helium prompt on he before read: 1
+html or hypertext markup language: 1
+134340 pluto: 1
+ocean current accept gyres and other specific currents before they are read: 1
+influenzavirus or flu: 1
+xrays or xradiation accept rã¶ntgen rays before mention: 1
+temperature prompt on t: 1
+titanium accept ti before read: 1
+sublimation do not accept deposition at any point: 1
+smallpox accept variola before mentioned: 1
+n1 n plus one accept also stuff like adding one or anything that implies the number coming out is one bigger than the one going in or anything with a different variable than n like x1: 1
+neon accept ne before read: 1
+calcium accept ca2: 1
+antimatter accept antiparticles prompt on positrons and antihydrogen and other specific antiparticles: 1
+quare accept regular quadrilateral prompt on quadrilateral dont accept any other quadrilaterals like parallelogramtrapezoidrhombusrectangle: 1
+infrared or ir lightwavesradiation: 1
+archaeans accept archaebacteria do not accept or prompt on bacteria: 1
+corundum accept aluminum oxide or al2o3 before mention accept ruby until padparadscha: 1
+enthalpy accept h before mentioned prompt on delta h: 1
+cosine accept cosh or hyperbolic cosine after that clue is read: 1
+viscosity or viscous force: 1
+glycolysis prompt on respiration or anaerobic respiration: 1
+diamond: 1
+vacuoles: 1
+the universe prompt on multiverse: 1
+tornados: 1
+carnivorous plants: 1
+excretory system: 1
+surfactants: 1
+spirals: 1
+4: 1
+mutation: 1
+crystallography: 1
+nicolaus copernicus: 1
+scales: 1
+zeeman: 1
+migration: 1
+phospholipid: 1
+orthogonal: 1
+epigenetics: 1
+clausiusâ–clapeyron equation or relation: 1
+louis agassiz: 1
+nodes: 1
+colon: 1
+kites: 1
+candela: 1
+ores: 1
+valves: 1
+mars landers: 1
+inverses: 1
+plum pudding model: 1
+methods: 1
+higgs: 1
+dwarf: 1
+robert boyle: 1
+tropical rainforest: 1
+irrationals: 1
+artificial selection: 1
+electrical current: 1
+actinides: 1
+arithmetic mean: 1
+filtering: 1
+strongusolubilityustrong: 1
+strongublueustrong: 1
+strongudiodeustrong: 1
+bacteriostronguphageustrong: 1
+strongubotulinumustrong toxin: 1
+atomic number: 1
+cyclic amp: 1
+impedance: 1
+river deltas: 1
+positive: 1
+john strutt third baron rayleigh: 1
+big g: 1
+finite: 1
+herman joseph muller: 1
+thinlayer chromatography: 1
+boolean expressions or boolean statements or boolean function: 1
+differentiable: 1
+schrodinger equation: 1
+reversible: 1
+bayes theorem: 1
+luster: 1
+pterodactyls: 1
+caenorhabditis elegans: 1
+parabolic: 1
+toxicity: 1
+batteries: 1
+childbirth: 1
+mtdna: 1
+threebody problem: 1
+horizon: 1
+internal energy: 1
+carbonyl group: 1
+purines: 1
+opioids: 1
+gibberelins: 1
+graphical user interface programs: 1
+s orbitals: 1
+braggs law: 1
+caves: 1
+jan oort: 1
+lhã´pitals rule: 1
+johannes rydberg: 1
+gfp: 1
+annihilation: 1
+plaintext passwords: 1
+degenerate: 1
+bone marrow: 1
+960 pi: 1
+uterus: 1
+histamine: 1
+expansion of the universe: 1
+thoracic diaphragm: 1
+piezoelectricity: 1
+binomial: 1
+lactation: 1
+velocity accept speed before vector: 1
+vertical lines: 1
+sulfur prompt on s: 1
+glycolysis accept embdenmyerhoffparnas pathway: 1
+diameter: 1
+volcano: 1
+work done: 1
+area of a triangle both parts required prompt on area accept logical equivalents including both underlined parts: 1
+linear or translational acceleration prompt on a: 1
+torque accept moment of force or couple prompt on moment: 1
+helium prompt on he: 1
+upper or lower mantle prompt on asthenosphere before mentioned: 1
+parallelogram prompt on quadrilateral or quadrangle do not accept or prompt on any other answer: 1
+leaf or leaves accept foliage: 1
+x rays accept rontgen rays before rontgen: 1
+mutation accept point mutations: 1
+fog: 1
+independent: 1
+refractive index: 1
+turner syndrome: 1
+silicate: 1
+tumors: 1
+curie temperature: 1
+planetary orbits: 1
+islands: 1
+cellular nucleus: 1
+eye: 1
+ecological succession: 1
+alexander hamilton: 1
+the origin of life on earth: 1
+false positives: 1
+fluids: 1
+gustav: 1
+a circle: 1
+eyes: 1
+fingerprints: 1
+dwarf star: 1
+galapagos islands: 1
+microscopes: 1
+flu: 1
+quadrilaterals: 1
+dwarf stars: 1
+even numbers: 1
+arteries: 1
+pacific ocean: 1
+search: 1
+august ferdinand mobius: 1
+half life: 1
+protista: 1
+addition: 1
+parasitism: 1
+partial derivatives: 1
+hybrids: 1
+time derivative: 1
+factoring: 1
+oscillators: 1
+b cell: 1
+calcium ion: 1
+reynolds number: 1
+1x: 1
+oceanic currents: 1
+integration by parts: 1
+gravitational lensing: 1
+compiler: 1
+histidine: 1
+thylakoids: 1
+pointer: 1
+reflexes: 1
+sine or sin x: 1
+critical point: 1
+software bugs: 1
+antihydrogen: 1
+butterflies: 1
+dna methylation: 1
+water ice: 1
+free radical: 1
+spermatozoon: 1
+prime factorization: 1
+radius: 1
+aluminium: 1
+phagocytosis: 1
+voting: 1
+turners syndrome: 1
+glucose or dextrose: 1
+tuberculosis or mtb: 1
+quasar or quasistellar objects: 1
+cube or regular hexahedron: 1
+thiols: 1
+larynx: 1
+forces: 1
+pangaea: 1
+c c plus plus: 1
+apoptosis apuhtosis: 1
+radiometric dating or radioactive dating: 1
+voltage or electrical potential difference: 1
+cilia or cilium: 1
+rings of atoms or cycles: 1
+atp or adenosine5triphosphate: 1
+human pregnancy or gestation: 1
+integration or integral: 1
+salmonella bacteria: 1
+asexual reproduction: 1
+potassium accept k before mentioned: 1
+convex accept convexity accept concave upward: 1
+entropy prompt on s before mentioned do not accept enthalpy: 1
+arthropoda accept arthropods: 1
+tsunami prompt on tidal wave before mentioned: 1
+one accept unity: 1
+ovum accept ova or egg cell: 1
+metalloids accept semimetals: 1
+geyser prompt on hot spring: 1
+marie sk322odowskacurie prompt on curie prompt on madame curie: 1
+cnidaria accept cnidarians prompt on coelenterata: 1
+comet prompt on kreutz sungrazers before mentioned: 1
+z accept z chromosome or zscore or zaxis: 1
+lyme disease: 1
+thermodiffusion: 1
+schrã¶dinger equation: 1
+navierstokes equations: 1
+dglucose: 1
+maps: 1
+n factorial: 1
+linus: 1
+insects: 1
+the heart: 1
+infinity: 1
+magnets: 1
+amperes: 1
+alzheimers: 1
+flatworms: 1
+sort: 1
+coloumb: 1
+liquid crystals: 1
+schrodinger: 1
+pasteur: 1
+kinetic: 1
+kepler: 1
+leibniz: 1
+golgi: 1
+planck: 1
+piturary: 1
+gould: 1
+reptilia: 1
+influenzavirus: 1
+ph indicators: 1
+integral: 1
+fats: 1
+earthquake: 1
+chemical bonds: 1
+limit function: 1
+william herschel: 1
+amphibia: 1
+autism spectrum disorder: 1
+polynomial equations: 1
+or: 1
+pollen grains: 1
+spell checker: 1
+transcendental: 1
+nebulas: 1
+permafrost: 1
+torus: 1
+hair: 1
+van allen belts: 1
+prism: 1
+rnas: 1
+orbits: 1
+linux operating system: 1
+information compression: 1
+plane: 1
+wrist: 1
+corn: 1
+electron affinity: 1
+pulley: 1
+cyanide: 1
+calculus: 1
+thomas edison: 1
+annelida: 1
+respiration: 1
+solvents: 1
+snelliuss law: 1
+autosomal dominant: 1
+cyclone: 1
+tropical savanna: 1
+ear: 1
+coloration: 1
+sigma bonds: 1
+clock: 1
+eukaryota: 1
+fundamental: 1
+rate earth metal: 1
+anglerfish: 1
+discovery of oxygen: 1
+lists: 1
+ester: 1
+encryption algorithm: 1
+daltons law of partial pressures: 1
+audio: 1
+serotonin or 5hydroxytryptamine or 5ht: 1
+potentiometric titration: 1
+the big bang: 1
+maximum: 1
+decibels: 1
+arthritis: 1
+mandarin chinese: 1
+seeds: 1
+reptiles or reptilia: 1
+lambda: 1
+homogenous: 1
+line: 1
+giant squid prompt on squid: 1
+mucus: 1
+human blood: 1
+commutative or commutativity: 1
+deltas: 1
+india: 1
+memory leak: 1
+blindness: 1
+shells: 1
+cerebrum: 1
+even number: 1
+zygote: 1
+ip address: 1
+homologous recombination: 1
+superconductor: 1
+t lymphocytes: 1
+latent heat of vaporization: 1
+hydrophobic: 1
+prefrontal cortex: 1
+lorenz: 1
+antibiotics: 1
+chelation: 1
+heart attacks: 1
+anesthesia: 1
+apollo: 1
+fungus: 1
+redox reaction: 1
+telom: 1
+hydrocarbons: 1
+symmetric matrices: 1
+conjugates: 1
+electron microscopes: 1
+hypothal: 1
+total energy: 1
+two dimensions: 1
+fibonacci sequencenumbersseries: 1
+bond angle: 1
+particle accelerators: 1
+linear independence: 1
+orbital hybridization: 1
+multidimensional arrays: 1
+augustinlouis cauchy: 1
+cirques: 1
+four color theorem: 1
+spectroscopy: 1
+phases: 1
+commutativity: 1
+sickle cell anemia: 1
+ovaries: 1
+planarians: 1
+muscular dystr: 1
+countability: 1
+x chromosome dxdx: 1
+object: 1
+aorta lclc: 1
+entropy lclc: 1
+esters dxdx: 1
+distillation ryry: 1
+pressure lclc: 1
+quarks lclc: 1
+quartz shsh: 1
+thymus ryry: 1
+electrons lclc: 1
+oxidation reaction: 1
+dimension lclc: 1
+hypothalamus ryry: 1
+aromatic compounds: 1
+heat or thermal energy prompt on energy before it is mentioned do not accept temperature: 1
+bases accept basic: 1
+battery or batteries: 1
+andromeda or m31 before mention or ngc 224: 1
+benzene prompt on c6h6 before the end: 1
+lead accept pb before mentioned: 1
+absolute value function accept complex modulus before modulus: 1
+factorial prompt on exclamation point before mentioned: 1
+reproduction: 1
+prime: 1
+derivatives: 1
+cmb: 1
+continuous: 1
+antifungals: 1
+predator: 1
+electrical impedance: 1
+palladium: 1
+mrnas: 1
+harmonics: 1
+brown dwarf: 1
+triceratops: 1
+takingfinding the integral: 1
+polio: 1
+the cerebrum: 1
+phosphate ions: 1
+neutralization: 1
+archimedes: 1
+searching algorithm: 1
+onetoone: 1
+platonic solids: 1
+william cuthbert faulkner: 1
+sun or sol: 1
+liquid: 1
+the human stomach: 1
+parthenogenesis: 1
+one or 1: 1
+prime number: 1
+cereals: 1
+daniel bernoulli: 1
+protists: 1
+rotational inertia: 1
+the mantle: 1
+solid: 1
+nucleophilic substitution: 1
+event independence: 1
+mesophyll: 1
+meteor shower: 1
+arachnida: 1
+gallium: 1
+neutralization reaction: 1
+median: 1
+interquartile range: 1
+radians: 1
+deposition: 1
+square matrices: 1
+thought experiment: 1
+fullerene: 1
+ectothermic: 1
+arithmetic aarithmaatik but be lenient sequence: 1
+gamma raysradiation: 1
+hpv: 1
+immiscibility: 1
+coriolis effectforce: 1
+icosahedron: 1
+eratosthenes of cyrene: 1
+apothem: 1
+monte carlo algorithm or method: 1
+diastole: 1
+plasmodesmata: 1
+particle magnetic spin: 1
+zero product property: 1
+climate: 1
+anaerobic: 1
+george gabriel stokes: 1
+amorphous solidsubstance: 1
+parallel lines: 1
+bowmans capsule: 1
+thermite reaction: 1
+transitive property: 1
+electroweak unification: 1
+endospores: 1
+groups: 1
+thalamus: 1
+achromatic lenses: 1
+ductility: 1
+cadmium: 1
+stalagmite: 1
+centroids: 1
+transition states: 1
+red giant: 1
+molecular diffusion: 1
+alk: 1
+rheumatoid arthritis: 1
+moraines: 1
+isostasy: 1
+fine structure constant: 1
+hyperbolic: 1
+electronegati: 1
+thunderstorms: 1
+infinite series: 1
+surface ten: 1
+semiconductor: 1
+liver lclc: 1
+jupiter lclc: 1
+friction lclc: 1
+electronegativity lclc: 1
+rnas or ribonucleic acids: 1
+strongugolgiustrong body or apparatus: 1
+rabies lclc: 1
+diodes lclc: 1
+phobos lclc: 1
+xylem lclc: 1
+ethers lclc: 1
+collagen lclc: 1
+semiconductors lclc: 1
+plasma lclc: 1
+symmetry or automorphism: 1
+sarcomeres: 1
+schizophrenia lclc: 1
+antibodies or immunoglobulins lclc: 1
+galaxy or galaxies: 1
+carbon accept c before read: 1
+matrixces: 1
+evaporation: 1
+dimitri ivanovich mendeleev: 1
+sponges: 1
+diagonal: 1
+sicklecell disease: 1
+cubic: 1
+alcohols accept hydroxyl group before mention prompt on oh: 1
+downs syndrome: 1
+voltaic cell: 1
+bigo notation: 1
+parabolas: 1
+antoine lavoisier: 1
+halflife: 1
+monotremata: 1
+argon: 1
+negative numbers: 1
+heaps: 1
+hess: 1
+josephlouis strongulagrangeustrong: 1
+duckbill platypus: 1
+bekensteinhawking radiation or effect: 1
+aurora borealis: 1
+least squares methods: 1
+articles: 1
+taysachs diseasedisorder: 1
+shortestpath algorithms: 1
+dielsalder: 1
+externalities: 1
+goto statement: 1
+elastic collisions prompt on collision: 1
+complex conjugate: 1
+golgi apparatusbody: 1
+strongubufferustrong solutionsagents: 1
+strongudopplerustrong effect prompt on red shift before it is mentioned: 1
+wisdom teeth: 1
+chlorofluorocarbons do not prompt on aerosols as these clues are specific for cfc and dont apply to aerosols: 1
+neils bohr: 1
+ohms law: 1
+strongulechatlierustrongs principle: 1
+punnett square: 1
+pythagorean triplenumbers prompt on things like sides of a right triangle: 1
+consonants: 1
+hemoglobin i guess on the first clue you can accept gene for hemoglobin: 1
+diffraction prompt on crystallography after x ray: 1
+homeostasis: 1
+demorgan laws: 1
+dielectric constant: 1
+noble gas prompt on inert gas: 1
+hardyweinberg equationlawprincipleequilibrium: 1
+avogadros numberconstant accept atomic mass unit before : 1
+krebbs cycle accept citric acid cycle: 1
+jeanbaptiste: 1
+antiparticles: 1
+holograms: 1
+phenolphthalein: 1
+teflon: 1
+cold fusion: 1
+piezoelectricity effect: 1
+joseph priestley: 1
+turing test: 1
+dwarf planet: 1
+transfer rna or trna: 1
+golden ratio: 1
+benzene or benzol: 1
+golgi apparatusbodydictyosomecomplex: 1
+ex: 1
+endocytosis: 1
+lanthanum: 1
+combustion reactions: 1
+mammalia or mammals: 1
+adrenal gland: 1
+ph or power of hydrogen: 1
+avogadro constant: 1
+domain: 1
+glenn theodore seaborg: 1
+urine accept equivalents: 1
+electrochemistry or electrical chemistry: 1
+cambrian: 1
+james clerk maxwell: 1
+laws of conservation: 1
+pioneer program: 1
+rootfinding accept stuff like finding the zeros of an equation: 1
+gauss: 1
+compiling: 1
+terminal velocity: 1
+azeotropes: 1
+hendrik antoon lorentz: 1
+electron transport chain: 1
+chemical potential: 1
+pain: 1
+sql: 1
+objectoriented programming: 1
+honeybees: 1
+urinary bladder: 1
+aquifer: 1
+binomial theorem: 1
+dominance: 1
+bessemer process: 1
+clay: 1
+agriculture: 1
+anions: 1
+jpeg: 1
+teeth: 1
+fault: 1
+internet: 1
+cumulonimbus clouds: 1
+richter scale: 1
+humidity: 1
+systems of linear equations: 1
+numerical integration: 1
+tornado: 1
+pea plants: 1
+parallelity: 1
+permian period: 1
+sand dunes: 1
+flame tests: 1
+garbage collection: 1
+atomic orbital: 1
+conic sections: 1
+computer monitors: 1
+google: 1
+coral reef: 1
+single displacement reaction: 1
+pointer variable: 1
+polynomial roots: 1
+septum: 1
+ruby: 1
+html: 1
+bubble sort: 1
+shield volcanoes: 1
+meter: 1
+kidney stones: 1
+distributive property: 1
+14: 1
+lichens: 1
+complete: 1
+hysteresis: 1
+brown dwarfs: 1
+algorithm: 1
+firewalls: 1
+virus: 1
+optical microscopes: 1
+indicator: 1
+gpu: 1
+stratigraphy: 1
+cnidaria nidareeeuh: 1
+erosion: 1
+fractal: 1
+cytosine: 1
+collisions: 1
+atmospheric pressure: 1
+tone: 1
+total internal reflection: 1
+liquids: 1
+octahedral: 1
+erythrocytes: 1
+pulsar: 1
+cnidaria nihdareeeuh: 1
+silent spring: 1
+ursa major: 1
+cube: 1
+ip: 1
+immune system: 1
+the core: 1
+numbers: 1
+volcanos: 1
+codons: 1
+refrigeration: 1
+paramecium: 1
+humphry davy: 1
+allotropy: 1
+monotremes: 1
+gauss law: 1
+chicken: 1
+baryons: 1
+hummingbirds: 1
+founder effect: 1
+talc: 1
+metaphase: 1
+galvanic cell: 1
+platyhelminthes: 1
+brownian motiondynamics: 1
+barium: 1
+natural numbers: 1
+hydrofluoric acid: 1
+carbon nanotubes: 1
+betaminus decay: 1
+supersaturated solutions: 1
+binary star: 1
+piezoelectric peeayzohelectric effect: 1
+clostridium botulinum: 1
+marianas trench: 1
+marginal utility: 1
+damping: 1
+polarization of light waves: 1
+closure: 1
+sexual reproduction: 1
+boltzmann constant: 1
+joulethomson effect: 1
+beryl: 1
+hybridization: 1
+law of large numbers: 1
+chira: 1
+optical aberrations: 1
+herpesviruses: 1
+nephron: 1
+chloroform: 1
+shield volcano: 1
+cygnus: 1
+sigma: 1
+nmr: 1
+deterministic chaos: 1
+the wave functions: 1
+mersenne primes: 1
+lab rats or mice or mus musculus: 1
+equality: 1
+cern: 1
+swaves: 1
+diphtheria: 1
+graphite: 1
+crown ethers: 1
+the maxwellboltzmann distribution: 1
+impulse: 1
+s phase: 1
+cerebrospinal fluid: 1
+the scientific method: 1
+karyotypes: 1
+augustin louis cauchy: 1
+parathyroid hormone: 1
+hubble constant or parameter: 1
+potential: 1
+lagrange point: 1
+drumlin: 1
+condensation reactions: 1
+ultraviolet catastrophe: 1
+positrons: 1
+oxbow lakes: 1
+phenolphthalein or hin: 1
+mica prompt on silicate sheet silicate phyllosilicate minerals etc until mentioned: 1
+urea or carbamide: 1
+catenary curve prompt on catenoid: 1
+spontaneous generation: 1
+strongucambrianustrong period accept stronguage of trilobitesustrong before mentioned: 1
+chromium accept cr before mentioned prompt on chrome: 1
+capacitor or condensor prompt on leyden jars until mentioned: 1
+sunspots prompt on starspot: 1
+superconductors or superconductivity: 1
+teflon or polytetrafluoroethylene accept ptfe before mentioned: 1
+triple bond: 1
+lanthanide series or lanthanides: 1
+rh blood group or rhesus factor or equivalents: 1
+conservative: 1
+electron capture: 1
+marginal revenue: 1
+plasmodium: 1
+grignard reagents: 1
+intrusions: 1
+quantum numbers: 1
+thiamine: 1
+perfect number: 1
+mitochondrion: 1
+dielsalder reaction: 1
+riemann zeta function: 1
+graviton: 1
+strongucompilersustrong: 1
+b3 accept nicotinic acid before nicotine and niacin before mentioned: 1
+rifts: 1
+enchinodermata or echinoderms: 1
+copper prompt on early cu buzz: 1
+john forbes nash jr: 1
+euler totient function or euler phi function: 1
+minkowski space: 1
+friedelcrafts acylation: 1
+calcitonin: 1
+hamiltonian mechanics: 1
+capsaicin: 1
+polymerization: 1
+orthogonal accept perpendicular after the phrase dot product: 1
+immune tolerance: 1
+c pronounced c plus plus: 1
+strongubernoullis principleustrong: 1
+phototropism accept heliotropism before light source: 1
+distance accept modifiers like interstellar etc: 1
+lewis acid: 1
+hadrons: 1
+atwoods machine: 1
+solvent: 1
+poincare conjecture: 1
+z0 boson: 1
+transition state: 1
+planetary nebulae accept nebulae before proto prompt on nebulae after proto: 1
+cholesterol accept mevalonate pathway before mevalonic acid prompt on mevalonate pathway before mention: 1
+newtons law of cooling: 1
+bowens reaction series: 1
+inverse square law: 1
+steroids: 1
+resistivity: 1
+stoma or stomate or stomata: 1
+gibberellins prompt on gas: 1
+rr lyrae variables: 1
+amides: 1
+carbonyl or aldehyde before one of these: 1
+aphasia or aphemia: 1
+chelation or chelates accept chelationcontrol after stereoselectivity: 1
+sympathetic nervous system or sns: 1
+nonconservative forces: 1
+angle bisector: 1
+centrioles: 1
+radicals: 1
+superfluids: 1
+flame test: 1
+white dwarfs: 1
+cam pathway: 1
+intelligence tests: 1
+active transport: 1
+binary systems: 1
+formal charges: 1
+sirius: 1
+buckminsterfullerenes: 1
+q: 1
+equilateral triangles: 1
+leukemia: 1
+amoebae: 1
+hills: 1
+meson: 1
+pascal: 1
+bitmap: 1
+correlation coefficient: 1
+cryptography: 1
+fluid mosaic model: 1
+d: 1
+cochlear implant: 1
+eschericia coli: 1
+gustav robert kirchoff: 1
+attention: 1
+chandrasekhar limit: 1
+overflows: 1
+vowels: 1
+okazaki fragments: 1
+periodic table of the elements: 1
+herons formula: 1
+radiation: 1
+nucleolus: 1
+oxidation number: 1
+taste buds: 1
+electrode: 1
+fertilization: 1
+paul langerhans: 1
+quadrilateral: 1
+henri louis le chatelier: 1
+sediment: 1
+lake: 1
+utility: 1
+free energy: 1
+peroxides: 1
+urine: 1
+doubleslit experiment: 1
+charon: 1
+strong force: 1
+blood vessels: 1
+linearity: 1
+nuclear bomb: 1
+buoyant force: 1
+alloys: 1
+saturns moons: 1
+bridges of konigsburg problem: 1
+bernoulli principle: 1
+sea floor spreading: 1
+myosin: 1
+alesandro volta: 1
+andre marie ampere: 1
+diabetes: 1
+precipitation reaction: 1
+orogeny: 1
+energy level: 1
+stamen take anther before it is mentioned: 1
+enrico strongufermiustrong: 1
+platelets or thrombocytes: 1
+redshift accept gravitational redshift: 1
+epidermis: 1
+vermiform appendix: 1
+komodo dragon or varanus komodoensis accept komodo monitor or ora or buaja darat: 1
+gallbladder prompt on cholecyst: 1
+dmitry ivanovich mendeleyev: 1
+360: 1
+vulcanization: 1
+ede edward teller: 1
+carl woese: 1
+coelom: 1
+luis walter alvarez: 1
+9: 1
+181 or 00123456789 repeating: 1
+polymorphism: 1
+amphoteric: 1
+calcite or calcium carbonate or caco3 accept limestone before : 1
+lisp: 1
+quantum entanglement: 1
+niels henrik abel: 1
+superfluid: 1
+the aorta: 1
+nondisjunction: 1
+the third power: 1
+polyploidy: 1
+tobacco mosaic virus: 1
+sterngerlach experiment: 1
+parenchymal cells: 1
+genomic imprinting: 1
+peter joseph william debye: 1
+fujitapearson scale: 1
+alpine or arctic tundra: 1
+cyclotrons: 1
+schoenbergchandrasekhar limit: 1
+a brief history of time: 1
+descartessnellius law of refraction: 1
+bipolar transistors: 1
+thermometers: 1
+transpiration: 1
+taylor series: 1
+meissnerochsenfeld effectchenchen: 1
+mohoroviei: 1
+arsenic: 1
+lightemitting diode prompt on diode: 1
+cycloid: 1
+prions or proteinaceous infectious particles: 1
+cellulose or c 6 h 10 o 5n: 1
+thomas graham: 1
+gabriels horn or torricellis trumpet accept painters paradox early: 1
+helicase: 1
+xenon accept xe early: 1
+aerosols accept oparticulate mattero before ospray cano is read do not prompt on osolo: 1
+human genome project: 1
+random access memory or ram prompt on memory until memory wall is readchenchen: 1
+omar khayyam: 1
+rubber prompt on latex: 1
+archaea accept archaebacteria: 1
+friedrich wohler: 1
+raman scattering: 1
+g: 1
+chelates: 1
+permian mass extinction: 1
+peptidoglycan: 1
+fibonacci sequencenumbers: 1
+tyrosine: 1
+strong forceinteraction: 1
+markov chain: 1
+game of life: 1
+academy: 1
