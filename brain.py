@@ -44,22 +44,41 @@ def cleanhtml(raw_html): #kinda useless tbh
   cleantext = re.sub(cleanr, '', raw_html)
   return cleantext
 
+def cleartopics():
+    from os import remove
+    with open("database/topics.json") as c:
+        data = json.load(c)
+    for key in list(data):
+        if key == "date":
+            pass
+        else:
+            data.pop(key, None)
+            remove("database/" + key + ".json")
+    c.close()
+    a = open("database/topics.json", 'w')
+    json.dump(data, a)
+
+
 #topics.json format: (topic: [daysage, openage, right, wrong])
 def jsondump(topic):
     inp = quote(topic)
     url = "https://www.quizdb.org/api/search?search%5Bquery%5D=" + inp + "&search%5Blimit%5D=false&download=json"
-    print("https://www.quizdb.org/api/search?search%5Bquery%5D=Donald%20Trump&search%5Blimit%5D=false&download=json")
     print(url)
     a = requests.get(url).json()
     b = open("database/" + topic + ".json","w")
     json.dump(a, b)
     b.close()
+    b = open("database/" + topic + ".json")
+    data = json.load(b)
+    weight = data["data"]["num_tossups_found"]
+    b.close()
     with open("database/topics.json") as c:
         data = json.load(c)
     c.close()
-    data[topic] = [0, 0, 0, 0]
+    data[topic] = [0, 0, 0, 0, int(weight)]
     c = open("database/topics.json","w")
     json.dump(data,c)
+
 def updatedate(): #run on startup
     with open("database/topics.json") as c:
         data = json.load(c)
@@ -109,20 +128,14 @@ def parsetopic(topic):
     while x < len(data["data"]["tossups"]):
         text = data["data"]["tossups"][x]["text"]
         answer = data["data"]["tossups"][x]["answer"]
-        final[x] = [text,answer]
+        final[x] = [text,answer], topic
         x = x + 1
     return final
-
-def readtopic(lst, time = 0.25): #input a list [question, answer]
+def readtopic(lst): #input a list [question, answer]
     question = lst[0]
-    answer = lst[1]
-    questiontext = question.split()
+    #answer = lst[1]
     questionsentences = split_into_sentences(question)
-    x = 0
-    while x < len(questiontext):
-        print(questiontext[x] + " ", end="", flush=True) # prob replace later
-        x = x + 1
-        sleep(time)
+    return questionsentences
 
 
 def selectquestions(dictionary, questionnumber = 3):
@@ -155,3 +168,53 @@ def dicttolist(dictionary):  # also shuffles the dictionary into random order
         final.append(dictionary[key])
     shuffle(final)
     return final
+
+def tieronequeue(number = 3): #makes a queue of all topics from last 7 days and correct rate of less than 33 pct. List: [[tossups],[topics]]
+    with open("database/topics.json") as c:
+        data = json.load(c)
+    keys = []
+    for key in data:
+        if key == 'date':
+            pass
+        else:
+            if data[key][2] + data[key][3] != 0:
+                if data[key][0] <= 7 or data[key][2]/(data[key][2] + data[key][3]) <= 0.33:
+                    keys.append(key)
+            else:
+                keys.append(key)
+    dictlist = []
+    for key in keys:
+        dictlist.append(selectquestions(parsetopic(key), questionnumber=number))
+    return dicttolist(combinequestions(dictlist))
+def tiertwoqueue(numberquestions = 30): # makes queue of n questions (def = 30), topics in last 30 days or hit rate less than 50% have 2x chance, may appear twice.
+    with open("database/topics.json") as c:
+        data = json.load(c)
+    keys = []
+    for key in data:
+        if key == 'date':
+            pass
+        else:
+            if data[key][2] + data[key][3] != 0:
+                if data[key][0] <= 21 or data[key][2]/(data[key][2] + data[key][3]) <= 0.5:
+                    keys.append(key)
+            else:
+                keys.append(key)
+    for key in data:
+        if key == "date":
+            pass
+        else:
+            keys.append(key)
+    topics = sample(keys, numberquestions)
+    dictlist = []
+    for topic in topics:
+        dictlist.append(selectquestions(parsetopic(topic), questionnumber=1))
+    return dicttolist(combinequestions(dictlist))
+
+def selectrandomquestion():
+    with open("database/topics.json") as c:
+        data = json.load(c)
+    keys = []
+    for key in data:
+        keys.append(key)
+    a = sample(keys, 1)
+    return selectquestions(parsetopic(a[0]), 1)[0]
