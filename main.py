@@ -7,7 +7,7 @@ from kivy.uix.label import Label
 from time import sleep
 import threading
 import brain
-
+from math import sqrt
 queue = brain.tieronequeue(2)
 class DemoBox(BoxLayout):
     """
@@ -40,7 +40,8 @@ class DemoBox(BoxLayout):
         x = 0
         self.label.text = queue[0][0][0]
         self.label.text_size = self.label.size
-        self.label.font_size = 0.04 * self.label.height
+        print(self.label.height, self.label.width)
+        self.label.font_size = 0.044 * sqrt(self.label.height * self.label.width)
         self.label.halign = 'left'
         self.label.valign = "top"
         self.label.text = ""
