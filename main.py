@@ -355,6 +355,7 @@ class ReadBox(BoxLayout):
         thread.start()
 
     def start(self):
+        brain.updatedate()
         global numtopics
         sleep(0.01)
         self.updatestatus()
