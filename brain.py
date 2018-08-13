@@ -76,7 +76,7 @@ def jsondump(topic):
         from os import remove
         remove("database/" + topic + ".json")
         print("topic has no tossups")
-        return False
+        raise Exception("No Tossups Are here!")
     with open("database/topics.json") as c:
         data = json.load(c)
     c.close()
@@ -267,11 +267,10 @@ def selectweightedquestion(number = 1):
 def numtopics():
     with open("database/topics.json") as c:
         data = json.load(c)
-    keys = []
-    for key in data:
-        if key == "date":
-            pass
-        else:
-            keys.append(key)
-    return len(keys)
-cleartopics()
+
+    return len(data) - 1
+
+def moreinfo():
+    with open("database/" + "Clinton" + ".json") as c:
+        data = json.load(c)
+    print(data['data']['tossups'][0]['tournament'])
