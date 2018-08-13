@@ -186,6 +186,7 @@ def tieronequeue(number = 3): #makes a queue of all topics from last 7 days and 
     for key in keys:
         dictlist.append(selectquestions(parsetopic(key), questionnumber=number))
     return dicttolist(combinequestions(dictlist))
+
 def tiertwoqueue(numberquestions = 30): # makes queue of n questions (def = 30), topics in last 30 days or hit rate less than 50% have 2x chance, may appear twice.
     with open("database/topics.json") as c:
         data = json.load(c)
@@ -204,17 +205,62 @@ def tiertwoqueue(numberquestions = 30): # makes queue of n questions (def = 30),
             pass
         else:
             keys.append(key)
-    topics = sample(keys, numberquestions)
+    try:
+        a = sample(keys, number)
+    except:
+        a = keys
     dictlist = []
-    for topic in topics:
+    for topic in a:
         dictlist.append(selectquestions(parsetopic(topic), questionnumber=1))
     return dicttolist(combinequestions(dictlist))
 
-def selectrandomquestion():
+def selectrandomquestion(number = 1):
     with open("database/topics.json") as c:
         data = json.load(c)
     keys = []
     for key in data:
-        keys.append(key)
-    a = sample(keys, 1)
-    return selectquestions(parsetopic(a[0]), 1)[0]
+        if key == "date":
+            pass
+        else:
+            keys.append(key)
+    try:
+        a = sample(keys, number)
+    except:
+        a = keys
+    dictlist = []
+    for topic in a:
+        dictlist.append(selectquestions(parsetopic(topic), questionnumber=1))
+    return dicttolist(combinequestions(dictlist))
+
+
+def selectweightedquestion(number = 1):
+    with open("database/topics.json") as c:
+        data = json.load(c)
+    keys = []
+    for key in data:
+        if key == "date":
+            pass
+        else:
+            x = 0
+            y = data[key][4]
+            while x < y:
+                keys.append(key)
+                x = x + 1
+    try:
+        a = sample(keys, number)
+    except:
+        a = keys
+    dictlist = []
+    for topic in a:
+        dictlist.append(selectquestions(parsetopic(topic), questionnumber=1))
+    return dicttolist(combinequestions(dictlist))
+def numtopics():
+    with open("database/topics.json") as c:
+        data = json.load(c)
+    keys = []
+    for key in data:
+        if key == "date":
+            pass
+        else:
+            keys.append(key)
+    return len(keys)
