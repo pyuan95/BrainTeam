@@ -72,6 +72,11 @@ def jsondump(topic):
     data = json.load(b)
     weight = data["data"]["num_tossups_found"]
     b.close()
+    if weight == 0:
+        from os import remove
+        remove("database/" + topic + ".json")
+        print("topic has no tossups")
+        return False
     with open("database/topics.json") as c:
         data = json.load(c)
     c.close()
@@ -251,9 +256,14 @@ def selectweightedquestion(number = 1):
     except:
         a = keys
     dictlist = []
+    if len(keys) == 0:
+        return dictlist
     for topic in a:
         dictlist.append(selectquestions(parsetopic(topic), questionnumber=1))
-    return dicttolist(combinequestions(dictlist))
+    x = dicttolist(combinequestions(dictlist))
+    return x
+
+
 def numtopics():
     with open("database/topics.json") as c:
         data = json.load(c)
@@ -264,3 +274,4 @@ def numtopics():
         else:
             keys.append(key)
     return len(keys)
+cleartopics()
