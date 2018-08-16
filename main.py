@@ -13,7 +13,8 @@ import threading
 import brain
 from math import sqrt
 from kivy.graphics import Color, Rectangle
-
+from kivy.core.window import Window
+from kivy.uix.widget import Widget
 queue = brain.tieronequeue(3)
 queue2 = brain.tiertwoqueue()
 queue3 = brain.selectrandomquestion(10)
@@ -28,8 +29,19 @@ class ReadBox(BoxLayout):
     are avoided for the sake of readability and clarity.
     """
 
+    def _keyboard_closed(self):
+        print('My keyboard have been closed!')
+        self._keyboard.unbind(on_key_down=self._on_keyboard_down)
+        self._keyboard = None
+
+    def _on_keyboard_down(self, keyboard, keycode, text, modifiers):
+        if text == ' ':
+            self.answer(keyboard)
     def __init__(self, **kwargs):
         super(ReadBox, self).__init__(**kwargs)
+        self._keyboard =self._keyboard = Window.request_keyboard(
+            self._keyboard_closed, self, 'text')
+        self._keyboard.bind(on_key_down=self._on_keyboard_down)
         self.orientation = "horizontal"
         self.readbool = True
         self.padding = 5
@@ -75,7 +87,6 @@ class ReadBox(BoxLayout):
         self.anotherbox.add_widget(self.moreemptyspace)
         self.anotherbox.add_widget(self.tossupinfo)
         self.add_widget(self.anotherbox)
-
         self.questionsright = 0
         self.questionswrong = 0
 
@@ -393,12 +404,32 @@ class ReadBox(BoxLayout):
         print('The flexible function has *args of', str(args),
               "and **kwargs of", str(kwargs))
 
+class MyKeyboardListener(Widget):
+
+    def __init__(self, **kwargs):
+        super(MyKeyboardListener, self).__init__(**kwargs)
+        self._keyboard = Window.request_keyboard(
+            self._keyboard_closed, self, 'text')
+        if self._keyboard.widget:
+            # If it exists, this widget is a VKeyboard object which you can use
+            # to change the keyboard layout.
+            pass
+        self._keyboard.bind(on_key_down=self._on_keyboard_down)
+
+    def _on_keyboard_down(self, keyboard, keycode, text, modifiers):
+
+
+        # Return True to accept the key. Otherwise, it will be used by
+        # the system.
+        return True
+
 
 class DemoApp(App):
 
     def build(self):
         self.title = "Brain Team!"
         y = ReadBox()
+
         y.start()
         return y
 
