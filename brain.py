@@ -1,13 +1,9 @@
-import pandas as pd
 import requests
 from urllib.parse import quote
 import json
 from datetime import datetime
-from time import sleep
 import re
 from random import sample, shuffle
-from math import floor
-
 
 def split_into_sentences(text):
     caps = "([A-Z])"
@@ -61,6 +57,18 @@ def cleartopics():
     c.close()
     a = open("database/topics.json", 'w')
     json.dump(data, a)
+    a.close()
+
+def removetopic(topic):
+    from os import remove
+    with open("database/topics.json") as c:
+        data = json.load(c)
+    data.pop(topic, None)
+    a = open("database/topics.json", 'w')
+    json.dump(data, a)
+    remove("database/" + topic + ".json")
+    a.close()
+    c.close()
 
 
 # topics.json format: (topic: [daysage, openage, right, wrong])
@@ -87,6 +95,7 @@ def jsondump(topic):
     data[topic] = [0, 0, 0, 0, int(weight)]
     c = open("database/topics.json", "w")
     json.dump(data, c)
+    c.close()
 
 
 def updatedate():  # run on startup
@@ -104,6 +113,7 @@ def updatedate():  # run on startup
     c.close()
     c = open("database/topics.json", "w")
     json.dump(data, c)
+    c.close()
 
 
 def correct(topic):
@@ -117,6 +127,7 @@ def correct(topic):
     c.close()
     c = open("database/topics.json", "w")
     json.dump(data, c)
+    c.close()
 
 
 def wrong(topic):
@@ -130,6 +141,7 @@ def wrong(topic):
     c.close()
     c = open("database/topics.json", "w")
     json.dump(data, c)
+    c.close()
 
 
 def parsetopic(topic):
@@ -142,6 +154,7 @@ def parsetopic(topic):
         answer = data["data"]["tossups"][x]["answer"]
         final[x] = [text, answer], topic
         x = x + 1
+    c.close()
     return final
 
 
@@ -291,3 +304,13 @@ def moreinfo():
     with open("database/" + "Clinton" + ".json") as c:
         data = json.load(c)
     print(data['data']['tossups'][0]['tournament'])
+
+
+def tossupinfo(topic):
+    with open("database/" + topic + ".json") as c:
+        data = json.load(c)
+    answer1 = data["data"]["tossups"][0]["subcategory"]
+    finallist = []
+    for key in answer1:
+        finallist.append(key + " = " + str(answer1[key]))
+    return finallist

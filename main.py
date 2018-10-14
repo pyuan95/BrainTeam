@@ -12,7 +12,7 @@ from time import sleep
 import threading
 import brain
 from math import sqrt
-from kivy.graphics import Color, Rectangle
+from kivy.graphics import Color, Rectangle, RoundedRectangle
 from kivy.core.window import Window
 from kivy.uix.widget import Widget
 queue = brain.tieronequeue(3)
@@ -44,40 +44,54 @@ class ReadBox(BoxLayout):
         self._keyboard.bind(on_key_down=self._on_keyboard_down)
         self.orientation = "horizontal"
         self.readbool = True
-        self.padding = 5
+        self.padding = 10
         # We start with binding to a normal event. The only argument
         # passed to the callback is the object which we have bound to.
-        self.label = Button(text="my man!", size_hint=(1, 0.9), background_normal="", background_color=(0, 0, 0, 1))
+        self.label = Button(text="my man!", size_hint=(1, 0.85), background_normal="", background_color=(0, 0, 0, 1))
         self.label.bind(on_press=self.answer)
         self.label.bind(pos=self.updatelabelsize, size=self.updatelabelsize)
-        self.answerbox = Label(text="Answer:", size_hint=(1, 0.1), color=(0, 0, 0, 1))
-        self.boxone = BoxLayout(size_hint=(0.85, 1), padding=15)
+        self.answerbox = Label(text="Answer:", size_hint=(1, 0.11), color=(0, 0, 0, 1))
+        self.boxone = BoxLayout(size_hint=(0.85, 1), padding=10)
         self.boxone.orientation = "vertical"
+        self.anotherbox = BoxLayout(size_hint=(0.143, 1), orientation="vertical", padding = 8)
+        with self.canvas:
+            Color(0.4, 0.4, 0.4)
+            self.rectangle = Rectangle(pos = self.pos, size = self.size)
+            self.answerbox.bind(pos=self.updaterectOG, size=self.updaterectOG)
         with self.answerbox.canvas.before:
             Color(255, 255, 255)
-            self.answerbox.rect = Rectangle(pos=self.answerbox.pos, size=self.answerbox.size)
+            self.answerbox.rect = RoundedRectangle(pos=self.answerbox.pos, size=self.answerbox.size)
             self.answerbox.bind(pos=self.updaterect, size=self.updaterect)
+        with self.label.canvas.before:
+            Color(0, 0, 0)
+            self.label.rect = RoundedRectangle(pos=self.label.pos, size=self.label.size)
+            self.label.bind(pos=self.updatelabelrect, size=self.updatelabelrect)
+        with self.anotherbox.canvas.before:
+            Color(0, 0, 0)
+            self.anotherbox.rect = RoundedRectangle(pos=self.anotherbox.pos, size=self.anotherbox.size)
+            self.anotherbox.bind(pos=self.updateanotherboxrect, size=self.updateanotherboxrect)
         self.boxone.add_widget(self.label)
-        self.boxone.add_widget((self.answerbox))
+        self.boxone.add_widget(Label(size_hint = (1,0.04)))
+        self.boxone.add_widget(self.answerbox)
         self.add_widget(self.boxone)
-        self.anotherbox = BoxLayout(size_hint=(0.15, 1), orientation="vertical")
-        self.status = BoxLayout(size_hint=(1, 0.3), orientation="vertical")
-        self.statustext = Label(size_hint=(1, 0.53), color=(0, 0.75, 1, 1))
+        self.status = BoxLayout(size_hint=(1, 0.35), orientation="vertical")
+        self.statustext = Label(size_hint=(1, 0.7), color=(0, 0.75, 1, 1))
         self.statustext.bind(pos=self.updatestatussize, size=self.updatestatussize)
         self.status.add_widget(self.statustext)
-        self.moreoptions = Button(text="More Options", size_hint=(1, 0.47), background_normal="",
+        self.moreoptions = Button(text="More Options", size_hint=(1, 0.3), background_normal="",
                                   background_color=(0, 0.35, 1, 1), color=(1, 1, 1, 1))
         self.moreoptions.bind(on_press=self.moreoptionsmethod)
         self.status.add_widget(self.moreoptions)
         self.anotherbox.add_widget(self.status)
-        self.emptyspace = Label(size_hint=(1, 0.1))
+        self.emptyspace = Label(size_hint=(1, 0.02))
         self.anotherbox.add_widget(self.emptyspace)
-        self.correctbuttons = StackLayout(size_hint=(1, 0.45), orientation='bt-lr', spacing=10)
+        self.correctbuttons = StackLayout(size_hint=(1, 0.4), orientation='bt-lr', spacing=10)
         self.btn2 = Button(text="Right", size_hint=(1, 0.5), background_normal="", background_color=(0, 1, 0, 1),
                            color=(0, 0, 0, 1))
         self.btn = Button(text="Wrong", size_hint=(1, 0.5), background_normal="", background_color=(1, 0, 0, 1),
                           color=(0, 0, 0, 1))
         self.tossupinfo = Button(text="Tossup Info", size_hint=(1, 0.13))
+        self.tossupinfo.bind(on_press = self.tossupinfomethod)
         self.moreemptyspace = Label(size_hint=(1, 0.02))
         self.btn2.bind(on_press=self.correct)
         self.btn.bind(on_press=self.incorrect)
@@ -86,9 +100,78 @@ class ReadBox(BoxLayout):
         self.anotherbox.add_widget(self.correctbuttons)
         self.anotherbox.add_widget(self.moreemptyspace)
         self.anotherbox.add_widget(self.tossupinfo)
+        self.add_widget(Label(size_hint = (0.007,1)))
         self.add_widget(self.anotherbox)
         self.questionsright = 0
         self.questionswrong = 0
+
+    def deletetopic(self, obj):
+        global queue
+        global queue2
+        global queue3
+        topic = ""
+        if len(queue) > 0:
+            topic = queue[0][1]
+            del queue[0]
+        elif len(queue2) > 0:
+            topic = queue2[0][1]
+            del queue2[0]
+        elif len(queue3) > 0:
+            topic = queue3[0][1]
+            del queue3[0]
+        else:
+            print("idk man")
+        brain.removetopic(topic)
+        self.clear_widgets()
+        self.orientation = 'horizontal'
+        self.add_widget(self.boxone)
+        self.add_widget(Label(size_hint = (0.007,1)))
+        self.add_widget(self.anotherbox)
+        if len(queue) > 0:
+            self.updatetopics()
+        elif len(queue2) > 0:
+            self.updatetopics()
+            queue = []
+        elif len(queue3) > 0:
+            self.updatetopics()
+            queue = []
+            queue2 = []
+        else:
+            print('idk man')
+        self.read()
+
+    def tossupinfomethod(self, obj):
+        topic = ""
+        if len(queue) > 0:
+            topic = queue[0][1]
+        elif len(queue2) > 0:
+            topic = queue2[0][1]
+        elif len(queue3) > 0:
+            topic = queue3[0][1]
+        else:
+            print("idk man")
+        self.remove_widget(self.anotherbox)
+        self.remove_widget(self.boxone)
+        self.tossupinfoFloat = FloatLayout(size_hint = (1,1))
+        self.tossupinfo1 = Label(text = "", size_hint = (1,0.6), pos_hint={'x': 0, 'y': 0.3})
+        self.backbutton = Button(text = "back", size_hint = (0.3, 0.2), pos_hint={'x': 0.0, 'y': 0.0})
+        self.backbutton.bind(on_press = self.back)
+        self.deletebutton = Button(text = "delete this topic: \n" + topic, size_hint = (0.3, 0.2), pos_hint={'x': 0.7, 'y': 0.0})
+        self.deletebutton.bind(on_press = self.deletetopic)
+        infolist = brain.tossupinfo(topic)
+        tossupstring = "topic = " + topic + "\n"
+        for str in infolist:
+            tossupstring += str + "\n"
+        self.tossupinfo1.text = tossupstring
+        self.tossupinfo1.text_size = self.size
+        self.tossupinfo1.font_size = 0.03 * sqrt(self.width * self.height)
+        self.tossupinfo1.halign = 'center'
+        self.tossupinfo1.valign = "center"
+        self.tossupinfoFloat.add_widget(self.tossupinfo1)
+        self.tossupinfoFloat.add_widget(self.backbutton)
+        self.tossupinfoFloat.add_widget(self.deletebutton)
+        self.add_widget(self.tossupinfoFloat)
+
 
     def updatetopics(self):
         global queue
@@ -115,6 +198,10 @@ class ReadBox(BoxLayout):
             self.label.text = queue3[0][0][0]
         else:
             print("idk man")
+        if len(self.answerbox.text.split()) > 20:
+            textlist = self.answerbox.text.split()
+            textlist = textlist[:20]
+            self.answerbox.text = " ".join(textlist)
         self.answerbox.text_size = self.answerbox.size
         self.answerbox.font_size = 1.5 * sqrt(self.answerbox.width) * sqrt(sqrt(5 / (len(self.answerbox.text))))
         self.answerbox.halign = 'center'
@@ -222,8 +309,9 @@ class ReadBox(BoxLayout):
         self.clear_widgets()
         self.orientation = 'horizontal'
         self.add_widget(self.boxone)
+        self.add_widget(Label(size_hint = (0.007,1)))
         self.add_widget(self.anotherbox)
-        self.start()
+        self.answer(obj)
 
     def correct(self, obj):  # updates queue
         global queue
@@ -243,9 +331,9 @@ class ReadBox(BoxLayout):
             self.read()
         else:
             print("idk man")
-
         self.questionsright = self.questionsright + 1
         self.updatestatus()
+
 
     def incorrect(self, obj):
         global queue
@@ -302,7 +390,7 @@ class ReadBox(BoxLayout):
         self.label.text = ""
         while x < len(text):
             if x > 0:
-                sleep(.2)
+                sleep(.115)
             if not self.readbool:
                 break
             self.label.text = self.label.text + text[x] + " "
@@ -314,20 +402,33 @@ class ReadBox(BoxLayout):
                 self.anotherbox.add_widget(self.moreemptyspace)
                 self.status.add_widget(self.moreoptions)
                 self.anotherbox.add_widget(self.correctbuttons)
-
             except:
                 pass
 
     def updaterect(self, instance, value):
-        self.answerbox.rect.pos = instance.pos
-        self.answerbox.rect.size = instance.size
+        self.answerbox.rect.pos = instance.pos[0] - 7.5, instance.pos[1] - 7.5
+        self.answerbox.rect.size = instance.size[0] + 15, instance.size[1] + 7.5
+
+    def updaterectOG(self, instance, value):
+        self.rectangle.pos = self.pos
+        self.rectangle.size = self.size
+
+    def updatelabelrect(self, instance, value):
+        position = self.label.center_x, self.label.center_y
+        size = self.label.size[0] + 20, self.label.size[1] + 20
+        self.label.rect.size = size
+        self.label.rect.pos = position[0] - (self.label.rect.size[0] / 2), position[1] - (self.label.rect.size[1] / 2)
+
+    def updateanotherboxrect(self, instance, value):
+        self.anotherbox.rect.pos = instance.pos[0], instance.pos[1]
+        self.anotherbox.rect.size = instance.size[0], instance.size[1]
 
     def updatelabelsize(self, instance, value):
         self.label.text_size = self.label.size
         print(self.label.height, self.label.width)
-        self.label.font_size = 0.04 * sqrt(self.label.height * self.label.width)
+        self.label.font_size = 0.035 * sqrt(self.label.height * self.label.width)
         self.answerbox.text_size = self.answerbox.size
-        self.answerbox.font_size = 0.04 * sqrt(self.label.height * self.label.width)
+        self.answerbox.font_size = 0.035 * sqrt(self.label.height * self.label.width)
         self.answerbox.halign = 'center'
         self.answerbox.valign = "center"
         self.label.halign = 'left'
@@ -355,7 +456,7 @@ class ReadBox(BoxLayout):
             self.statustext.text = "Status:\n" + self.statustext.text + a
             print(a)
         self.statustext.text_size = self.statustext.size
-        self.statustext.font_size = self.statustext.width * 0.15
+        self.statustext.font_size = self.statustext.width * 0.17
         self.statustext.halign = 'center'
         self.statustext.valign = 'top'
 
@@ -371,7 +472,7 @@ class ReadBox(BoxLayout):
         self.readbool = True
         self.answerbox.text = "Answer:"
         self.answerbox.text_size = self.answerbox.size
-        self.answerbox.font_size = 0.04 * sqrt(self.label.height * self.label.width)
+        self.answerbox.font_size = 0.035 * sqrt(self.label.height * self.label.width)
         self.anotherbox.remove_widget(self.correctbuttons)
         self.anotherbox.remove_widget(self.tossupinfo)
         self.anotherbox.remove_widget(self.moreemptyspace)
@@ -384,7 +485,7 @@ class ReadBox(BoxLayout):
         global numtopics
         sleep(0.01)
         self.updatestatus()
-        self.statustext.font_size = 13
+        self.statustext.font_size = self.statustext.width * self.statustext.height * 0.0008
         if numtopics > 1:
             self.read()
         else:
@@ -429,7 +530,6 @@ class DemoApp(App):
     def build(self):
         self.title = "Brain Team!"
         y = ReadBox()
-
         y.start()
         return y
 
