@@ -1,4 +1,4 @@
-import requests
+import urllib.request
 from urllib.parse import quote
 import json
 from datetime import datetime
@@ -49,7 +49,7 @@ def cleartopics():
     with open("database/topics.json") as c:
         data = json.load(c)
     for key in list(data):
-        if key == "date":
+        if key == "date" or key == "__everything__":
             pass
         else:
             data.pop(key, None)
@@ -76,7 +76,7 @@ def jsondump(topic):
     inp = quote(topic)
     url = "https://www.quizdb.org/api/search?search%5Bquery%5D=" + inp + "&search%5Blimit%5D=false&download=json"
     print(url)
-    a = requests.get(url).json()
+    a = json.load(urllib.request.urlopen(url))
     b = open("database/" + topic + ".json", "w")
     json.dump(a, b)
     b.close()
@@ -145,8 +145,12 @@ def wrong(topic):
 
 
 def parsetopic(topic):
-    with open("database/" + topic + ".json") as c:
-        data = json.load(c)
+    if topic == "everythingbrainteam":
+        with open("everythingbrainteam.json") as c:
+            data = json.load(c)
+    else:
+        with open("database/" + topic + ".json") as c:
+            data = json.load(c)
     x = 0
     final = {}
     while x < len(data["data"]["tossups"]):
@@ -199,8 +203,7 @@ def dicttolist(dictionary):  # also shuffles the dictionary into random order
     return final
 
 
-def tieronequeue(
-        number=3):  # makes a queue of all topics from last 7 days and correct rate of less than 33 pct. List: [[tossups],[topics]]
+def tieronequeue(number=3):  # makes a queue of all topics from last 7 days and correct rate of less than 33 pct. List: [[tossups],[topics]]
     with open("database/topics.json") as c:
         data = json.load(c)
     keys = []
@@ -314,3 +317,70 @@ def tossupinfo(topic):
     for key in answer1:
         finallist.append(key + " = " + str(answer1[key]))
     return finallist
+
+def selectalltopicsquestions(number = 10):
+    data = parsetopic("everythingbrainteam")
+    return sample(list(data.values()), number)
+
+
+
+
+####### EXPERIMENTAL ##############
+
+def downloadtopics(topics):
+    with open("database/alltopics.json") as a:
+        alltopics = json.load(a)
+    with open("database/topics.json") as b:
+        topicslist = json.load(b)
+    a.close()
+    b.close()
+    for topic in topics:
+        inp = quote(topic)
+        url = "https://www.quizdb.org/api/search?search%5Bquery%5D=" + inp + "&search%5Blimit%5D=false&download=json"
+        print(url)
+        data = json.load(urllib.request.urlopen(url))
+        x = 0
+        final = []
+        while x < len(data["data"]["tossups"]):
+            text = data["data"]["tossups"][x]["text"]
+            answer = data["data"]["tossups"][x]["answer"]
+            z = [text, answer, data["data"]["tossups"][x]["subcategory"]], topic
+            final.append(z)
+            x = x + 1
+        alltopics[topic] = final
+        topicslist[topic] = [0,0,0,0,int(data["data"]["num_tossups_found"])]
+    with open("database/alltopics.json",'w') as a:
+        json.dump(alltopics,a)
+    with open("database/topics.json",'w') as b:
+        json.dump(topicslist,b)
+
+def tieronequeue1(number=3):  # makes a queue of all topics from last 7 days and correct rate of less than 33 pct. List: [[tossups],[topics]]
+    with open("database/topics.json") as c:
+        data = json.load(c)
+    c.close()
+    keys = []
+    for key in data:
+        if key == 'date':
+            pass
+        else:
+            if data[key][2] + data[key][3] != 0:
+                if data[key][0] <= 7 or data[key][2] / (data[key][2] + data[key][3]) <= 0.33:
+                    keys.append(key)
+            else:
+                keys.append(key)
+    with open("database/alltopics.json") as c:
+        data = json.load(c)
+    c.close()
+    queue = []
+    for key in keys:
+        try:
+            tossups = sample(data[key], number)
+            for tossup in tossups:
+                queue.append(tossup)
+        except ValueError:
+            for tossup in data[key]:
+                queue.append(tossup)
+    print(queue)
+    shuffle(queue)
+    return queue
+

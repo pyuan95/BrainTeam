@@ -18,7 +18,9 @@ from kivy.uix.widget import Widget
 queue = brain.tieronequeue(3)
 queue2 = brain.tiertwoqueue()
 queue3 = brain.selectrandomquestion(10)
+allquestions = brain.selectalltopicsquestions()
 weightedplay = True
+allquestionsboolean = False
 numtopics = brain.numtopics()
 
 
@@ -105,6 +107,25 @@ class ReadBox(BoxLayout):
         self.questionsright = 0
         self.questionswrong = 0
 
+    def changesettings(self, obj):
+        self.clear_widgets()
+        self.box = FloatLayout(size_hint=(1, 1))
+        if allquestionsboolean: a = "Change Modes: To practice"
+        else: a = "Change Modes: To read random questions"
+        self.btn7 = Button(text=a, size_hint=(0.4, 0.4), pos_hint={'x': 0.55, 'y': 0.55})
+        self.btn4 = Button(text="Back", size_hint=(0.4, 0.4), pos_hint={'x': 0.055, 'y': 0.055})
+        self.btn7.bind(on_press = self.changemodes)
+        self.btn4.bind(on_press=self.back)
+        self.box.add_widget(self.btn7)
+        self.box.add_widget(self.btn4)
+        self.add_widget(self.box)
+
+    def changemodes(self, obj):
+        global allquestionsboolean
+        allquestionsboolean = not allquestionsboolean
+        self.back(obj)
+        self.read()
+
     def deletetopic(self, obj):
         global queue
         global queue2
@@ -169,7 +190,8 @@ class ReadBox(BoxLayout):
         self.tossupinfo1.valign = "center"
         self.tossupinfoFloat.add_widget(self.tossupinfo1)
         self.tossupinfoFloat.add_widget(self.backbutton)
-        self.tossupinfoFloat.add_widget(self.deletebutton)
+        if not allquestionsboolean: self.tossupinfoFloat.add_widget(self.deletebutton)
+        if allquestionsboolean: self.tossupinfo1.text = "Random tossups from all topics, \n including those you haven't downloaded."
         self.add_widget(self.tossupinfoFloat)
 
 
@@ -187,17 +209,22 @@ class ReadBox(BoxLayout):
         global queue
         global queue2
         global queue3
-        if len(queue) > 0:
-            self.answerbox.text = queue[0][0][1]
-            self.label.text = queue[0][0][0]
-        elif len(queue2) > 0:
-            self.answerbox.text = queue2[0][0][1]
-            self.label.text = queue2[0][0][0]
-        elif len(queue3) > 0:
-            self.answerbox.text = queue3[0][0][1]
-            self.label.text = queue3[0][0][0]
+        global allquestionsboolean
+        if allquestionsboolean:
+            self.answerbox.text = allquestions[0][0][1]
+            self.label.text = allquestions[0][0][0]
         else:
-            print("idk man")
+            if len(queue) > 0:
+                self.answerbox.text = queue[0][0][1]
+                self.label.text = queue[0][0][0]
+            elif len(queue2) > 0:
+                self.answerbox.text = queue2[0][0][1]
+                self.label.text = queue2[0][0][0]
+            elif len(queue3) > 0:
+                self.answerbox.text = queue3[0][0][1]
+                self.label.text = queue3[0][0][0]
+            else:
+                print("idk man")
         if len(self.answerbox.text.split()) > 20:
             textlist = self.answerbox.text.split()
             textlist = textlist[:20]
@@ -212,10 +239,10 @@ class ReadBox(BoxLayout):
         self.label.halign = 'left'
         self.label.valign = "top"
         try:
+            self.status.add_widget(self.moreoptions)
             self.anotherbox.add_widget(self.correctbuttons)
             self.anotherbox.add_widget(self.moreemptyspace)
             self.anotherbox.add_widget(self.tossupinfo)
-            self.status.add_widget(self.moreoptions)
 
         except:
             pass
@@ -230,6 +257,7 @@ class ReadBox(BoxLayout):
         self.btn4 = Button(text="Back", size_hint=(0.4, 0.4), pos_hint={'x': 0.055, 'y': 0.055})
         self.btn7.bind(on_press=self.changetopics)
         self.btn4.bind(on_press=self.back)
+        self.btn6.bind(on_press = self.changesettings)
         self.box.add_widget(self.btn7)
         self.box.add_widget(self.btn6)
         self.box.add_widget(self.btn5)
@@ -317,20 +345,26 @@ class ReadBox(BoxLayout):
         global queue
         global queue2
         global queue3
-        if len(queue) > 0:
-            brain.correct(queue[0][1])
-            del queue[0]
-            self.read()
-        elif len(queue2) > 0:
-            brain.correct(queue2[0][1])
-            del queue2[0]
-            self.read()
-        elif len(queue3) > 0:
-            brain.correct(queue3[0][1])
-            del queue3[0]
+        global allquestionsboolean
+        global allquestions
+        if allquestionsboolean:
+            del allquestions[0]
             self.read()
         else:
-            print("idk man")
+            if len(queue) > 0:
+                brain.correct(queue[0][1])
+                del queue[0]
+                self.read()
+            elif len(queue2) > 0:
+                brain.correct(queue2[0][1])
+                del queue2[0]
+                self.read()
+            elif len(queue3) > 0:
+                brain.correct(queue3[0][1])
+                del queue3[0]
+                self.read()
+            else:
+                print("idk man")
         self.questionsright = self.questionsright + 1
         self.updatestatus()
 
@@ -339,21 +373,27 @@ class ReadBox(BoxLayout):
         global queue
         global queue2
         global queue3
-        if len(queue) > 0:
-            brain.wrong(queue[0][1])
-            queue.append(brain.selectquestions(brain.parsetopic(queue[0][1]), 1)[0])
-            del queue[0]
-            self.read()
-        elif len(queue2) > 0:
-            brain.wrong(queue2[0][1])
-            del queue2[0]
-            self.read()
-        elif len(queue3) > 0:
-            brain.wrong(queue3[0][1])
-            del queue3[0]
+        global allquestionsboolean
+        global allquestions
+        if allquestionsboolean:
+            del allquestions[0]
             self.read()
         else:
-            print("idk man")
+            if len(queue) > 0:
+                brain.wrong(queue[0][1])
+                queue.append(brain.selectquestions(brain.parsetopic(queue[0][1]), 1)[0])
+                del queue[0]
+                self.read()
+            elif len(queue2) > 0:
+                brain.wrong(queue2[0][1])
+                del queue2[0]
+                self.read()
+            elif len(queue3) > 0:
+                brain.wrong(queue3[0][1])
+                del queue3[0]
+                self.read()
+            else:
+                print("idk man")
         self.questionswrong = self.questionswrong + 1
         self.updatestatus()
 
@@ -361,6 +401,8 @@ class ReadBox(BoxLayout):
         global queue
         global queue2
         global queue3
+        global allquestions
+        global allquestionsboolean
         sleep(0.01)
         # if len(queue) > 0:
         #     text = brain.split_into_sentences(queue[0][0][0])
@@ -371,15 +413,18 @@ class ReadBox(BoxLayout):
         #     text = brain.split_into_sentences(queue3[0][0][0])
         # else:
         #     text = brain.split_into_sentences(queue3[0][0][0])
-        if len(queue) > 0:
-            text = queue[0][0][0].split()
-        elif len(queue2) > 0:
-            text = queue2[0][0][0].split()
-        elif len(queue3) == 1:
-            self.updatetierthree()
-            text = queue3[0][0][0].split()
+        if len(queue3) == 1: self.updatetierthree()
+        if len(allquestions) == 1: self.updateallquestions()
+        if allquestionsboolean:
+            text = allquestions[0][0][0].split()
         else:
-            text = queue3[0][0][0].split()
+            if len(queue) > 0:
+                text = queue[0][0][0].split()
+            elif len(queue2) > 0:
+                text = queue2[0][0][0].split()
+            else:
+                text = queue3[0][0][0].split()
+
         x = 0
         # self.label.text = queue[0][0][0]
         self.label.text_size = self.label.size
@@ -398,10 +443,11 @@ class ReadBox(BoxLayout):
             print(x)
         if self.readbool:
             try:
-                self.anotherbox.add_widget(self.tossupinfo)
-                self.anotherbox.add_widget(self.moreemptyspace)
                 self.status.add_widget(self.moreoptions)
                 self.anotherbox.add_widget(self.correctbuttons)
+                self.anotherbox.add_widget(self.moreemptyspace)
+                self.anotherbox.add_widget(self.tossupinfo)
+
             except:
                 pass
 
@@ -439,22 +485,30 @@ class ReadBox(BoxLayout):
 
     def updatestatus(self):
         global queue
-        if len(queue) > 0:
-            self.statustext.text = "Tier one: " + str(len(queue)) + " tossups left"
-        elif len(queue2) > 0:
-            self.statustext.text = "Tier Two: " + str(len(queue2)) + " tossups left"
-        elif weightedplay:
-            self.statustext.text = "Tier Three: Weighted Play"
+        if allquestionsboolean:
+            self.statustext.text = "Reading random tossups. \n "
+            if self.questionswrong == 0 and self.questionsright == 0: a = ""
+            else:
+                a = str(self.questionsright) + "/" + str(self.questionswrong + self.questionsright) + " = " + str(
+                    int((100 * self.questionsright) / (self.questionsright + self.questionswrong))) + "%"
+            self.statustext.text += a
         else:
-            self.statustext.text = "Tier Three: Normal Play"
+            if len(queue) > 0:
+                self.statustext.text = "Tier one: " + str(len(queue)) + " tossups left"
+            elif len(queue2) > 0:
+                self.statustext.text = "Tier Two: " + str(len(queue2)) + " tossups left"
+            elif weightedplay:
+                self.statustext.text = "Tier Three: Weighted Play"
+            else:
+                self.statustext.text = "Tier Three: Normal Play"
 
-        if self.questionswrong == 0 and self.questionsright == 0:
-            self.statustext.text = "Status:\n" + self.statustext.text
-        else:
-            a = "\n" + str(self.questionsright) + "/" + str(self.questionswrong + self.questionsright) + " = " + str(
-                int((100 * self.questionsright) / (self.questionsright + self.questionswrong))) + "%"
-            self.statustext.text = "Status:\n" + self.statustext.text + a
-            print(a)
+            if self.questionswrong == 0 and self.questionsright == 0:
+                self.statustext.text = "Status:\n" + self.statustext.text
+            else:
+                a = "\n" + str(self.questionsright) + "/" + str(self.questionswrong + self.questionsright) + " = " + str(
+                    int((100 * self.questionsright) / (self.questionsright + self.questionswrong))) + "%"
+                self.statustext.text = "Status:\n" + self.statustext.text + a
+                print(a)
         self.statustext.text_size = self.statustext.size
         self.statustext.font_size = self.statustext.width * 0.17
         self.statustext.halign = 'center'
@@ -467,6 +521,10 @@ class ReadBox(BoxLayout):
             queue3 = brain.selectweightedquestion(10)
         else:
             queue3 = brain.selectrandomquestion(10)
+
+    def updateallquestions(self):
+        global allquestions
+        allquestions = brain.selectalltopicsquestions()
 
     def read(self):
         self.readbool = True
@@ -485,6 +543,7 @@ class ReadBox(BoxLayout):
         global numtopics
         sleep(0.01)
         self.updatestatus()
+        brain.updatedate()
         self.statustext.font_size = self.statustext.width * self.statustext.height * 0.0008
         if numtopics > 1:
             self.read()
