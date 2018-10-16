@@ -222,8 +222,7 @@ def tieronequeue(number=3):  # makes a queue of all topics from last 7 days and 
     return dicttolist(combinequestions(dictlist))
 
 
-def tiertwoqueue(
-        numberquestions=30):  # makes queue of n questions (def = 30), topics in last 30 days or hit rate less than 50% have 2x chance, may appear twice.
+def tiertwoqueue(numberquestions=30):  # makes queue of n questions (def = 30), topics in last 30 days or hit rate less than 50% have 2x chance, may appear twice.
     with open("database/topics.json") as c:
         data = json.load(c)
     keys = []
@@ -309,7 +308,7 @@ def moreinfo():
     print(data['data']['tossups'][0]['tournament'])
 
 
-def tossupinfo(topic):
+def tossupinfo(topic): # SHOULD BE DONE FROM MAIN.py AFTER THE UPDATE
     with open("database/" + topic + ".json") as c:
         data = json.load(c)
     answer1 = data["data"]["tossups"][0]["subcategory"]
@@ -321,8 +320,6 @@ def tossupinfo(topic):
 def selectalltopicsquestions(number = 10):
     data = parsetopic("everythingbrainteam")
     return sample(list(data.values()), number)
-
-
 
 
 ####### EXPERIMENTAL ##############
@@ -384,3 +381,70 @@ def tieronequeue1(number=3):  # makes a queue of all topics from last 7 days and
     shuffle(queue)
     return queue
 
+def tiertwoqueue1(number=3):  # makes a queue of all topics from last 7 days and correct rate of less than 33 pct. List: [[tossups],[topics]]
+    with open("database/topics.json") as c:
+        data = json.load(c)
+    c.close()
+    keys = []
+    for key in data:
+        if key == 'date':
+            pass
+        else:
+            if data[key][2] + data[key][3] != 0:
+                if data[key][0] <= 21 or data[key][2] / (data[key][2] + data[key][3]) <= 0.5:
+                    keys.append(key)
+            else:
+                keys.append(key)
+    with open("database/alltopics.json") as c:
+        data = json.load(c)
+    c.close()
+    queue = []
+    for key in keys:
+        try:
+            tossups = sample(data[key], number)
+            for tossup in tossups:
+                queue.append(tossup)
+        except ValueError:
+            for tossup in data[key]:
+                queue.append(tossup)
+    print(queue)
+    shuffle(queue)
+    return queue
+
+def selectrandomquestion1(number = 1):
+    with open("database/alltopics.json") as c:
+        data = json.load(c)
+    try: a = sample(data.values(), number)
+    except: a = data.values()
+    queue3 = []
+    for topic in a:
+        queue3.append((sample(data[topic]),1))
+    return queue3
+
+def selectweightedquestion1(number = 20):
+    with open("database/topics.json") as c:
+        data = json.load(c)
+    keys = []
+    for key in data:
+        if key == "date":
+            pass
+        else:
+            x = 0
+            y = data[key][4]
+            while x < y:
+                keys.append(key)
+                x = x + 1
+    try:
+        a = sample(keys, number)
+    except:
+        a = keys
+
+    with open("database/alltopics.json") as c:
+        data = json.load(c)
+    queue4 = []
+    for topic in a:
+        queue4.append((sample(data[topic]), 1))
+    return queue4
+
+downloadtopics(["trump","clinton","java"])
+#print(selectrandomquestion1())

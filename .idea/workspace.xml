@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2f1ed5b-277b-452f-be2a-4b1929f64f83" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/BrainTeam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BrainTeam.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/3.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/topics.json" beforeDir="false" afterPath="$PROJECT_DIR$/database/topics.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,26 +50,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="json" value="9" />
+          <entry key="json" value="11" />
           <entry key="py" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="9" />
+          <entry key="JSON" value="11" />
           <entry key="Python" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="json" value="18" />
-          <entry key="py" value="2264" />
+          <entry key="py" value="2580" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="18" />
-          <entry key="Python" value="2264" />
+          <entry key="Python" value="2580" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -102,11 +94,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/brain.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="376" column="47" lean-forward="true" selection-start-line="376" selection-start-column="47" selection-end-line="376" selection-end-column="47" />
+            <state relative-caret-position="58">
+              <caret line="310" column="69" selection-start-line="310" selection-start-column="69" selection-end-line="310" selection-end-column="69" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
-                <marker date="1539667574137" expanded="true" signature="9642:11632" ph="..." />
+                <marker date="1539669097357" expanded="true" signature="9678:12631" ph="..." />
               </folding>
             </state>
           </provider>
@@ -149,6 +141,7 @@
       <find>parsetopic</find>
       <find>jsondum</find>
       <find>jsondump</find>
+      <find>selectrand</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -165,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="31" />
     <option name="y" value="407" />
     <option name="width" value="1408" />
@@ -309,15 +302,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24917382" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24917382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32765958" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32765958" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -355,17 +348,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alltopics.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/alltopics.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alltopics.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -378,11 +371,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/brain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="376" column="47" lean-forward="true" selection-start-line="376" selection-start-column="47" selection-end-line="376" selection-end-column="47" />
+        <state relative-caret-position="58">
+          <caret line="310" column="69" selection-start-line="310" selection-start-column="69" selection-end-line="310" selection-end-column="69" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
-            <marker date="1539667574137" expanded="true" signature="9642:11632" ph="..." />
+            <marker date="1539669097357" expanded="true" signature="9678:12631" ph="..." />
           </folding>
         </state>
       </provider>
