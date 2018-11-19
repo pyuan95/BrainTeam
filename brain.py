@@ -446,5 +446,5 @@ def selectweightedquestion1(number = 20):
         queue4.append((sample(data[topic]), 1))
     return queue4
 
-downloadtopics(["trump","clinton","java"])
+downloadtopics(["Iran","Hoppity"])
 #print(selectrandomquestion1())

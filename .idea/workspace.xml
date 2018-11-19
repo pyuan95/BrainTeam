@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2f1ed5b-277b-452f-be2a-4b1929f64f83" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/BrainTeam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BrainTeam.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/alltopics.json" beforeDir="false" afterPath="$PROJECT_DIR$/database/alltopics.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/topics.json" beforeDir="false" afterPath="$PROJECT_DIR$/database/topics.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,32 +50,39 @@
     <session id="426300518">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="json" value="11" />
-          <entry key="py" value="1" />
+          <entry key="json" value="20" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="11" />
-          <entry key="Python" value="1" />
+          <entry key="JSON" value="20" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="json" value="18" />
-          <entry key="py" value="2580" />
+          <entry key="py" value="9870" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="18" />
-          <entry key="Python" value="2580" />
+          <entry key="Python" value="9870" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -78,48 +91,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
+        <entry file="file://$PROJECT_DIR$/../homeworkplanner/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="118" selection-start-line="118" selection-end-line="118" />
+            <state relative-caret-position="143">
+              <caret line="29" column="6" selection-start-line="29" selection-end-line="29" selection-end-column="6" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
-                <marker date="1539657143483" expanded="true" signature="6093:6231" ph="..." />
-                <marker date="1539657143483" expanded="true" signature="6258:6267" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/brain.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="310" column="69" selection-start-line="310" selection-start-column="69" selection-end-line="310" selection-end-column="69" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-                <marker date="1539669097357" expanded="true" signature="9678:12631" ph="..." />
+                <marker date="1542155931673" expanded="true" signature="1135:2493" ph="..." />
+                <marker date="1542155931673" expanded="true" signature="2520:2525" ph="..." />
+                <marker date="1542155931673" expanded="true" signature="3749:3758" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/database/topics.json">
+        <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="312" selection-start-column="312" selection-end-column="312" />
+            <state relative-caret-position="1683">
+              <caret line="115" column="27" lean-forward="true" selection-start-line="115" selection-end-line="116" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sqlite.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="92" column="56" selection-start-line="92" selection-start-column="56" selection-end-line="92" selection-end-column="56" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1542155868060" expanded="true" signature="975:980" ph="..." />
+                <marker date="1542155868060" expanded="true" signature="3660:3744" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>textin</find>
-      <find>answer(</find>
-      <find>clear</find>
       <find>update</find>
       <find>dicttolist</find>
       <find>sample</find>
@@ -137,11 +156,19 @@
       <find>self.a =</find>
       <find>self.toss</find>
       <find>self.tossupinfo</find>
-      <find>self.tossupinfo</find>
       <find>parsetopic</find>
       <find>jsondum</find>
       <find>jsondump</find>
       <find>selectrand</find>
+      <find>hoppity</find>
+      <find>updatela</find>
+      <find>strong</find>
+      <find>subcate</find>
+      <find>root</find>
+      <find>fetc</find>
+      <find>float</find>
+      <find>db.exec</find>
+      <find>db.exe</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -155,20 +182,54 @@
         <option value="$PROJECT_DIR$/alltopics.json" />
         <option value="$PROJECT_DIR$/database/alltopics.json" />
         <option value="$PROJECT_DIR$/brain.py" />
+        <option value="$PROJECT_DIR$/sqlite3.py" />
+        <option value="$PROJECT_DIR$/../homeworkplanner/main.py" />
+        <option value="$PROJECT_DIR$/sqlite.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="31" />
-    <option name="y" value="407" />
-    <option name="width" value="1408" />
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
     <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BrainTeam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BrainTeam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BrainTeam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homeworkplanner" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -185,26 +246,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="BrainTeam" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BrainTeam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BrainTeam" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BrainTeam" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/brain.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../homeworkplanner/main.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -219,7 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Brain Team backend">
+  <component name="RunManager" selected="Python.homeworkplanner">
     <configuration name="Brain Team backend" type="PythonConfigurationType" factoryName="Python">
       <module name="BrainTeam" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,9 +328,53 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="homeworkplanner" type="PythonConfigurationType" factoryName="Python">
+      <module name="BrainTeam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\patri\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../homeworkplanner" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../homeworkplanner/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sqllite" type="PythonConfigurationType" factoryName="Python">
+      <module name="BrainTeam" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\patri\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\patri\Documents\GitHub\BrainTeam\sqlite.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.braint team gui" />
       <item itemvalue="Python.Brain Team backend" />
+      <item itemvalue="Python.sqllite" />
+      <item itemvalue="Python.homeworkplanner" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -305,12 +394,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24917382" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.122934565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32765958" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27659574" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -328,30 +417,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../HomeworkPlanner/main.py" />
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-            <marker date="1539657143483" expanded="true" signature="6093:6231" ph="..." />
-            <marker date="1539657143483" expanded="true" signature="6258:6267" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/trump.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret column="924" selection-end-column="209603" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/alltopics.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -362,20 +431,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/topics.json">
+    <entry file="file://$PROJECT_DIR$/database/alltopics.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret column="232851" selection-start-column="232844" selection-end-column="232851" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/hindi.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="312" selection-start-column="312" selection-end-column="312" />
+          <caret column="26" selection-start-column="11" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/brain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="310" column="69" selection-start-line="310" selection-start-column="69" selection-end-line="310" selection-end-column="69" />
+        <state relative-caret-position="1819">
+          <caret line="112" column="13" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/topics.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="342" selection-start-column="342" selection-end-column="342" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="115" column="27" lean-forward="true" selection-start-line="115" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../homeworkplanner/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="29" column="6" selection-start-line="29" selection-end-line="29" selection-end-column="6" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <marker date="1539669097357" expanded="true" signature="9678:12631" ph="..." />
+            <element signature="e#0#40#0" expanded="true" />
+            <marker date="1542155931673" expanded="true" signature="1135:2493" ph="..." />
+            <marker date="1542155931673" expanded="true" signature="2520:2525" ph="..." />
+            <marker date="1542155931673" expanded="true" signature="3749:3758" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sqlite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="92" column="56" selection-start-line="92" selection-start-column="56" selection-end-line="92" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1542155868060" expanded="true" signature="975:980" ph="..." />
+            <marker date="1542155868060" expanded="true" signature="3660:3744" ph="..." />
           </folding>
         </state>
       </provider>
