@@ -44,14 +44,14 @@ class ReadBox(BoxLayout):
         self._keyboard.bind(on_key_down=self._on_keyboard_down)
         self.orientation = "horizontal"
         self.readbool = True
-        self.padding = 5
+        self.padding = 10
         # We start with binding to a normal event. The only argument
         # passed to the callback is the object which we have bound to.
         self.label = Button(text="my man!", size_hint=(1, 0.85), background_normal="", background_color=(0, 0, 0, 1))
         self.label.bind(on_press=self.answer)
         self.label.bind(pos=self.updatelabelsize, size=self.updatelabelsize)
         self.answerbox = Label(text="Answer:", size_hint=(1, 0.11), color=(0, 0, 0, 1))
-        self.boxone = BoxLayout(size_hint=(0.85, 1), padding=15)
+        self.boxone = BoxLayout(size_hint=(0.85, 1), padding=10)
         self.boxone.orientation = "vertical"
         self.anotherbox = BoxLayout(size_hint=(0.143, 1), orientation="vertical", padding = 8)
         with self.canvas:
