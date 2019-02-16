@@ -313,7 +313,6 @@ def tossupinfo(topic): # SHOULD BE DONE FROM MAIN.py AFTER THE UPDATE
     for key in answer1:
         finallist.append(key + " = " + str(answer1[key]))
     return finallist
-<<<<<<< HEAD
 
 def selectalltopicsquestions(number = 10):
     data = parsetopic("everythingbrainteam")
@@ -446,5 +445,4 @@ def selectweightedquestion1(number = 20):
 
 downloadtopics(["Iran","Hoppity"])
 #print(selectrandomquestion1())
-=======
->>>>>>> parent of 510dbfe... add alltopics feature
+
