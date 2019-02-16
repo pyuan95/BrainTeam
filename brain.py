@@ -444,6 +444,11 @@ def selectweightedquestion1(number = 20):
         queue4.append((sample(data[topic]), 1))
     return queue4
 
+<<<<<<< HEAD
 downloadtopics(["Iran","Hoppity"])
 #print(selectrandomquestion1())
 
+=======
+downloadtopics(["trump","clinton","java"])
+#print(selectrandomquestion1())
+>>>>>>> parent of 0f1b272... jj
