@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BrainTeam.iml" filepath="$PROJECT_DIR$/.idea/BrainTeam.iml" />
       <module fileurl="file://$PROJECT_DIR$/../HomeworkPlanner/.idea/BrainTeam.iml" filepath="$PROJECT_DIR$/../HomeworkPlanner/.idea/BrainTeam.iml" />
       <module fileurl="file://$PROJECT_DIR$/../homeworkplanner/.idea/homeworkplanner.iml" filepath="$PROJECT_DIR$/../homeworkplanner/.idea/homeworkplanner.iml" />
     </modules>

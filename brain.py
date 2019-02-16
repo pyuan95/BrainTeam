@@ -1,4 +1,4 @@
-import urllib.request
+import requests
 from urllib.parse import quote
 import json
 from datetime import datetime
@@ -49,7 +49,7 @@ def cleartopics():
     with open("database/topics.json") as c:
         data = json.load(c)
     for key in list(data):
-        if key == "date" or key == "__everything__":
+        if key == "date":
             pass
         else:
             data.pop(key, None)
@@ -76,7 +76,7 @@ def jsondump(topic):
     inp = quote(topic)
     url = "https://www.quizdb.org/api/search?search%5Bquery%5D=" + inp + "&search%5Blimit%5D=false&download=json"
     print(url)
-    a = json.load(urllib.request.urlopen(url))
+    a = requests.get(url).json()
     b = open("database/" + topic + ".json", "w")
     json.dump(a, b)
     b.close()
@@ -145,12 +145,8 @@ def wrong(topic):
 
 
 def parsetopic(topic):
-    if topic == "everythingbrainteam":
-        with open("everythingbrainteam.json") as c:
-            data = json.load(c)
-    else:
-        with open("database/" + topic + ".json") as c:
-            data = json.load(c)
+    with open("database/" + topic + ".json") as c:
+        data = json.load(c)
     x = 0
     final = {}
     while x < len(data["data"]["tossups"]):
@@ -203,7 +199,8 @@ def dicttolist(dictionary):  # also shuffles the dictionary into random order
     return final
 
 
-def tieronequeue(number=3):  # makes a queue of all topics from last 7 days and correct rate of less than 33 pct. List: [[tossups],[topics]]
+def tieronequeue(
+        number=3):  # makes a queue of all topics from last 7 days and correct rate of less than 33 pct. List: [[tossups],[topics]]
     with open("database/topics.json") as c:
         data = json.load(c)
     keys = []
@@ -316,6 +313,7 @@ def tossupinfo(topic): # SHOULD BE DONE FROM MAIN.py AFTER THE UPDATE
     for key in answer1:
         finallist.append(key + " = " + str(answer1[key]))
     return finallist
+<<<<<<< HEAD
 
 def selectalltopicsquestions(number = 10):
     data = parsetopic("everythingbrainteam")
@@ -448,3 +446,5 @@ def selectweightedquestion1(number = 20):
 
 downloadtopics(["Iran","Hoppity"])
 #print(selectrandomquestion1())
+=======
+>>>>>>> parent of 510dbfe... add alltopics feature
