@@ -4,7 +4,11 @@ import json
 from datetime import datetime
 import re
 from random import sample, shuffle
+<<<<<<< HEAD
 
+=======
+from math import floor
+>>>>>>> parent of 2c457ae... Reformat stuff and stuff
 def split_into_sentences(text):
     caps = "([A-Z])"
     prefixes = "(Mr|St|Mrs|Ms|Dr)[.]"
@@ -13,36 +17,34 @@ def split_into_sentences(text):
     acronyms = "([A-Z][.][A-Z][.](?:[A-Z][.])?)"
     websites = "[.](com|net|org|io|gov)"
     text = " " + text + "  "
-    text = text.replace("\n", " ")
-    text = re.sub(prefixes, "\\1<prd>", text)
-    text = re.sub(websites, "<prd>\\1", text)
-    if "Ph.D" in text: text = text.replace("Ph.D.", "Ph<prd>D<prd>")
-    text = re.sub("\s" + caps + "[.] ", " \\1<prd> ", text)
-    text = re.sub(acronyms + " " + starters, "\\1<stop> \\2", text)
-    text = re.sub(caps + "[.]" + caps + "[.]" + caps + "[.]", "\\1<prd>\\2<prd>\\3<prd>", text)
-    text = re.sub(caps + "[.]" + caps + "[.]", "\\1<prd>\\2<prd>", text)
-    text = re.sub(" " + suffixes + "[.] " + starters, " \\1<stop> \\2", text)
-    text = re.sub(" " + suffixes + "[.]", " \\1<prd>", text)
-    text = re.sub(" " + caps + "[.]", " \\1<prd>", text)
-    if "”" in text: text = text.replace(".”", "”.")
-    if "\"" in text: text = text.replace(".\"", "\".")
-    if "!" in text: text = text.replace("!\"", "\"!")
-    if "?" in text: text = text.replace("?\"", "\"?")
-    text = text.replace(".", ".<stop>")
-    text = text.replace("?", "?<stop>")
-    text = text.replace("!", "!<stop>")
-    text = text.replace("<prd>", ".")
+    text = text.replace("\n"," ")
+    text = re.sub(prefixes,"\\1<prd>",text)
+    text = re.sub(websites,"<prd>\\1",text)
+    if "Ph.D" in text: text = text.replace("Ph.D.","Ph<prd>D<prd>")
+    text = re.sub("\s" + caps + "[.] "," \\1<prd> ",text)
+    text = re.sub(acronyms+" "+starters,"\\1<stop> \\2",text)
+    text = re.sub(caps + "[.]" + caps + "[.]" + caps + "[.]","\\1<prd>\\2<prd>\\3<prd>",text)
+    text = re.sub(caps + "[.]" + caps + "[.]","\\1<prd>\\2<prd>",text)
+    text = re.sub(" "+suffixes+"[.] "+starters," \\1<stop> \\2",text)
+    text = re.sub(" "+suffixes+"[.]"," \\1<prd>",text)
+    text = re.sub(" " + caps + "[.]"," \\1<prd>",text)
+    if "”" in text: text = text.replace(".”","”.")
+    if "\"" in text: text = text.replace(".\"","\".")
+    if "!" in text: text = text.replace("!\"","\"!")
+    if "?" in text: text = text.replace("?\"","\"?")
+    text = text.replace(".",".<stop>")
+    text = text.replace("?","?<stop>")
+    text = text.replace("!","!<stop>")
+    text = text.replace("<prd>",".")
     sentences = text.split("<stop>")
     sentences = sentences[:-1]
     sentences = [s.strip() for s in sentences]
     return sentences
 
-
-def cleanhtml(raw_html):  # kinda useless tbh
-    cleanr = re.compile('<.*?>')
-    cleantext = re.sub(cleanr, '', raw_html)
-    return cleantext
-
+def cleanhtml(raw_html): #kinda useless tbh
+  cleanr = re.compile('<.*?>')
+  cleantext = re.sub(cleanr, '', raw_html)
+  return cleantext
 
 def cleartopics():
     from os import remove
@@ -71,13 +73,13 @@ def removetopic(topic):
     c.close()
 
 
-# topics.json format: (topic: [daysage, openage, right, wrong])
+#topics.json format: (topic: [daysage, openage, right, wrong])
 def jsondump(topic):
     inp = quote(topic)
     url = "https://www.quizdb.org/api/search?search%5Bquery%5D=" + inp + "&search%5Blimit%5D=false&download=json"
     print(url)
     a = requests.get(url).json()
-    b = open("database/" + topic + ".json", "w")
+    b = open("database/" + topic + ".json","w")
     json.dump(a, b)
     b.close()
     b = open("database/" + topic + ".json")
@@ -93,17 +95,22 @@ def jsondump(topic):
         data = json.load(c)
     c.close()
     data[topic] = [0, 0, 0, 0, int(weight)]
+<<<<<<< HEAD
     c = open("database/topics.json", "w")
     json.dump(data, c)
     c.close()
 
+=======
+    c = open("database/topics.json","w")
+    json.dump(data,c)
+>>>>>>> parent of 2c457ae... Reformat stuff and stuff
 
-def updatedate():  # run on startup
+def updatedate(): #run on startup
     with open("database/topics.json") as c:
         data = json.load(c)
     olddate = datetime.strptime(data["date"], '%Y-%m-%d')
     newdate = datetime.now()
-    days = int((newdate - olddate).days)
+    days = int((newdate-olddate).days)
     for key in data:
         if key == "date":
             data[key] = newdate.strftime('%Y-%m-%d')
@@ -114,7 +121,6 @@ def updatedate():  # run on startup
     c = open("database/topics.json", "w")
     json.dump(data, c)
     c.close()
-
 
 def correct(topic):
     with open("database/topics.json") as c:
@@ -128,7 +134,6 @@ def correct(topic):
     c = open("database/topics.json", "w")
     json.dump(data, c)
     c.close()
-
 
 def wrong(topic):
     with open("database/topics.json") as c:
@@ -152,20 +157,18 @@ def parsetopic(topic):
     while x < len(data["data"]["tossups"]):
         text = data["data"]["tossups"][x]["text"]
         answer = data["data"]["tossups"][x]["answer"]
-        final[x] = [text, answer], topic
+        final[x] = [text,answer], topic
         x = x + 1
     c.close()
     return final
-
-
-def readtopic(lst):  # input a list [question, answer]
+def readtopic(lst): #input a list [question, answer]
     question = lst[0]
-    # answer = lst[1]
+    #answer = lst[1]
     questionsentences = split_into_sentences(question)
     return questionsentences
 
 
-def selectquestions(dictionary, questionnumber=3):
+def selectquestions(dictionary, questionnumber = 3):
     questionrange = list(range(len(dictionary)))
     if len(questionrange) < questionnumber:
         return dictionary
@@ -176,7 +179,6 @@ def selectquestions(dictionary, questionnumber=3):
         final[x] = dictionary[num]
         x = x + 1
     return final
-
 
 def combinequestions(dictionaries):
     questionlist = []
@@ -190,7 +192,6 @@ def combinequestions(dictionaries):
         x = x + 1
     return final
 
-
 def dicttolist(dictionary):  # also shuffles the dictionary into random order
     final = list()
     for key in dictionary:
@@ -198,9 +199,7 @@ def dicttolist(dictionary):  # also shuffles the dictionary into random order
     shuffle(final)
     return final
 
-
-def tieronequeue(
-        number=3):  # makes a queue of all topics from last 7 days and correct rate of less than 33 pct. List: [[tossups],[topics]]
+def tieronequeue(number = 3): #makes a queue of all topics from last 7 days and correct rate of less than 33 pct. List: [[tossups],[topics]]
     with open("database/topics.json") as c:
         data = json.load(c)
     keys = []
@@ -209,7 +208,7 @@ def tieronequeue(
             pass
         else:
             if data[key][2] + data[key][3] != 0:
-                if data[key][0] <= 7 or data[key][2] / (data[key][2] + data[key][3]) <= 0.33:
+                if data[key][0] <= 7 or data[key][2]/(data[key][2] + data[key][3]) <= 0.33:
                     keys.append(key)
             else:
                 keys.append(key)
@@ -218,8 +217,12 @@ def tieronequeue(
         dictlist.append(selectquestions(parsetopic(key), questionnumber=number))
     return dicttolist(combinequestions(dictlist))
 
+<<<<<<< HEAD
 
 def tiertwoqueue(numberquestions=30):  # makes queue of n questions (def = 30), topics in last 30 days or hit rate less than 50% have 2x chance, may appear twice.
+=======
+def tiertwoqueue(numberquestions = 30): # makes queue of n questions (def = 30), topics in last 30 days or hit rate less than 50% have 2x chance, may appear twice.
+>>>>>>> parent of 2c457ae... Reformat stuff and stuff
     with open("database/topics.json") as c:
         data = json.load(c)
     keys = []
@@ -228,7 +231,7 @@ def tiertwoqueue(numberquestions=30):  # makes queue of n questions (def = 30), 
             pass
         else:
             if data[key][2] + data[key][3] != 0:
-                if data[key][0] <= 21 or data[key][2] / (data[key][2] + data[key][3]) <= 0.5:
+                if data[key][0] <= 21 or data[key][2]/(data[key][2] + data[key][3]) <= 0.5:
                     keys.append(key)
             else:
                 keys.append(key)
@@ -246,8 +249,7 @@ def tiertwoqueue(numberquestions=30):  # makes queue of n questions (def = 30), 
         dictlist.append(selectquestions(parsetopic(topic), questionnumber=1))
     return dicttolist(combinequestions(dictlist))
 
-
-def selectrandomquestion(number=1):
+def selectrandomquestion(number = 1):
     with open("database/topics.json") as c:
         data = json.load(c)
     keys = []
@@ -266,7 +268,7 @@ def selectrandomquestion(number=1):
     return dicttolist(combinequestions(dictlist))
 
 
-def selectweightedquestion(number=1):
+def selectweightedquestion(number = 1):
     with open("database/topics.json") as c:
         data = json.load(c)
     keys = []
@@ -297,7 +299,6 @@ def numtopics():
         data = json.load(c)
 
     return len(data) - 1
-
 
 def moreinfo():
     with open("database/" + "Clinton" + ".json") as c:
