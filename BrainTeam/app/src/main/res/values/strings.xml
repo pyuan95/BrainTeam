@@ -116,5 +116,7 @@
     <string name="title_activity_delete_topics">DeleteTopicsActivity</string>
     <string name="cancel">Cancel</string>
     <string name="ok">OK</string>
-    <string name="selectRandomTossupsTitle">Select categories:</string>
+    <string name="selectRandomTossupsTitleCategories">Select categories:</string>
+    <string name="selectRandomTossupsTitleDifficulties">Select difficulties:</string>
+
 </resources>

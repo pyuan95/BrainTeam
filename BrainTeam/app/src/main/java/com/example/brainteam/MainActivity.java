@@ -24,7 +24,9 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
-    public static final String buttonName = "com.example.brainteam.MainActivity.buttonName";
+    public static final String categories = "com.example.brainteam.MainActivity.categories";
+    public static final String difficulties = "com.example.brainteam.MainActivity.difficulties";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -99,30 +101,65 @@ public class MainActivity extends AppCompatActivity
         return true;
     }
 
+
+    /**
+     * This is some complicated shit. Basically, we have a Checklist in a Checklist. Checklistception. Don't worry about it.
+     * Hopefully you will never have to debug this stuff.
+     * @param view The button that the user clicked.
+     */
     public void changeToReadActivity(View view)
     {
         if (((Button) view).getText().equals("Read random tossups"))
         {
-            final ArrayList<String> selectedItems = new ArrayList<String>();
+            final ArrayList<String> categoriesArr = new ArrayList<String>();
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
-            builder.setTitle(R.string.selectRandomTossupsTitle).setMultiChoiceItems(R.array.tossupCategories, null, new DialogInterface.OnMultiChoiceClickListener() {
+            builder.setTitle(R.string.selectRandomTossupsTitleCategories).setMultiChoiceItems(R.array.tossupCategories, null, new DialogInterface.OnMultiChoiceClickListener() {
                 @Override
                 public void onClick(DialogInterface dialog, int which, boolean isChecked) {
                     if (isChecked)
                     {
                         Resources res = getResources();
-                        selectedItems.add(res.getStringArray(R.array.tossupCategories)[which]); // adds selected items
+                        categoriesArr.add(res.getStringArray(R.array.tossupCategories)[which]); // adds selected items
                     }
                     else
                     {
                         Resources res = getResources();
-                        selectedItems.remove(res.getStringArray(R.array.tossupCategories)[which]); // deletes selected items
+                        categoriesArr.remove(res.getStringArray(R.array.tossupCategories)[which]); // deletes selected items
                     }
                 }
             }).setPositiveButton(R.string.ok, new DialogInterface.OnClickListener() {
                 @Override
-                public void onClick(DialogInterface dialog, int which) {
-                    changeToReadActivityHelper(selectedItems);
+                public void onClick(DialogInterface dialog, int which)
+                {
+                    final ArrayList<String> difficultiesArr = new ArrayList<String>();
+                    AlertDialog.Builder builder1 = new AlertDialog.Builder(MainActivity.this);
+                    builder1.setTitle(R.string.selectRandomTossupsTitleDifficulties).setMultiChoiceItems(R.array.tossupDifficulties, null, new DialogInterface.OnMultiChoiceClickListener() {
+                        @Override
+                        public void onClick(DialogInterface dialog, int which, boolean isChecked) {
+                            if (isChecked)
+                            {
+                                Resources res = getResources();
+                                difficultiesArr.add(res.getStringArray(R.array.tossupDifficulties)[which]); // adds selected items
+                            }
+                            else
+                            {
+                                Resources res = getResources();
+                                difficultiesArr.remove(res.getStringArray(R.array.tossupDifficulties)[which]); // deletes selected items
+                            }
+                        }
+                    }).setPositiveButton(R.string.ok, new DialogInterface.OnClickListener() {
+                        @Override
+                        public void onClick(DialogInterface dialog, int which) {
+                            changeToReadActivityHelper(categoriesArr, difficultiesArr);
+                        }
+                    }).setNegativeButton(R.string.cancel, new DialogInterface.OnClickListener() {
+                        @Override
+                        public void onClick(DialogInterface dialog, int which) {
+                            // If the user clicks cancel, do nothing.
+                        }
+                    });
+                    builder1.create().show();
+
                 }
             }).setNegativeButton(R.string.cancel, new DialogInterface.OnClickListener() {
                 @Override
@@ -135,14 +172,15 @@ public class MainActivity extends AppCompatActivity
         else {
             ArrayList<String> arr = new ArrayList<String>();
             arr.add((String) ((Button) view).getText()); // Add the text of the button to the String array that will be passed to the Read Activity.
-            changeToReadActivityHelper(arr);
+            changeToReadActivityHelper(arr, null);
         }
     }
 
-    public void changeToReadActivityHelper(ArrayList<String> arr)
+    public void changeToReadActivityHelper(ArrayList<String> categoriesArr, ArrayList<String> difficultiesArr)
     {
         Intent intent = new Intent(this, ReadActivity.class);
-        intent.putExtra(buttonName, arr);
+        intent.putExtra(categories, categoriesArr);
+        intent.putExtra(difficulties, difficultiesArr);
         startActivity(intent);
     }
 

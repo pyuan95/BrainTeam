@@ -14,16 +14,52 @@ public class DatabaseManager extends SQLiteOpenHelper
     SQLiteDatabase topicData;
     int[] IDs;
     int[][] equalIDs;
+    boolean equal = false;
+    // Equal selection from each topic will be implemented later.
+
 
     private static final String DATABASE_NAME = "topicData.db";
     private static final int DATABASE_VERSION = 1;
 
 
-    DatabaseManager(Context context)
+    DatabaseManager(Context context, ArrayList<String> categories, ArrayList<String> difficulties)
     {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
         topicData = getWritableDatabase();
+        if (categories.contains(R.string.lastWeek)) { IDs = lastWeek(); }
+        else if (categories.contains(R.string.lastMonth)) { IDs = lastMonth();}
+        else if (categories.contains(R.string.lastAll)) {IDs = lastAll();}
+        else {IDs = selectRandomTossups(categories, difficulties);}
     }
+
+    /**
+     * Gets the next tossup. HAS NOT implemented the "equal topic" feature yet.
+     * @return A String array, containing: Tossup info, the tossup, and the answer.
+     */
+    public String[] getNextTossup()
+    {
+        if (!equal)
+        {
+            // The columnindex numbers used here reflect the db file where there is no "regular" text; only formattedText.
+
+            int id = IDs[(int) (Math.random() * IDs.length)]; //Select a Random Tossup
+            String sql = "SELECT * FROM allTossups WHERE tossupID=?";
+            Cursor cursor = allTossups.rawQuery(sql, new String[] {Integer.toString(id)});
+            // Should be only one row in the cursor.
+            cursor.moveToFirst();
+            String info = cursor.getString(4) //Tournament
+                    + ", " + cursor.getString(5) //Difficulty
+                    + ", " + cursor.getString(6); //Category
+            String question = cursor.getString(2); // formattedText
+            String answer = cursor.getString(3);
+            return new String[] {info, question, answer};
+        }
+        else
+        {
+            return new String[] {"This is", "not implemented", "yet!"};
+        }
+    }
+
 
     @Override
     public void onCreate(SQLiteDatabase db)
@@ -219,35 +255,46 @@ public class DatabaseManager extends SQLiteOpenHelper
      * Difficulties: All, Middle School, Easy High School, Regular High School, National High School, Easy College, Regular College, Hard College, Open.
      * @return the ids of the tossups
      */
-    public ArrayList<Integer> selectRandomTossups(ArrayList<String> categories, ArrayList<String> difficulties)
+    public int[] selectRandomTossups(ArrayList<String> categories, ArrayList<String> difficulties)
     {
         String categoriesList = TextUtils.join(",", categories);
         String difficultiesList = TextUtils.join(",", difficulties);
-        String sql = "SELECT * FROM allTossups WHERE ";
-
+        String sql = "SELECT tossupID FROM allTossups WHERE ";
         if (categories.size() == 0 || difficulties.size() == 0)
         {
             sql += "1=1";
         }
         else if ((!categories.contains("All")) && difficulties.contains("All"))
         {
-            sql += "category IN " + categoriesList;
+            sql += "category IN (" + categoriesList + ")";
         }
         else if (categories.contains("All") && (!difficulties.contains("All")))
         {
-            sql += "difficulty IN " + difficultiesList;
+            sql += "difficulty IN (" + difficultiesList + ")";
         }
         else if ((!categories.contains("All")) && (!difficulties.contains("All")))
         {
-            sql += "category IN " + categoriesList + " AND difficulty IN " + difficultiesList;
+            sql += "category IN (" + categoriesList + ")" + " AND difficulty IN (" + difficultiesList + ")";
         }
         else
         {
             sql += "1=1";
         }
 
+        ArrayList<Integer> IDs = new ArrayList<>();
         Cursor cursor = allTossups.rawQuery(sql, null);
+        while (cursor.moveToNext())
+        {
+            IDs.add(cursor.getInt(0));
+        }
 
+        int[] IDsArray = new int[IDs.size()];
+        for (int i = 0; i < IDs.size(); i++)
+        {
+            IDsArray[i] = IDs.get(i);
+        }
+
+        return IDsArray;
     }
 
     /**

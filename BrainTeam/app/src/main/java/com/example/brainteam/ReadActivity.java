@@ -13,8 +13,6 @@ import java.util.ArrayList;
 import static android.database.sqlite.SQLiteDatabase.openOrCreateDatabase;
 
 public class ReadActivity extends AppCompatActivity {
-    public static final String EXTRA_MESSAGE = "com.example.brainteam.MESSAGE";
-    SQLiteDatabase allTossups = openOrCreateDatabase("allTossups.db",MODE_PRIVATE,null);
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
@@ -26,7 +24,7 @@ public class ReadActivity extends AppCompatActivity {
     public void read(View view)
     {
         Intent intent = this.getIntent();
-        final ArrayList<String> buttonName = intent.getStringArrayListExtra(MainActivity.buttonName);
+        final ArrayList<String> categories = intent.getStringArrayListExtra(MainActivity.categories);
 
         new Thread() {
             public void run() {
@@ -35,7 +33,7 @@ public class ReadActivity extends AppCompatActivity {
                         @Override
                         public void run() {
                             TextView reader = (TextView) findViewById(R.id.reader);
-                            reader.setText(reader.getText() + buttonName.toString());
+                            reader.setText(reader.getText() + categories.toString());
                             ;
                         }
                     });
