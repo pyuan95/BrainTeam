@@ -2,6 +2,7 @@ package com.example.brainteam;
 
 import android.content.Intent;
 import android.database.sqlite.SQLiteDatabase;
+import android.provider.ContactsContract;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -12,7 +13,36 @@ import java.util.ArrayList;
 
 import static android.database.sqlite.SQLiteDatabase.openOrCreateDatabase;
 
-public class ReadActivity extends AppCompatActivity {
+public class ReadActivity extends AppCompatActivity
+{
+    int sleepTime = 150; //in milliseconds
+    DatabaseManager db = new DatabaseManager
+            (this, getIntent().getStringArrayListExtra(MainActivity.categories), getIntent().getStringArrayListExtra(MainActivity.difficulties));
+    String[] tossup = db.getNextTossup();
+
+    Thread readThread = new Thread()
+    {
+        String info = tossup[0] + "\n";
+        String[] question = tossup[1].split(" ");
+        final TextView reader = (TextView) findViewById(R.id.reader);
+        public void run() {
+            reader.setText(info);
+            for (int i = 0; i < question.length; i++) {
+                final int j = i; //Have to do this because of some sort of wacky "Needs to be declared final" shit
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        reader.setText(reader.getText() + question[j]);
+                    }
+                });
+                try {
+                    Thread.sleep(sleepTime);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+    };
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
@@ -23,33 +53,16 @@ public class ReadActivity extends AppCompatActivity {
 
     public void read(View view)
     {
-        Intent intent = this.getIntent();
-        final ArrayList<String> categories = intent.getStringArrayListExtra(MainActivity.categories);
-
-        new Thread() {
-            public void run() {
-                for (int i = 0; i < 100; i++) {
-                    runOnUiThread(new Runnable() {
-                        @Override
-                        public void run() {
-                            TextView reader = (TextView) findViewById(R.id.reader);
-                            reader.setText(reader.getText() + categories.toString());
-                            ;
-                        }
-                    });
-                    try {
-                        Thread.sleep(150);
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
-                }
-            }
-        }.start();
+        tossup = db.getNextTossup();
+        readThread.start();
     }
 
     public void showAnswer(View view)
     {
         TextView answer = (TextView) findViewById(R.id.answer);
-        answer.setText("Answer goes here.");
+        readThread.interrupt();
+        TextView reader = (TextView) findViewById(R.id.reader);
+        reader.setText(tossup[0] + tossup[1]);
+        answer.setText(tossup[2]);
     }
 }
