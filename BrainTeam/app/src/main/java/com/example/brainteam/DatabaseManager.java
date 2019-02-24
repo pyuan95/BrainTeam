@@ -12,7 +12,8 @@ public class DatabaseManager extends SQLiteOpenHelper
 {
     SQLiteDatabase allTossups = openOrCreateDatabase("allTossups.db",null);
     SQLiteDatabase topicData;
-    ArrayList IDs = new ArrayList();
+    int[] IDs;
+    int[][] equalIDs;
 
     private static final String DATABASE_NAME = "topicData.db";
     private static final int DATABASE_VERSION = 1;
@@ -44,7 +45,7 @@ public class DatabaseManager extends SQLiteOpenHelper
      * Precondition: Assumes that the ages of all the topics is correct.
      * @return an int[] of tossups from added topics in the last week.
      */
-    public ArrayList<Integer> lastWeek()
+    public int[] lastWeek()
     {
         String sql = "SELECT topic, ids FROM topicData WHERE age <= 7";
         Cursor cursor = topicData.rawQuery(sql, null);
@@ -57,14 +58,21 @@ public class DatabaseManager extends SQLiteOpenHelper
                 IDs.add(Integer.parseInt(stringIDs[i]));
             }
         }
-        return IDs;
+
+        int[] IDsArray = new int[IDs.size()];
+        for (int i = 0; i < IDs.size(); i++)
+        {
+            IDsArray[i] = IDs.get(i);
+        }
+
+        return IDsArray;
     }
 
     /**
      * Returns an ArrayList<ArrayList<Integer>> of ids from added topics in the last week, but *roughly equal* number of tossups per topic.
      * @return an int[] of tossups from added topics in the last week, but *roughly equal* number of tossups per topic.
      */
-    public ArrayList<ArrayList<Integer>> lastWeekEqual()
+    public int[][] lastWeekEqual()
     {
         String sql = "SELECT topic, ids FROM topicData WHERE age <= 7";
         Cursor cursor = topicData.rawQuery(sql, null);
@@ -79,14 +87,23 @@ public class DatabaseManager extends SQLiteOpenHelper
             }
             IDs.add(intIDs);
         }
-        return IDs;
+        int[][] IDsArray = new int[IDs.size()][];
+        for (int i = 0; i < IDs.size(); i++)
+        {
+            for (int j = 0; j < IDs.get(i).size(); j++)
+            {
+                IDsArray[i][j] = IDs.get(i).get(j);
+            }
+        }
+
+        return IDsArray;
     }
 
     /**
      * Returns an int[] of tossups from added topics in the last month.
      * @return an int[] of tossups from added topics in the last month.
      */
-    public ArrayList<Integer> lastMonth()
+    public int[] lastMonth()
     {
         String sql = "SELECT topic, ids FROM topicData WHERE age <= 7";
         Cursor cursor = topicData.rawQuery(sql, null);
@@ -99,14 +116,20 @@ public class DatabaseManager extends SQLiteOpenHelper
                 IDs.add(Integer.parseInt(stringIDs[i]));
             }
         }
-        return IDs;
+        int[] IDsArray = new int[IDs.size()];
+        for (int i = 0; i < IDs.size(); i++)
+        {
+            IDsArray[i] = IDs.get(i);
+        }
+
+        return IDsArray;
     }
 
     /**
      * Returns an int[] of tossups from added topics in the last month, but *roughly equal* number of tossups per topic.
      * @return an int[] of tossups from added topics in the last month, but *roughly equal* number of tossups per topic.
      */
-    public ArrayList<ArrayList<Integer>> lastMonthEqual()
+    public int[][] lastMonthEqual()
     {
         String sql = "SELECT topic, ids FROM topicData WHERE age <= 7";
         Cursor cursor = topicData.rawQuery(sql, null);
@@ -121,14 +144,23 @@ public class DatabaseManager extends SQLiteOpenHelper
             }
             IDs.add(intIDs);
         }
-        return IDs;
+        int[][] IDsArray = new int[IDs.size()][];
+        for (int i = 0; i < IDs.size(); i++)
+        {
+            for (int j = 0; j < IDs.get(i).size(); j++)
+            {
+                IDsArray[i][j] = IDs.get(i).get(j);
+            }
+        }
+
+        return IDsArray;
     }
 
     /**
      * Returns an int[] of all tossups from added topics.
      * @return an int[] of all tossups from added topics.
      */
-    public ArrayList<Integer> lastAll()
+    public int[] lastAll()
     {
         String sql = "SELECT topic, ids FROM topicData WHERE age <= 7";
         Cursor cursor = topicData.rawQuery(sql, null);
@@ -141,14 +173,20 @@ public class DatabaseManager extends SQLiteOpenHelper
                 IDs.add(Integer.parseInt(stringIDs[i]));
             }
         }
-        return IDs;
+        int[] IDsArray = new int[IDs.size()];
+        for (int i = 0; i < IDs.size(); i++)
+        {
+            IDsArray[i] = IDs.get(i);
+        }
+
+        return IDsArray;
     }
 
     /**
      * Returns an int[] of *all* tossups from added topics, but *roughly equal* number of tossups per topic.
      * @return an int[] of *all* tossups from added topics, but *roughly equal* number of tossups per topic.
      */
-    public ArrayList<ArrayList<Integer>> lastAllEqual()
+    public int[][] lastAllEqual()
     {
         String sql = "SELECT topic, ids FROM topicData WHERE age <= 7";
         Cursor cursor = topicData.rawQuery(sql, null);
@@ -163,7 +201,16 @@ public class DatabaseManager extends SQLiteOpenHelper
             }
             IDs.add(intIDs);
         }
-        return IDs;
+        int[][] IDsArray = new int[IDs.size()][];
+        for (int i = 0; i < IDs.size(); i++)
+        {
+            for (int j = 0; j < IDs.get(i).size(); j++)
+            {
+                IDsArray[i][j] = IDs.get(i).get(j);
+            }
+        }
+
+        return IDsArray;
     }
 
     /**
@@ -200,7 +247,7 @@ public class DatabaseManager extends SQLiteOpenHelper
         }
 
         Cursor cursor = allTossups.rawQuery(sql, null);
-        
+
     }
 
     /**
