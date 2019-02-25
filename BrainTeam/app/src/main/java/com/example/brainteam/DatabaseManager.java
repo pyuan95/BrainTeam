@@ -1,16 +1,25 @@
 package com.example.brainteam;
 import android.content.Context;
+import android.content.SharedPreferences;
+import android.content.res.AssetManager;
 import android.database.Cursor;
 import android.database.sqlite.*;
 import android.text.TextUtils;
+import android.util.Log;
 
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
 import java.util.ArrayList;
 
+import static android.database.sqlite.SQLiteDatabase.openDatabase;
 import static android.database.sqlite.SQLiteDatabase.openOrCreateDatabase;
 
 public class DatabaseManager extends SQLiteOpenHelper
 {
-    SQLiteDatabase allTossups = openOrCreateDatabase("allTossups.db",null);
+    SQLiteDatabase allTossups;
     SQLiteDatabase topicData;
     int[] IDs;
     int[][] equalIDs;
@@ -22,15 +31,65 @@ public class DatabaseManager extends SQLiteOpenHelper
     private static final int DATABASE_VERSION = 1;
 
 
-    DatabaseManager(Context context, ArrayList<String> categories, ArrayList<String> difficulties)
-    {
+    DatabaseManager(Context context, ArrayList<String> categories, ArrayList<String> difficulties) throws IOException {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
+
+        //If the program is running for the first time, copy the database from the assets folder.
+        AssetManager assetManager = context.getAssets();
+        InputStream in = null;
+        OutputStream out = null;
+        if (isFirstTime(context) || true) {
+            try {
+                in = assetManager.open("allTossups.db");
+                File outFile = new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db");
+                System.out.println(outFile.getAbsoluteFile());
+                System.out.println(outFile.getAbsoluteFile());
+                System.out.println(outFile.getAbsoluteFile());
+                System.out.println("sudgfvuksdgvfukasdgvfukawgvfwa");
+
+                outFile.createNewFile();
+                out = new FileOutputStream(outFile);
+                copyFile(in, out);
+            } catch (IOException e) {
+                Log.e("tag", "Failed to copy asset file.", e);
+                e.printStackTrace();
+            }
+        }
+
+        System.out.println(new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db").length());
+        System.out.println(new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db").getAbsoluteFile());
+        System.out.println(new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db").getAbsoluteFile());
+
+        allTossups = openOrCreateDatabase(new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db").getAbsoluteFile(),null);
         topicData = getWritableDatabase();
         if (categories.contains(R.string.lastWeek)) { IDs = lastWeek(); }
         else if (categories.contains(R.string.lastMonth)) { IDs = lastMonth();}
         else if (categories.contains(R.string.lastAll)) {IDs = lastAll();}
         else {IDs = selectRandomTossups(categories, difficulties);}
     }
+
+    private void copyFile(InputStream in, OutputStream out) throws IOException {
+        byte[] buffer = new byte[1024];
+        int read;
+        while((read = in.read(buffer)) != -1){
+            out.write(buffer, 0, read);
+        }
+    }
+
+    private boolean isFirstTime(Context context)
+    {
+        boolean firstTime = false;
+        SharedPreferences mPreferences = context.getSharedPreferences("first_time", Context.MODE_PRIVATE);
+        firstTime = mPreferences.getBoolean("firstTime", true);
+        if (firstTime) {
+            SharedPreferences.Editor editor = mPreferences.edit();
+            editor.putBoolean("firstTime", false);
+            editor.commit();
+        }
+
+        return firstTime;
+    }
+
 
     /**
      * Gets the next tossup. HAS NOT implemented the "equal topic" feature yet.

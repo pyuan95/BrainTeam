@@ -171,8 +171,9 @@ public class MainActivity extends AppCompatActivity
         }
         else {
             ArrayList<String> arr = new ArrayList<String>();
+            ArrayList<String> arr1 = new ArrayList<String>();
             arr.add((String) ((Button) view).getText()); // Add the text of the button to the String array that will be passed to the Read Activity.
-            changeToReadActivityHelper(arr, null);
+            changeToReadActivityHelper(arr, arr1);
         }
     }
 
