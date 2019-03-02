@@ -1,16 +1,22 @@
 package com.example.brainteam;
 
+import android.content.Context;
 import android.content.Intent;
 import android.database.sqlite.SQLiteDatabase;
 import android.provider.ContactsContract;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.text.Html;
+import android.text.TextUtils;
+import android.text.method.ReplacementTransformationMethod;
 import android.view.View;
 import android.widget.TextView;
 
+import org.w3c.dom.Text;
+
 import java.io.IOException;
 import java.util.ArrayList;
-
+import java.util.Arrays;
 
 
 import static android.database.sqlite.SQLiteDatabase.openOrCreateDatabase;
@@ -20,39 +26,63 @@ public class ReadActivity extends AppCompatActivity
     int sleepTime = 150; //in milliseconds
     DatabaseManager db;
     String[] tossup;
-    Thread readThread;
+    boolean keepReading = true;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_read);
-        try {
-            db = new DatabaseManager
-                    (this, getIntent().getStringArrayListExtra(MainActivity.categories), getIntent().getStringArrayListExtra(MainActivity.difficulties));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        tossup = db.getNextTossup();
+        new Thread()
+        {
+            public void run()
+            {
+                try {
+                    db = new DatabaseManager(ReadActivity.this, getIntent().getStringArrayListExtra(MainActivity.categories), getIntent().getStringArrayListExtra(MainActivity.difficulties));
+                    tossup = db.getNextTossup();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+                tossup = db.getNextTossup();
+            }
+        }.start();
+
     }
 
 
     public void read(View view)
     {
-        tossup = db.getNextTossup();
-        readThread = new Thread()
+        TextView answer = (TextView) findViewById(R.id.answer);
+        answer.setText(Html.fromHtml(""));
+        keepReading = true;
+        if (tossup == null)
+            return;
+        else
+            tossup = db.getNextTossup();
+        new Thread()
         {
-            String info = tossup[0] + "\n";
+
+            String info = tossup[0] + "<br/> <br/>";
             String[] question = tossup[1].split(" ");
             final TextView reader = (TextView) findViewById(R.id.reader);
+
             public void run() {
-                reader.setText(info);
-                for (int i = 0; i < question.length; i++) {
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        // reader.setTransformationMethod(WordBreakTransformationMethod.getInstance());
+                        reader.setText(info);
+                    }
+                });
+                for (int i = 0; i <= question.length; i++) {
                     final int j = i; //Have to do this because of some sort of wacky "Needs to be declared final" shit
+                    if (!keepReading){
+                        break;
+                    }
                     runOnUiThread(new Runnable() {
                         @Override
                         public void run() {
-                            reader.setText(reader.getText() + question[j]);
+                            reader.setText(Html.fromHtml(info + TextUtils.join(" ", Arrays.copyOfRange(question, 0, j))));
                         }
                     });
                     try {
@@ -62,16 +92,15 @@ public class ReadActivity extends AppCompatActivity
                     }
                 }
             }
-        };
-        readThread.start();
+        }.start();
     }
 
     public void showAnswer(View view)
     {
+        keepReading = false;
         TextView answer = (TextView) findViewById(R.id.answer);
-        readThread.interrupt();
         TextView reader = (TextView) findViewById(R.id.reader);
-        reader.setText(tossup[0] + tossup[1]);
-        answer.setText(tossup[2]);
+        reader.setText(Html.fromHtml(tossup[0] + "<br/> <br/>" + tossup[1]));
+        answer.setText(Html.fromHtml("<b>Answer: </b>" + tossup[2]));
     }
 }

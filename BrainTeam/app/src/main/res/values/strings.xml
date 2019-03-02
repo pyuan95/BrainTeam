@@ -70,6 +70,9 @@
         <item>2</item>
         <item>3</item>
     </string-array>
+    <string name="addTopicToList">Add Topic To List</string>
+    <string name="addTopics">Add Topics</string>
+
 
     <string-array name="tossupCategories">
         <item>All</item>

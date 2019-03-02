@@ -2,11 +2,11 @@ package com.example.brainteam;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.res.AssetManager;
+import android.content.res.Resources;
 import android.database.Cursor;
 import android.database.sqlite.*;
 import android.text.TextUtils;
 import android.util.Log;
-
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -14,8 +14,6 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.ArrayList;
 
-import static android.database.sqlite.SQLiteDatabase.openDatabase;
-import static android.database.sqlite.SQLiteDatabase.openOrCreateDatabase;
 
 public class DatabaseManager extends SQLiteOpenHelper
 {
@@ -33,20 +31,13 @@ public class DatabaseManager extends SQLiteOpenHelper
 
     DatabaseManager(Context context, ArrayList<String> categories, ArrayList<String> difficulties) throws IOException {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
-
-        //If the program is running for the first time, copy the database from the assets folder.
         AssetManager assetManager = context.getAssets();
         InputStream in = null;
         OutputStream out = null;
-        if (isFirstTime(context) || true) {
+        if (isFirstTime(context) && false) { //This code is deprecated. Moving database responsibility moved to BrainTeam.java, AKA Startup.
             try {
                 in = assetManager.open("allTossups.db");
                 File outFile = new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db");
-                System.out.println(outFile.getAbsoluteFile());
-                System.out.println(outFile.getAbsoluteFile());
-                System.out.println(outFile.getAbsoluteFile());
-                System.out.println("sudgfvuksdgvfukasdgvfukawgvfwa");
-
                 outFile.createNewFile();
                 out = new FileOutputStream(outFile);
                 copyFile(in, out);
@@ -56,17 +47,33 @@ public class DatabaseManager extends SQLiteOpenHelper
             }
         }
 
-        System.out.println(new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db").length());
-        System.out.println(new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db").getAbsoluteFile());
-        System.out.println(new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db").getAbsoluteFile());
-
-        allTossups = openOrCreateDatabase(new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db").getAbsoluteFile(),null);
+        allTossups = new AllTossups(context).getReadableDatabase();
+        //allTossups = openOrCreateDatabase(new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db").getAbsolutePath(), null, null);
         topicData = getWritableDatabase();
-        if (categories.contains(R.string.lastWeek)) { IDs = lastWeek(); }
-        else if (categories.contains(R.string.lastMonth)) { IDs = lastMonth();}
-        else if (categories.contains(R.string.lastAll)) {IDs = lastAll();}
+
+        // for testing
+        Cursor c = allTossups.rawQuery("SELECT name FROM sqlite_master", null);
+        if (c.moveToFirst()) {
+            while ( !c.isAfterLast() ) {
+                System.out.println(c.getString(0));
+                c.moveToNext();
+            }
+        }
+
+
+        Resources res = context.getResources();
+        if (categories.contains(res.getString(R.string.lastWeek))) { IDs = lastWeek(); }
+        else if (categories.contains(res.getString(R.string.lastMonth))) { IDs = lastMonth();}
+        else if (categories.contains(res.getString(R.string.lastAll))) {IDs = lastAll();}
         else {IDs = selectRandomTossups(categories, difficulties);}
     }
+
+    DatabaseManager(Context context, boolean AddOrDelete)
+    {
+        super(context, DATABASE_NAME, null, DATABASE_VERSION);
+        IDs = new int[] {100000}; //To prevent any random bugs
+    }
+
 
     private void copyFile(InputStream in, OutputStream out) throws IOException {
         byte[] buffer = new byte[1024];
@@ -100,7 +107,7 @@ public class DatabaseManager extends SQLiteOpenHelper
         if (!equal)
         {
             // The columnindex numbers used here reflect the db file where there is no "regular" text; only formattedText.
-
+            if (IDs.length == 0) return new String[] {"Please add tossups before playing.", "bruh", "lmao"};
             int id = IDs[(int) (Math.random() * IDs.length)]; //Select a Random Tossup
             String sql = "SELECT * FROM allTossups WHERE tossupID=?";
             Cursor cursor = allTossups.rawQuery(sql, new String[] {Integer.toString(id)});
@@ -316,6 +323,16 @@ public class DatabaseManager extends SQLiteOpenHelper
      */
     public int[] selectRandomTossups(ArrayList<String> categories, ArrayList<String> difficulties)
     {
+        for (int i = 0; i < categories.size(); i++)
+        {
+            categories.set(i, "'" + categories.get(i) + "'");
+        }
+
+        for (int i = 0; i < difficulties.size(); i++)
+        {
+            difficulties.set(i, "'" + difficulties.get(i) + "'");
+        }
+
         String categoriesList = TextUtils.join(",", categories);
         String difficultiesList = TextUtils.join(",", difficulties);
         String sql = "SELECT tossupID FROM allTossups WHERE ";
@@ -323,15 +340,15 @@ public class DatabaseManager extends SQLiteOpenHelper
         {
             sql += "1=1";
         }
-        else if ((!categories.contains("All")) && difficulties.contains("All"))
+        else if ((!categories.contains("'All'")) && difficulties.contains("'All'"))
         {
             sql += "category IN (" + categoriesList + ")";
         }
-        else if (categories.contains("All") && (!difficulties.contains("All")))
+        else if (categories.contains("'All'") && (!difficulties.contains("'All'")))
         {
             sql += "difficulty IN (" + difficultiesList + ")";
         }
-        else if ((!categories.contains("All")) && (!difficulties.contains("All")))
+        else if ((!categories.contains("'All'")) && (!difficulties.contains("'All'")))
         {
             sql += "category IN (" + categoriesList + ")" + " AND difficulty IN (" + difficultiesList + ")";
         }
@@ -339,6 +356,8 @@ public class DatabaseManager extends SQLiteOpenHelper
         {
             sql += "1=1";
         }
+
+
 
         ArrayList<Integer> IDs = new ArrayList<>();
         Cursor cursor = allTossups.rawQuery(sql, null);
