@@ -1,12 +1,21 @@
 package com.example.brainteam;
 
+import android.content.Context;
+import android.content.DialogInterface;
 import android.graphics.Color;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.LayoutInflater;
 import android.view.View;
+import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.BaseAdapter;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.ListAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
@@ -25,8 +34,6 @@ public class AddTopicsActivity extends AppCompatActivity {
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_topics);
-        String[] from = {"item", "deleteButton"};
-        // int[] to = {R.id.listview_image, R.id.listview_item_title};
         myAdapter = new ArrayAdapter(this, R.layout.topic_list, R.id.topicName, items);
         myLV = (ListView) findViewById(R.id.topicList);
         myLV.setAdapter(myAdapter);
@@ -50,13 +57,9 @@ public class AddTopicsActivity extends AppCompatActivity {
 //        topicList.addView(newTopic);
     }
 
-    public void onDeleteTopic(View view)
-    {
-
-    }
 
 
-    public void addTopics(View view)
+    public void onAddTopic(View view)
     {
         new Thread()
         {
@@ -85,4 +88,12 @@ public class AddTopicsActivity extends AppCompatActivity {
             }
         };
     }
+
+    public void onDeleteTopicFromList(View view)
+    {
+        int i = myLV.getPositionForView((View) view.getParent());
+        items.remove(i);
+        myAdapter.notifyDataSetChanged();
+    }
+
 }
