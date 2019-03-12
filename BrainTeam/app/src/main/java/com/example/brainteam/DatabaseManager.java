@@ -13,12 +13,13 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.ArrayList;
+import java.util.Arrays;
 
 
 public class DatabaseManager extends SQLiteOpenHelper
 {
-    SQLiteDatabase allTossups;
-    SQLiteDatabase topicData;
+    private SQLiteDatabase allTossups;
+    private SQLiteDatabase topicData;
     int[] IDs;
     int[][] equalIDs;
     boolean equal = false;
@@ -66,11 +67,15 @@ public class DatabaseManager extends SQLiteOpenHelper
         else if (categories.contains(res.getString(R.string.lastMonth))) { IDs = lastMonth();}
         else if (categories.contains(res.getString(R.string.lastAll))) {IDs = lastAll();}
         else {IDs = selectRandomTossups(categories, difficulties);}
+        c.close();
     }
 
     DatabaseManager(Context context, boolean AddOrDelete)
     {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
+        allTossups = new AllTossups(context).getReadableDatabase();
+        //allTossups = openOrCreateDatabase(new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db").getAbsolutePath(), null, null);
+        topicData = getWritableDatabase();
         IDs = new int[] {100000}; //To prevent any random bugs
     }
 
@@ -118,6 +123,7 @@ public class DatabaseManager extends SQLiteOpenHelper
                     + ", " + cursor.getString(6); //Category
             String question = cursor.getString(2); // formattedText
             String answer = cursor.getString(3);
+            cursor.close();
             return new String[] {info, question, answer};
         }
         else
@@ -166,7 +172,7 @@ public class DatabaseManager extends SQLiteOpenHelper
         {
             IDsArray[i] = IDs.get(i);
         }
-
+        cursor.close();
         return IDsArray;
     }
 
@@ -198,6 +204,7 @@ public class DatabaseManager extends SQLiteOpenHelper
             }
         }
 
+        cursor.close();
         return IDsArray;
     }
 
@@ -223,7 +230,7 @@ public class DatabaseManager extends SQLiteOpenHelper
         {
             IDsArray[i] = IDs.get(i);
         }
-
+        cursor.close();
         return IDsArray;
     }
 
@@ -254,7 +261,7 @@ public class DatabaseManager extends SQLiteOpenHelper
                 IDsArray[i][j] = IDs.get(i).get(j);
             }
         }
-
+        cursor.close();
         return IDsArray;
     }
 
@@ -280,7 +287,7 @@ public class DatabaseManager extends SQLiteOpenHelper
         {
             IDsArray[i] = IDs.get(i);
         }
-
+        cursor.close();
         return IDsArray;
     }
 
@@ -311,7 +318,7 @@ public class DatabaseManager extends SQLiteOpenHelper
                 IDsArray[i][j] = IDs.get(i).get(j);
             }
         }
-
+        cursor.close();
         return IDsArray;
     }
 
@@ -371,7 +378,7 @@ public class DatabaseManager extends SQLiteOpenHelper
         {
             IDsArray[i] = IDs.get(i);
         }
-
+        cursor.close();
         return IDsArray;
     }
 
@@ -401,18 +408,33 @@ public class DatabaseManager extends SQLiteOpenHelper
             }
         }
 
-        if (tossupCount == 0) return false;
-        else
+        tossups.close();
+
+        if (tossupCount == 0)
+            return false;
+
+        sql = "SELECT topic FROM topicData";
+        Cursor topics = topicData.rawQuery(sql, null);
+        while (topics.moveToNext())
         {
-            String ids = TextUtils.join(",",tossupIDs);
-            String sql2 = "INSERT INTO topicData(topic, ids, age, numberTossups) VALUES (?,?,?,?,?)";
-            topicData.execSQL(sql2, new Object[] {topic, ids, 0, tossupCount});
-            return true;
+            if (topics.getString(0).toLowerCase().equals(topic.toLowerCase()))
+                return false;
         }
+        topics.close();
+
+
+
+        String ids = TextUtils.join(",",tossupIDs);
+        String sql2 = "INSERT INTO topicData(topic, ids, age, numberTossups) VALUES (?,?,?,?)";
+        topicData.execSQL(sql2, new Object[] {topic, ids, 0, tossupCount});
+        return true;
+
     }
 
     public boolean inAnswer(String query, String answer)
     {
+        query = query.toLowerCase();
+        answer = answer.toLowerCase();
         String[] parts = query.split(" ");
         boolean contains = true;
         for (String str : parts)
@@ -434,5 +456,18 @@ public class DatabaseManager extends SQLiteOpenHelper
         String sql = "DELETE FROM topicData WHERE topic = ?";
         topicData.execSQL(sql, new Object[] {topic});
         // Can't return boolean because if there is nothing to delete, nothing happens; no error thrown.
+    }
+
+    public String[] getTopicNames()
+    {
+        String sql = "SELECT topic FROM topicData";
+        Cursor cursor = topicData.rawQuery(sql, null);
+        ArrayList<String> topicNames = new ArrayList<>();
+        while (cursor.moveToNext())
+        {
+            topicNames.add(cursor.getString(0));
+        }
+        cursor.close();
+        return Arrays.copyOf(topicNames.toArray(), topicNames.size(), String[].class);
     }
 }

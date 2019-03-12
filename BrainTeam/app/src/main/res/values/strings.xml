@@ -71,6 +71,7 @@
         <item>3</item>
     </string-array>
     <string name="addTopicToList">Add Topic To List</string>
+    <string name="deleteTopics">Delete Topics</string>
     <string name="addTopics">Add Topics</string>
 
 

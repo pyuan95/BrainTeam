@@ -23,7 +23,7 @@ import static android.database.sqlite.SQLiteDatabase.openOrCreateDatabase;
 
 public class ReadActivity extends AppCompatActivity
 {
-    int sleepTime = 150; //in milliseconds
+    int sleepTime = 190; //in milliseconds
     DatabaseManager db;
     String[] tossup;
     boolean keepReading = true;

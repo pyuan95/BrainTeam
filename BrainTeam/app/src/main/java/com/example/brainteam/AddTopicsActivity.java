@@ -29,6 +29,7 @@ public class AddTopicsActivity extends AppCompatActivity {
     private static List<String> items = new ArrayList<String>();
     ListView myLV;
     ArrayAdapter myAdapter;
+    boolean currentlyAddingTopics = false;
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
@@ -61,39 +62,40 @@ public class AddTopicsActivity extends AppCompatActivity {
 
     public void onAddTopic(View view)
     {
+        if (this.currentlyAddingTopics) {
+            return;
+        }
+        else {
+            this.currentlyAddingTopics = true;
+        }
         new Thread()
         {
             DatabaseManager db = new DatabaseManager(AddTopicsActivity.this, true);
-            ListView topicList = (ListView) findViewById(R.id.topicList);
             public void run()
             {
                 int i = 0;
-                while (i < topicList.getChildCount())
+                while (i < items.size())
                 {
-                    String topic = (String) ((TextView) topicList.getChildAt(i)).getText();
-                    if (db.addTopic(topic))
-                    {
-                        runOnUiThread(new Runnable() {
-                            @Override
-                            public void run() {
-                                topicList.removeViewAt(0);
-                            }
-                        });
-                    }
-                    else
-                    {
-                        i++;
-                    }
+                    String topic = items.get(i);
+                    db.addTopic(topic);
+                    items.remove(i);
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            myAdapter.notifyDataSetChanged();
+                        }
+                    });
                 }
+                AddTopicsActivity.this.currentlyAddingTopics = false;
             }
-        };
+        }.start();
     }
 
     public void onDeleteTopicFromList(View view)
     {
-        int i = myLV.getPositionForView((View) view.getParent());
-        items.remove(i);
+        int position = myLV.getPositionForView((View) view.getParent());
+        items.remove(position);
         myAdapter.notifyDataSetChanged();
     }
-
 }
+
