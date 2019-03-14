@@ -12,8 +12,13 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.GregorianCalendar;
 
 
 public class DatabaseManager extends SQLiteOpenHelper
@@ -426,7 +431,7 @@ public class DatabaseManager extends SQLiteOpenHelper
 
         String ids = TextUtils.join(",",tossupIDs);
         String sql2 = "INSERT INTO topicData(topic, ids, age, numberTossups) VALUES (?,?,?,?)";
-        topicData.execSQL(sql2, new Object[] {topic, ids, 0, tossupCount});
+        topicData.execSQL(sql2, new Object[] {topic.toLowerCase(), ids, 0, tossupCount}); //Topic is always lower case. Consider changing.
         return true;
 
     }
@@ -458,16 +463,44 @@ public class DatabaseManager extends SQLiteOpenHelper
         // Can't return boolean because if there is nothing to delete, nothing happens; no error thrown.
     }
 
-    public String[] getTopicNames()
+    public String[][] getTopicNames()
     {
-        String sql = "SELECT topic FROM topicData";
+        String sql = "SELECT topic, numberTossups FROM topicData";
         Cursor cursor = topicData.rawQuery(sql, null);
-        ArrayList<String> topicNames = new ArrayList<>();
+        ArrayList<String[]> topicNames = new ArrayList<>();
         while (cursor.moveToNext())
         {
-            topicNames.add(cursor.getString(0));
+            topicNames.add(new String[] {cursor.getString(0), cursor.getString(1)});
         }
         cursor.close();
-        return Arrays.copyOf(topicNames.toArray(), topicNames.size(), String[].class);
+        return Arrays.copyOf(topicNames.toArray(), topicNames.size(), String[][].class);
+    }
+
+    public void updateDate()
+    {
+        String sql = "SELECT topic, dateAdded FROM topicData";
+        Cursor cursor = topicData.rawQuery(sql, null);
+        while (cursor.moveToNext())
+        {
+            SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+            Date d1 = null;
+            try {
+                d1 = sdf.parse(cursor.getString(1)); //Parse the string of the current date into a date object.
+            } catch (ParseException e) {
+                e.printStackTrace();
+            }
+
+            Date d2 = new Date(); //Current Date
+
+            int age = (int)( (d2.getTime() - d1.getTime()) / (1000 * 60 * 60 * 24));
+            System.out.println("First Date" + d1);
+            System.out.println("Second Date" + d2);
+            System.out.println("Age" + age);
+            System.out.println();
+            System.out.println();
+
+            String updateDateSQL = "UPDATE topicData SET age=? WHERE topic=?";
+            topicData.execSQL(updateDateSQL, new Object[] {age, cursor.getString(0)});
+        }
     }
 }

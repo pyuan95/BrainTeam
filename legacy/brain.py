@@ -4,11 +4,10 @@ import json
 from datetime import datetime
 import re
 from random import sample, shuffle
-<<<<<<< HEAD
 
-=======
+
+
 from math import floor
->>>>>>> parent of 2c457ae... Reformat stuff and stuff
 def split_into_sentences(text):
     caps = "([A-Z])"
     prefixes = "(Mr|St|Mrs|Ms|Dr)[.]"

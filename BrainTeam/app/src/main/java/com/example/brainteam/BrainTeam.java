@@ -35,6 +35,8 @@ public class BrainTeam extends Application
             }
         }
         // Your methods here...
+        DatabaseManager db = new DatabaseManager(this, false);
+        db.updateDate();
     }
 
     private void copyFile(InputStream in, OutputStream out) throws IOException {
@@ -44,6 +46,7 @@ public class BrainTeam extends Application
             out.write(buffer, 0, read);
         }
     }
+
 
     private boolean isFirstTime(Context context)
     {
