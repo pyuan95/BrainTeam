@@ -1,10 +1,12 @@
-package com.example.brainteam;
+package com.example.backend;
 
 import android.app.Application;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.res.AssetManager;
 import android.util.Log;
+
+import com.example.backend.DatabaseManager;
 
 import java.io.File;
 import java.io.FileOutputStream;

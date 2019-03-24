@@ -73,7 +73,7 @@
     <string name="addTopicToList">Add Topic To List</string>
     <string name="deleteTopics">Delete Topics</string>
     <string name="addTopics">Add Topics</string>
-
+    <string name="multipleTopics">Multiple Topics</string>
 
     <string-array name="tossupCategories">
         <item>All</item>

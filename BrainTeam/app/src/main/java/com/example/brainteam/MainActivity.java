@@ -4,8 +4,6 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AlertDialog;
 import android.view.View;
 import android.support.design.widget.NavigationView;
@@ -18,7 +16,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Button;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity
@@ -94,6 +91,10 @@ public class MainActivity extends AppCompatActivity
             startActivity(intent);
         } else if (id == R.id.statistics) {
             Intent intent = new Intent(this, StatisticsActivity.class);
+            startActivity(intent);
+        }
+        else if (id == R.id.singleTopic){
+            Intent intent = new Intent(this, ReadSelector.class);
             startActivity(intent);
         }
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -179,7 +180,7 @@ public class MainActivity extends AppCompatActivity
 
     public void changeToReadActivityHelper(ArrayList<String> categoriesArr, ArrayList<String> difficultiesArr)
     {
-        Intent intent = new Intent(this, ReadActivity.class);
+        Intent intent = new Intent(this, ReaderActivity.class);
         intent.putExtra(categories, categoriesArr);
         intent.putExtra(difficulties, difficultiesArr);
         startActivity(intent);

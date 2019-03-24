@@ -1,26 +1,15 @@
 package com.example.brainteam;
 
-import android.content.Context;
-import android.content.DialogInterface;
-import android.graphics.Color;
-import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.LayoutInflater;
 import android.view.View;
-import android.view.ViewGroup;
-import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
-import android.widget.BaseAdapter;
 import android.widget.EditText;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
-import android.widget.ListAdapter;
 import android.widget.ListView;
-import android.widget.TextView;
+
+import com.example.backend.DatabaseManager;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
 public class AddTopicsActivity extends AppCompatActivity {
@@ -35,7 +24,7 @@ public class AddTopicsActivity extends AppCompatActivity {
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_topics);
-        myAdapter = new ArrayAdapter(this, R.layout.topic_list, R.id.topicName, items);
+        myAdapter = new ArrayAdapter(this, R.layout.topic_list_with_delete, R.id.topicName, items);
         myLV = (ListView) findViewById(R.id.topicList);
         myLV.setAdapter(myAdapter);
 
@@ -70,7 +59,7 @@ public class AddTopicsActivity extends AppCompatActivity {
         }
         new Thread()
         {
-            DatabaseManager db = new DatabaseManager(AddTopicsActivity.this, true);
+            DatabaseManager db = new DatabaseManager(AddTopicsActivity.this, "AddOrDelete");
             public void run()
             {
                 int i = 0;

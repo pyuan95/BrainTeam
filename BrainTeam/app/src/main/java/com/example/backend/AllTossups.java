@@ -1,4 +1,4 @@
-package com.example.brainteam;
+package com.example.backend;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

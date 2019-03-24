@@ -1,4 +1,4 @@
-package com.example.brainteam;
+package com.example.backend;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.res.AssetManager;
@@ -7,6 +7,9 @@ import android.database.Cursor;
 import android.database.sqlite.*;
 import android.text.TextUtils;
 import android.util.Log;
+
+import com.example.brainteam.R;
+
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -16,9 +19,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Calendar;
 import java.util.Date;
-import java.util.GregorianCalendar;
 
 
 public class DatabaseManager extends SQLiteOpenHelper
@@ -35,7 +36,7 @@ public class DatabaseManager extends SQLiteOpenHelper
     private static final int DATABASE_VERSION = 1;
 
 
-    DatabaseManager(Context context, ArrayList<String> categories, ArrayList<String> difficulties) throws IOException {
+    public DatabaseManager(Context context, ArrayList<String> categories, ArrayList<String> difficulties) throws IOException {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
         AssetManager assetManager = context.getAssets();
         InputStream in = null;
@@ -66,22 +67,34 @@ public class DatabaseManager extends SQLiteOpenHelper
             }
         }
 
-
         Resources res = context.getResources();
         if (categories.contains(res.getString(R.string.lastWeek))) { IDs = lastWeek(); }
         else if (categories.contains(res.getString(R.string.lastMonth))) { IDs = lastMonth();}
         else if (categories.contains(res.getString(R.string.lastAll))) {IDs = lastAll();}
+        else if (categories.contains(res.getString(R.string.multipleTopics))) {IDs = multipleTopics(difficulties);}
         else {IDs = selectRandomTossups(categories, difficulties);}
         c.close();
     }
 
-    DatabaseManager(Context context, boolean AddOrDelete)
+    public DatabaseManager(Context context, String whatDo)
     {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
         allTossups = new AllTossups(context).getReadableDatabase();
         //allTossups = openOrCreateDatabase(new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db").getAbsolutePath(), null, null);
         topicData = getWritableDatabase();
         IDs = new int[] {100000}; //To prevent any random bugs
+        if (whatDo.equals("AddOrDelete"))
+        {
+
+        }
+        else if (whatDo.equals("lastXDays"))
+        {
+
+        }
+        else if (whatDo.equals("lastXTopics"))
+        {
+
+        }
     }
 
 
@@ -151,6 +164,35 @@ public class DatabaseManager extends SQLiteOpenHelper
         String sql = "DROP TABLE IF EXISTS topicData";
         db.execSQL(sql);
         onCreate(db);
+    }
+
+    public int[] multipleTopics(ArrayList<String> topic)
+    {
+        for (int i = 0; i < topic.size(); i++)
+        {
+            topic.set(i, "'" + topic.get(i) + "'");
+        }
+
+        String topicString = "(" + TextUtils.join(",", topic) + ")";
+        String sql = "SELECT topic, ids FROM topicData WHERE topic in " + topicString;
+        Cursor cursor = topicData.rawQuery(sql, null);
+        ArrayList<Integer> IDs = new ArrayList<Integer>();
+        while (cursor.moveToNext())
+        {
+            String[] stringIDs = cursor.getString(1).split(",");
+            for (int i = 0; i < stringIDs.length; i++)
+            {
+                IDs.add(Integer.parseInt(stringIDs[i]));
+            }
+        }
+
+        int[] IDsArray = new int[IDs.size()];
+        for (int i = 0; i < IDs.size(); i++)
+        {
+            IDsArray[i] = IDs.get(i);
+        }
+        cursor.close();
+        return IDsArray;
     }
 
     /**
@@ -475,6 +517,7 @@ public class DatabaseManager extends SQLiteOpenHelper
         cursor.close();
         return Arrays.copyOf(topicNames.toArray(), topicNames.size(), String[][].class);
     }
+
 
     public void updateDate()
     {

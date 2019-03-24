@@ -2,28 +2,67 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
-
-    <group android:checkableBehavior="single">
-        <item
-            android:id="@+id/settings"
-            android:icon="@drawable/ic_menu_manage"
-            android:title="Settings" />
-        <item
-            android:id="@+id/addTopics"
-            android:icon="@android:drawable/ic_input_add"
-            android:title="Add Topics" />
-        <item
-            android:id="@+id/deleteTopics"
-            android:icon="@android:drawable/ic_menu_delete"
-            android:title="Delete Topics" />
-        <item
-            android:id="@+id/statistics"
-            android:icon="@android:color/holo_blue_bright"
-            android:title="View Statistics" />
+    <group
+        android:checkableBehavior="single"
+        android:visible="true">
+        <item android:title="Settings">
+            <menu>
+                <item
+                    android:id="@+id/settings"
+                    android:icon="@drawable/ic_menu_manage"
+                    android:title="Settings" />
+                <item
+                    android:id="@+id/addTopics"
+                    android:icon="@android:drawable/ic_input_add"
+                    android:title="Add Topics" />
+                <item
+                    android:id="@+id/deleteTopics"
+                    android:icon="@android:drawable/ic_menu_delete"
+                    android:title="Delete Topics" />
+                <item
+                    android:id="@+id/statistics"
+                    android:icon="@android:color/holo_blue_bright"
+                    android:title="View Statistics" />
+            </menu>
+        </item>
     </group>
-
-    <item android:title="Yeet">
-        <menu/>
-    </item>
-
+    <group
+        android:checkableBehavior="single"
+        android:visible="true">
+        <item android:title="Play">
+            <menu>
+                <item
+                    android:id="@+id/settings2"
+                    android:icon="@drawable/ic_menu_manage"
+                    android:title="Settings" />
+            </menu>
+        </item>
+    </group>
+    <group
+        android:checkableBehavior="single"
+        android:visible="true">
+        <item android:title="Read">
+            <menu>
+                <item
+                    android:id="@+id/settings3"
+                    android:icon="@drawable/ic_menu_manage"
+                    android:title="Settings" />
+                <item
+                    android:id="@+id/singleTopic"
+                    android:title="Read Single Topic" />
+            </menu>
+        </item>
+    </group>
+    <group
+        android:checkableBehavior="single"
+        android:visible="true">
+        <item android:title="Practice">
+            <menu>
+                <item
+                    android:id="@+id/settings4"
+                    android:icon="@drawable/ic_menu_manage"
+                    android:title="Settings" />
+            </menu>
+        </item>
+    </group>
 </menu>

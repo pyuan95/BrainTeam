@@ -1,27 +1,21 @@
 package com.example.brainteam;
 
-import android.content.Context;
-import android.content.Intent;
-import android.database.sqlite.SQLiteDatabase;
-import android.provider.ContactsContract;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.Html;
 import android.text.TextUtils;
-import android.text.method.ReplacementTransformationMethod;
 import android.view.View;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
+import com.example.backend.DatabaseManager;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.Arrays;
 
 
 import static android.database.sqlite.SQLiteDatabase.openOrCreateDatabase;
 
-public class ReadActivity extends AppCompatActivity
+public class ReaderActivity extends AppCompatActivity
 {
     int sleepTime = 190; //in milliseconds
     DatabaseManager db;
@@ -38,7 +32,7 @@ public class ReadActivity extends AppCompatActivity
             public void run()
             {
                 try {
-                    db = new DatabaseManager(ReadActivity.this, getIntent().getStringArrayListExtra(MainActivity.categories), getIntent().getStringArrayListExtra(MainActivity.difficulties));
+                    db = new DatabaseManager(ReaderActivity.this, getIntent().getStringArrayListExtra(MainActivity.categories), getIntent().getStringArrayListExtra(MainActivity.difficulties));
                     tossup = db.getNextTossup();
                 } catch (IOException e) {
                     e.printStackTrace();
