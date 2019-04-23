@@ -76,7 +76,7 @@
     <string name="multipleTopics">Multiple Topics</string>
 
     <string-array name="tossupCategories">
-        <item>All</item>
+        <item>All Categories</item>
         <item>Current Events</item>
         <item>Fine Arts</item>
         <item>Geography</item>
@@ -91,7 +91,7 @@
     </string-array>
 
     <string-array name="tossupDifficulties">
-        <item>All</item>
+        <item>All Difficulties</item>
         <item>Middle School</item>
         <item>Easy High School</item>
         <item>Regular High School</item>
@@ -122,5 +122,17 @@
     <string name="ok">OK</string>
     <string name="selectRandomTossupsTitleCategories">Select categories:</string>
     <string name="selectRandomTossupsTitleDifficulties">Select difficulties:</string>
+    <string name="selectLastXDays">Select from last x days:</string>
+    <string name="selectLastXTopics">Select from last x topics:</string>
+    <string name="readLastXTopics">Read Last X Topics</string>
+    <string name="readLastXDays">Read Topics from last X Days</string>
+    <string name="readSelectedTopics">Select Topics to Read</string>
+    <string name="readTossups">Read Tossups</string>
+    <string name="title_activity_read_launcher">ReadLauncher</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_1">Select Categories</string>
+    <string name="tab_text_2">Select Difficulties</string>
+    <string name="tab_text_3">Play Settings</string>
+    <string name="mode">Mode</string>
 
 </resources>

@@ -44,12 +44,17 @@
         <item android:title="Read">
             <menu>
                 <item
-                    android:id="@+id/settings3"
-                    android:icon="@drawable/ic_menu_manage"
-                    android:title="Settings" />
+                    android:id="@+id/readLastXTopics"
+                    android:title="Read Last X Topics" />
                 <item
-                    android:id="@+id/singleTopic"
-                    android:title="Read Single Topic" />
+                    android:id="@+id/readLastXDays"
+                    android:title="Read Topics from last X Days" />
+                <item
+                    android:id="@+id/readSelectedTopics"
+                    android:title="Select Topics to Read" />
+                <item
+                    android:id="@+id/readTossups"
+                    android:title="Read Tossups" />
             </menu>
         </item>
     </group>

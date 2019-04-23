@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity
     public boolean onNavigationItemSelected(MenuItem item) {
         // Handle navigation view item clicks here.
         int id = item.getItemId();
-
+        String title = (String) item.getTitle();
         if (id == R.id.settings) {
             Intent intent = new Intent(this, SettingsActivity.class);
             startActivity(intent);
@@ -93,10 +93,23 @@ public class MainActivity extends AppCompatActivity
             Intent intent = new Intent(this, StatisticsActivity.class);
             startActivity(intent);
         }
-        else if (id == R.id.singleTopic){
-            Intent intent = new Intent(this, ReadSelector.class);
-            startActivity(intent);
+        else if (id == R.id.readLastXDays)
+        {
+            changeToReadActivity(title);
         }
+        else if (id == R.id.readLastXTopics)
+        {
+            changeToReadActivity(title);
+        }
+        else if (id == R.id.readSelectedTopics)
+        {
+            changeToReadActivity(title);
+        }
+        else if (id == R.id.readTossups)
+        {
+            changeToReadActivity(title);
+        }
+
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
@@ -106,11 +119,11 @@ public class MainActivity extends AppCompatActivity
     /**
      * This is some complicated shit. Basically, we have a Checklist in a Checklist. Checklistception. Don't worry about it.
      * Hopefully you will never have to debug this stuff.
-     * @param view The button that the user clicked.
      */
-    public void changeToReadActivity(View view)
+    public void changeToReadActivity(String activityToChangeTo)
     {
-        if (((Button) view).getText().equals("Read random tossups"))
+        Resources res = getResources();
+        if (activityToChangeTo.equals(res.getString(R.string.readTossups)))
         {
             final ArrayList<String> categoriesArr = new ArrayList<String>();
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
@@ -170,11 +183,23 @@ public class MainActivity extends AppCompatActivity
             });
             builder.create().show();
         }
-        else {
-            ArrayList<String> arr = new ArrayList<String>();
-            ArrayList<String> arr1 = new ArrayList<String>();
-            arr.add((String) ((Button) view).getText()); // Add the text of the button to the String array that will be passed to the Read Activity.
-            changeToReadActivityHelper(arr, arr1);
+        else if (activityToChangeTo.equals(res.getString(R.string.readLastXDays)))
+        {
+            final ArrayList<String> categoriesArr = new ArrayList<String>();
+            AlertDialog.Builder builder = new AlertDialog.Builder(this);
+            builder.setTitle(R.string.selectLastXDays).setPositiveButton(R.string.ok, new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialog, int which)
+                {
+
+                }
+            }).setNegativeButton(R.string.cancel, new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialog, int which) {
+                    // If the user clicks cancel, do nothing.
+                }
+            });
+            builder.create().show();
         }
     }
 
@@ -186,4 +211,7 @@ public class MainActivity extends AppCompatActivity
         startActivity(intent);
     }
 
+    public void changeToReadActivityHelper(String whatDo){
+
+    }
 }

@@ -37,7 +37,7 @@ public class BrainTeam extends Application
             }
         }
         // Your methods here...
-        DatabaseManager db = new DatabaseManager(this, false);
+        DatabaseManager db = new DatabaseManager(this, "AddOrDelete");
         db.updateDate();
     }
 

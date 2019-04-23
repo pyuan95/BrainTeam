@@ -40,7 +40,7 @@ public class ReadSelector extends AppCompatActivity
         {
             public void run()
             {
-                db = new DatabaseManager(ReadSelector.this, false);
+                db = new DatabaseManager(ReadSelector.this, "AddOrDelete");
                 String[][] topicNames = db.getTopicNames();
                 for (String[] topic : topicNames)
                 {

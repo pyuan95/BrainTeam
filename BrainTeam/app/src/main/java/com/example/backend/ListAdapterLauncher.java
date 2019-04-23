@@ -5,54 +5,53 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
+import android.widget.CheckBox;
+import android.widget.CompoundButton;
 import android.widget.TextView;
 
 import com.example.brainteam.R;
 
+import java.util.ArrayList;
 import java.util.List;
 
-public class TopicListAdapter extends RecyclerView.Adapter<TopicListAdapter.ViewHolder> {
+public class ListAdapterLauncher extends RecyclerView.Adapter<ListAdapterLauncher.ViewHolder> {
 
     private List<String> mData;
-    private List<String> mExtraInformation;
+    private List<Boolean> checked = new ArrayList<>();
     private LayoutInflater mInflater;
     private ItemClickListener mClickListener;
-    private int layoutToUse;
-    private boolean withExtraInfo;
 
     // data is passed into the constructor
-    public TopicListAdapter(Context context, List<String> data, List<String> extraInformation, boolean withDelete, boolean withExtraInfo) {
+    public ListAdapterLauncher(Context context, List<String> data)
+    {
         this.mInflater = LayoutInflater.from(context);
-        this.mExtraInformation = extraInformation;
-        this.withExtraInfo = withExtraInfo;
         this.mData = data;
-        if (withDelete)
+        for (int i = 0; i < mData.size(); i++)
         {
-            layoutToUse = R.layout.topic_list_with_delete;
-        }
-        else
-        {
-            layoutToUse = R.layout.topic_list_checklist;
+            checked.add(i, false);
         }
     }
 
     // inflates the row layout from xml when needed
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-        View view = mInflater.inflate(layoutToUse, parent, false);
+        View view = mInflater.inflate(R.layout.launcher_list, parent, false);
         return new ViewHolder(view);
     }
 
     // binds the data to the TextView in each row
     @Override
-    public void onBindViewHolder(ViewHolder holder, int position) {
+    public void onBindViewHolder(ViewHolder holder, final int position) {
         String topicName = mData.get(position);
         holder.topicName.setText(topicName);
-        if (withExtraInfo) {
-            String extraInformation = mExtraInformation.get(position);
-            holder.extraInformation.setText(extraInformation);
-        }
+        holder.checkBox.setOnCheckedChangeListener(null);
+        holder.checkBox.setChecked(checked.get(position));
+        holder.checkBox.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+                checked.set(position, isChecked);
+            }
+        });
     }
 
     // total number of rows
@@ -65,14 +64,12 @@ public class TopicListAdapter extends RecyclerView.Adapter<TopicListAdapter.View
     // stores and recycles views as they are scrolled off screen
     public class ViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
         TextView topicName;
-        TextView extraInformation;
-        ImageView deleteButton;
-
-        ViewHolder(View itemView) {
+        CheckBox checkBox;
+        ViewHolder(View itemView)
+        {
             super(itemView);
             topicName = itemView.findViewById(R.id.topicName);
-            extraInformation = itemView.findViewById(R.id.extraInformation);
-            deleteButton = itemView.findViewById(R.id.deleteTopicIcon);
+            checkBox = itemView.findViewById(R.id.checkBox);
             itemView.setOnClickListener(this);
         }
 

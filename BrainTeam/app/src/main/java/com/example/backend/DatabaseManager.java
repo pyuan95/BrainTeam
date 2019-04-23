@@ -68,11 +68,7 @@ public class DatabaseManager extends SQLiteOpenHelper
         }
 
         Resources res = context.getResources();
-        if (categories.contains(res.getString(R.string.lastWeek))) { IDs = lastWeek(); }
-        else if (categories.contains(res.getString(R.string.lastMonth))) { IDs = lastMonth();}
-        else if (categories.contains(res.getString(R.string.lastAll))) {IDs = lastAll();}
-        else if (categories.contains(res.getString(R.string.multipleTopics))) {IDs = multipleTopics(difficulties);}
-        else {IDs = selectRandomTossups(categories, difficulties);}
+        IDs = selectRandomTossups(categories, difficulties);
         c.close();
     }
 

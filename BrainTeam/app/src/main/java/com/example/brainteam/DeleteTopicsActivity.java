@@ -35,7 +35,7 @@ public class DeleteTopicsActivity extends AppCompatActivity
         {
             public void run()
             {
-                db = new DatabaseManager(DeleteTopicsActivity.this, false);
+                db = new DatabaseManager(DeleteTopicsActivity.this, "AddOrDelete");
                 String[][] topicNames = db.getTopicNames();
                 for (String[] topic : topicNames)
                 {
