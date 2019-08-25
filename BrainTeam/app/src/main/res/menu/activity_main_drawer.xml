@@ -29,44 +29,16 @@
     <group
         android:checkableBehavior="single"
         android:visible="true">
-        <item android:title="Play">
+        <item android:title="Settings">
             <menu>
                 <item
-                    android:id="@+id/settings2"
+                    android:id="@+id/playAddedTopic"
                     android:icon="@drawable/ic_menu_manage"
-                    android:title="Settings" />
-            </menu>
-        </item>
-    </group>
-    <group
-        android:checkableBehavior="single"
-        android:visible="true">
-        <item android:title="Read">
-            <menu>
+                    android:title="Play Added Topics" />
                 <item
-                    android:id="@+id/readLastXTopics"
-                    android:title="Read Last X Topics" />
-                <item
-                    android:id="@+id/readLastXDays"
-                    android:title="Read Topics from last X Days" />
-                <item
-                    android:id="@+id/readSelectedTopics"
-                    android:title="Select Topics to Read" />
-                <item
-                    android:id="@+id/readTossups"
-                    android:title="Read Tossups" />
-            </menu>
-        </item>
-    </group>
-    <group
-        android:checkableBehavior="single"
-        android:visible="true">
-        <item android:title="Practice">
-            <menu>
-                <item
-                    android:id="@+id/settings4"
-                    android:icon="@drawable/ic_menu_manage"
-                    android:title="Settings" />
+                    android:id="@+id/playRandomTossup"
+                    android:icon="@android:drawable/ic_input_add"
+                    android:title="Play Random Tossup" />
             </menu>
         </item>
     </group>

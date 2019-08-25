@@ -32,7 +32,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
-        android:text="@string/tab_text_2"
+        android:text="@string/selectDifficulties"
         android:textAllCaps="false"
         android:textColor="@android:color/black"
         android:textSize="24sp"

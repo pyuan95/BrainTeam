@@ -5,7 +5,6 @@ import android.content.Intent;
 import android.content.res.Resources;
 import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
-import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
@@ -14,7 +13,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.Button;
 
 import java.util.ArrayList;
 
@@ -93,22 +91,17 @@ public class MainActivity extends AppCompatActivity
             Intent intent = new Intent(this, StatisticsActivity.class);
             startActivity(intent);
         }
-        else if (id == R.id.readLastXDays)
+        else if (id == R.id.playAddedTopic)
         {
-            changeToReadActivity(title);
+            Intent intent = new Intent(this, AddedTopicLauncher.class);
+            startActivity(intent);
         }
-        else if (id == R.id.readLastXTopics)
+        else if (id == R.id.playRandomTossup)
         {
-            changeToReadActivity(title);
+            Intent intent = new Intent(this, RandomTossupLauncher.class);
+            startActivity(intent);
         }
-        else if (id == R.id.readSelectedTopics)
-        {
-            changeToReadActivity(title);
-        }
-        else if (id == R.id.readTossups)
-        {
-            changeToReadActivity(title);
-        }
+
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);

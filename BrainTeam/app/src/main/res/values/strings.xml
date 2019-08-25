@@ -130,9 +130,9 @@
     <string name="readTossups">Read Tossups</string>
     <string name="title_activity_read_launcher">ReadLauncher</string>
     <string name="section_format">Hello World from section: %1$d</string>
-    <string name="tab_text_1">Select Categories</string>
-    <string name="tab_text_2">Select Difficulties</string>
-    <string name="tab_text_3">Play Settings</string>
+    <string name="selectAddedTopics">Select Added Topics</string>
+    <string name="selectCategories">Select Categories</string>
+    <string name="selectDifficulties">Select Difficulties</string>
+    <string name="playSettings">Play Settings</string>
     <string name="mode">Mode</string>
-
 </resources>
