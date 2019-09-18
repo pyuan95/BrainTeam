@@ -1,4 +1,5 @@
 package com.example.backend;
+import android.app.Application;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.res.AssetManager;
@@ -26,22 +27,25 @@ public class DatabaseManager extends SQLiteOpenHelper
 {
     private SQLiteDatabase allTossups;
     private SQLiteDatabase topicData;
-    int[] IDs;
-    int[][] equalIDs;
+    public Context context;
+    public int[] IDs;
+    public int[][] equalIDs;
     boolean equal = false;
     // Equal selection from each topic will be implemented later.
-
 
     private static final String DATABASE_NAME = "topicData.db";
     private static final int DATABASE_VERSION = 1;
 
-
     public DatabaseManager(Context context, ArrayList<String> categories, ArrayList<String> difficulties) throws IOException {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
+        this.context = context;
+
+        //This code is deprecated. Moving database responsibility moved to BrainTeam.java, AKA Startup.
+        /*
         AssetManager assetManager = context.getAssets();
         InputStream in = null;
         OutputStream out = null;
-        if (isFirstTime(context) && false) { //This code is deprecated. Moving database responsibility moved to BrainTeam.java, AKA Startup.
+        if (isFirstTime(context) && false) {
             try {
                 in = assetManager.open("allTossups.db");
                 File outFile = new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db");
@@ -53,8 +57,11 @@ public class DatabaseManager extends SQLiteOpenHelper
                 e.printStackTrace();
             }
         }
+        */
 
-        allTossups = new AllTossups(context).getReadableDatabase();
+// commented this out. new backend will use specific methods to do stuff
+
+/*        allTossups = new AllTossups(context).getReadableDatabase();
         //allTossups = openOrCreateDatabase(new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db").getAbsolutePath(), null, null);
         topicData = getWritableDatabase();
 
@@ -69,53 +76,51 @@ public class DatabaseManager extends SQLiteOpenHelper
 
         Resources res = context.getResources();
         IDs = selectRandomTossups(categories, difficulties);
-        c.close();
+        c.close();*/
     }
 
-    public DatabaseManager(Context context, String whatDo)
+    @Override
+    public void onCreate(SQLiteDatabase db)
     {
-        super(context, DATABASE_NAME, null, DATABASE_VERSION);
-        allTossups = new AllTossups(context).getReadableDatabase();
-        //allTossups = openOrCreateDatabase(new File(context.getDatabasePath(DATABASE_NAME).getParent(), "allTossups.db").getAbsolutePath(), null, null);
+        String sql = "CREATE TABLE IF NOT EXISTS topicData(id INTEGER PRIMARY KEY, topic TEXT, ids TEXT, dateAdded DATETIME DEFAULT CURRENT_DATE, age INTEGER, numberTossups INTEGER)";
+        db.execSQL(sql);
+    }
+
+    @Override
+    public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion)
+    {
+        String sql = "DROP TABLE IF EXISTS topicData";
+        db.execSQL(sql);
+        onCreate(db);
+    }
+
+    public void loadAllTossups()
+    {
+        this.allTossups = new AllTossups(context).getReadableDatabase();
+    }
+
+    public void loadTopicData()
+    {
         topicData = getWritableDatabase();
-        IDs = new int[] {100000}; //To prevent any random bugs
-        if (whatDo.equals("AddOrDelete"))
-        {
-
-        }
-        else if (whatDo.equals("lastXDays"))
-        {
-
-        }
-        else if (whatDo.equals("lastXTopics"))
-        {
-
-        }
     }
 
-
-    private void copyFile(InputStream in, OutputStream out) throws IOException {
-        byte[] buffer = new byte[1024];
-        int read;
-        while((read = in.read(buffer)) != -1){
-            out.write(buffer, 0, read);
-        }
-    }
-
-    private boolean isFirstTime(Context context)
+    public void setTossupIDs(int[] ids)
     {
-        boolean firstTime = false;
-        SharedPreferences mPreferences = context.getSharedPreferences("first_time", Context.MODE_PRIVATE);
-        firstTime = mPreferences.getBoolean("firstTime", true);
-        if (firstTime) {
-            SharedPreferences.Editor editor = mPreferences.edit();
-            editor.putBoolean("firstTime", false);
-            editor.commit();
-        }
-
-        return firstTime;
+        this.IDs = ids;
     }
 
+    public String[][] getTopicNames()
+    {
+        String sql = "SELECT topic, numberTossups FROM topicData";
+        Cursor cursor = topicData.rawQuery(sql, null);
+        ArrayList<String[]> topicNames = new ArrayList<>();
+        while (cursor.moveToNext())
+        {
+            topicNames.add(new String[] {cursor.getString(0), cursor.getString(1)});
+        }
+        cursor.close();
+        return Arrays.copyOf(topicNames.toArray(), topicNames.size(), String[][].class);
+    }
 
     /**
      * Gets the next tossup. HAS NOT implemented the "equal topic" feature yet.
@@ -146,23 +151,7 @@ public class DatabaseManager extends SQLiteOpenHelper
         }
     }
 
-
-    @Override
-    public void onCreate(SQLiteDatabase db)
-    {
-        String sql = "CREATE TABLE IF NOT EXISTS topicData(id INTEGER PRIMARY KEY, topic TEXT, ids TEXT, dateAdded DATETIME DEFAULT CURRENT_DATE, age INTEGER, numberTossups INTEGER)";
-        db.execSQL(sql);
-    }
-
-    @Override
-    public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion)
-    {
-        String sql = "DROP TABLE IF EXISTS topicData";
-        db.execSQL(sql);
-        onCreate(db);
-    }
-
-    public int[] multipleTopics(ArrayList<String> topic)
+    public int[] selectTopicsFromList(ArrayList<String> topic)
     {
         for (int i = 0; i < topic.size(); i++)
         {
@@ -191,14 +180,10 @@ public class DatabaseManager extends SQLiteOpenHelper
         return IDsArray;
     }
 
-    /**
-     * Returns an ArrayList<Integer> of IDs of tossups from added topics in the last week.
-     * Precondition: Assumes that the ages of all the topics is correct.
-     * @return an int[] of tossups from added topics in the last week.
-     */
-    public int[] lastWeek()
+
+    public int[] selectTossupsFromTopicsFromLastXDays(int x)
     {
-        String sql = "SELECT topic, ids FROM topicData WHERE age <= 7";
+        String sql = "SELECT topic, ids FROM topicData WHERE age <= " + x;
         Cursor cursor = topicData.rawQuery(sql, null);
         ArrayList<Integer> IDs = new ArrayList<Integer>();
         while (cursor.moveToNext())
@@ -219,45 +204,9 @@ public class DatabaseManager extends SQLiteOpenHelper
         return IDsArray;
     }
 
-    /**
-     * Returns an ArrayList<ArrayList<Integer>> of ids from added topics in the last week, but *roughly equal* number of tossups per topic.
-     * @return an int[] of tossups from added topics in the last week, but *roughly equal* number of tossups per topic.
-     */
-    public int[][] lastWeekEqual()
+    public int[] selectTopicsFromLastXAdditions(int x)
     {
-        String sql = "SELECT topic, ids FROM topicData WHERE age <= 7";
-        Cursor cursor = topicData.rawQuery(sql, null);
-        ArrayList<ArrayList<Integer>> IDs = new ArrayList<>();
-        while (cursor.moveToNext())
-        {
-            String[] stringIDs = cursor.getString(1).split(",");
-            ArrayList<Integer> intIDs = new ArrayList<>();
-            for (int i = 0; i < stringIDs.length; i++)
-            {
-                intIDs.add(Integer.parseInt(stringIDs[i]));
-            }
-            IDs.add(intIDs);
-        }
-        int[][] IDsArray = new int[IDs.size()][];
-        for (int i = 0; i < IDs.size(); i++)
-        {
-            for (int j = 0; j < IDs.get(i).size(); j++)
-            {
-                IDsArray[i][j] = IDs.get(i).get(j);
-            }
-        }
-
-        cursor.close();
-        return IDsArray;
-    }
-
-    /**
-     * Returns an int[] of tossups from added topics in the last month.
-     * @return an int[] of tossups from added topics in the last month.
-     */
-    public int[] lastMonth()
-    {
-        String sql = "SELECT topic, ids FROM topicData WHERE age <= 7";
+        String sql = "SELECT TOP " + x + " topic, ids FROM topicData ORDER BY age";
         Cursor cursor = topicData.rawQuery(sql, null);
         ArrayList<Integer> IDs = new ArrayList<Integer>();
         while (cursor.moveToNext())
@@ -268,98 +217,11 @@ public class DatabaseManager extends SQLiteOpenHelper
                 IDs.add(Integer.parseInt(stringIDs[i]));
             }
         }
+
         int[] IDsArray = new int[IDs.size()];
         for (int i = 0; i < IDs.size(); i++)
         {
             IDsArray[i] = IDs.get(i);
-        }
-        cursor.close();
-        return IDsArray;
-    }
-
-    /**
-     * Returns an int[] of tossups from added topics in the last month, but *roughly equal* number of tossups per topic.
-     * @return an int[] of tossups from added topics in the last month, but *roughly equal* number of tossups per topic.
-     */
-    public int[][] lastMonthEqual()
-    {
-        String sql = "SELECT topic, ids FROM topicData WHERE age <= 7";
-        Cursor cursor = topicData.rawQuery(sql, null);
-        ArrayList<ArrayList<Integer>> IDs = new ArrayList<>();
-        while (cursor.moveToNext())
-        {
-            String[] stringIDs = cursor.getString(1).split(",");
-            ArrayList<Integer> intIDs = new ArrayList<>();
-            for (int i = 0; i < stringIDs.length; i++)
-            {
-                intIDs.add(Integer.parseInt(stringIDs[i]));
-            }
-            IDs.add(intIDs);
-        }
-        int[][] IDsArray = new int[IDs.size()][];
-        for (int i = 0; i < IDs.size(); i++)
-        {
-            for (int j = 0; j < IDs.get(i).size(); j++)
-            {
-                IDsArray[i][j] = IDs.get(i).get(j);
-            }
-        }
-        cursor.close();
-        return IDsArray;
-    }
-
-    /**
-     * Returns an int[] of all tossups from added topics.
-     * @return an int[] of all tossups from added topics.
-     */
-    public int[] lastAll()
-    {
-        String sql = "SELECT topic, ids FROM topicData WHERE age <= 7";
-        Cursor cursor = topicData.rawQuery(sql, null);
-        ArrayList<Integer> IDs = new ArrayList<Integer>();
-        while (cursor.moveToNext())
-        {
-            String[] stringIDs = cursor.getString(1).split(",");
-            for (int i = 0; i < stringIDs.length; i++)
-            {
-                IDs.add(Integer.parseInt(stringIDs[i]));
-            }
-        }
-        int[] IDsArray = new int[IDs.size()];
-        for (int i = 0; i < IDs.size(); i++)
-        {
-            IDsArray[i] = IDs.get(i);
-        }
-        cursor.close();
-        return IDsArray;
-    }
-
-    /**
-     * Returns an int[] of *all* tossups from added topics, but *roughly equal* number of tossups per topic.
-     * @return an int[] of *all* tossups from added topics, but *roughly equal* number of tossups per topic.
-     */
-    public int[][] lastAllEqual()
-    {
-        String sql = "SELECT topic, ids FROM topicData WHERE age <= 7";
-        Cursor cursor = topicData.rawQuery(sql, null);
-        ArrayList<ArrayList<Integer>> IDs = new ArrayList<>();
-        while (cursor.moveToNext())
-        {
-            String[] stringIDs = cursor.getString(1).split(",");
-            ArrayList<Integer> intIDs = new ArrayList<>();
-            for (int i = 0; i < stringIDs.length; i++)
-            {
-                intIDs.add(Integer.parseInt(stringIDs[i]));
-            }
-            IDs.add(intIDs);
-        }
-        int[][] IDsArray = new int[IDs.size()][];
-        for (int i = 0; i < IDs.size(); i++)
-        {
-            for (int j = 0; j < IDs.get(i).size(); j++)
-            {
-                IDsArray[i][j] = IDs.get(i).get(j);
-            }
         }
         cursor.close();
         return IDsArray;
@@ -474,6 +336,16 @@ public class DatabaseManager extends SQLiteOpenHelper
 
     }
 
+    /**
+     * Deletes a topic: deletes the topic from table "__topics__", and the table that has the name of the topic.
+     */
+    public void deleteTopic(String topic)
+    {
+        String sql = "DELETE FROM topicData WHERE topic = ?";
+        topicData.execSQL(sql, new Object[] {topic});
+        // Can't return boolean because if there is nothing to delete, nothing happens; no error thrown.
+    }
+
     public boolean inAnswer(String query, String answer)
     {
         query = query.toLowerCase();
@@ -491,29 +363,8 @@ public class DatabaseManager extends SQLiteOpenHelper
         return contains;
     }
 
-    /**
-     * Deletes a topic: deletes the topic from table "__topics__", and the table that has the name of the topic.
-     */
-    public void deleteTopic(String topic)
-    {
-        String sql = "DELETE FROM topicData WHERE topic = ?";
-        topicData.execSQL(sql, new Object[] {topic});
-        // Can't return boolean because if there is nothing to delete, nothing happens; no error thrown.
-    }
 
-    public String[][] getTopicNames()
-    {
-        String sql = "SELECT topic, numberTossups FROM topicData";
-        Cursor cursor = topicData.rawQuery(sql, null);
-        ArrayList<String[]> topicNames = new ArrayList<>();
-        while (cursor.moveToNext())
-        {
-            topicNames.add(new String[] {cursor.getString(0), cursor.getString(1)});
-        }
-        cursor.close();
-        return Arrays.copyOf(topicNames.toArray(), topicNames.size(), String[][].class);
-    }
-
+    // Helper Methods
 
     public void updateDate()
     {
@@ -542,4 +393,31 @@ public class DatabaseManager extends SQLiteOpenHelper
             topicData.execSQL(updateDateSQL, new Object[] {age, cursor.getString(0)});
         }
     }
+
+
+    // ***********NOT USED ANYMORE********
+    /*
+    private void copyFile(InputStream in, OutputStream out) throws IOException {
+        byte[] buffer = new byte[1024];
+        int read;
+        while((read = in.read(buffer)) != -1){
+            out.write(buffer, 0, read);
+        }
+    }
+
+    private boolean isFirstTime(Context context)
+    {
+        boolean firstTime = false;
+        SharedPreferences mPreferences = context.getSharedPreferences("first_time", Context.MODE_PRIVATE);
+        firstTime = mPreferences.getBoolean("firstTime", true);
+        if (firstTime) {
+            SharedPreferences.Editor editor = mPreferences.edit();
+            editor.putBoolean("firstTime", false);
+            editor.commit();
+        }
+
+        return firstTime;
+    }
+    */
+
 }

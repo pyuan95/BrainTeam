@@ -1,11 +1,13 @@
 package com.example.brainteam;
 
+import android.content.DialogInterface;
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -18,6 +20,7 @@ import android.view.ViewGroup;
 
 import com.example.backend.ListAdapterLauncher;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -117,6 +120,41 @@ public class AddedTopicLauncher extends AppCompatActivity {
             ListAdapterLauncher adapter = new ListAdapterLauncher(getContext(), items);
             recyclerView.setAdapter(adapter);
             return rootView;
+        }
+
+        public ArrayList<String> selectTopicsFromList(View view)
+        {
+            // setup the alert builder
+            AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
+            builder.setTitle("Choose some animals");
+
+            final String[] animals = {"horse", "cow", "camel", "sheep", "goat"};
+            final ArrayList<String> checkedItems = new ArrayList<>();
+            builder.setMultiChoiceItems(animals, null, new DialogInterface.OnMultiChoiceClickListener() {
+                @Override
+                public void onClick(DialogInterface dialog, int which, boolean isChecked)
+                {
+                    if (isChecked)
+                    {
+                        checkedItems.add(animals[which]);
+                    }
+                    else
+                    {
+                        checkedItems.remove(animals[which]);
+                    }
+                }
+            });
+
+            builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialog, int which) {
+                    System.out.println("Checked Items: " + checkedItems);
+                }
+            });
+            builder.setNegativeButton("Cancel", null);
+            AlertDialog dialog = builder.create();
+            dialog.show();
+            return checkedItems;
         }
     }
 
