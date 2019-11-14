@@ -1,0 +1,6444 @@
+julien: 91
+robert lee frost: 64
+emily elizabeth dickinson: 62
+pablo neruda: 61
+: 55
+edgar allan poe: 53
+missing: 50
+nathaniel hawt: 48
+cry beloved country: 43
+william butler yeats: 43
+ernest miller hemingway: 42
+leo nikolayevich tolstoy: 42
+madame bovary: 41
+chinua achebe: 40
+franz kafka: 40
+virginia woolf: 40
+yasunari kawabata: 40
+henrik johan ibsen: 39
+robert browning prompt browning: 39
+don quixote de la mancha: 39
+australia: 39
+dante alighieri: 39
+johann wolfgang von goethe gur tuh: 38
+henry james: 37
+alfred: 37
+red: 37
+wystan hugh auden: 36
+guy de maupassant: 36
+sylvia plath: 36
+charles baudelaire: 36
+wole soyinka: 35
+thomas mann: 35
+john keats: 35
+umberto eco: 35
+china: 35
+fathers sons: 35
+stephen crane: 34
+anton pavlovich chekhov: 34
+g: 34
+wallace stevens: 34
+percy bysshe shelley: 34
+herman melville: 34
+nadine: 34
+albert camus: 33
+walt whitman: 33
+langston hughes: 33
+hundred years solitude: 33
+john donne: 33
+nikolai gogol: 33
+luigi pirandello: 33
+thomas hardy: 33
+ahmed salman rushdie: 32
+moliere: 32
+gabriel garcia marquez prompt marquez: 32
+edward estlin cummings: 32
+hermann hesse: 32
+sonnets john milton prompt partial answer: 31
+federico garcia: 31
+mexico: 31
+joseph conrad: 31
+henry wads: 31
+carlos fuentes macias: 31
+james augustine aloysius joyce: 30
+rudyard kipling: 30
+aristophanes: 30
+catch 22: 30
+g: 30
+christopher marlowe: 30
+anna karenina: 29
+decameron: 29
+irwin allen ginsberg: 29
+william blake: 29
+ben jonson: 29
+eugene ionesco: 29
+petrarch: 29
+robinson crusoe: 29
+thomas stearns eliot: 28
+toni: 28
+tale genji: 28
+arthur asher miller: 28
+alexander pushkin: 28
+waste land: 28
+jean paul sartre: 28
+great gatsby: 28
+august strindberg: 28
+flannery o'con: 27
+italo calvino: 27
+william carlos williams: 27
+brave: 27
+jane eyre: 27
+edward franklin albee iii: 27
+ralph waldo ellison: 27
+mario vargas llosa: 27
+derek walcott: 27
+bertolt brecht: 26
+david herbert lawrence: 26
+invisible man: 26
+rubaiyat omar khayyam: 26
+eugene gladstone o'neill: 26
+canterbury tales: 26
+beowulf: 26
+the overcoat: 26
+ho: 26
+harold pinter: 26
+japan: 26
+anne bradstreet: 26
+tennessee williams: 26
+ry?nosuke akutagawa: 26
+margaret atwood: 26
+kurt vonnegut: 25
+jerome david salinger: 25
+dylan thomas: 25
+fyo: 25
+samuel beckett: 25
+ulysses: 25
+the love song j alfred prufrock: 25
+pride prejudice: 25
+samuel tay: 25
+oedipus: 25
+great expectations: 25
+cherry: 25
+athol fugard: 25
+gustave flaubert: 25
+sinclair lewis: 24
+francis scott key fitzgerald: 24
+: 24
+philip milton roth: 24
+sir walter scott: 24
+washington irving: 24
+isabel allende llona: 24
+: 24
+andrew marvell: 24
+henry graham greene: 24
+ezra weston loomis pound: 24
+naguib mahfouz: 24
+john michael coetzee ie: 24
+herbert g: 23
+rainier maria rilke: 23
+chicago: 23
+rabindranath ta: 23
+tempest: 23
+willa cather: 23
+things fall apart: 23
+gunter wilhelm grass: 23
+lolita: 23
+thomas pynchon: 23
+eyes watching god: 23
+edward: 23
+octavio paz lozano: 23
+matthew marnold arnold: 23
+heart darkness: 23
+death salesman: 23
+vidiadhar surajprasad naipaul: 22
+seamus heaney: 22
+candide: 22
+macbeth: 22
+john milton: 22
+william shakespeare: 22
+jonathan swift: 22
+kill mockingbird: 22
+ray douglas bradbury: 22
+brothers karamazov: 22
+william cuthbert faulkner: 22
+milan kundera: 22
+waiting godot: 22
+kenzaburo oe: 22
+road mecca: 22
+vic: 21
+song roland: 21
+ivan sergeyevich turgenev: 21
+stranger: 21
+o henry: 21
+august wilson: 21
+the rime ancient mariner: 21
+wuthering heights: 21
+alle: 21
+pygmalion: 21
+streetcar named desire: 21
+unbearable lightness being: 21
+publius ovidius naso: 21
+yukio mishima: 21
+alfred edward housman: 21
+robert louis stevenson: 21
+emma: 21
+: 20
+william: 20
+aldous leonard huxley: 20
+william cullen bryant: 20
+notre dame de paris: 20
+awakening: 20
+james baldwin: 20
+uncle tom's cabin: 20
+john greenleaf whittier: 20
+the lady shalott: 20
+john steinbeck: 20
+gaius valerius catullus: 20
+master margarita: 20
+teacher: 20
+ghosts: 20
+love cholera: 19
+hart crane: 19
+republica argentina: 19
+vladimir nabokov: 19
+: 19
+chile: 19
+diary: 19
+alexander pope: 19
+les fleurs du mal: 19
+edwin arlington robinson: 19
+hero: 19
+aeschylus: 19
+quiet western front: 19
+vanity fair: 19
+republic south africa: 19
+virgil: 19
+jack london: 19
+gerard manley hopkins: 19
+death venice: 19
+argentina: 18
+tender night: 18
+room: 18
+sonnets: 18
+orhan pamuk or ferit orhan pamu: 18
+bridge: 18
+sophocles: 18
+crucible: 18
+tin drum: 18
+edith wharton: 18
+paradise lost: 18
+marcel proust: 18
+howl: 18
+king lear: 18
+three musketeers: 18
+kate chopin: 18
+saki: 18
+saul bellow: 18
+satanic verses: 18
+raisin sun: 18
+frankenstein;: 18
+daniel defoe: 18
+hedda gabler: 18
+snow country: 17
+tilbury town: 17
+grapes wrath: 17
+sense sensibility: 17
+who's afraid virginia woolf?: 17
+t: 17
+france: 17
+scarlet letter: 17
+ambrose gwinett bierce: 17
+im: 17
+g: 17
+edna st vincent millay: 17
+gwendolyn brooks: 17
+steppenwolf: 17
+trial: 17
+william golding mj: 17
+haruki murakami: 17
+miguel de cervantes saavedra: 17
+glass menagerie: 16
+doll's house: 16
+jungle: 16
+james feni: 16
+count monte cristo: 16
+clock: 16
+frankenstein: 16
+crime punishment: 16
+oscar wilde: 16
+: 16
+much ado nothing: 16
+philip larkin: 16
+chronicle death: 16
+cat hot tin roof: 16
+johann christoph friedrich von schiller: 16
+: 16
+lighthouse: 16
+middlemarch: study provincial life: 16
+voltaire: 16
+picture: 16
+german: 16
+elizabeth bishop: 15
+lay dying: 15
+john cheever: 15
+idiot: 15
+emile zola: 15
+midnight's children: 15
+oscar fingal o'flahertie wills wilde: 15
+tartuffe: 15
+faust: 15
+euripides: 15
+dante's inferno prompt divine comedy la divina commedia: 15
+native son: 15
+moby dick: 15
+romeo juliet: 15
+dracula: 15
+mark twain: 15
+duino elegies: 15
+robert lowell: 15
+brideshead revisited: 15
+house spirits spanish: la casa de los espiritus: 15
+antigone: 15
+winesburg ohio: 15
+arabic: 15
+volpone: 15
+dover beach since i'm nice matthew arnold someone buzzes poem: 15
+carpenter &lt;the above question cate: 15
+romance three kingdoms: 14
+nigeria: 14
+death hired man: 14
+exit: 14
+ethan frome: 14
+war peace: 14
+eu: 14
+aleksandr isayevich solzhenitsyn: 14
+beloved: 14
+tale two cities: 14
+jose saramago: 14
+thanatopsis: 14
+john updike: 14
+alexandre dumas pere: 14
+twenty love poems song despair: 14
+spoon river anthology: 14
+katherine mansfield: 14
+crying lot 49: 14
+birthday party: 14
+abraham lincoln: 14
+arabian nights' entertainments: 14
+song myself: 14
+oliver wendell holmes sr: 14
+isak dinesen: 14
+seagull: 14
+jane austen: 14
+persian: 14
+poland: 13
+julio: 13
+lady chatterley's lover: 13
+six characters aut: 13
+house seven gables: 13
+stendhal: 13
+to coy mistress: 13
+geoffrey chaucer: 13
+a good man hard find: 13
+iceman cometh: 13
+little women: 13
+old man sea: 13
+his: 13
+pearl: 13
+the raven: 13
+mikhail afanasyevich bulgakov: 13
+william somerset maugham: 13
+winter's night traveller: 13
+frogs: 13
+david foster wallace: 13
+siddhartha: 13
+enemy people: 13
+taming shrew: 13
+wilfred owen: 13
+kazuo ishiguro: 13
+lynching: 13
+les miserables: 13
+john maxwell j m coetzee: 13
+david alan mamet: 13
+rosencrantz guildenstern dead: 13
+: 13
+she stoops conquer: 12
+walker: 12
+ode west wind: 12
+thomas gray: 12
+the lottery: 12
+jean louis jack kerouac: 12
+slaughterhouse five children's crusade: duty dance death: 12
+grendel: 12
+the tell tale heart: 12
+hamlet: 12
+flew over cuckoo's nest: 12
+bell jar: 12
+anatole france: 12
+rur: 12
+handmaid's tale: 12
+harry rabbit angstrom: 12
+lost remembrance things past la recherche du temps perdu: 12
+passage india: 12
+sentimental journey through france italy: 12
+catcher rye: 12
+plague: 12
+john dryden: 12
+truman capote: 12
+alan paton db n: 12
+prime miss jean brodie: 12
+sir tom stoppard: 12
+italy: 12
+lines composed few miles above tintern abbey revisiting banks wye during tour: 12
+canada: 12
+sermons jonathan edwards &lt;the above question cate: 12
+maxim: 11
+man mode: 11
+gabriela mistral: 11
+ma: 11
+: 11
+kingsley amis prompt amis: 11
+la vita nuova: 11
+sound fury: 11
+spain: 11
+co: 11
+twelfth night: 11
+samuel johnson: 11
+haiku: 11
+ozymandias: 11
+ivanhoe: 11
+eugene onegin: 11
+karel capek chah peck: 11
+name rose: 11
+rhinoceros: 11
+temple golden pavilion: 11
+oliver goldsmith: 11
+jhumpa lahiri: 11
+aeneid: 11
+li po li bo li bai ri haku prompt li: 11
+dead souls mertvye dushi: 11
+house mr biswas: 11
+disgrace: 11
+carson mccullers: 11
+bald soprano: 11
+day life ivan denisovich: 11
+jew malta: 11
+aunt julia scriptwriter: 11
+vietnam war: 11
+moby dick;: 11
+heart lonely hunter: 11
+rodion romanovich raskolnikov: 11
+birds: 11
+life opinions tristram shandy gentleman: 11
+manuel puig: 11
+herman hesse: 11
+matsuo: 11
+ryunosuke akutagawa: 11
+king's men: 11
+: 11
+meta: 11
+othello m: 11
+little prince: 11
+edmund spenser: 11
+charles dickens ar: 11
+gargantua: 10
+darkness noon: 10
+charterhouse parma: 10
+july's people: 10
+ruben dario: 10
+pilgrim's progress: 10
+the legend sleepy hollow: 10
+personal his: 10
+richard iii: 10
+american tragedy: 10
+mrs clarissa dalloway: 10
+ode nightingale: 10
+carl sandburg: 10
+satires: 10
+kubla khan: 10
+farewell arms: 10
+midsummer night's dream: 10
+sherwood anderson: 10
+jules verne: 10
+golden ass: 10
+arthur rimbaud: 10
+patrick white: 10
+: 10
+leaves grass: 10
+the rape lock: 10
+interpreter maladies: 10
+gao xingjian: 10
+james ngugi wa thiong'o: 10
+shirley jackson: 10
+absalom absalom!: 10
+robert burns: 10
+1984: 10
+house bernarda alba: 10
+lion jewel: 10
+glass bead game: 10
+east eden: 10
+glengarry glen ross: 10
+green knight: 10
+archibald macleish: 10
+my last duchess: 10
+john simmons barth: 10
+o pioneers!: 10
+erich maria remarque: 10
+mansfield park: 10
+gitanjali: 10
+knights: 10
+greek: 10
+antonia: 10
+federative republic brazil: 10
+the american scholar: 9
+marianne m: 9
+uncle vanya: 9
+arcadia: 9
+emily bronte prompt bronte: 9
+huckleberry finn: 9
+oliver twist: 9
+maya angelou: 9
+sun rises: 9
+gulliver's travels: 9
+tom wolfe: 9
+paris: 9
+animal farm: 9
+harlem renaissance: 9
+the second coming: 9
+last mohicans: 9
+walter whitman: 9
+claudius: 9
+lysistrata: 9
+james thurber: 9
+christina rossetti prompt rossetti: 9
+sappho lesbos: 9
+miss julie: 9
+william dean howells: 9
+pierre: 9
+connecticut yankee king arthur's court: 9
+elegy written country churchyard: 9
+arthur evelyn st john waugh: 9
+bluest eye: 9
+alexandria egypt: 9
+odyssey: 9
+nausea: 9
+remains day: 9
+1666 great fire london: 9
+dumb waiter: 9
+andre gide: 9
+okonkwo: 9
+dubliners: 9
+heinrich heine: 9
+republic poland: 9
+shropshire lad: 9
+el aleph: 9
+bartleby scrivener: s: 9
+long day's journey into night: 9
+bret harte: 9
+spanish: 9
+castle otranto: 9
+magic mountain der zauberberg: 9
+henry fielding du: 9
+september 1 1939: 9
+the dead: 9
+don delillo: 9
+power g: 9
+french lieutenant's woman: 9
+cuba: 9
+john dos passos: 9
+henry v: 9
+cyrano de bergerac: 9
+cat's cradle: 9
+paul laurence dunbar: 9
+theo: 9
+clive staples lewis: 9
+scotland prompt united kingdom great britain england obvious reasons: 9
+doc: 9
+pedro calderon de la barca prompt de la barca: 9
+lady windermere's fan: 9
+: 9
+: 9
+dante gabriel rossetti: 8
+master builder: 8
+white noise: 8
+titus maccius plautus: 8
+nineteen eighty four: 8
+william makepeace thackeray: 8
+louisa alcott: 8
+ramayana: 8
+richard wright: 8
+machine: 8
+the charge light brigade: 8
+strange case dr jekyll mr hyde: 8
+rip van winkle: 8
+fahrenheit 451: 8
+homer: 8
+st petersburg: 8
+heinrich boll: 8
+far madding crowd: 8
+crossing brooklyn ferry: 8
+tragedy hamlet prince denmark: 8
+dr zhivago: 8
+vicar wakefield: 8
+arthur conan doyle: 8
+tragical his: 8
+nathanael west: 8
+mikhail lermontov: 8
+chinese: 8
+miguel angel asturias rosales: 8
+death artemio cruz: 8
+v s naipaul: 8
+measure measure: 8
+s: 8
+du maurier g: 8
+the garden: 8
+angels america: 8
+switzerland: 8
+spanish tragedy: 8
+paradiso: 8
+evelyn waugh: 8
+ode grecian urn: 8
+naked dead: 8
+stephen vincent benet db n: 8
+duchess malfi: 8
+god small things: 8
+waiting barbarians: 8
+things carried: 8
+confessions mask: 8
+billy budd sai: 8
+merchant venice: 8
+neil simon: 8
+to skylark: 8
+gertrude stein: 8
+czech language: 8
+gerhart hauptmann: 8
+: 8
+tragedy julius caesar: 8
+giovanni boccaccio: 8
+prophet: 8
+francois rabelais: 8
+lilacs last d: 8
+endgame: 8
+yiddish: 8
+mourning becomes electra: 8
+sinbad sai: 8
+charles marlow: 8
+white tiger: 7
+hans christian anderson: 7
+libation bearers: 7
+infinite jest: 7
+piano lesson: 7
+william s burroughs: 7
+jim burden: 7
+harriet beecher stowe: 7
+gravity's rainbow: 7
+tess d'urbervilles: 7
+mice men: 7
+the necklace: 7
+holden caulfield: 7
+orlean: 7
+rhyme: 7
+phillis wheatley: 7
+daisy miller: 7
+black beauty: 7
+raymond t: 7
+lewis carroll: 7
+bernard malamud: 7
+imaginary invalid: 7
+a rose emily: 7
+castle: 7
+vikram seth: 7
+bend river: 7
+the luck roaring camp: 7
+sean o'casey: 7
+babbitt: 7
+theo: 7
+holden: 7
+amazing adventures kavalier clay: 7
+notes underground: 7
+richard brinsley sheridan: 7
+naked lunch: 7
+jerusalem delivered: 7
+fences: 7
+alice ann munro: 7
+empire: 7
+natsume: 7
+zoo s: 7
+pale fire: 7
+chikamatsu monzaemon: 7
+jude obscure: 7
+peter carey: 7
+house mirth: 7
+dogs: 7
+the secret life walter mitty: 7
+man havana: 7
+philip: 7
+cantos: 7
+don juan: 7
+tobias g: 7
+classical latin: 7
+lower depths na dne: 7
+dulce et de: 7
+amy lawrence lowell: 7
+death king's: 7
+me: 7
+wild duck: 7
+lemuel gulliver: 7
+clouds: 7
+the open boat: 7
+road taken: 7
+paul verlaine: 7
+breakfast tiffany's: 7
+charles john huffam dickens prompt boz: 7
+arms man: 7
+john yossarian prompt john give $1 those say yo yo take it: 7
+william wilkie collins: 7
+satan: 7
+billiards half past nine: 7
+easter 1916: 7
+medea: 7
+little foxes: 7
+sanskrit: 7
+alchemist: 7
+mending wall: 7
+lucky jim: 7
+russian: 7
+heinrich theo: 7
+gilgamesh bilgames: 7
+bennet family: 7
+joan didion: 7
+endings: 7
+photographs: 7
+frost midnight: 6
+william: 6
+an essay man: 6
+john crowe ransom: 6
+rise silas lapham: 6
+greece: 6
+mysteries udolpho: 6
+why live po: 6
+walden: 6
+candide;: 6
+arab republic egypt: 6
+upton sinclair: 6
+treasure island: 6
+sonnet: 6
+joseph heller: 6
+detectives: 6
+drowning: 6
+iago: 6
+usa: 6
+main street: 6
+arrowsmith: 6
+ernst theo: 6
+school scandal: 6
+thomas de quincey: 6
+ambassa: 6
+hopscotch: 6
+foucault's pendulum: 6
+john millington synge: 6
+roland: 6
+kingdom spain: 6
+the empe: 6
+mother courage her children: 6
+nikos kazantzakis: 6
+whom bell tolls: 6
+moses e herzog: 6
+ian smith: 6
+palm wine drinkard palm wine drunkard: 6
+blood meridian: 6
+kalidasa: 6
+yukio mishima: 6
+eumenides: 6
+three sisters: 6
+samuel butler: 6
+helen troy: 6
+self reliance: 6
+confederacy dunces: 6
+jean valjean: 6
+howards end: 6
+boule de suif: 6
+muriel spark: 6
+robbers: 6
+: 6
+human bondage: 6
+rappaccini's daughter: 6
+cannery row: 6
+song solomon: 6
+os lusiadas: 6
+vaclav havel: 6
+raymond carver: 6
+susan sontag: 6
+jean racine: 6
+fyo: 6
+isaac bashevis singer: 6
+pere: 6
+sir noel peirce coward: 6
+sir philip sidney: 6
+lycidas: 6
+juno paycock: 6
+prince: 6
+felix lope de vega y carpio: 6
+tom stoppard: 6
+katherine ann: 6
+saturday night sunday: 6
+siegfried sassoon: 6
+lillian hellman: 6
+good earth: 6
+sweden: 6
+republic kenya: 6
+desiderius erasmus: 6
+caliban rc: 6
+outlaws marsh water margin men brothers shu?h? zhuan: 6
+four quartets: 6
+ahab: 6
+thirteen ways looking blackbird: 6
+joaquim maria machado de assis: 6
+orlando furios: 6
+bloom: 6
+dreams: 6
+agamemnon: 6
+french: 6
+zealand: 6
+faerie queene: 6
+bernd heinrich wilhelm von kleist: 6
+nightingales prompt birds: 6
+ireland do united kingdom great britain: 6
+robert graves: 6
+birthdays: 6
+man blue guitar: 5
+loneliness long distance runner: 5
+personal matter: 5
+volpone;: 5
+aime fernand david cesaire: 5
+snows kilimanjaro: 5
+: 5
+natural: 5
+: 5
+the black cat: 5
+bartleby scrivener: 5
+yevgeny ivanovich zamyatin: 5
+cymbeline: 5
+robert pinsky: 5
+decline fall: 5
+sonnets john keats: 5
+death maiden: 5
+the hunter gracchus: 5
+atticus finch prompt finch: 5
+massachusetts: 5
+: 5
+romeo montague: 5
+witches macbeth: 5
+the fall house usher: 5
+jonathan franzen: 5
+the gift magi: 5
+uncle tom: 5
+the bear: 5
+ayn rand: 5
+essay: 5
+charlotte perkins gilman: 5
+daniel webster: 5
+autobiography benjamin franklin: 5
+moonstone: 5
+in penal colony: 5
+kalevala: 5
+misanthrope: 5
+octopus: s: 5
+tragicall his: 5
+playboy western: 5
+: 5
+crito: 5
+edward rochester: 5
+jb: 5
+william motter inge: 5
+goblin market: 5
+kiss spider woman: 5
+death comes archbishop: 5
+jean genet: 5
+english patient: 5
+age innocence: 5
+pelham grenville wodehouse: 5
+comedy er: 5
+good soldier: 5
+day locust: 5
+bleak house: 5
+bacchae: 5
+rasipuram krishnaswami narayan: 5
+ode intimations im: 5
+eve saint agnes: 5
+robert penn warren: 5
+ben okri: 5
+hungary: 5
+cairo trilogy: 5
+: 5
+jesus christ: 5
+rob roy: 5
+makioka sisters: 5
+everything rises must converge: 5
+master haroldand boys: 5
+guillaume apollinaire: 5
+way flesh: 5
+mahmoud darwish: 5
+going moon: 5
+lucy poems: 5
+american pas: 5
+adam bede: 5
+blithe spirit: 5
+death naturalist: 5
+wise blood tg: 5
+pharsalia de bello civili civil war: 5
+pillow book makura soshi: 5
+mario vargas llosa do partial answer: 5
+tom jones: 5
+people's republic china: 5
+sula: 5
+john: 5
+vile bodies: 5
+primo levi: 5
+sheep well: 5
+colonel aureliano buendia: 5
+nine s: 5
+: 5
+night: 5
+the purloined letter: 5
+light august: 5
+henryk sienkiewicz: 5
+blue: 5
+el se: 5
+ballad reading gaol: 5
+india: 5
+arthur koestler: 5
+terence: 5
+daddy: 5
+angels america: gay fantasia national themes: 5
+timon athens: 5
+sigrid undset: 5
+robert herrick: 5
+li po: 5
+turn screw: 5
+heights macchu picchu: 5
+henry miller: 5
+richard lovelace: 5
+blood wedding: 5
+michael chabon: 5
+finnegans wake: 5
+john robinson jeffers: 5
+ragtime: 5
+vachel lindsay: 5
+bus stop: 5
+great american novel: 5
+peer gynt: 5
+canto general: 5
+under volcano: 5
+sonnets prompt poems: 5
+le citta invisibili: 5
+joyce carol oates: 5
+gilbert keith chesterton: 5
+murder cathedral: 5
+shahnameh ferdowsi: 5
+look back anger: 5
+peter shaffer: 5
+phyllis wheatley: 5
+vladimir vladimirovich mayakovsky: 5
+prince pauper: 5
+adonis: 5
+hiawatha: 5
+people's republic china: 5
+althea prison ij: 5
+christmas: 5
+kobo abe kimifusa abe: 5
+titus andronicus: 5
+: 5
+gotthold ephraim lessing sj: 5
+empe: 5
+confessions nat turner ar: 5
+jamaica dl: 5
+humbert humbert: 5
+don quixote kee ho tay: 5
+cleopatra vii philopa: 5
+ariel: 5
+anna christie: 5
+journey west hsi yu chi xi ji monkey: 5
+junichiro tanizaki: 5
+a room one's own: 5
+niccolo machiavelli: 5
+euthyphro: 5
+ishmael: 5
+isaac asimov: 5
+zadie smith: 5
+d'artagnan: 5
+sir thomas: 5
+iris murdoch: 5
+seneca younger: 5
+tigers: 5
+petals blood: 5
+sir john falstaff: 5
+fern hill: 5
+bliss: 5
+ian russell mcewan: 5
+john ashbery: 5
+duke bilgewater dauphin france be generous king place dauphin; either: 5
+melancholy: 5
+flannery o’con: 5
+agatha christie &lt;cc&gt;  bonuses: 5
+“song myself” &lt;ol american literature&gt;: 5
+road &lt;joe stitz&gt;/&lt;ed jacob&gt;: 5
+tom wingfield prompt wingfield: 4
+jose maria eca de queiroz: 4
+preface lyrical ballads: 4
+fable bees: 4
+david balfour: 4
+woe wit: 4
+marcus valerius martialis: 4
+night iguana: 4
+tyrone family: 4
+inspec: 4
+clarissa: 4
+amiri baraka: 4
+rose tattoo: 4
+algernon swinburne: 4
+changeling: 4
+paul celan: 4
+king arthur: 4
+yellow kid: 4
+edward anthony jenner: 4
+the cask amontillado: 4
+khalil gibran: 4
+sherlock holmes: 4
+kim: 4
+huckleberry finn: 4
+oklahoma!: 4
+the outcasts poker flat: 4
+cavalier: 4
+amy tan: 4
+call wild: 4
+: 4
+the murders rue: 4
+young werther: 4
+spanish golden age: 4
+soul mountain: 4
+henry david t: 4
+dr john h watson: 4
+hesiod: 4
+erskine caldwell: 4
+david copperfield: 4
+jose marti y perez: 4
+laurence sterne: 4
+house mango street: 4
+the masque red death: 4
+vowels: 4
+silas marner: weaver raveloe: 4
+hazard: 4
+ignatius j reilly: 4
+blind assassin: 4
+charlemagne: 4
+jean rhys: 4
+mrs warren's profession: 4
+after fall: 4
+caucasian chalk circle die kaukasische kreidekreis: 4
+prefer nettles tade kuu mushi: 4
+waiting lefty: 4
+robertson davies: 4
+white devil: 4
+appointment samarra: 4
+tom sawyer: 4
+republic turkey: 4
+decameron: prencipe galeotto: 4
+le cid: 4
+satyricon: 4
+quentin compson prompt compson: 4
+inspec: 4
+a valediction:: 4
+il penseroso: 4
+rashomon: 4
+handful dust: 4
+to autumn: 4
+elizabeth costello: 4
+maids: 4
+billy bathgate: 4
+bread wine: 4
+william howard gass: 4
+betrayal: 4
+rupert brooke: 4
+sherlock holmes: 4
+roald dahl: 4
+wife bath: 4
+aleksandr sergetevich pushkin: 4
+crime punishment: 4
+aeneas aj: 4
+thousand nights: 4
+elmer rice: 4
+desiree's baby: 4
+platero y yo: 4
+woyzeck: 4
+clown: 4
+old gringo: 4
+i sing body electric: 4
+gabriela clove cinnamon: 4
+the sunstone: 4
+nick carraway: 4
+the cloud messenger: 4
+never let go: 4
+christopher okigbo: 4
+piazza tales: 4
+kafka s: 4
+flann o'brien: 4
+life lazarillo de: 4
+republic senegal: 4
+elizabeth barrett browning prompt browning; barrett browning; after the female one equivalents: 4
+the yellow wall paper: 4
+prospero: 4
+winter's tale: 4
+two gentlemen verona: 4
+oreste: 4
+tis pity she's w: 4
+desire under elms: 4
+bostonians: 4
+plum golden vase: 4
+juan rulfo: 4
+blood knot: 4
+anna fierling: 4
+romance three kingdoms: 4
+confessions saint augustine: 4
+the library babel la biblioteca de babel: 4
+daisy miller: study: 4
+phedre: 4
+white teeth: 4
+oscar lucinda: 4
+fall: 4
+magnificent ambersons: 4
+johann christian friedrich holderlin: 4
+rebecca: 4
+octopus: 4
+friedrich schiller: 4
+henry brooks adams prompt adams: 4
+samuel richardson: 4
+ivan alekseyevich bunin: 4
+kiran desai prompt desai: 4
+pickwick papers: 4
+maggie: 4
+thousand cranes: 4
+ophelia: 4
+book daniel: 4
+el gaucho martin fierro do la vuelta de martin fierro: 4
+john anthony burgess wilson: 4
+oskar matzerath: 4
+auto da fe: 4
+life times michael k: 4
+karl g: 4
+oryx crak: 4
+clif: 4
+inferno: 4
+war end: 4
+children's hour: 4
+homecoming: 4
+snow: 4
+bridges: 4
+el cid: 4
+john irving: 4
+kingdom: 4
+anne frank: 4
+the tyger: 4
+human comedy la comedie humaine: 4
+ma: 4
+philip kindred dick: 4
+daffodils: 4
+bells: 4
+cali: 4
+czech republic prompt czechoslovakia czech literature: 4
+silas marner: 4
+journey west: 4
+grain wheat: 4
+life gargantua pantagruel: 4
+: 4
+man superman dl: 4
+devil's dictionary jm: 4
+: 4
+wilhelm meister: 4
+osip emilyevich mandelstam ar: 4
+oblomov sj: 4
+the wreck deutschland sj: 4
+to excellency g: 4
+adolf hitler jm: 4
+tawfiq al hakim jm: 4
+blindness ar: 4
+macondo dl: 4
+go down moses: 4
+clarice lispec: 4
+ars poetica: 4
+dom casmurro 3: 4
+nikolai leskov 4: 4
+gottfried keller 4: 4
+simone de beauvoir: 4
+tiresias: 4
+salome: 4
+merry wives wind: 4
+divine comedy: 4
+dh lawrence: 4
+jun'ichiro tanizaki: 4
+sailing byzantium: 4
+james russell lowell: 4
+out cradle endlessly rocking: 4
+john os: 4
+go tell mountain: 4
+prelude: 4
+painters: 4
+suitable boy: 4
+the white man's burden: united states philippine islands: 4
+josã© de sousa saramago: 4
+aladdin: 4
+slave narratives: 4
+troilus: 4
+john brown: 4
+trains: 4
+czech: 4
+through looking glass do alice's adventures  wonderland alice wonderland: 4
+hunger games: 4
+tess d'urbervilles: pure woman faithfully presented: 4
+republic india: 4
+karel čapek pronounced cha pek really lenient: 4
+american civil war: 4
+michel de montaigne: 4
+composer prompt musician: 4
+miss julie: 4
+tale tub: 4
+robert cal traill spence lowell iv: 4
+doc: 4
+purga: 4
+dream songs: 4
+: 4
+john jack london: 4
+odysseus elytis: 4
+accidental death anarchist: 4
+republic: 4
+lesson: 4
+im: 4
+rubã©n darã­o: 4
+: 4
+san francisco: 4
+roberto bolaã±o: 4
+funes me: 4
+coney island mind: 4
+kidnapped: 4
+jamaica kincaid: 4
+walden; life woods: 4
+silent cry: 4
+plato: 4
+angela carter: 4
+war: 4
+randall jarrell: 4
+anthony hecht: 4
+w h auden: 4
+m butterfly: 4
+trojan war: 4
+aesop: 4
+vidiadhar seepersad v s  naipaul: 4
+churchill: 4
+american buffalo: 4
+shepherd: 4
+haunting hill house: 4
+bonfire vanities: 4
+“ode grecian urn” &lt;nb&gt;: 4
+midnight’s children &lt;rp&gt;: 4
+“to coy mistress”: 4
+“elegy written country churchyard”: 4
+“the raven” &lt;ms&gt;: 4
+1980s &lt;jose literature   american&gt;: 4
+“the nose” &lt;ed ds&gt; bonuses:: 4
+roberto bolaño &lt;jc: 4
+buried child: 3
+tamil: 3
+good: 3
+novalis: 3
+mcteague: 3
+indonesia: 3
+locksley hall: 3
+patient griselda: 3
+chester bomar himes: 3
+charles kingsley: 3
+hairy ape: 3
+look homeward angel: 3
+ken kesey: 3
+du fu: 3
+preacher: 3
+king gesar: 3
+alan ayckbourn: 3
+betrayed rita hay: 3
+: 3
+2666: 3
+anthony adverse either name fine: 3
+city lights: 3
+man thursday: 3
+merchant's tale: 3
+modest proposal preventing children p: 3
+hansel gretel: 3
+ebenezer scrooge: 3
+epic poems: 3
+fables: 3
+chaim cchigh im potok: 3
+epistolary novel prompt novel letters similar answers: 3
+gothic literature: 3
+state israel: 3
+civil disobedience: 3
+betty friedan: 3
+john berryman: 3
+willie stark: 3
+good country people: 3
+c auguste dupin: 3
+edgar lawrence doc: 3
+quiet american: 3
+la belle dame sans merci: 3
+juvenal: 3
+anthony trollope: 3
+joy luck club: 3
+sidonie gabrielle colette: 3
+seven against thebes: 3
+moon sixpence: 3
+conversation cathedral spanish: conversacion en la catedral: 3
+return native: 3
+washington square: 3
+stephen dedalus: 3
+life dream la vida es sueno: 3
+ideal husband: 3
+macduff: 3
+demian: 3
+vampires: 3
+alexander solzhenitsyn: 3
+brothers grimm: 3
+the flea: 3
+henry iv: 3
+leopard il gattopardo: 3
+jennie gerhardt: 3
+march: 3
+mary stuart maria stuart: 3
+silence: 3
+notes toward supreme fiction: 3
+golden notebook: 3
+great god brown: 3
+plot against america: 3
+enchantress f: 3
+benito cereno: 3
+cousin bette: 3
+hymn intellectual beauty: 3
+margaret sanger: 3
+looking backward 2000 1887: 3
+aethiopica: 3
+: 3
+breakfast champions: 3
+the birthmark: 3
+count alexei vronsky: 3
+queequeg: 3
+john suckling: 3
+dream red chamber: 3
+iceland: 3
+philip michael ondaatje: 3
+murder: 3
+king berenger: 3
+l'allegro: 3
+parade's end: 3
+thebaid: 3
+arrow god: 3
+whitsun weddings: 3
+baudolino: 3
+gustav von aschenbach: 3
+notebook a return native land cahier d'un retour au pays natal: 3
+venice preserv'd: 3
+touchstone: 3
+sredni vashtar: 3
+babylon revisited: 3
+waves: 3
+joe: 3
+gone wind: 3
+the weary blues: 3
+blanche dubois: 3
+communist manifesto: 3
+pindar: 3
+young goodman brown: 3
+bessie head: 3
+winterreise: 3
+giovanni verga: 3
+tower: 3
+hall: 3
+: 3
+dept: 3
+rumi: 3
+seventh circle hell: 3
+junot diaz: 3
+alice munro: 3
+david malouf: 3
+andre brink: 3
+politics english language: 3
+robber bridegroom: 3
+erasers: 3
+elizabeth gaskell: 3
+william gil: 3
+women love: 3
+foundation pit: 3
+autobiography alice b toklas: 3
+peter ulrich weiss: 3
+william saroyan: 3
+autumn patriarch: 3
+tam o' shanter: 3
+master go: 3
+side paradise: 3
+wilfred edward salter: 3
+the ransom red chief: 3
+kristin lavransdatter: 3
+black boy: 3
+weavers: 3
+daisy buchanan: 3
+omeros: 3
+snow bound: winter idyl: 3
+nick adams: 3
+childe harold's pilgrimage: romaunt: 3
+quo vadis: narrative nero: 3
+white fang: 3
+parmenides: 3
+thomas middleton: 3
+hiroshima: 3
+sarah: 3
+nana: 3
+science health key scriptures: 3
+edward ii: 3
+thomas shadwell: 3
+louis macneice: 3
+john gals: 3
+benjamin franklin: 3
+confessions english opium eater: 3
+italiano: 3
+j d salinger: 3
+book laughter: 3
+christopher isherwood: 3
+confessions zeno: 3
+a hunger artist: 3
+sheltering sky: 3
+ceremony: 3
+robert sherwood: 3
+charles lamb: 3
+woman white: 3
+songs innocence experience prompt songs innocence songs experience: 3
+im: 3
+the celebrated jumping frog calaveras county: 3
+oroonoko: royal slave true histor: 3
+death family: 3
+john gower: 3
+dona f: 3
+prometheus unbound: 3
+alejo carpentier: 3
+posthumous memoirs bras cubas: 3
+the earthquake chile: 3
+entropy: 3
+revenger's tragedy: 3
+jeffrey eugenides: 3
+seymour glass: 3
+inherit wind: 3
+season migration: 3
+harmonium: 3
+grub street: 3
+witches prompt cats: 3
+magic theater: 3
+identity card: 3
+diving into wreck: 3
+tenant wildfell hall: 3
+the gold bug: 3
+as byatt: 3
+aphra behn: 3
+picnic: 3
+the rocking: 3
+expedition humphrey clinker: 3
+the blessed damozel: 3
+seven gothic tales: 3
+stone raft: 3
+jose donoso yanez: 3
+lawrence g: 3
+optimist's daughter: 3
+breath eyes me: 3
+ee cummings: 3
+albert chinualumogu achebe: 3
+thomas paine: 3
+gabriel jose de la con: 3
+sancho panza: 3
+anna akhmatova anna andreyevna: 3
+helen hunt jackson: 3
+narcissus: 3
+delta wedding: 3
+marble faun: 3
+soldiers: 3
+lady tiger?: 3
+wasteland: 3
+as walked evening: 3
+theocritus: 3
+tradition individual talent: 3
+balcony le balcon: 3
+iain menzies banks: 3
+dentist prompt general answers doc: 3
+a: 3
+sherman alexie: 3
+dante alighieri: 3
+thomas kennerly tom wolfe jr: 3
+maurice bernard sendak: 3
+love: 3
+the hollow men: 3
+bonaparte: 3
+japanese: 3
+: 3
+thomas keneally rc: 3
+joel chandler harris tg: 3
+gimpel fool ij: 3
+pamela: virtue rewarded: 3
+sister carrie: 3
+skin teeth: 3
+federal republic nigeria if someone says republic nigeria don't award them points attempting show off failing miserably: 3
+chambered nautilus: 3
+go gentle into good night: 3
+edna pontellier: 3
+tiberius claudius caesar augustus germanicus: 3
+sea: 3
+the courtship miles standish: 3
+maxim: 3
+tragedy pudd'nhead wilson: 3
+o captain! captain! gt: 3
+louis ferdinand: 3
+james agee: 3
+rome: 3
+christopher fry sj: 3
+beaux' stratagem jm: 3
+against day dl: 3
+jacques fatalist master ar: 3
+man's fate: 3
+g: 3
+marquis donatien alphonse francois de sade ar: 3
+anxiety influence ar: 3
+kite runner dl: 3
+sot weed fac: 3
+visit old lady: 3
+speak me: 3
+book songs: 3
+vathek: 3
+rain: 3
+miles g: 3
+anton chekov: 3
+know why caged bird sings: 3
+russia: 3
+joseph stalin: 3
+dumbwaiter: 3
+magical realism: 3
+tomas: 3
+isaac babel: 3
+lawrence ferlinghetti: 3
+brighton rock: 3
+adonais: 3
+prometheus bound: 3
+wind up bird chronicle: 3
+group: 3
+ash wednesday: 3
+ãntonia: 3
+journey center earth: 3
+moll flanders: 3
+symposium: 3
+holes: 3
+old english: 3
+felicia hemans: 3
+skunk hour: 3
+colombia: 3
+james dickey: 3
+ode confederate dead: 3
+republic: 3
+araby: 3
+: 3
+afrikaans: 3
+self: 3
+tess durbeyfield: 3
+julio f: 3
+william hazlitt: 3
+outlaws marsh: 3
+usa trilogy prompt three individual novels tossup: 3
+netherlands: 3
+middle english prompt english; old english: 3
+f: 3
+miss lonelyhearts: 3
+danton's death: 3
+chosen: 3
+revelation: 3
+michael frayn: 3
+trojan women: 3
+bernice bobs her hair: 3
+edmund wilson: 3
+pedro paramo: 3
+parzival: 3
+les misã©rables: 3
+sextus propertius: 3
+philip pirrip: 3
+rivals: 3
+areopagitica: speech mr john milton liberty unlicensed printing parliament england: 3
+lu xun: 3
+sons lovers: 3
+rosmersholm: 3
+epic gilgamesh: 3
+a very old man e: 3
+whiskey priest: 3
+miguel de unamuno y jugo: 3
+the meta: 3
+sonnets: 3
+: samuel beckett: 3
+around: 3
+peter pan: 3
+odd couple: 3
+fixer: 3
+buddenbrooks: 3
+henry louis mencken: 3
+dream monkey mountain: 3
+mystery plays: 3
+cesar vallejo: 3
+longer ease: 3
+pierre augustin caron de beaumarchais: 3
+kaddish: 3
+germinal: 3
+holy sonnets: 3
+nip buds shoot kids: 3
+john ronald reuel tolkien: 3
+mark antony: 3
+samson agonistes: 3
+slouching towards bethlehem: 3
+agatha mary clarissa christie: 3
+constantine cavafy: 3
+man seasons: 3
+the indian burying ground: 3
+death ivan ilyich: 3
+scarlet pimpernel: 3
+mariano azuela: 3
+dwarf dvargen: 3
+critic: 3
+joseph brodsky: 3
+macflecknoe: 3
+lady macbeth do macbeth: 3
+satan: 3
+oliver twist;: 3
+cain: 3
+soviet union: 3
+mary tyrone prompt tyrone: 3
+man without qualitie: 3
+catherine earnshaw: 3
+the idea: 3
+joanne jk rowling: 3
+elias canetti: 3
+basketball: 3
+judge: 3
+friar: 3
+: gerontion: 3
+dolls: 3
+strange interlude: 3
+narrow road deep: 3
+republic italy: 3
+callimachus: 3
+a season hell: 3
+wings dove: 3
+tunnel: 3
+desdemona: 3
+priests: 3
+persepolis: 3
+francisco de quevedo y villegas: 3
+faust: part tragedy: 3
+amos tutuola: 3
+the diamond big ritz: 3
+beat generation: 3
+romanticism: 3
+: 3
+eclogues: 3
+diamonds: 3
+lusiads: 3
+pittsburgh: 3
+south: 3
+christabel: 3
+anita desai: 3
+under milk wood: play voices: 3
+e e cummings: 3
+e t a hoffmann: 3
+chess: 3
+romania: 3
+harvey: 3
+road wigan pier: 3
+charles waddell chesnutt: 3
+golden gate: 3
+done?: 3
+robert anson heinlein: 3
+swans: 3
+watch rhine: 3
+lilliput: 3
+nella larsen: 3
+solaris: 3
+harper: 3
+garden party: 3
+middlemarch: 3
+“the wall”: 3
+artist: 3
+the​ ​ tragedy​ ​ of​ ​​ king​ ​ lear​: 3
+“the legend sleepy hollow” do partial “the headless: 3
+“the lottery” &lt;lg&gt;: 3
+“the hollow men”: 3
+handmaid’s tale: 3
+doll’s house: 3
+“the rime ancient mariner”: 3
+vanity fair: novel without hero &lt;kt&gt;: 3
+french: 3
+eugene o’neill: 3
+king’s men: 3
+“the open window” &lt;wa s: 3
+“the gift magi” &lt;carrie derner&gt;/&lt;ed me&gt;: 3
+“the darling”: 3
+w g sebald: 3
+emanuel sweden: 3
+tale genji &lt;wa literary legacy&gt;: 3
+graham greene &lt;wa s: 3
+bronze: 2
+good soldier: tale passion: 2
+chimamanda ngozi adichie: 2
+vicente aleixandre: 2
+samson delilah: 2
+candida: 2
+richard avedon: 2
+tlon uqbar: 2
+berlin alexanderplatz: 2
+peony pavillion: 2
+beaver coat der biberpelz: 2
+incidents life slave girl: 2
+cassius dio: 2
+nectar sieve: 2
+betrothed: 2
+hebrew: 2
+rameau's nephew: 2
+ko un: 2
+old creole days: 2
+the call cthulhu: 2
+titus livy: 2
+romance rose: 2
+the wild swans coole: 2
+mill floss: 2
+fountainhead: 2
+zazie metro zazie dans le metro: 2
+come back little sheba: 2
+casement re: 2
+idiot's delight: 2
+serbian: 2
+baltasar blimunda: 2
+malgudi: 2
+sozaboy: novel rotten english: 2
+madmen specialists: 2
+flowering judas: 2
+imogen: 2
+childe roland dark tower came: 2
+stella: 2
+frank lloyd wright: 2
+nazi party: 2
+puck: 2
+the most dangerous game: 2
+stream consciousness: 2
+jerry seinfeld: 2
+life strange surprising adventures robinson crusoe: 2
+elements style: 2
+satire: 2
+metap: 2
+journalism prompt reasonable equivalents: 2
+deus ex machina: 2
+charlotte bronte: 2
+paul revere: 2
+roots: saga american family: 2
+dictionaries: 2
+st crispin's day speech prompt henry v read: 2
+francois duvalier: 2
+lawyer: 2
+miss havisham: 2
+wife bath's tale: 2
+fanny price: 2
+hans cas: 2
+quo vadis: 2
+vertigo: 2
+ali baba: 2
+dueling: 2
+jean jacques rousseau: 2
+nicholas nickleby: 2
+twenty thousand leagues under sea: 2
+d h lawrence: 2
+the lotos eaters: 2
+andrew ender wiggin: 2
+ring book: 2
+william congreve: 2
+ismail kadare: 2
+chairs les chaises: 2
+fidelio: 2
+miser: 2
+: 2
+bel ami: 2
+child god: 2
+publius papinius statius: 2
+kamala markandaya: 2
+universal house justice: 2
+a white heron: 2
+lapis lazuli: 2
+italian: 2
+gabriela mistral lucilla godoy alcayaga: 2
+: 2
+co: 2
+towards architecture: 2
+the true s: 2
+valmiki: 2
+crome yellow: 2
+cyril lionel robert james: 2
+acharnians: 2
+sonnets: 2
+effi briest: 2
+ode death favourite cat drowned tub goldfishes: 2
+magic flute: 2
+charles wright mills: 2
+tobacco road: 2
+dario fo: 2
+shylock: 2
+cancer ward: 2
+threepenny opera: 2
+apology: 2
+boniface: 2
+barn burning: 2
+changing light sandover: 2
+family pascual duarte: 2
+john gardner: 2
+oliver cromwell: 2
+heartbreak house: 2
+giacomo leopardi: 2
+philosophy mir: 2
+specta: 2
+winfried g: 2
+del: 2
+martha quest: 2
+william byrd jha: 2
+prince i: 2
+hans arp: 2
+bicycle thief: 2
+slavery: 2
+lair white: 2
+four million: 2
+physicists der physiker: 2
+claude mckay: 2
+joachim du bellay: 2
+obscene bird night el obsceno pajaro de la noche: 2
+days grace ''hans nades tid': 2
+max frisch: 2
+wild ass's skin peau de chagrin magic skin: 2
+ole rolvaag: 2
+garcia family naturally garcia girls lost accents: 2
+boleslaw prus alexander glowacki: 2
+lois lowry: 2
+ramona geraldine quimby: 2
+wrinkle: 2
+s: 2
+penelope: 2
+francisco petrarca: 2
+mississippi mj: 2
+a r ammons: 2
+rebours: 2
+karl popper: 2
+jimmie blacksmith: 2
+real thing: 2
+shame: 2
+wasps: 2
+independent people: 2
+ruins great house: 2
+delicate balance: 2
+conservationist: 2
+doc: 2
+a toccata galuppi's: 2
+the village blacksmith: 2
+custom country: 2
+qfwfq be lenient pronunciation obviously: 2
+lost translation: 2
+narrow road inter: 2
+wide sargasso sea: 2
+woman dunes: 2
+david lodge: 2
+lament death bullfighter: 2
+imre kertesz: 2
+roberto bolano: 2
+famished road: 2
+life: user's manual: 2
+finland: 2
+alexandria quartet: 2
+princess cleves: 2
+villanelle: 2
+a song despair: 2
+charles brockden brown: 2
+amos oz: 2
+joy kogawa: 2
+exile kingdom l'exil et le royaume: 2
+after many summer dies swan: 2
+jay gatsby's house: 2
+father: 2
+knight burning pestle: 2
+seascape: 2
+sweeney among nightingales: 2
+joseph knecht: 2
+memento: 2
+a descent into maelstrom: 2
+invention: 2
+old curiosity shop: 2
+botchan: 2
+abel sanchez: s: 2
+house fame: 2
+gre: 2
+compson family: 2
+soames: 2
+malcolm lowry: 2
+julien: 2
+silent spring: 2
+genji: 2
+alan sillitoe: 2
+henryk adam aleksander pius sienkiewicz: 2
+eliezer elie wiesel: 2
+flatland: romance many dimensions: 2
+heathcliff: 2
+musee des beaux arts: 2
+gospel: 2
+jerome k jerome: 2
+joseph campbell: 2
+e annie proulx: 2
+the darkling thrush: 2
+tenth muse lately sprung america: 2
+francois villon: 2
+beautiful damned: 2
+upon appleton house: 2
+edward kamau braithwaite: 2
+erewhon: 2
+egoist: 2
+rainer marie rilke: 2
+amerika: 2
+astrophil stella: 2
+edna ferber: 2
+consolation philosophy consolatio philosophiae: 2
+house leaves: 2
+: 2
+journey west: 2
+kubla khan;: 2
+equus: 2
+albany: 2
+rafael leonidas trujillo: 2
+p: 2
+baron trees: 2
+chretien de troyes: 2
+a fable critics: 2
+redcrosse knight: 2
+thomas carlyle: 2
+life galileo: 2
+ballad peckham rye: 2
+moviegoer: 2
+gulag archipelago: 2
+rossum's universal robots: 2
+g: 2
+sound mountain: 2
+heart midlothian: 2
+love demons del a: 2
+zeami motokiyo: 2
+a far cry africa: 2
+shoemaker's holiday: pleasant comedy gentle craft: 2
+st teresa avila jesus: 2
+growth soil: 2
+luke: 2
+prota: 2
+jerome klapka jerome: 2
+dods: 2
+laocoon: essay limits painting poetry: 2
+mandragola: 2
+apologia pro vita sua: 2
+scoop: 2
+acre: 2
+paul erdos: 2
+orishas prompt things yoruban deitie: 2
+alessandro manzoni: 2
+william godwin: 2
+joseph k: 2
+tartarus: 2
+maud muller: 2
+under: 2
+spring snow: 2
+icardo reis: 2
+julian jaynes: 2
+pot gold: 2
+b: 2
+plutarch: 2
+joe turner's come gone: 2
+courier's tragedy: 2
+the english mail coach: 2
+secret agent: 2
+ion: 2
+friday: 2
+home burial: 2
+roland barthes: 2
+dream play: 2
+constantine petrou cavafy: 2
+invitation beheading: 2
+jimmy: 2
+: 2
+leigh hunt: 2
+my life had stood a loaded gun: 2
+eveline: 2
+lionel trilling: 2
+art war: 2
+libra: 2
+mary rowlandson: 2
+orientalis: 2
+angry young men: 2
+lulu: 2
+jrr tolkien: 2
+ts eliot: 2
+em: 2
+atlas shrugged: 2
+crime punishment prestupleniye nakazaniye: 2
+richard: 2
+arabian nights also thousand nights 1001 mentioned: 2
+philippine american war: 2
+shadows: 2
+jane eyre: autobiography: 2
+district columbia trilogy: 2
+writes colonel: 2
+song bernadette: 2
+walk wild side: 2
+translating homer: 2
+arthur schopenhauer: 2
+frolic own: 2
+vladimir g: 2
+death fugue todesfugue: 2
+terrence mcnally: 2
+wisława szym: 2
+rappacini's daughter: 2
+le: 2
+golden bough: 2
+thomas wolfe: 2
+the pit pendulum: 2
+nose: 2
+le: 2
+emile edouard charles antoine zola: 2
+general prologue canterbury tales prompt partial answer: 2
+mishima yukio: 2
+hester prynne: 2
+kingdom denmark: 2
+rosetti: 2
+strauss: 2
+frederic henry prompt henry  tg: 2
+all's well ends well: 2
+mouse: 2
+evangeline: 2
+essais essays: 2
+way: 2
+hal: 2
+william styron: 2
+john webster: 2
+queen spades pikovaya dama: 2
+last temptation christ: 2
+: 2
+europa: 2
+william shakespeare's sonnets prompt partial answers: 2
+denis diderot: 2
+athol harold lannigan fugard gt: 2
+maltese falcon mt: 2
+house cats: 2
+julia kristeva: 2
+hard times: 2
+fiddler roof: 2
+sutras: 2
+thucydides: 2
+satan: 2
+molloy dl: 2
+bigger thomas: 2
+admirable crichton sj: 2
+maurice maeterlinck sj: 2
+r k narayan ar: 2
+fear loathing las vegas: savage journey into heart american dream jm: 2
+language poetry dl: 2
+the tale bamboo cutter: 2
+autocrat breakfast table ar: 2
+hugh selwyn mauberley sj: 2
+tithonus em: 2
+the last question ar: 2
+tirso de molina: 2
+the hunting snark ar: 2
+manhattan transfer jm: 2
+travesties dj: 2
+trilby jm: 2
+anthills savannah jm: 2
+franny zooey dj: 2
+lady gre: 2
+murder roger ackroyd dl: 2
+i heard fly buzz died: 2
+a &amp; p jm: 2
+ironweed dj: 2
+quiet flows don: 2
+tam o'shanter ar: 2
+stella dubois kowalski dl: 2
+lone ranger tonto fistfight heaven: 2
+the wall: 2
+beneath wheel: 2
+cloven viscount: 2
+sexual personae: 2
+black lamb grey falcon: 2
+wieland trans: 2
+zuleika dobson 3: 2
+zembla 4: 2
+ambroise paul toussaint jules valery 4: 2
+vineland 4: 2
+e m: 2
+dr pangloss: 2
+windmills: 2
+water margin: 2
+knight's tale: 2
+wolfe spelled wolff tobias wolff's case: 2
+william ernest henley: 2
+tragedy: 2
+tom sawyer both either name: 2
+robin goodfellow: 2
+utopia: 2
+dr frankenstein's monster: 2
+hg wells: 2
+apology {ma}: 2
+anomie {wd}: 2
+sir kay: 2
+the birth mark: 2
+angle repose: 2
+ursula kroeber le guin note case anyone cares: tehanu daughter kalessin dispossessed set urras anarres; rest should fairly clear: 2
+riders sea: 2
+laura: 2
+penguin island l'ile des pingouins: 2
+john fowles: 2
+to waterfowl: 2
+surrealism: 2
+anna arkadyevna karenina: 2
+coal mines prompt mines: 2
+doc: 2
+saint joan: 2
+ode joy: 2
+louisiana: 2
+becky sharp: 2
+united states america: 2
+nikos kazantakis: 2
+boxing: 2
+adonais: elegy death john keats aut: 2
+plato's apology socrates: 2
+: 2
+raft huck finn: 2
+a modest proposal: 2
+s: 2
+neil gaiman: 2
+the monkey's paw: 2
+outsiders: 2
+hitchhiker's guide galaxy: 2
+natty bumppo: 2
+mrs malaprop do malapropism: 2
+aunt ester tyler: 2
+the gambler nun radio: 2
+ligeia: 2
+: 2
+eugenie grandet: 2
+john gabriel: 2
+responses the passionate shepherd love: 2
+pierre de marivaux the french: 2
+guido cavalcanti: 2
+anne green gables: 2
+italian: 2
+phantom tollbooth: 2
+something wicked way comes: 2
+watership down: 2
+baseball players: 2
+dutch: 2
+suddenly last summer: 2
+swamplandia!: 2
+midaq alley: 2
+battle actium: 2
+william john banville: 2
+canterbury tales do individual canterbury tales unless the physician's tale cambyuskan: 2
+phaedo: 2
+el cid cid: 2
+seven deadly sins: 2
+beatrice bice di folco: 2
+blindness: 2
+polish: 2
+voices rooms: 2
+guy montag: 2
+nelson algren: 2
+venus do aphrodite: 2
+butterfly: 2
+urns: 2
+paradise: 2
+dictionary prompt books: 2
+miguel street: 2
+cosette: 2
+atonement: 2
+lady flowers: 2
+trees anti prompt birches cherry: 2
+mr eliot rosewater: 2
+john le carrã©: 2
+veil: 2
+dadaism: 2
+harlan jay ellison: 2
+art art's sake: 2
+rings saturn: 2
+heidi chronicles: 2
+meno: 2
+prisoner zenda: 2
+frank o'hara: 2
+g: 2
+giles goat boy: 2
+counterparts: 2
+ma: 2
+joseph sheridan le fanu: 2
+alice adams: 2
+malvolio: 2
+goodbye columbus: 2
+thomas bernhard: 2
+herman wouk: 2
+don quixote: 2
+marat/sade: 2
+biglow papers: 2
+kingdom sweden: 2
+gypsy ballads: 2
+fra lippo lippi: 2
+seven ages man speech: 2
+algeria: 2
+manderley: 2
+water chocolate: 2
+brief wondrous life oscar wao: 2
+the man: 2
+friedrich durrenmatt: 2
+cyclops: 2
+james weldon johnson: 2
+anthony burgess: 2
+annie john: 2
+thalaba destroyer: 2
+sentimental education l'ã‰ducation sentimentale: 2
+the gentleman san francisco: 2
+benya krik: 2
+wallace earle stegner: 2
+william's vision piers plowman: 2
+prayer owen meany: 2
+narrative arthur: 2
+elmer gantry: 2
+hec: 2
+mercy: 2
+henry green: 2
+lady aoi ue: 2
+good person szechwan: 2
+death compass: 2
+goose: 2
+three men boat to say nothing dog: 2
+recognitions: 2
+satyricon liber: 2
+pamela: 2
+tim o'brien: 2
+arabian nights: 2
+dublin: 2
+anne sexton: 2
+brazil: 2
+to athlete dying young: 2
+maggie: girl streets: 2
+chimney sweeps: 2
+: 2
+barabas: 2
+donkeys: 2
+aubade: 2
+flies: 2
+ancient egyptian: 2
+michel houellebecq: 2
+pilot: 2
+the handsomest drowned man: 2
+homeric hymn hermes: 2
+gulistan: 2
+ring lardner: 2
+adrienne rich: 2
+roxane: 2
+offred of fred; just handmaid: 2
+homo faber: 2
+end affair: 2
+war newts: 2
+burger's daughter: 2
+sidney lanier: 2
+mexican revolution: 2
+the daring young man flying trapeze: 2
+parrots prompt bird: 2
+jose rizal: 2
+hugo von hofmannsthal: 2
+shipwrecks: 2
+typee: peep polynesian life: 2
+sign sidney brustein's window: 2
+ship fools: 2
+erewhon:: 2
+jerzy kosinski: 2
+enoch: 2
+john savage: 2
+rostam: 2
+ruth: 2
+ruslan lyudmila: 2
+joseph vissarionovich stalin: 2
+letters young poet: 2
+odes: 2
+camille paglia: 2
+russian language: 2
+the bells: 2
+harry houdini: 2
+bourgeois gentleman le bourgeois gentilhomm: 2
+we real cool: 2
+life death king john: 2
+michelle cliff: 2
+gunga din: 2
+martin chuzzlewit: 2
+frans eemil sillanpã¤ã¤: 2
+shmuel agnon: 2
+gabriel oak: 2
+princess casamassima: 2
+barchester towers: 2
+seize day: 2
+robert musil: 2
+goats: 2
+crime sylvester bonnard le crime de sylvestre bonnard: 2
+cane: 2
+sunstone: 2
+belgium: 2
+mutual friend: 2
+school wives l'ecole des femmes: 2
+robert southey: 2
+heartbreaking: 2
+gabriel garcã­a mã¡rquez: 2
+mississippi river: 2
+elizabeth bennet prompt bennet: 2
+natty bumppo: 2
+jeeves: 2
+bhagavad gita prompt mahabharata until fight: 2
+pearls: 2
+nuns: 2
+jews: 2
+benjamin jonson: 2
+mahabharata: 2
+plague breakout: 2
+separate peace: 2
+everyman: 2
+king lear's fool: 2
+fools: 2
+ice prompt water: 2
+: 2
+anne bronte: 2
+republic france: 2
+lebanon: 2
+captain joseph yossarian: 2
+pigs: 2
+ender's game: 2
+vergil: 2
+rand: 2
+boston tea party: 2
+augie march: 2
+the ingenious gentleman don quixote la mancha: 2
+petersburg: 2
+aran islands: 2
+fault stars: 2
+brick lane: 2
+magus: 2
+: hell screen: 2
+beowulf: monsters critics: 2
+ivanov: 2
+man without country: 2
+giants earth: 2
+grandmother: 2
+vicente blasco ibaã±ez: 2
+menander: 2
+leda swan: 2
+white: 2
+love suicides sonezaki: 2
+man golden arm: 2
+way pay old debts: 2
+john ruskin: 2
+my kinsman ma: 2
+name red: 2
+fifth column: 2
+mephistopheles prompt the devil; satan: 2
+david mitchell: 2
+life studies: 2
+germany: 2
+bertha mason: 2
+french: 2
+brontë: 2
+romance three kingdoms: 2
+texas: 2
+agnes grey: 2
+cat: 2
+ubu roi pere ubu: 2
+terence francis terry eagleton: 2
+noã«l coward: 2
+pas: 2
+roughing: 2
+tiepolo's hound: 2
+winterset: 2
+cinderella experimental know: 2
+ovid: 2
+plutus: 2
+meursault: 2
+arthur boo radley: 2
+donkey: 2
+emily grierson: 2
+proposing elizabeth bennet: 2
+homeros: 2
+play within play: 2
+alice's adventures wonderland: 2
+shooting elephant: 2
+noh: 2
+second person narration: 2
+british empire: 2
+life pi: 2
+a scandal bohemia: 2
+mario magician: 2
+barefoot park: 2
+moon: 2
+topdog/underdog: 2
+donald barthelme: 2
+lydia davis: 2
+yerma: 2
+robert hayden: 2
+tereza: 2
+yehuda amichai: 2
+philadelphia: 2
+edward tay: 2
+martin mcdonagh: 2
+jane smiley: 2
+panurge: 2
+mars: 2
+letters james joyce: 2
+richard feverel prompt feverel: 2
+keep aspidistra flying: 2
+love among ruins needs exact title course: 2
+life iron mills: 2
+mary mccarthy: 2
+persuasion: 2
+cairo egypt: 2
+robinson crusoe: 2
+mr rochester: 2
+tenth duino elegy: 2
+eminent vic: 2
+czeslaw milosz: 2
+seven pillars wisdom: 2
+hildegard von bingen: 2
+long john silver: 2
+occurrence owl creek bridge: 2
+train: 2
+served king england: 2
+bluebeard: 2
+john angus mcphee: 2
+marguerite duras: 2
+europe central: 2
+charles marlow prompt charles: 2
+anarchy: 2
+duels: 2
+river thames temz: 2
+maine: 2
+ernesto sabato: 2
+witold gombrowicz: 2
+golden bowl: 2
+temptation st anthony: 2
+ivan denisovich shukov: 2
+inter ice age 4 daiyon kampyoki: 2
+idylls king: 2
+the twelve: 2
+ox: 2
+always lived castle: 2
+namedâ yearsâ in harukiâ murakamiâ: 2
+thinkery: 2
+divinity school address: 2
+symbolism: 2
+erica jong: 2
+hilda doolittle: 2
+boarding school girl: 2
+merry as merrie england: 2
+decline english murder: 2
+de profundis: 2
+player piano: 2
+doc: 2
+thyrsis: 2
+aâ chaste maid cheapside: 2
+stã©phaneâ mallarmã©: 2
+theâ bone people: 2
+theâ invention: 2
+gentlemen prefer blondes: 2
+walter savageâ lan: 2
+plough stars: 2
+hernani the h silent french: 2
+joke: 2
+odour chrysanthemums the: 2
+patterns: 2
+james matthew j m barrie: 2
+asphodel greeny flower: 2
+lucy maud montgomery: 2
+mystery edwin drood: 2
+robert bloch: 2
+birches: 2
+ruritania: 2
+person: 2
+the circus animals' desertion: 2
+profes: 2
+a country doc: 2
+evil hour: 2
+captive mind: 2
+fanny hill: 2
+visit goon squad: 2
+la celestina: 2
+ithaca: 2
+john berger: 2
+golden boy: 2
+ubu: 2
+johnny got gun: 2
+mohsin hamid: 2
+christopher ferdinand durang: 2
+mousetrap: 2
+talk talk love: 2
+androids dream electric sheep?: 2
+yellow wallpaper: 2
+photography: 2
+gustavo adolfo becquer: 2
+dangerous liaisons dangerous acquaintances les liaisons dangereuses: 2
+jalal al din rumi mawlana jalal al din muhammad balkhi: 2
+tango: 2
+per: 2
+eugene jerome: 2
+gothic fiction: 2
+genocides: 2
+science fiction: 2
+iowa: 2
+simonides: 2
+charlotte temple: 2
+pillowman: 2
+offa mercia: 2
+baghdad the novel saddam hussein!: 2
+1700s: 2
+james bond: 2
+ballad sad cafã©: 2
+the cop anthem: 2
+mycroft holmes prompt holmes m: 2
+nick: 2
+art spiegelman: 2
+highway: 2
+“to          ulalume: ballad”: 2
+bruno schulz: 2
+diaries: 2
+half yellow sun: 2
+apollo: 2
+cider house rules: 2
+“jabberwocky”: 2
+“dulce et de: 2
+“thirteen ways looking blackbird”: 2
+photographs: 2
+brontë: 2
+margaret thatcher: 2
+“daddy”: 2
+islamic republic afghanistan: 2
+“howl” &lt;ms&gt;: 2
+hughes: 2
+“kubla khan:: 2
+“the most dangerous game”: 2
+beat generation: 2
+parenthesis: 2
+country wife: 2
+british india: 2
+gabriel garcía márquez &lt;jr&gt; bonuses: 2
+atticus finch: 2
+italian language: 2
+adventures huckleberry finn &lt;mj&gt; round 2 bonuses: 2
+federico garcía: 2
+fly: 2
+raymond clevie carver &lt;sb s: 2
+sonnets: 2
+castles: 2
+“song myself” &lt;joe stitz&gt;/&lt;ed me&gt;: 2
+holy grail &lt;david dennis&gt;/&lt;ed jo&gt;: 2
+doc: 2
+jean nicolas arthur rimbaud &lt;cohen&gt;: 2
+universities: 2
+james mercer langston hughes &lt;cohen&gt;: 2
+maxwell anderson: 2
+e b white: 2
+czech  bohemian: 2
+planetariums: 2
+young werther vair tur &lt;brownstein&gt;: 2
+ireland: 2
+italy the lead in “lemon trees” &lt;ol european literature&gt; bonuses:: 2
+elizabeth barrett browning: 2
+niccolò machiavelli: 2
+“call ishmael” &lt;jb american literature&gt; note: read answerline reading tossup: 2
+angry young men: 2
+inferno prompt “divine comedy” until mentioned &lt;ab&gt;: 2
+divergent: 2
+july’s people: 2
+unreliable narra: 2
+masnavi: 2
+amélie nothomb: 2
+way rainy mountain &lt;miscellaneous lit&gt;: 2
+1960s &lt;drama&gt;: 2
+: 2
+lycanthropy: 2
+inheritance loss &lt;long fiction&gt;: 2
+“i mouth must scream” &lt;s: 2
+midwife midwives: 2
+les misérables: 2
+elephants &lt;religion&gt;: 2
+w: 2
+palestinians: 2
+letters héloïse peter abélard: 2
+claudia rankine: 2
+travels marco polo: 2
+“ash wednesday” &lt;poetry&gt;: 2
+‘night mother &lt;drama&gt;: 2
+crazy jane prompt partial answer &lt;poetry&gt;: 2
+foer foy er: 2
+coffeehouses: 2
+novella: 2
+clodia pulchra: 2
+theroux: 2
+etgar keret &lt;s: 2
+rachel cusk &lt;long fiction&gt;: 2
+handsome lake: 2
+marina ivanovna tsvetaeva: 2
+pauline kael &lt;other academic&gt;: 2
+laws manu: 2
+playing chess: 2
+great migration: 2
+poem without hero &lt;tiebreaker&gt;: 2
+thunder &lt;religion&gt;: 2
+roses: 2
+quebec prompt canada; montreal province read &lt;ds&gt;: 2
+prisons: 2
+profes: 2
+american football: 2
+ngugi wa thiong’o: 2
+teachers: 2
+cat &lt;jc poetry&gt;: 2
+lazarus &lt;jc miscellaneous lit&gt;: 2
+“chickamauga” &lt;sb s: 2
+detective: 2
+“young goodman brown” &lt;jc american literature&gt;: 2
+kongi's harvest: 1
+russalka: 1
+reinaldo arenas: 1
+lara: 1
+letters american farmer: 1
+lotte weimar: beloved returns: 1
+marian halcombe: 1
+abraham bulli yehoshua: 1
+aucassin nicolette aucassin et nicolette: 1
+papageno: 1
+uncle toby: 1
+mumbo jumbo: 1
+the whiteness whale: 1
+cities salt mudun al milh: 1
+song mal: 1
+spatial anti aliasing: 1
+wendy wasserstein: 1
+con: 1
+saga burnt njal: 1
+vic: 1
+ada ar: 1
+joao guimaraes rosa: 1
+saint john perse: 1
+the parliament fowls: 1
+three: 1
+bharati mukherjee: 1
+elizabeth f loftus: 1
+richard purdy wilbur: 1
+limestone: 1
+contrast: 1
+walking around: 1
+trinidad tobago: 1
+notebooks malte laurids brigge die aufzeichnungen des malte laurids brigge: 1
+herbert jeffrey herbie hancock: 1
+therese raquin: 1
+heathcliffe: 1
+course general linguistics: 1
+tolstoy family: 1
+baba yaga: 1
+canzoniere: 1
+book job: 1
+dao de ching: 1
+book martyrs: 1
+atala: 1
+ryu murakami prompt murakami course: 1
+harold mitch mitchell: 1
+nastasya filipovna: 1
+jose protasio rizal mercado y alonso realonda: 1
+stephen john fry: 1
+: 1
+countee cullen: 1
+alfred jarry: 1
+iron heel: 1
+tristan tzara: 1
+stephane mallarme: 1
+lucrezia: 1
+euhemerus messene: 1
+violent bear away: 1
+his: 1
+lola montez: 1
+ya?ar kemal: 1
+ran prompt translate y things strife chaos: 1
+logic minimization: 1
+sarah ruhl: 1
+john edward masefield: 1
+james graham ballard: 1
+peyton farquhar: 1
+true chronicle his: 1
+dao de jing: 1
+jackson pollock prompt jack dripper: 1
+spying soviet union: 1
+: 1
+riddler prompt edward nygma mentioned: 1
+edgar rice burroughs: 1
+nonfiction novels prompt nonfiction; literary journalism;: 1
+irony: 1
+mary shelley: 1
+: 1
+throw: 1
+iambs: 1
+social net: 1
+flowers: 1
+canon: 1
+metaphysical: 1
+autobiography: 1
+aside: 1
+inigo montoya: 1
+medias res: 1
+peasant revolts: 1
+roman clef: 1
+sestina: 1
+nouns: 1
+tuskegee: 1
+umlauts: 1
+apostrophe: 1
+joads: 1
+pygmalion: romance five acts: 1
+metaphysical poets: 1
+salt: 1
+sirius black: 1
+nutcracker: 1
+despicable: 1
+fl: 1
+cheerleading: 1
+ally bank prompt general mo: 1
+alice pleasance liddell: 1
+carrie:: 1
+noh drama: 1
+atalanta calydon: 1
+martin amis: 1
+cunegonde: 1
+: 1
+s: 1
+knut hamsun: 1
+school husbands: 1
+seven samurai: 1
+allen tate: 1
+eilert lov: 1
+st simeon stylites: 1
+mentally disabled male children: 1
+speeches dr martin luther king jr: 1
+alfred stieglitz: 1
+dahomey: 1
+anna lou annie leibovitz: 1
+either: 1
+alhambra: 1
+henry iv: 1
+battle books: 1
+sam shepard: 1
+outsourced: 1
+calcium also ca: 1
+quo vadis?: 1
+wilfrid owen: 1
+: 1
+a clean well lighted place: 1
+oliver wolf sacks md: 1
+convergence twain: 1
+our america nuestra america: 1
+dirty hands les mains sales: 1
+patriotic: 1
+where angels fear tread: 1
+uses enchantment: 1
+stockholm bloodbath stockholm massacre: 1
+annus mirabilis: 1
+jane jacobs: 1
+spin: 1
+hubbard model: 1
+toward psychology being: 1
+pinkerton detective agency pinkertons pinkerton detectives men operatives: 1
+money equivalents cash currency etc: 1
+rashi: 1
+micromegas: 1
+thomas merton: 1
+tale heike heike monogatari: 1
+oration dignity man dignity man: 1
+comus: 1
+knight olmedo el caballero de olmedo the knight olmedo: 1
+homo highest occupied molecular: 1
+me: 1
+pather panchali: 1
+right if think are right if think so cosi se vi pare: 1
+the blue hotel: 1
+francois mauriac: 1
+where air clear la region mas transparente: 1
+shadow gunman: 1
+francois truffaut: 1
+law war peace laws war peace law war peace de jure belli ac pacis: 1
+the bronze: 1
+john shade prompt nabokov *: 1
+the hedgehog fox: 1
+sir michael kemp tippett: 1
+confessing church: 1
+golden: 1
+richard dick diver: 1
+the dry salvages pronounced rhyme assuages: 1
+song lark: 1
+ising model: 1
+the vanity human wishes: 1
+andre malraux: 1
+four: 1
+the crime against kansas: 1
+yevgeny yevtushenko: 1
+n scott momaday: 1
+stephen decatur: 1
+heartbreak tango boquitas pintadas: 1
+sun: 1
+sir edward william elgar: 1
+fallout 3 do fallout fallout 2: 1
+joseph stiglitz: 1
+newton booth tarkington: 1
+glyph1197ew zealand: 1
+: 1
+baba yaga: 1
+glyph817ausea: 1
+ode glyph1197ightingale: 1
+woman warr: 1
+franz werfel: 1
+the sandman: 1
+circle chalk: 1
+seven s: 1
+joseph rudyard: 1
+wang wei: 1
+athanasius alexandria: 1
+l g: 1
+bhima the a always pronounced hindi: 1
+sefer ha zohar: 1
+p: 1
+jerusalem: emanation giant albion: 1
+meursault prompt stranger; l'etranger; outsider;: 1
+unvanquished: 1
+atta troll: 1
+providence: 1
+lay head lap camerado: 1
+blind willow sleeping woman: 1
+mary renault eileen mary challans: 1
+molly bloom's soliloquy: 1
+penn central trans: 1
+wozzeck sj: 1
+ruddi: 1
+billy phelan's greatest game: 1
+kebra nagast: 1
+william graham sumner: 1
+concept his: 1
+alphonse daudet: 1
+dutchman: 1
+shipyard el astillero: 1
+melville's tomb: 1
+murder considered fine arts: 1
+notes camp jha: 1
+sunday park g: 1
+lupe fiasco: 1
+oxbow: 1
+ousmane sembene sy: 1
+domenico scarlatti prompt partial answer sy: 1
+claes oldenburg haseeb: 1
+mulholland drive sy: 1
+bartered bride prodana nev?sta jha: 1
+fanny alexander: 1
+sun ra: 1
+eichen: 1
+nanook: 1
+dream little dream me sy: 1
+les pecheurs de perles pearl fishers jha: 1
+rear window sy: 1
+strange fruit sy: 1
+la bonne chanson jha: 1
+paul klee pronounced clay haseeb: 1
+charade sy: 1
+decolonizing mind: 1
+masques ben jonson do plays ben jonson half answers: 1
+ernst junger: 1
+hafez: 1
+white jacket: 1
+moons jupiter: 1
+fasti: 1
+pity busy monstermanunkind: 1
+sir giles overreach: 1
+kenil: 1
+raskolnikov's dreams: 1
+no44 mysterious stranger prompt satan although seriously shouldn't: 1
+hymn aten akhenaten's great hymn great hymn sun: 1
+dog beneath skin: where francis?: 1
+arthur schnitzler: 1
+bridal canopy hakhnasat kallah: 1
+catherine maria sedgwick: 1
+: 1
+blow up: 1
+pictures brueghel poems: 1
+song nibelungs nibelunglied: 1
+woe wit wit: 1
+lynne cheney: 1
+extremely loud incredibly close: 1
+william brad: 1
+celestial railroad: 1
+grouch old cantankerous dyskolos: 1
+beaux stratagem: 1
+intercourse: 1
+poetics: 1
+roman elegies erotica romana romsiche elegien: 1
+uncle remus: 1
+eta hoffman: 1
+denis johnson: 1
+nikolai gumiliev: 1
+olaudah equiano gustavus vassa: 1
+karen blixen isaak dinesin: 1
+j'accuse: 1
+cali: 1
+bathing: 1
+barcelona: 1
+because could stop death: 1
+st francis assisi: 1
+accept free choice though might frown thi: 1
+louis pious louis: 1
+ahimsa: 1
+phillip ii: 1
+welsh mythology prompt british: 1
+carbon dioxide co2: 1
+rake's progress: 1
+mt vesuvius: 1
+captain america: 1
+francis petrarch francesco petrarch: 1
+beats also beat generation beatniks anything resembles beat: 1
+frodo baggins prompt baggins mr underhill; bilbo baggins: 1
+wolfe: 1
+tragedy macbeth joc: 1
+purple do co: 1
+monk: 1
+saturnian poems: 1
+a simple heart: 1
+santiago nasar: 1
+hemoglobin: 1
+charles mingus: 1
+flu drugs: 1
+doc: 1
+name red: 1
+rules game la regle du jeu: 1
+questions travel: 1
+joseph andrews: 1
+sar: 1
+grandissimes: 1
+slavoj zizek: 1
+call sleep: 1
+woman im: 1
+naming necessity: 1
+aethiopica: 1
+wilco: 1
+plotinus: 1
+pale: 1
+book judges: 1
+hickey theo: 1
+bruno latour: 1
+lethe: 1
+prize stock: 1
+the bronze: 1
+prix goncourt: 1
+the red headed league: 1
+nervous conditions: 1
+where going where been?: 1
+sophie's: 1
+vision william concerning piers plowman: 1
+little big:: 1
+thousand nights: 1
+basque: 1
+this verse: 1
+doubt: parable: 1
+anyone lived pretty town: 1
+mystery yellow room: 1
+ts garp: 1
+bless me ultima: 1
+astrid lindgren: 1
+novelas ejemplares: 1
+mr wilkins micawber: 1
+2 + 2 = 5: 1
+pietro aretino: 1
+laughable loves: 1
+person: 1
+jeanette winterson: 1
+bamboo: 1
+winifred g: 1
+joyce kilmer: 1
+kong yiji: 1
+polonius: 1
+brunhilde: 1
+sir lancelot du lac: 1
+book common prayer administration sacraments rites ceremonies church ac: 1
+once warr: 1
+harry harlow: 1
+vic: 1
+subotai: 1
+kill bill: 1
+un: 1
+khwajeh samsu d din mu?ammad hafez e shirazi: 1
+william baskerville: 1
+kauravas: 1
+zadig fate: 1
+b traven: 1
+la bayadere: 1
+concept mind: 1
+mark helprin: 1
+: 1
+grover: 1
+nevsky prospect: 1
+teresa: 1
+step brothers: 1
+renoir jean renoir pierre auguste renoir: 1
+romulus: 1
+pc i guess personal computer: 1
+goblins: 1
+alyosha karamazov: 1
+ernest james gaines: 1
+ernst theo: 1
+harrison bergeron: 1
+kimball o'hara: 1
+kenneth kesey: 1
+amartya sen: 1
+edward duke ellington: 1
+chromosomes prompt sex chromosomes; barr body: 1
+philip pip pirrip: 1
+katerina minola: 1
+the negro speaks rivers: 1
+james hilton: 1
+schindler's ark: 1
+martin louis amis: 1
+chikamatsu monzaemon: 1
+howard's end: 1
+cadmus: 1
+jalāl ad dīn muḥammad rūmī: 1
+nikolay vasilyevich: 1
+waverley: 1
+kakfa s: 1
+talcott: 1
+umayyad: 1
+echidna: 1
+phenomenology mind: 1
+hongloumong: 1
+yukio mishima: 1
+luncheon grass: 1
+juventus football club prompt juve; old lady until end: 1
+black scholes model: 1
+leatherstocking tales: 1
+star trek: 1
+cold blood: 1
+herodotus halicarnassus: 1
+the waking: 1
+bad faith mauvais foi: 1
+sleepwalkers: 1
+tzvetan to: 1
+origin table manners prompt mythologiques mythologies until mentione: 1
+copenhagen: 1
+francis picabia: 1
+babi yar: 1
+abel sanchez: 1
+eternity: 1
+alexander nevsky cantata: 1
+true his: 1
+sarah vowell: 1
+charles bukowski: 1
+desolation row: 1
+the prelude;: 1
+subjection women: 1
+john dillinger: 1
+battle dien bien phu: 1
+wallenstein: 1
+pollice verso turned thumb: 1
+dative case: 1
+wernicke's aphasia: 1
+city sea: 1
+panther: 1
+czes?aw milosz chess wav mee losh: 1
+case comrade tulayev: 1
+artemis: 1
+yu hua: 1
+skara brae: 1
+wayne s: 1
+lost illusions: 1
+carbene: 1
+jean toomer: 1
+trickster seville: 1
+frank capra: 1
+barber seville useless precaution: 1
+john willoughby prompt john; john dashwood john middleton: 1
+earl warren: 1
+: 1
+jenufa jeji pas: 1
+etienne maurice falconet: 1
+john henry cardinal newman: 1
+stanley kubrick: 1
+the river merchant's wife: letter: 1
+rna interference: 1
+arrested development: 1
+albert schweitzer: 1
+crane be nice hart crane stephen crane point mention confused folks: 1
+hilbert's third problem: 1
+sleeping beauty: 1
+interpretation cultures: 1
+maccabees: 1
+third estate?: 1
+malcolm gladwell: 1
+john dewey: 1
+giselle: 1
+speed dating: 1
+grandissimes: s: 1
+dance music: 1
+terra nostra: 1
+john brown's body: 1
+four books sentences: 1
+ra: 1
+the interlopers: 1
+wis?awa szym: 1
+having: 1
+ethics ambiguity: 1
+dissents antonin scalia prompt less specific answers throughout: 1
+irving langmuir: 1
+dona f: 1
+fine structure constant prompt alpha: 1
+histidine prompt his: 1
+miss jane pittman: 1
+interpretation dreams: 1
+dog years: 1
+peru: 1
+cycloid: 1
+la gioconda: 1
+saint nicholas: 1
+odessa tales: 1
+shangri la: 1
+dinosaurs: 1
+william ewart gladstone: 1
+john philip sousa: 1
+don jose: 1
+old spice: 1
+herbert spencer: 1
+barack obama: 1
+lao tzu: 1
+rna splicing: 1
+objectivism: 1
+animals: 1
+mathew arnold: 1
+triangle: 1
+aaron's rod: 1
+the congo: 1
+james ingram merrill: 1
+great train robbery: 1
+adams me: 1
+colly cibber: 1
+evelina:: 1
+moloch: 1
+turnus: 1
+feste jester prompt clown read: 1
+cytokinesis: 1
+channel firing: 1
+fire next: 1
+zaire: 1
+the kraken: 1
+heroes tomb: 1
+denisdiderot: 1
+quus: 1
+robertfrost: 1
+god bless you mr rosewater: 1
+robert oxton bolt: 1
+third earl shaftesbury: 1
+: 1
+the killers: 1
+canzonierealso song book rerum vulgarium fragmenta said: 1
+god knows: 1
+pianos: 1
+antarctica: 1
+leon battista alberti: 1
+labyrinth solitude el laberinto de la soledad: 1
+sleipnir: 1
+cyclic amp camp cyclic adenosine monophosphate: 1
+rampage: 1
+pierre menard: 1
+andrã© malraux: 1
+theodosius: 1
+translations: 1
+liu bei: 1
+plowman: 1
+great proletarian cultural revolution: 1
+jia jyah family: 1
+wake eld: 1
+hilda wangel prompt wangel: 1
+gilbert osmond: 1
+or m: 1
+stephan mallarme: 1
+william gaddis: 1
+negative capability: 1
+after quake: 1
+lemminkainen: 1
+a retrieved re: 1
+his: 1
+boesman lena: 1
+real inspec: 1
+the decay lying: 1
+mateo falcone: 1
+62: model kit: 1
+blacks: clown show: 1
+way heaven: 1
+autobiography malcom: 1
+sometimes great notion: 1
+argonautica: 1
+hands: 1
+hive: 1
+: 1
+: 1
+little eyolf: 1
+against interpetation: 1
+dream rood: 1
+clarel: 1
+dyskolos grouch: 1
+sir henry maximilian beerbohm: 1
+house medlar tree: 1
+the country blind: 1
+areopagitica: 1
+woman sarajevo: 1
+eugene luther: 1
+possessed: 1
+benito perez galdos: 1
+homage catalonia: 1
+can subaltern speak?: 1
+josephy brodsky: 1
+man: 1
+the cremation sam mcgee: 1
+parnassians parnassus school parnassianism: 1
+august osage county: 1
+wole soyinka: 1
+tamerlane: 1
+popol vuh: 1
+phillip roth: 1
+cu chulainn: 1
+west side s: 1
+peter wolf: 1
+casey bat: 1
+eugene ionesco: 1
+jm coatzee: 1
+burrhus frederic skinner: 1
+acts apostles: 1
+s: 1
+the kentucky derby decadent depraved: 1
+real irish republican army do irish republican army: 1
+lytton strachey: 1
+alex haley: 1
+persian letters: 1
+aureng zebe great mogul: 1
+kermit: 1
+samuel von pufen: 1
+gulf war: 1
+trout fishing america: 1
+myra breckinridge: 1
+jewish cemetery prompt cemetery: 1
+aeolian harps: 1
+: 1
+book ezra: 1
+anna bolena: 1
+conservatives: 1
+william joseph kennedy: 1
+on jewish question: 1
+eloi: 1
+american gods: 1
+bao dai: 1
+karel capek: 1
+jules et jim jules jim: 1
+if: 1
+samuel os: 1
+james arthur baldwin: 1
+marcus brutus: 1
+greece hellenic republic: 1
+saracen: 1
+golgotha: 1
+nothing prompt noises off: 1
+architect: 1
+after apple picking: 1
+pyncheon family: 1
+clarence beeftank: 1
+defense: 1
+blackmail: 1
+father arnall's hell sermon: 1
+jesus' son: 1
+muriel rukeyser: 1
+praise shadows: 1
+balthasar balthazar baltasar: 1
+: 1
+tobias trilogy: 1
+mating: 1
+lenz: 1
+shahnameh be generous vowels: 1
+enigma arrival: 1
+paul claudel: 1
+classic poetry: 1
+persia: 1
+fauvism: 1
+berthold brecht: 1
+sermon mount prompt beatitudes read: 1
+inferno: 1
+parables jesus: 1
+qur'an: 1
+nikolay gogol: 1
+dr yuri zhivago: 1
+jay gatsby: 1
+republic guatemala: 1
+euripedes: 1
+babbit: 1
+alan paton pay ton: 1
+spanish language: 1
+: 1
+thomas hobbes: 1
+samuel dashiell hammett: 1
+yukio mishima: 1
+pop art: 1
+robert elizabeth barrett browning do elizabeth barrett moulton: 1
+charles ives: 1
+confederate states america: 1
+summa theologica: 1
+brown ij: 1
+felix krull: 1
+lillith ij: 1
+le misanthrope: 1
+recognition shakuntala: 1
+1001 arabian nights: 1
+battle hymn republic if someone confused 1st line julia ward howe: 1
+marriage heaven hell: 1
+songs: 1
+apollyon: 1
+brobdingnag we lenient pronunciation: 1
+bronte family: 1
+namesake: 1
+aut: 1
+troubadours prompt chansonniers certamen troubaritz until marcabru anyone buzzes poet needs slapped prompted: 1
+persian language parsi prompt iranian because actually class languages: 1
+goldberg variations ar: 1
+third man tg: 1
+children paradise: 1
+l'italiana algeri: 1
+400 blows: 1
+ornette coleman t: 1
+man ray: 1
+g: 1
+vic: 1
+yogi berra: 1
+jester: 1
+mesons prompt bosons; pions until rochester: 1
+ajax: 1
+animal farm: fairy s: 1
+holiday holly golightly: 1
+der rosenkavalier: 1
+john bunyan: 1
+joan arc: 1
+general william booth enters into heaven: 1
+sinners hands angry god: 1
+trial: 1
+?e kenzabur? gt: 1
+journey west xiyouji prompt monkey: 1
+: 1
+colonial america: 1
+venice: 1
+epimetheus: 1
+elamites: 1
+om: 1
+book genesis: 1
+culhwch olwen: 1
+being transgendered equivalents implies figure underwent sex change: 1
+rene girard: 1
+epictetus: 1
+efficient market hypothesis: 1
+: 1
+pasiphae: 1
+dagda: 1
+haddad ba'al: 1
+alfred jules ayer: 1
+genealogy: 1
+oeconomicus: 1
+stanley louis cavell: 1
+arthashastra: 1
+metal gear solid 4: guns patriots: 1
+war pacific: 1
+neo realism also structural realism; realism: 1
+: 1
+simon magus: 1
+miniver cheevy: 1
+patricia peppermint patty reinhardt: 1
+apostles' creed: 1
+true west: 1
+juni'chiro tanizaki: 1
+nosferatu symphony: 1
+p: 1
+friedrich engels: 1
+heimdallr: 1
+people's republic china: 1
+la fronde: 1
+alger hiss: 1
+fruit: 1
+: 1
+john stuart mill: 1
+either: 1
+cars: 1
+incubus: 1
+meleager: 1
+adding machine jm: 1
+the lady's dressing room dl: 1
+prince lyov nikolayevich myshkin: 1
+good bye ar: 1
+segismundo: 1
+children night em: 1
+timothy mcsweeney's quarterly concern dl: 1
+cat sj: 1
+carlo gozzi sj: 1
+denmark sj: 1
+brekekekex koax koax! be generous number syllables: 1
+co: 1
+shaka zulu jm: 1
+bokonon: 1
+albatross dl: 1
+guillermo cabrera infante jm: 1
+elegy dl: 1
+jitney dj: 1
+mystery play cycles dl: 1
+jean de la fontaine dl: 1
+luis vaz de camoes: 1
+marrow tradition jm: 1
+temple dl: 1
+the kreutzer sonata jm: 1
+blithedale romance dj: 1
+pilgrim tinker creek sj: 1
+lady macbeth mtsensk: 1
+sandman ar: 1
+the elephant vanishes: 1
+gooseberries em: 1
+secret jm: 1
+seven jm: 1
+songs sonnets jm: 1
+what talk talk love: 1
+flatland ar: 1
+john jemmy legs claggart dl: 1
+filippo tommaso marinetti ar: 1
+thomas nashe jm: 1
+adventures augie march dl: 1
+suzanna arundhati roy em: 1
+toilers sea: 1
+africa jm: 1
+theme english b dl: 1
+gerard de nerval sj: 1
+percy wyndham lewis sj: 1
+julia sj: 1
+david garrick dl: 1
+afternoon faun: 1
+miranda dl: 1
+du fu: 1
+toads em: 1
+sign four ar: 1
+g: 1
+confessio amantis jm: 1
+oulipo: 1
+william t vollmann ar: 1
+moon harsh mistress ar: 1
+nature jm: 1
+the aut: 1
+praise folly: 1
+arthur y: 1
+looking: 1
+siege krishnapur: 1
+hilaire belloc: 1
+the celestial omnibus: 1
+curzio malaparte: 1
+chaireas callirhoe: 1
+women celebrating thesmop: 1
+strong breed: 1
+the critic artist: 1
+abc reading: 1
+dr johann g: 1
+meditation: 1
+julius 1: 1
+things: 1
+children's: 1
+vic: 1
+tale posses: 1
+brazilian muslims prompt brazilian africans until avenida estado 3: 1
+mills 2: 1
+imperium imperio 6: 1
+: 1
+brother jero: 1
+carlo emilio gadda 6: 1
+royall tyler 5: 1
+peacocks 1: 1
+epic sundiata: 1
+lost ho: 1
+philomela 3: 1
+feni: 1
+g: 1
+ballistic: ecks vs sever 4: 1
+azul: 1
+knight panther's skin: 1
+blood: 1
+isis unveiled 5: 1
+avery enterprises 2: 1
+hinton rowan helper 5: 1
+battles coxinga 6: 1
+floating point numbers 1: 1
+rukhnama 4: 1
+imagism: 1
+the bride comes yellow sky: 1
+rabindrath ta: 1
+saint peter: 1
+benjamin disraeli: 1
+feathers: 1
+sea exact: 1
+hedda gabbler: 1
+madrigals: 1
+frederick douglass: 1
+hollywood prompt los angeles; southern cali: 1
+dune: 1
+gaia hypothesis: 1
+athena: 1
+fritz lang: 1
+st augustine hippo: 1
+phillip glass: 1
+salmon rushdie: 1
+venerable bede: 1
+palestine: 1
+maus vol i: my father bleeds his: 1
+coda: 1
+yoknapatawpha yok na pa taw fa county: 1
+robert browning: 1
+dream deferred: 1
+the nose: 1
+stanley milgram: 1
+graham greene: 1
+: 1
+interpreter maladies do the interpreter maladies: 1
+erlking der erlksnig: 1
+maria von trapp: 1
+pirates penzance slave duty: 1
+mayans: 1
+alexander dumas: 1
+boxer: 1
+just: 1
+tuonela: 1
+inca {ba}: 1
+empedocles acragas: 1
+ray luo: 1
+philipp melanchthon: 1
+hosea {ba}: 1
+golden temple: 1
+tsukuyomi {ba}: 1
+albertus magus: 1
+: 1
+krishna {ba}: 1
+just war th: 1
+fujin {ba}: 1
+pensees: 1
+amidah shmonah esrei tfilat ha'amidah {en}: 1
+max: 1
+shields {wd sk}: 1
+road serfdom {wd}: 1
+atomists {sk}: 1
+cossacks kazakhi: 1
+giambattista vico giovanni battista vico: 1
+newland archer: 1
+metastasis: 1
+scriptwriter: 1
+yellow: 1
+djoser zoser: 1
+: 1
+christianity: 1
+dejection: ode: 1
+rotifera rotifers: 1
+absalom achitophel: 1
+the life save own: 1
+guns n' roses: 1
+fateful adventures good: 1
+g: 1
+necronomicon al azif: 1
+arjuna: 1
+bertholdt brecht: 1
+job: 1
+orish: 1
+ismailis: 1
+thirty tyrants: 1
+akutagawa ryunosuke: 1
+saleem sinai prompt sinai: 1
+principles psychology: 1
+prosper merimee: 1
+charles fourier: 1
+die lustige witwe the merry widow operetta: 1
+sif: 1
+timaeus: 1
+second crusade: 1
+crossing bar: 1
+aeolus: 1
+creedence clearwater revival: 1
+giants earth: saga prairie de dage: 1
+arthur charles clarke: 1
+winesburg ohio: group tales ohio small town life: 1
+bunraku: 1
+m: 1
+isaak babel: 1
+don quixote's attack windmills: 1
+willy loman prompt loman: 1
+soliloquies hamlet prompt partial answer; speeches hamlet monologues hamlet equivalents;: 1
+terence stupid stuff: 1
+willie stark: 1
+mir: 1
+g: 1
+pilar: 1
+phantom opera: 1
+a&amp;p: 1
+kimball kim o'hara: 1
+: 1
+: 1
+tevye dairyman: 1
+puck: 1
+othello: 1
+venice italy: 1
+jabberwocky do jabberwock: 1
+judy blume: 1
+mysterious benedict society: 1
+woodcutters: 1
+wingfield family: 1
+alyosha: 1
+zenobia prompt zeena; sig: 1
+ramsay family: 1
+anthony robert tony kushner: 1
+life death richard ii: 1
+roman satire: 1
+joad family: 1
+airplanes: 1
+iran: 1
+bullfights: 1
+hotels prompt buildings: 1
+visigoths: 1
+chocolate war: 1
+across five aprils: 1
+giver: 1
+alice: 1
+tintern abbey: 1
+esther greenwood: 1
+ramona quimby: 1
+the ugly duckling: 1
+auld lang syne: 1
+mr popper's penguins: 1
+polar express: 1
+athens: 1
+margaret ann simon prompt there god? it's me margaret: 1
+essays prompt papers; prose; non fiction; article; re: 1
+mrs frisby rats nimh: 1
+guns: 1
+sanskrit: 1
+bananafish: 1
+maurice poly: 1
+buck: 1
+tale despereaux: 1
+william beck: 1
+istanbul: 1
+ben hecht do anthony hecht; charles macarthur since macarthur didn't: 1
+william faulkner's nobel: 1
+lime tree bower prison: 1
+arkady ivanovich svidrigailov: 1
+pro caelio: 1
+graveyard act v scene hamlet prompt elsi: 1
+iphigenia tauris: 1
+in praise limestone: 1
+thomas ã  becket: 1
+thief dogs el lis's wa el kilab: 1
+the canonization: 1
+cleon: 1
+nuruddin farah: 1
+marianne dashwood: 1
+hilda doolittle: 1
+nightwood: 1
+pahom: 1
+physicists: 1
+zhuangzi: 1
+william tre: 1
+dog: 1
+arden faversham: 1
+zhu bajie: 1
+to be be soliloquy prompt answers mentioning hamlet such hamlet's speech: 1
+swedish academy: 1
+caribbean: 1
+pã¤r fabian lagerkvist: 1
+: 1
+wind willows: 1
+hobbit: 1
+deliverance: 1
+trimalchio: 1
+fake people: 1
+snow: 1
+willy loman: 1
+madame defarge: 1
+letters arthur rimbaud: 1
+pelleas melisande: 1
+lute: 1
+under western eyes: 1
+radio play/drama/theater: 1
+ward no 6: 1
+stone diaries: 1
+larry kramer: 1
+dwarfism: 1
+host: 1
+pan tadeusz: 1
+antonio machado y ruiz: 1
+child's christmas wales edi: 1
+gilead: 1
+plato's laws: 1
+lost steps: 1
+moses joseph roth: 1
+uji the: 1
+cacus: 1
+rhyme: 1
+dan brown: 1
+japan nippon: 1
+nã©gritude: 1
+dwarfs: 1
+lillian hellmann: 1
+blood meridian: evening redness west: 1
+temple dawn: 1
+adeline virginia woolf: 1
+jean anouilh: 1
+peter handke: 1
+16	panchatantra: 1
+lucasta: 1
+12	modernismo prompt modernism: 1
+baron: 1
+ã¢â€âœgimpel foolã¢â€â: 1
+tommy d: 1
+ã¢â€âœthe ocean full bowling ballsã¢â€â: 1
+an encounter: 1
+goat: 1
+the s: 1
+spirit catches fall down: 1
+nathan wise: 1
+a re: 1
+meursault prompt the stranger the outsider: 1
+iliad: 1
+frogs do toads: 1
+marcus tullius cicero: 1
+gypsies gypsy: 1
+frank: 1
+sleepwalking: 1
+malebolge eighth circle hell prompt ill advised buzz inferno hell: 1
+snow: 1
+recognition śakuntalā: 1
+farts: 1
+nurse ratched prompt big nurse: 1
+gothic novels: 1
+roses rosebuds prompt flowers: 1
+egyptian: 1
+s: 1
+euclid: 1
+kingsley amis do martin amis though doubt anyone clumsy: 1
+jack a k gladney: 1
+jean marie lucien pierre anouilh: 1
+: 1
+ma rainey's black bottom: 1
+rope: 1
+: 1
+samuel shepard rogers iii: 1
+jake barnes: 1
+piano prompt musical instrument similar answers: 1
+alle: 1
+khaled hosseini: 1
+rita frances dove: 1
+caliban upon setebos;: 1
+belgian congo also zaire democratic republic congo drc: 1
+in me: 1
+christopher william bradshaw isherwood: 1
+john winslow irving: 1
+orlando: biograph: 1
+anthony powell pronounced pole: 1
+loaf bread: 1
+sea wolf: 1
+nine: 1
+ludwig joseph johann wittgenstein: 1
+milton poem: 1
+w;t: 1
+kindly ones les bienveillantes do the eumenides point: 1
+alan bennett: 1
+ah wilderness!: 1
+gikuyu language: 1
+walter: 1
+charles simić: 1
+being blue: philosophical inquiry: 1
+: 1
+ah digging grave?: 1
+kobo abe: 1
+out outâ—: 1
+john cleland: 1
+tom robbins: 1
+alyosha pot prompt the pot: 1
+ding ling: 1
+james hogg: 1
+white album: 1
+vita sackville west: 1
+oceanus: 1
+vladimir propp: 1
+joel barlow: 1
+countess ellen olenska: 1
+karl kraus: 1
+eugene henderson: 1
+adventures roderick random: 1
+tragedians: 1
+sholom aleichem: 1
+aravind adiga: 1
+private lives: 1
+sunflower sutra: 1
+eugene henderson: 1
+shakespearean fools also clowns court jesters harlequins similar answers: 1
+stutter: 1
+life adventures nicholas nickleby: 1
+simã³n josã© antonio de la santã­sima trinidad bolã­var y palacios ponte y blanco: 1
+written chinese reluctantly mandarin: 1
+heritage: 1
+hadji murad: 1
+hunger: 1
+ama ata aidoo: 1
+deerslayer: 1
+graveyards: 1
+billy budd: 1
+publius: 1
+baseball players prompt athletes: 1
+the s: 1
+aimã© cã©saire: 1
+marius epicurean: sensations ideas: 1
+jonathan lethem: 1
+bertholt brecht: 1
+long goodbye: 1
+tripmaster monkey: fake book: 1
+manon: 1
+british prison ship: 1
+darkness noon: 1
+estella havisham drummle: 1
+shakespearean aut: 1
+pedro calderã³n de la barca y barreda gonzã¡lez de henao ruiz de blasco y riaã±o: 1
+john o'hara: 1
+emanuel sweden: 1
+camilo jose cela y trulock marquis iria flavia: 1
+alain robbe grillet: 1
+abigail adams: 1
+batter heart three person'd god: 1
+master petersburg: 1
+country pointed firs: 1
+summer: 1
+paul valery: 1
+the eolian harp: 1
+thomas sutpen: 1
+julian patrick barnes: 1
+cockroaches prompt insect bug: 1
+berlin: 1
+thunder: 1
+compleat angler: 1
+brooklyn bridge: 1
+sun wukong: 1
+the swimmer: 1
+havana habana: 1
+barnaby rudge: 1
+me: 1
+procopius caesarea: 1
+execution rosenbergs: 1
+novel all clues specific books literature; don't genres: 1
+revolt islam: 1
+labyrinths: 1
+martian chronicles: 1
+charlotte brontã« prompt brontã«: 1
+pierre bezukhov pierre bezuhov: 1
+heptameron: 1
+john bull's island: 1
+executioner's song: 1
+hippolytus: 1
+love's labour's lost: 1
+yevegeniy aleksandrovich yevtushenko: 1
+abbã© faria: 1
+gran chaco war: 1
+sophie's choice: 1
+prince myshkin: 1
+maxine hong kingston: 1
+willy's funeral: 1
+spanish civil war: 1
+oulipo: 1
+dark lady: 1
+lady rowena: 1
+alcestis: 1
+big sleep: 1
+dionysus: 1
+bostoanians: 1
+being nothingness: essay phenomenological ontology: 1
+three: 1
+atlantic monthly: 1
+supermarkets: 1
+charlotte's: 1
+dido: 1
+big daddy pollitt prompt pollitt: 1
+sethe suggs prompt suggs: 1
+lara: 1
+coal miners: 1
+nuremberg nazi rallies: 1
+: 1
+glengarry leads: 1
+lily briscoe: 1
+auschwitz birkenau prompt concentration camp; nazi death camp; ar: 1
+pardoner: 1
+myth sisyphus: 1
+revolutionary road: 1
+laramie project: 1
+wild honeysuckle: 1
+spring autumn annals: 1
+apotheosis homer: 1
+egdon heath prompt wessex county until mentioned; rainbarrow mentioned: 1
+sallust: 1
+sir john mandeville: 1
+lazaro cardenas del rio: 1
+awake sing!: 1
+tonight write the saddest lines: 1
+resurrection: 1
+bestiaries: 1
+strange meeting: 1
+andrea chenier: 1
+lives caesars: 1
+a simple heart: 1
+solitary reaper: 1
+middlesex: 1
+the oversoul: 1
+umuofia: 1
+little: 1
+letters john keats: 1
+andrei platonov: 1
+anais nin: 1
+snow bound: 1
+: 1
+haroun sea s: 1
+girls slender means: 1
+peter quince clavier: 1
+lindisfarne: 1
+sizwe banzi dead: 1
+autobiography mark twain: 1
+homeric hymns: 1
+way live: 1
+jared diamond: 1
+two trains running: 1
+hudibras: 1
+paterson: 1
+nostromo: 1
+audre: 1
+thomas dekker: 1
+fatelessness: 1
+breasts tiresias: 1
+eliza harris: 1
+lady brett ashley: 1
+music teacher: 1
+gambler: 1
+turandot: 1
+elemental odes: 1
+s: 1
+heracles: 1
+endymion: 1
+susanna elders: 1
+un: 1
+jerusalem delivered: 1
+li bai: 1
+don quixote: fantastic variations theme knightly character: 1
+john howard griffin: 1
+love medicine: 1
+edmond dantes: 1
+henrik pontoppidan: 1
+richard: 1
+: 1
+masnavi ma'navi: 1
+1q84: 1
+vagina monologues: 1
+the lake isle innisfree: 1
+a supermarket cali: 1
+second baron: 1
+rodion romanovich raskolnikov's murder pawnbroker alyona ivanovna her sister lizaveta ivanova crime punishment: 1
+the final problem: 1
+don carlos infant von spanien: 1
+hesperides:: 1
+irvine welsh: 1
+i hear america singing: 1
+catholic priest: 1
+william patrick kinsella: 1
+figaro: 1
+william studs lonigan: 1
+pictures institution: 1
+rachid boudjedra: 1
+wild nights! wild nights!: 1
+frank algernon cowperwood: 1
+hesiodos: 1
+ivan karamazov prompt karamazov: 1
+caddy compson: 1
+latin: 1
+tragedy dutchess malfi: 1
+smith: 1
+pair blue eyes: 1
+steven millhauser: 1
+magicians do synonyms: 1
+: 1
+brendan behan: 1
+dr heidegger's experiment: 1
+: 1
+finches: 1
+ordinary peopl: 1
+abel magwitch: 1
+childhood jesus: 1
+cats: 1
+alec d'urberville: 1
+study scarlet: 1
+zarathustra do: 1
+anne radcliffe: 1
+biographies muhammad: 1
+happy loman: 1
+death: 1
+kublai khan: 1
+benjamin franklin frank wedekind: 1
+gandalf grey: 1
+gaius suetonius tranquillus: 1
+dissociation sensibility: 1
+moll pitcher do molly pitcher: 1
+gabriel josã© de la con: 1
+santiago prompt the old man until mentioned: 1
+profes: 1
+greek language: 1
+nikolai vasilievich gogol: 1
+charlie marlow: 1
+silver: 1
+balls pride prejudice: 1
+memoirs hadrian: 1
+timofey pnin: 1
+generation 27: 1
+modernismo: 1
+seven commandments animal farm: 1
+down dinghy: 1
+book laughter: 1
+sebastopol sketches: 1
+water babies: fairy tale land baby: 1
+cloud atlas: 1
+renã©: 1
+chitra divakaruni: 1
+mower poems: 1
+walking: 1
+the day doom: 1
+crabwalk: 1
+alfred noyes: 1
+sidney aaron paddy chayefsky: 1
+nica: 1
+revolt angels la revolte des anges: 1
+cooking spaghetti prompt general types pasta supageti: 1
+pseudolus prompt the cheat the deceitful slave equivalents: 1
+melmoth wanderer: 1
+sound mountain: 1
+sar: 1
+peace: 1
+anabasis kyrou prompt the persian expedition equivalent: 1
+ours: 1
+mosses old manse: 1
+st ignatius antioch: 1
+ballad brown girl: 1
+judas iscariot: 1
+black riders lines: 1
+wolf hall: 1
+hans cas: 1
+hamlet's soliloquies: 1
+publius virgilius maro: 1
+accept miy: 1
+heinrich faust: 1
+labyrinths: 1
+his: 1
+firemen prompt book burners: 1
+aesop's fables prompt fables: 1
+pavel ivanovich chichikov prompt pavel: 1
+colonial america: 1
+libraries: 1
+xenophon: 1
+mark antony's funeral: 1
+kites: 1
+sea: 1
+narnia do the chronicles narnia individual book names: 1
+akutagawa ryuunosuke: 1
+j b: 1
+man iron mask: 1
+aristotle stagira: 1
+houses: 1
+bilbo baggins: 1
+luck: 1
+dr henry jekyll: 1
+: 1
+piano: 1
+end: 1
+el doc: 1
+: 1
+federal republic nigeria: 1
+the steeple jack: 1
+eugene onegin: 1
+blind people: 1
+cats: 1
+c: 1
+concentration camps: 1
+ryszard kapuscinski: 1
+swim two birds: 1
+detective âction s: 1
+david ives: 1
+magic barrel: 1
+tess durbeyâeld: 1
+a supposedly fun thing i'll never again: 1
+abbey theleme prompt abbey: 1
+grotesque: 1
+faehmel family: 1
+philoctetes: 1
+teachers: 1
+jason compson iv prompt compson; jason compson iii: 1
+hound baskervilles: 1
+elsi: 1
+allie caulfield's baseball mitt: 1
+chief bromden: 1
+g: 1
+f: 1
+desiderus erasmus: 1
+adventures don quixote: 1
+milo minderbinder: 1
+dmitri's trial: 1
+g: 1
+a: 1
+minnesota: 1
+sand: 1
+alice: 1
+paul revere's ride: 1
+two noble kinsmen: 1
+tralfama: 1
+clive taples jack lewis: 1
+donkey/ass: 1
+wollstonecraft: 1
+surrealists: 1
+greene: 1
+injun joe: 1
+boccacio: 1
+invisibility: 1
+katherine o'flaherty kate chopin: 1
+douglas noel adams: 1
+bill bryson: 1
+holy sonnets: 1
+kojiki: 1
+prostitutes: 1
+wapshot: 1
+tanuki prompt raccoons: 1
+mexico city: 1
+brangwen: 1
+aut: 1
+franco prussian war: 1
+ancient greek comedy: 1
+franklin: 1
+mechanical hound: 1
+assassins caesar: 1
+generation '27: 1
+: silent snow secret snow: 1
+blindness: 1
+bronte sisters: 1
+bloomsday: 1
+g: 1
+sonnets death: 1
+addie's coffin lay dying: 1
+wit: 1
+byronic hero prompt partial answer; romantic hero; childes; young noblemen; pirate;: 1
+demian: 1
+campus novels: 1
+ode psyche: 1
+aida: 1
+yevgeny vasil'evich bazarov jg: 1
+misfit: 1
+leaf s: 1
+confessions felix krull confidence man: early years: 1
+li po li bai the anecdote course being drowned while drunkenly reaching moon boat: 1
+tiny tim: 1
+crimes punishments: 1
+soliloquy spanish cloister: 1
+mily alekseyevich balakirev: 1
+henry stimson: 1
+adventures peregrine pickle included me: 1
+amadeus: 1
+elegy: 1
+red badge courage: 1
+shoemakers prompt cobblers: 1
+moon misbegotten: 1
+caleb carr: 1
+sound waves shiosai: 1
+silent cry manen sannen futto: 1
+pied beauty: 1
+earthquakes: 1
+holly golightly: 1
+profes: 1
+gooseberries: 1
+epistle dr arbuthnot: 1
+harun al rashid: 1
+romain rolland: 1
+lantier family: 1
+ha jin: 1
+gérard de nerval: 1
+going after cacciato: 1
+ukrainian: 1
+sinking rms titanic: 1
+the sisters: 1
+françois villon: 1
+burma: 1
+tar baby: 1
+marie de france prompt marie: 1
+betrothed: 1
+friars: 1
+dog manger: 1
+ironweed prompt albany cycle: 1
+cecil day lewis prompt nicholas blake until read: 1
+an: 1
+thomas: 1
+michael kohlhaas: 1
+facundo: civilization barbarism: 1
+queen gertrude prompt the queen: 1
+shanghai the leadin mao dun's epitome: 1
+between acts: 1
+john buchan: 1
+dictionary khazars: lexicon novel: 1
+septimus hodge: 1
+nicholas salmanovitch rubashov: 1
+julia alvarez: 1
+malaria prompt roman fever until read: 1
+innocents abroad: 1
+rebours: 1
+a high toned old christian woman: 1
+brilliant career: 1
+eyeless gaza: 1
+heroides: 1
+odysseus: 1
+mercutio: 1
+myrmidons: 1
+hell: 1
+theaters: 1
+tom sawyer: 1
+albrecht von wallenstein: 1
+buddenbrooks: decline family: 1
+ts eliot: 1
+junot dã­az: 1
+andrã© gide: 1
+wales: 1
+lady lazarus: 1
+bundrens: 1
+dialogues: 1
+alex prompt your humble narra: 1
+kingdom spain the novel miguel de unamuno's mist;: 1
+miller's tale: 1
+glass family: 1
+fairy tales: 1
+democracy: 1
+bram stoker: 1
+federal republic germany: 1
+merovingian dynasty: 1
+she walks beauty: 1
+tokyo: 1
+bears: 1
+suicide: 1
+baker: 1
+film criticism: 1
+turkey: 1
+stopping woods snowy evening: 1
+jean santeuil: 1
+street scene: 1
+manas with over twice content mahabharata!: 1
+vampire vampyr the vampire anything that: 1
+temple drake either name: 1
+kahlil gibran: 1
+juneteenth: 1
+independent people sjã¡lfstã¦tt fã³lk: 1
+harriet jacobs: 1
+indian reservations: 1
+th: 1
+sledding: 1
+dona f: 1
+when heard learn'd astronomer: 1
+mikhail sholokov: 1
+ivo andric: 1
+josef âšvejk: 1
+movies: 1
+vautrin until read: 1
+draupadi: 1
+icelandic sagas: 1
+orpheu: 1
+laughing man: 1
+utopian novels: 1
+: 1
+little father: 1
+mycroft holmes: 1
+au: 1
+gods athirst also les dieux ont soif english translations the gods blood etc: 1
+james whitcomb riley: 1
+thaw: 1
+ponder heart: 1
+few figs thistles: 1
+katharina blum either name!: 1
+too late phalarope: 1
+name day celebrations: 1
+shipping: 1
+lisbon: 1
+gilbert adair: 1
+ifâ–: 1
+naomi: 1
+jensen: 1
+richard yates: 1
+gyres: 1
+cat mouse: 1
+tartuffe;: 1
+1980s: 1
+sã©ances: 1
+bees also honeybees: 1
+being buried alive: 1
+blindness: 1
+purple: 1
+country old men: 1
+summoner's tale: 1
+sui: 1
+miami: 1
+leo: 1
+dresden: 1
+mohun biswas: 1
+pliny: 1
+charlotte s: 1
+shall compare thee summer's day?: 1
+: 1
+human stain: 1
+beaches: 1
+hunger: 1
+outlaws from water margin: 1
+babies: 1
+paul benjamin auster prompt paul: 1
+marabar caves: 1
+autobiography benjamin franklin: 1
+ah q: 1
+dr strangelove: 1
+inferno prompt the divine comedy until mention; purga: 1
+being dead: 1
+mr darcy: 1
+guinevere: 1
+albatrosses: 1
+big brother: 1
+mexico: 1
+elementary schools: 1
+lady macbeth: 1
+autobiography prompt memoir: 1
+sonnets: 1
+syphilis: 1
+figs: 1
+raveloe: 1
+candide: optimism: 1
+daodejing: 1
+chinese american: 1
+comic books: 1
+arrowsmit: 1
+theogony: 1
+madeleine lost prompt cake; cookie: 1
+the fish: 1
+beat​ generation: 1
+concentration camp​s: 1
+bengali: 1
+alcoholism prompt addiction; clear equivalents: 1
+stage manager: 1
+oral history prompt history; books interviews; biographies: 1
+poet's father: 1
+law: 1
+large noses: 1
+devil: 1
+spanish: 1
+anne shirley blythe: 1
+people's republic china: 1
+roberto bolaño boh lahn yoh: 1
+death ophelia: 1
+watchmen: 1
+persians: 1
+1910s: 1
+map treasure island: 1
+schoolteachers: 1
+lamb family: 1
+nuns: 1
+awyers: 1
+dramatic unities: 1
+hilary mantel man tell: 1
+lions: 1
+car accidents: 1
+austria: 1
+alice walker: 1
+colleges: 1
+harry hope's saloon: 1
+polynices: 1
+per: 1
+josé martí: 1
+keller: 1
+adolf eichmann ike mahn: 1
+rosenberg: 1
+master harold and boys: 1
+josef švejk yo sef sh vake: 1
+oklahoma: 1
+lotus flowers: 1
+travelers: 1
+me: 1
+radetzky march: 1
+mont blanc: lines written vale chamouni: 1
+sensation novels grudgingly thriller suspense; substitute mentions mystery: 1
+butterfield 8: 1
+paper lion: confessions last string quarterback: 1
+andrea del sarto: 1
+death little nell: 1
+thomas carew pronounced carey phonetic pronunciation: 1
+karl m: 1
+giacomo taldegardo francesco di sales saverio pietro leopardi: 1
+raise high roof beam carpenters: 1
+louis antoine de saint just: 1
+cynthia ozick: 1
+layla majnun: 1
+albius tibullus: 1
+elizabeth willard: 1
+the bet: 1
+jean marie gustave le clezio: 1
+beggar's opera: 1
+notes house dead: 1
+javier marã­as: 1
+wuxia prompt martial arts literature/novel: 1
+theatrical stages: 1
+jealousy: 1
+anne boleyn prompt brunet mentioned: 1
+queequeg's tattoos: 1
+amitav ghosh: 1
+villages: 1
+james: 1
+yasmina reza: 1
+browning version: 1
+brooks: 1
+louise erdrich: 1
+jeannette winterson: 1
+patricia highsmith: 1
+adam hochschild: 1
+ian watt: 1
+moscow: 1
+joe dimaggio: 1
+adam trask: 1
+bertha mason: 1
+trial dmitri karamazov: 1
+fourth circle prompt inferno; hell: 1
+suicide attempt ethan frome mattie silver: 1
+a throw dice never abolish chance: 1
+sudan: 1
+religio medici: 1
+middle passage: 1
+marilynne robinson: 1
+doã±a rosita spinster language flowers: 1
+suppliants: 1
+: 1
+penny dreadfuls: 1
+monster s: 1
+feast goat: 1
+g: 1
+britomart: 1
+indian summer: 1
+fleas: 1
+osamu tezuka: 1
+bohumil hrabal: 1
+the case reparations: 1
+graveyard poets/school/etc: 1
+prague cemetery: 1
+seven types ambiguity: 1
+eagles: 1
+roxana:: 1
+vautrin: 1
+castle rackrent: 1
+carlo goldoni: 1
+vivie warren: 1
+juan goytisolo: 1
+singing contest martin fierro: 1
+homage mistress bradstreet: 1
+eternal curse reader pages maldiciã³n eternal quien lea estas paginas: 1
+krik? krak!: 1
+simplicissimus der abenteuerliche simplicissiumus teutsch simplicius simplicissimus adventures simpleton simplicissimus vagabond: 1
+why read classics?: 1
+kant platypus: 1
+the rho: 1
+light: 1
+knight panther's skin: 1
+axel's castle: 1
+arnold wesker: 1
+pylon: 1
+lamia: 1
+manual manuel libro de manuel: 1
+twelve chairs: 1
+breadwinners: social study: 1
+aghwee sky monster: 1
+theophile gautier: 1
+puerperal fever: 1
+the hasty pudding: 1
+poly olbion: 1
+empe: 1
+dragons: 1
+lesson aloes: 1
+ihara saikaku: 1
+kind alaska: 1
+quicksand: 1
+philip carey prompt carey: 1
+natty bumppo: 1
+arnaut daniel: 1
+ah q prompt ah; q: 1
+schoolmaster: 1
+buried giant: 1
+requiem: 1
+michael k: 1
+dulcinea del toboso: 1
+wole soyinka: 1
+v 2 rocket strikes gravity's rainbow: 1
+thomas jefferson: 1
+experience: 1
+colson whitehead: 1
+virgin mary: 1
+preface renaissance prompt renaissance: 1
+: 1
+languages: 1
+wild strawberry: 1
+beach: 1
+judith shakespeare: 1
+queen mab: 1
+lost yonkers: 1
+peace: 1
+hideous men prompt partial answer; interviewees brief read: 1
+: 1
+cancer: 1
+mr ramsay: 1
+egypt egyptus: 1
+aspern papers: 1
+israel: 1
+stanislaw lem: 1
+fagin: 1
+scholars: 1
+zelda fitzgerald: 1
+arab stranger: 1
+the age anxiety: 1
+babette's feast: 1
+elizabeth: 1
+ravelstein: 1
+orhan pamuk: 1
+genres: 1
+rape lucrece: 1
+yo el supremo: 1
+newgate prison/gaol prompt prison equivalents; the old bailey; london until read: 1
+cenci tragedy five acts: 1
+esquire magazine: 1
+edwin meese: 1
+henry white: 1
+ichabod crane: 1
+federico garcã­a: 1
+ghosts: 1
+modern greek: 1
+auschwitz: 1
+polish: 1
+confessional poetry: 1
+peloponnesian war: 1
+brooklyn: 1
+byzantium: 1
+other people others: 1
+g: 1
+birds: 1
+david ben gurion: 1
+pips: 1
+house usher: 1
+karel capek cha pek: 1
+earthly powers: 1
+children gebelawi: 1
+confederate general big sur: 1
+lieutenant innish: 1
+woman washington zoo: 1
+psychiatrist: 1
+le ping pong: 1
+nizami ganjavi: 1
+s: 1
+reginald: 1
+s: 1
+narratives empire american chronicle: 1
+mulvaneys: 1
+diana crossways: 1
+liliom: 1
+i'll take stand: south agrarian tradition: 1
+face another tanin kao: 1
+stand zanzibar: 1
+spell die verzauberung: 1
+macedonio fernandez: 1
+stefan zweig: 1
+weep not child: 1
+: 1
+john banville: 1
+sunlight dialogues: 1
+hour star: 1
+memoirs: 1
+typefaces: 1
+maryland: 1
+ships aeneas prompt whose? answers ship boat; obvious equivalents ships such boats; antiâ­prompt parts ships such helms: 1
+dragon beowulf: 1
+libraries prompt labyrinths monasteries; aedificium until read: 1
+empe: 1
+weste  rn: 1
+fallacies: 1
+harlem prompt manhattan new: 1
+atherine  mansfield  murry: 1
+compiling  ox: 1
+lightness: 1
+misanthrope: 1
+urns: 1
+graves: 1
+opium: 1
+or tu; reader il lettore reads; protagonist main character winter's night traveler se una notte d'inverno un viaggiatore; physical cues answers indicate answerer referring themselves such me: 1
+baseball prompt s: 1
+government inspec: 1
+sicily: 1
+monkeys: 1
+john: 1
+college university: 1
+tennis: 1
+william gopher bill faulkner: 1
+killing bird: 1
+wyoming: 1
+western prompt cowboy novel oater respondent over 80 years old: 1
+poetry be generous: 1
+iraq war: 1
+edwidge danticat: 1
+the graveyard sea: 1
+electric kool aid acid test: 1
+esther summerson: 1
+three body problem: 1
+turkish: 1
+inspec: 1
+roman dinners: 1
+w: 1
+wine: 1
+thieves: 1
+john guare: 1
+richard nixon: 1
+dulcinea del toboso: 1
+existence? answer: theater absurd: 1
+hydriotaphia urn burial either underlined answer fine full title hydriotaphia urn burial: 1
+henry vi: 1
+plautine slaves: 1
+tober: 1
+wilhelm meister: 1
+polonius's death: 1
+essays mark twain: 1
+leopold seng: 1
+francis burney: 1
+antonin artaud: 1
+hills white elephants: 1
+a: 1
+god's bits wood les bouts de bois de dieu: 1
+encantadas enchanted isles: 1
+m: 1
+to roosevelt: 1
+fateless fatelessness: 1
+marius epicurean: 1
+bokononism: 1
+francois rene de chateaubriand: 1
+michael anthony: 1
+raymond queneau: 1
+thomas love peacock: 1
+invictus: 1
+frederic ogden nash: 1
+g: 1
+allen drury: 1
+an account hut: 1
+friedrichâ dã¼rrenmatt: 1
+theâ non existent knight: 1
+theâ divine comedyâ: 1
+walpole: 1
+ossian: 1
+christa wolf: 1
+ode ethiopia: 1
+three: 1
+six re: 1
+libation bearers choep: 1
+the judgment: 1
+walter van tilburg clark: 1
+alex delarge: 1
+flowers algernon: 1
+sea do anything else: 1
+recognition sakuntala: 1
+: under: 1
+conrad aiken: 1
+: the bishop: 1
+: 1
+then none: 1
+francis macomber: 1
+ifâ—: 1
+zeno cosini: 1
+katherina minola: 1
+classics: 1
+pioneers: 1
+karen russell: 1
+aids: 1
+screwtape letters: 1
+edward g: 1
+piccoline piccolino dwarf: 1
+g: 1
+dial: 1
+italo svevo: 1
+ships boats equivalents take specific answers like british prison ship uss constitution: 1
+oscar hijuelos: 1
+meta: 1
+halvard solness: 1
+central intelligence agency: 1
+: 1
+book courtier il: 1
+classical  chinese: 1
+f la ub ert's  p rro t: 1
+hally: 1
+renascence: 1
+marriage ã  la mode: 1
+paulâ valã©ry: 1
+guatemalaâ: 1
+double dealer: 1
+amelia: 1
+punjabi: 1
+: 1
+theâ grouchâ: 1
+g: 1
+barry lyndon: 1
+aâ farâ cryâ fromâ africa: 1
+eugenioâ montale: 1
+margaret fuller: 1
+edward casaubon: 1
+williamâ wycherley: 1
+arthurâ adamovâ: 1
+reboursâ: 1
+jurgen: 1
+theâ underdogsâ: 1
+charlesâ maturin: 1
+poem without heroâ poema bez geroya: 1
+theâ third policeman: 1
+theâ trojan warâ: 1
+tonio krã¶ger: 1
+edwardâ albee: 1
+edwardâ ashburnham: 1
+aâ bend riverâ: 1
+hildaâ doolittle: 1
+sophie: 1
+well loneliness: 1
+ferdydurke: 1
+quincas: 1
+deâ rerum naturaâ: 1
+theâ book disquietudeâ: 1
+summer smoke: 1
+persian lettersâ: 1
+gaoâ xingjianâ: 1
+robertâ southey: 1
+life mrâ jonathan wildâ the great: 1
+rudin: 1
+fernandoâ arrabal: 1
+theâ lion jewelâ â: 1
+felix holt radical: 1
+theâ graveyard seaâ: 1
+theâ big moneyâ prompt onâ usaâ until mentioned: 1
+pinball 1973â: 1
+theâ confidence man: 1
+theâ respectful prostituteâ: 1
+brand: 1
+theâ edible woman: 1
+know al: 1
+theâ carnal prayer matâ: 1
+infants spring: 1
+theâ burning babe: 1
+mysterious flame queen loana: 1
+bertold brecht: 1
+harry rabbit angstromâ: 1
+virgilius: 1
+burmese days: 1
+john fitzgerald kennedy assassination: 1
+poltava: 1
+ludwig van beethoven: 1
+crime father amaro: 1
+typhoon: 1
+emilia galotti: 1
+dreamtigers: 1
+berenice: 1
+madame de staã«l: 1
+shelley's skylark both shelley poems same skylark: 1
+death poems: 1
+postman: 1
+the collar: 1
+juan ramã³n jimã©nez mantecã³n: 1
+a psalm life: 1
+duddy kravitz: 1
+aristomenes: 1
+jessica mit: 1
+bees: 1
+cogwheels: 1
+sun family under circumstances the tzu family jesus christ: 1
+gabriela mistral's mother: 1
+uncle wiggily connecticut: 1
+cool million: dismantling lemuel pitkin: 1
+hymns night: 1
+seth pecksniff: 1
+braithwaite the books molybdenum lubricants apparently chemist named er braithwaite: 1
+book margery kempe: 1
+tamburlaine great do timur tamerlane wrong answers: 1
+beyond pleasure principle: 1
+: 1
+an arundel tomb: 1
+modern instance: 1
+john keats's sonnets: 1
+sea grapes: 1
+junkie: 1
+the sun rising: 1
+big two hearted river: 1
+: 1
+yugoslav wars: 1
+sweeney: 1
+gaius cilnius maecenas: 1
+berlin s: 1
+das nibelungenlied: 1
+savage detectives: 1
+mont blanc: 1
+kreutzer sonata: 1
+six degrees separation: 1
+perfume: 1
+duâšan charles simic: 1
+murder gonzago be generous hamlet; mousetrap mentioned: 1
+rikki tikki tavi: 1
+loves leucippe clitophon: 1
+flyting prompt anything exchanging insults: 1
+auguries innocence: 1
+eclogue iv: 1
+bishop charles myriel: 1
+the hill: 1
+thomas sutpen's mansion: 1
+: 1
+harlequin: 1
+gardens: 1
+the walrus carpenter: 1
+221b baker street: 1
+beautiful losers: 1
+anything referring dumble: 1
+dirk gently's holistic detective agency: 1
+eli: 1
+a: 1
+zooey: 1
+william: 1
+the shooting dan mcgrew: 1
+theo: 1
+chickamauga: 1
+beren erchamion: 1
+rats: 1
+microserfs: 1
+the shark: 1
+rohinton mistry: 1
+: 1
+alan alexander a a milne: 1
+henry reed: 1
+larry's party: 1
+500 hats bartholomew cubbins: 1
+du maurier prompt davies: 1
+volcanoes: 1
+mario vargas llosa: 1
+can't happen: 1
+swiss family robinson: 1
+the spider's thread: 1
+: 1
+yeats' introduction gitanjali prompt gitanjali synonyms introduction: 1
+lusty argonian maid everything super power: 1
+plane crashes: 1
+playing scrabble prompt things offred secretly visiting commander night: 1
+how much land does man need?: 1
+cicero's: 1
+disease outbreaks: 1
+randle mcmurphy: 1
+breaking dawn: 1
+the wild honey suckle: 1
+: 1
+catullus' carmen 16: 1
+walter mitty: 1
+: 1
+magician lublin: 1
+eros turannos: 1
+snakebite: 1
+fantastic beasts where find them: 1
+banquet trimalchio: 1
+max: 1
+reverend hooper: 1
+tears idle tears: 1
+elephants if say: 1
+moon be lenient answer moonlight something: 1
+richard halley: 1
+lotteries: 1
+hecyra mother in law: 1
+sanctuary: 1
+jia baoyu prompt jia: 1
+lemony snicket: 1
+cemeteries: 1
+spice: 1
+the little mermaid: 1
+ostap bender: 1
+castration: 1
+sejanus: fall: 1
+digital: 1
+charlotte simmons: 1
+vivian grey: 1
+counter attack: 1
+night january 16th: 1
+babiyy yar: 1
+hugh mcdiarmid: 1
+robert hass: 1
+franz grillparzer: 1
+blast: 1
+butterfly's evil spell: 1
+hubert selby jr: 1
+ark sakura: 1
+beyond: 1
+the battle maldon: 1
+librettos: 1
+geoffrey hill: 1
+gas heart: 1
+macaulay: 1
+the church: 1
+why want fuck ronald reagan: 1
+life bush ghosts: 1
+tree knowledge: 1
+hungarian: 1
+1q84 pronounced one kew eighty four ichi kew hachi yon lenient: 1
+dusklands: 1
+alfred dã¶blin: 1
+tryst destiny: 1
+a dissertation upon roast pig: 1
+ayi kwei armah: 1
+sara teasdale: 1
+broom system: 1
+songs sourdough: 1
+raja rao: 1
+franã§ois de la rochefoucauld: 1
+richard doddridge black: 1
+epic sundiata: 1
+friedrich klopstock: 1
+i taste liq: 1
+hymn aphrodite: 1
+francisco sionil josã©: 1
+slam poetry prompt per: 1
+ishmaelia: 1
+tales moonlight rain: 1
+cato: 1
+astolfo: 1
+perfume: s: 1
+franã§ois renã© de chateaubriand: 1
+barbados: 1
+tim winton: 1
+investiture gods: 1
+circle: 1
+leonard cohen: 1
+skin game: 1
+mia couto: 1
+mr lockwood: 1
+alison bechdel: 1
+phaeacians: 1
+post office: 1
+white buildings: 1
+dharma bums: 1
+black mountain poets: 1
+song dynasty: 1
+cã©sar vallejo: 1
+farid ud din attar: 1
+hans fallada: 1
+i rigoberta menchãº: 1
+let praise famous men: 1
+gunnar gunnarsson: 1
+year magical thinking: 1
+pippa passes: 1
+war canudos: 1
+zuihitsu: 1
+peter abrahams: 1
+alas: 1
+gwendolen harleth: 1
+suzan: 1
+: 1
+prosper mã©rimã©e: 1
+: 1
+vã¡clav havel: 1
+uruguay: 1
+a party down square: 1
+requiem nun: 1
+james wood: 1
+erec enide: 1
+patrick branwell brontã«: 1
+indian camp: 1
+: 1
+ghost sonata: 1
+ron: 1
+donna tartt: 1
+swimming: 1
+17th century: 1
+wans: 1
+jiménez: 1
+jerusalem: 1
+my/your/etc blood: 1
+eye: 1
+sylvia plath's suicide: 1
+young törless: 1
+miikhail mikhailovich bakhtin: 1
+conch shell: 1
+margot: 1
+christian conversion: 1
+albertine simonet: 1
+children: 1
+dead awaken: 1
+henry: 1
+dragon grendel beowulf: 1
+franz peter schubert: 1
+curious incident dog night time be generous partial answer: 1
+proserpine: 1
+bosnia herzegovina be nice yugoslavia; likewise ottoman empire turkish empire devlet i aliyye i osmâniyye equivalents: 1
+communism state socialism: 1
+dwarf: 1
+his: 1
+grace: 1
+toothed whales: 1
+our: 1
+each own way: 1
+antonio salieri: 1
+dewey dell's a: 1
+chinatown: 1
+alexander pope's translation homer's iliad prompt iliad; buzz clue specifically ask: which version?: 1
+rings saturn: english pilgrimage: 1
+south: 1
+delian/pythian apollo: 1
+flush: 1
+dead: 1
+grimes family: 1
+double: 1
+cinnamon: 1
+having hunchback humped back: 1
+high court judges: 1
+shadow line: 1
+1940's: 1
+sleeping: 1
+frances franny glass: 1
+simurgh: 1
+funeral: 1
+edgar lee masters: 1
+hadrian: 1
+théophile gautier: 1
+freud: 1
+cocaine: 1
+twin prime numbers prompt natural numbers integers general math related answers the leadin yoko ogawa's strongly recommended housekeeper profes: 1
+human the leadin thom gunn's the human condition: 1
+stephen jay greenblatt: 1
+the leadin yvonne adhiambo ow: 1
+snipe/bear/stag/duck/etc hunting: 1
+sa'di: 1
+other reader: 1
+profiles courage: 1
+astronaut prompt pilot fighter pilot: 1
+natives heart darkness prompt partial answer equivalents native including africans congolese: 1
+oscar hopkins: 1
+love suicide shinju: 1
+enkidu: 1
+travels charley: 1
+grove: 1
+tropic cancer: 1
+ah land beautiful: 1
+bel l jar: 1
+wolfgang amadeus mozart: 1
+drunken boat: 1
+el cid: 1
+bob dylan: 1
+1940s: 1
+autobiography ex co: 1
+chuck palahniuk: 1
+having children: 1
+parable grand inquisi: 1
+princess bride: 1
+american cousin: 1
+hercule savinien cyrano de bergerac: 1
+hunter stockton thompson: 1
+anthony bourdain: 1
+evangeline: tale acadie: 1
+j ́ose mart ́ı: 1
+breakfast champions: goodbye blue monday!: 1
+ghosts christmas carol: 1
+wild sheep chase: 1
+margaret simon: 1
+man king: 1
+madame butterfly: 1
+trial: 1
+seceding united states: 1
+traveling salesman: 1
+d ́esir ́ee's baby: 1
+literary genres: 1
+ta nehisi ne hah see coates obviously phonetic pronunciations nameâ—this just heads up case people know pronounce it: 1
+russian: 1
+courtly love: 1
+objective: 1
+ken saro wiwa: 1
+upon circumcision: 1
+roger malvin's burial: 1
+yellow violet: 1
+baal: 1
+infante's inferno la habana para un infante difunto: 1
+vox clamantis: 1
+book duchess: 1
+les rougon macquart: 1
+love shadows de a: 1
+john wain: 1
+wilhelm tell william tell: 1
+meeting telgte das treffen telgte: 1
+divan diwan hafez's divan divan i hafiz: 1
+neigh: 1
+sweet bird youth: 1
+duchess padua: 1
+bouvard pecuchet bouvard et pecuchet: 1
+pantomime: 1
+ivan goncharov: 1
+typee: 1
+quiet flows don don flows sea silent don tikhii don: 1
+par lagerkvist: 1
+helena: 1
+ohio impromptu: 1
+wreck hesperus: 1
+sozaboy: 1
+palm hand s: 1
+spanish dancer spanische tanzerin: 1
+leopold ritter von sacher masoch: 1
+rising moon: 1
+men live someone tries give russian title smack them demand translation: 1
+wild geese gan: 1
+john grady cole: 1
+cloud messenger megha duta: 1
+little herr friedemann der kleine herr friedemann: 1
+lot's wife lotova zhena: 1
+andrei bely: 1
+none accompany: 1
+blacker berry: 1
+tyrone slothrop: 1
+rebellion backlands os sertoes: 1
+inheri: 1
+proposal marriage proposal predlozhenie: 1
+solitude if someone gives ode solitude ode solitude just it: 1
+shusaku endo paul endo: 1
+kofi awoo: 1
+: 1
+tropic capri: 1
+chaka: 1
+tenured profes: 1
+augusto roa bastos: 1
+sa'di mosharrif od din bin moslih od din abdullah: 1
+mademoiselle de maupin: 1
+glow: 1
+village derevnya: 1
+du fu tu fu: 1
+jagua nana: 1
+giosue carducci: 1
+lady's burning: 1
+dean's december: 1
+leon damas: 1
+summerfolk dachniki: 1
+romulo gallegos: 1
+: 1
+ode distant prospect eton college: 1
+: 1
+tale kieu truyen kieu kim van kieu: 1
+guest one eyed: 1
+huswifery: 1
+pramoedya ananta toer: 1
+cuttlefish bones bones cuttlefish ossi di seppia: 1
+palliser novels: 1
+ficciones fictions: 1
+post cannibalism: 1
+unrequited love: 1
+rope if someone says rudens slipknot off plautus clues nice it: 1
+omovo: 1
+martin walser: 1
+carpenter's gothic: 1
+philippines: 1
+pierre jean pierre et jean: 1
+yemassee: 1
+ape essence: 1
+sestina: alta: 1
+mario benedetti: 1
+artist descending staircase: 1
+beautyful ones yet: 1
+sturm und drang s: 1
+jarndyce: 1
+luis de gón: 1
+bohemian lights: 1
+campos de castilla: 1
+requiem spanish peasant: 1
+garcilaso de la vega: 1
+rubén darío: 1
+coplas: 1
+miguel hernández: 1
+miguel delibes: 1
+count julian: 1
+césar abraham vallejo: 1
+la regenta: 1
+how much land does man need? since it's translation reasonable variants: 1
+erotic fiction: 1
+hp lovecraft: 1
+trueba family: 1
+max beerbohm: 1
+love cold climate: 1
+a: 1
+doc: 1
+hemingway's iceberg th: 1
+jewel robbery prompt partial answer; theft stealing place robbery; theft blue carbuncle theft black pearl: 1
+wh auden christopher isherwood both underlined answers required; either: 1
+game love chance: 1
+umbrellas: 1
+barricades prompt answers such barriers walls; streets read: 1
+molly bloom's soliloquy: 1
+floods: 1
+marienbad elegy: 1
+zimbabwe: 1
+brennus: 1
+lamb: 1
+suicide notes: 1
+bear prompt albert ellice during sentence; ten bears bear slayer: 1
+rivalry between luis de gon: 1
+native american reservations prompt house during sentence: 1
+thirty years' war: 1
+balzac little chinese seamstress: 1
+giannina braschi: 1
+struggle: 1
+julian fellowes: 1
+awake sing: 1
+edward vi: 1
+poisonwood bible: 1
+solar eclipse: 1
+eclogues: 1
+lucian samosata: 1
+: 1
+theognis: 1
+menaechmi: 1
+attic nights: 1
+leucippe clitophon: 1
+octavius: 1
+pervigilium veneris: 1
+eunuchus: 1
+batrachomyomachia: 1
+lucius apuleius: 1
+decimus magnus ausonius: 1
+marriage mercury philology: 1
+phaenomena: 1
+lucius accius: 1
+elena ferrante: 1
+simon bradstreet: 1
+albania: 1
+spiders prompt arachnids: 1
+sana: 1
+meiji period: 1
+letters: 1
+profes: 1
+shepherds: 1
+golden legend: 1
+max havelaar: 1
+bã©renger: 1
+east coker: 1
+rothschild's violin: 1
+republic san: 1
+irish people: 1
+salammbo: 1
+republic of philippines the aut: 1
+alexander ostrovsky: 1
+jean mandeville: 1
+tamar the great: 1
+amy chua: 1
+ezra pound: 1
+malay: 1
+tartar steppe: 1
+goswami tulsidas: 1
+monique wittig: 1
+the crack up: 1
+anecdote: 1
+anglo saxon metrical charms: 1
+edward bond: 1
+song lyrics novels thomas ruggles pynchon: 1
+aaba prompt rubaiyat quatrain mentioned: 1
+audience: 1
+wife: 1
+mary roach: 1
+terry southern: 1
+death pet dog: 1
+philosophy bedroom: 1
+john barley: 1
+disneyland death penalty: 1
+nikki giovanni: 1
+james family: 1
+henri barbusse: 1
+usura: 1
+jonathan edwards: 1
+gao: 1
+prosthetics: 1
+book tea: 1
+can't take: 1
+amy hempel: 1
+jindy: 1
+emily dickinson's dashes: 1
+gre: 1
+write: 1
+the nightingale: conversation poem: 1
+next room: 1
+augusto monterroso bonilla: 1
+popeye sai: 1
+ashenden: 1
+catullus 64: 1
+oleanna: 1
+bertie wooster's aunts: 1
+grossman: 1
+man loved children: 1
+running: 1
+william stanley merwin: 1
+grove press: 1
+john gaunt: 1
+lillian f: 1
+g: 1
+circles: 1
+chaplain: 1
+1914: 1
+parodies t s eliot: 1
+ferenc molnár: 1
+richard crashaw: 1
+table talk: 1
+complete poems marianne m: 1
+oc: 1
+an: 1
+tomcat murr: 1
+sganarelle: 1
+nobody: 1
+yoshimoto banana: 1
+dazai osamu prompt osamu: 1
+black rain: 1
+ariyoshi sawako prompt sawako: 1
+oni prompt demons said; ogres yokai: 1
+uno chiyo prompt chiyo: 1
+enchi fumiko prompt fumiko: 1
+chikamatsu mozaemon prompt mozaemon; name chikamatsu such chikamatsu hanji chikamatsu chiyoken chikamatsu kosuiken: 1
+dumbshows: 1
+epicene silent woman: 1
+ralph roister doister: 1
+malcontent: 1
+wakefield second shepherds' play: 1
+robin hood: 1
+gammer gurton's needle: 1
+troublesome raigne lamentable death edward second king england tragical fall proud: 1
+croxton play sacrament prompt partial answers; the play conversyon ser jonathas jewe myracle blyssed sacrament jonathas named: 1
+ship widows: 1
+novel cocaine: 1
+lydia: 1
+envy: 1
+underground man: 1
+lyudmila stefanovna petrushevskaya: 1
+time: 1
+: 1
+tatyana nikitichna tolstaya: 1
+karenin: 1
+emigrating   australia  prompt leaving country etc: 1
+mughal empe: 1
+shoshone: 1
+ass: 1
+gerard de nerval's lobster thibault: 1
+effect gamma rays man in the moon marigolds: 1
+apprenticeship duddy kravitz: 1
+armadale: 1
+jacob steendam: 1
+tom brown's school days: 1
+pat conroy: 1
+man came dinner: 1
+message garcia: 1
+to sir toby: 1
+america play: 1
+john p marquand: 1
+tucker max: 1
+comedians: 1
+kiss dying: 1
+owen wister: 1
+aa milne: 1
+mambo kings play songs love: 1
+god's chillun got wings: 1
+cloud cuckoo land: 1
+dark laughter: 1
+g: 1
+judith rossner: 1
+mr dooley: 1
+mervyn bunter: 1
+sloan wilson: 1
+advise consent: 1
+eustace tilley: 1
+william peter blatty: 1
+lawrence block: 1
+james grainger: 1
+indian cupboard: 1
+ann vickers: 1
+bad sex fiction award prompt literary review award basic equivalents just plain bad fiction award: 1
+wallace shawn: 1
+mysterious island: 1
+eric ambler: 1
+colonel sun: 1
+l frank baum: 1
+success spoil rock hunter?: 1
+barbara fritchie: 1
+moxon's master: 1
+ned buntline: 1
+defender faith: 1
+earl derr biggers: 1
+famous last: 1
+beau geste: 1
+lew wallace: 1
+to serve man: 1
+mitch albom: 1
+book repulsive women: 1
+coming air: 1
+milady de winter: 1
+cinna poet: 1
+martin eden: 1
+hopalong cassidy: 1
+robert caro: 1
+dr john fell: 1
+lost: 1
+clare boothe luce: 1
+susan: 1
+john grisham: 1
+eisner: 1
+bell adano: 1
+farewell lovely: 1
+oil!: 1
+vampyre: 1
+mules men: 1
+alas babylon: 1
+: the facts case m valdemar: 1
+goodbye mr chips: 1
+little: 1
+woody allen: 1
+canterville ghost: 1
+mary chase: 1
+el: 1
+tales black freighter: 1
+annis stockton: 1
+james jones: 1
+focus: 1
+hotel hampshire: 1
+thomas dixon jr: 1
+jon krakauer: 1
+man high castle: 1
+mat burke the player matt birk pronunciation same: 1
+john carter: 1
+tony hillerman: 1
+my brother paul: 1
+davita's harp: 1
+tono bungay: 1
+damon runyon: 1
+penrod schofield: 1
+she: his: 1
+married communist: 1
+susan glaspell: 1
+bread givers: 1
+bruce barton: 1
+richard matheson: 1
+stephen glass: 1
+john jakes: 1
+phileas fogg: 1
+falconer: 1
+loved: 1
+mrs spring fragrance: 1
+american dream: 1
+maisie knew: 1
+mustafa sa'eed: 1
+pierre:: 1
+ter: 1
+johnny tremain grudgingly johnny de: 1
+happy birthday wanda june: 1
+erich von daniken: 1
+ragged dick street life: 1
+track cat: 1
+godfather: 1
+smokey bear sutra: 1
+mackinley kan: 1
+this sandwich mayonnaise: 1
+rockland i guess howl: 1
+matilda: 1
+continental op: 1
+society upon stanislaus: 1
+armistead maupin jr: 1
+politically: 1
+the birds: 1
+jacob marley: 1
+harriet prescott spof: 1
+unbearable bassington: 1
+robert shaw: 1
+wayward bus: 1
+why painter: 1
+neverending s: 1
+fear flying: 1
+chris van allsburg: 1
+land: 1
+ashenden: british agent: 1
+battlefield earth: 1
+larry mcmurtry: 1
+walter mosley: 1
+napoleon notting hill: 1
+jacqueline susann: 1
+: 1
+xaviera hollander: 1
+michael shayne: 1
+don marquis: 1
+italian sonnet do “english sonnet” “shakespearean sonnet”: 1
+hartley coleridge: 1
+androids prompt robots; “replicants”: 1
+hollywood: 1
+gay talese: 1
+mice: 1
+universal his: 1
+father zosima elder: 1
+jesus’ son: 1
+told reverse chronological: 1
+cosmicomics: 1
+compass: 1
+composer: 1
+late mattia pascal: 1
+w b yeats: 1
+giuseppe ungaretti: 1
+kazi nazrul islam: 1
+absolutely true diary part time indian: 1
+michael henchard selling family: 1
+desdemona’s handkerchief: 1
+heart dog: 1
+“the bear”: 1
+denver: 1
+mervyn peake: 1
+“preludes”: 1
+women: 1
+annie allen: 1
+obasan: 1
+fine balance: 1
+“head shoulders”: 1
+robert walser: 1
+baron munchausen: 1
+la malinche: 1
+house made dawn: 1
+octavia butler: 1
+patrick leigh fer: 1
+: 1
+kitchen: 1
+top girls: 1
+sonny’s blues”: 1
+lepidopterology: 1
+prague: 1
+illustrated man: 1
+evenings farm near dikanka: 1
+jean cocteau: 1
+trainspotting: 1
+denise levertov: 1
+paula vogel: 1
+residence earth: 1
+“why write”: 1
+hrothgar: 1
+robert walton’s letters sister frankenstein: 1
+“the river”: 1
+jennifer egan: 1
+dicta: 1
+moveable feast: 1
+member wedding: 1
+nancy mit: 1
+walls troy: 1
+buddha suburbia: 1
+book songs: 1
+poems shaped objects depict: 1
+tehran: 1
+“where i’m calling from”: 1
+dead: 1
+theatre double: 1
+massacre banana: 1
+“ivy day committee room”: 1
+humboldt’s gift: 1
+assassination federico garcia: 1
+“the wife bath’s prologue” prompt canterbury tales; “the wife bath’s tale”: 1
+elizabeth siddal: 1
+zulu: 1
+teju cole: 1
+“superman comes supermarket”: 1
+impersonating abraham lincoln descriptions fine; impersonating someone: 1
+love: 1
+“notes toward supreme fiction”: 1
+“the blue carbuncle”: 1
+cuban american: 1
+helicopters: 1
+captain: 1
+“voyages”: 1
+jesus christ: 1
+dybbuk: 1
+john hawkes: 1
+j k huysmans: 1
+léopold seng: 1
+“the poet”: 1
+blitz: 1
+“no ideas things”: 1
+rape clarissa prompt rape: 1
+book thief: 1
+“the country husband”: 1
+yermolay alexeyevich lopakhin: 1
+occitan: 1
+titus​ ​ flavius​ ​​ josephus​ ​ ​: 1
+panther​s​ ​ prompt​ ​ on​ ​ “cat”​ ​ be: 1
+the​ piazza tales: 1
+rossetti​ ​ ​: 1
+crimean war: 1
+spanish armada: 1
+library babel: 1
+lessing​ ​ ​​: 1
+mark​ ​​ antony​ ​​ and​ ​​ cleopatra​ ​​ vii​ ​ philopa: 1
+9/11: 1
+conversation poems: 1
+share      name         aut: 1
+benjy   compson: 1
+gauchos   prompt     “cowboys”: 1
+mann: 1
+santa claus: 1
+berlin: 1
+globe theatre &lt;droge&gt;: 1
+cossacks prompt russians &lt;mehr&gt;: 1
+butler: 1
+baseball player: 1
+man's meaning: introduction logotherapy &lt;cheyne&gt;: 1
+cairo trilogy: 1
+marilyn monroe: 1
+josé arcadio buendia prompt buendia; josé; arcadio; josé arcadio jr the second josé arcadio anything else indicating he's josé arcadio &lt;casalaspi&gt;: 1
+judea prompt israel &lt;droge&gt;: 1
+jo march: 1
+wandering jew: 1
+larks: 1
+penguins: 1
+twelve angry men &lt;magin&gt;: 1
+grimms' fairy tales: 1
+a e housman &lt;casalaspi&gt;: 1
+masks &lt;droge&gt;: 1
+smith: 1
+romance three kingdoms: 1
+jay gatsby: 1
+odysseus: 1
+prince: 1
+eliza doolittle: 1
+“the road taken” &lt;cl&gt;: 1
+li bo: 1
+spanish: 1
+david copperfield younger blunderstone rookery: 1
+mississippi &lt;cl&gt;: 1
+clown &lt;dh&gt;: 1
+rum rebellion &lt;gb&gt;: 1
+swiss alps &lt;cc&gt; bonuses: 1
+wales prompt “united kingdom” “great britain’; “england” &lt;cc&gt;: 1
+xkcd &lt;ms&gt;: 1
+chains: 1
+: 1
+salesman: 1
+mahābhārata: 1
+september 11 2001 attacks: 1
+haikus prompt “poems basho” “poems issa”: 1
+nazis: 1
+bananas: 1
+rosa: 1
+jewish people: 1
+sturm und drang: 1
+“crossing bar”: 1
+playing poker: 1
+shipwreck prompt wreck: 1
+breakfast tiffany’s: 1
+annabel lee: 1
+sea: 1
+trains  bonuses:: 1
+schoolteacher: 1
+heinrich faust: 1
+slave prompt “servant”; “freedman”: 1
+: 1
+robots: 1
+knight errant all characters novel don quixote miguel cervantes answer includes in: 1
+les misérables “lay mih zur ahb”: 1
+venus: 1
+“thanatopsis”: 1
+ryūnosuke akutagawa: 1
+lilacs last d: 1
+“the fall house usher” bonuses: 1
+henry walton “indiana” jones jr: 1
+d’artagnan do “three musketeers”: 1
+parable grand inquisi: 1
+copies infinite jest: 1
+shinto shrines prompt just temple shrine synonyms without religion being given; jinja; shinsha; gongen; gongu; jingu;: 1
+conch: 1
+dante’s hell: 1
+island tempest: 1
+“the library babel”: 1
+princesses prompt things girls; ed’s note: princesses are: 1
+mother courage prompt partial; mother courage her children; either both underline parts anna fierling read: 1
+spy: 1
+caulfield: 1
+pilgrims canterbury tales: 1
+three: 1
+being buried alive: 1
+fitzwilliam darcy: 1
+dragons prompt things reptiles serpents: 1
+gulliver’s travels: 1
+walter “walt” whitman &lt;ik&gt; bonuses: 1
+travel: 1
+road &lt;ms&gt;: 1
+light: 1
+kwanzaa &lt;ms&gt;: 1
+baseball &lt;ms&gt;: 1
+federico del sagrado: 1
+eugene ionesco &lt;ms&gt; halftime: 1
+“the charge light brigade” &lt;es literature&gt;: 1
+wole soyinka &lt;es literature&gt;: 1
+crane: 1
+“the rape lock” &lt;es literature&gt;: 1
+knight: 1
+fairy tales: 1
+three musketeers &lt;es literature&gt;: 1
+eyes: 1
+pilgrim’s progress: 1
+whitewashing fence: 1
+ode: 1
+foxes: 1
+scout finch: 1
+“because could stop death” &lt;kt&gt;: 1
+william tell: 1
+“chicago” &lt;kt&gt;: 1
+gabriel josé de la con: 1
+“ozymandias” &lt;kt&gt;: 1
+doc: 1
+inferno prompt “the divine comedy” “la divina commedia” “first section” mentioned &lt;kt&gt; bonuses: 1
+committing suicide: 1
+midnight’schildre: 1
+twilight saga: moon do “twilight” point &lt;mj&gt;: 1
+wine: 1
+beards &lt;ip&gt; bonuses: 1
+crossdressing: 1
+persia: 1
+jules gabriel verne &lt;at&gt; you reached end round continue reading unless game tied tossup thrown earlier round: 1
+comic illusion: 1
+baiae: 1
+assassination indira gandhi: 1
+heptameron: 1
+emmanuel bernard le roy ladurie: 1
+green book: 1
+digressions: 1
+donald justice: 1
+mir: 1
+dry white season: 1
+heinrich von ofterdingen: 1
+encyclopedia dead: 1
+vera brittain: 1
+yang guifei: 1
+true s: 1
+spheres prompt bubbles; globes foam: 1
+marina do “marianna”: 1
+c: 1
+paul valery’s great silence: 1
+joaquin murrieta carrillo: 1
+sarah lockwood winchester: 1
+bogs: 1
+void: 1
+inklings prompt lewis friendies tolkien friendies: 1
+g: 1
+radio golf: 1
+: 1
+wessex: 1
+tahar ben jelloun prompt jalloun: 1
+“father mapple’s sermon” prompt sermon moby dick; sermon: 1
+hedvig ekdal prompt ekdal: 1
+anna letitia barbauld: 1
+“masscult midcult”: 1
+might right survival fittest: 1
+old gringo: 1
+eastwick: 1
+king sebastian: 1
+dhalgren: 1
+having three moles: 1
+mark rothko: 1
+essays g: 1
+t shirt prompt shirts: 1
+abbot joseph liebling: 1
+ammu: 1
+d: 1
+knoxville: summer 1915: 1
+g: 1
+tapirs: 1
+thérèse lisieux: 1
+crusoe england: 1
+beirut: 1
+stratagem: 1
+signifyin’: 1
+sevastopol sketches: 1
+“the scholar gipsy”: 1
+ko: 1
+zibaldone da pensieri: 1
+“birches” &lt;carson&gt;: 1
+burma: 1
+françois rabelais &lt;hart&gt;: 1
+mutiny: 1
+nightingales &lt;kothari&gt;: 1
+kunta kinte: 1
+walking: 1
+james boswell &lt;hart&gt;: 1
+africa &lt;hart&gt;: 1
+plays: 1
+ancient egypt: 1
+murder king duncan macbeth: 1
+antarctica: 1
+earnshaw family: 1
+rocinante: 1
+white: 1
+“ode west wind”: 1
+sai: 1
+capulet tomb: 1
+father brown: 1
+erik: 1
+venice: 1
+easter: 1
+calligraphy prompt writing; penmanship until it’s mentioned; answer indicates making book manuscript etc &lt;jr&gt;: 1
+hell: 1
+writers: 1
+roses prompt flowers; “a rose emily”; romance rose; name rose &lt;jr&gt;: 1
+anne bradstreet’s husband: 1
+committing suicide prompt dying similar answers; specific answers love suicides ritual suicides strangling themselves etc &lt;jr&gt;: 1
+fishermen: 1
+swimming pools prompt houses mansions backyards &lt;jr&gt;: 1
+dr seuss: 1
+moon: 1
+odes: 1
+cali: 1
+arabs: 1
+fair lady &lt;ll&gt;: 1
+being headless: 1
+moby dick: whale: 1
+haikus matsuo basho: 1
+modern greek: 1
+kenzaburō ōe: 1
+: 1
+detective: 1
+django unchained: 1
+lady murasaki shikibu prompt “shikibu”: 1
+minnesota the book: 1
+hell: 1
+bambi: 1
+james arthur baldwin  minnesota undergraduate tournament 2014: we're happy 'til you're happy questions billy busse rob carson mike cheyne andrew hart melanie keating bernadette spencer round 10: bonuses: 1
+apartheid: 1
+salem witch trials: 1
+john keats’s 1819 odes: 1
+hark! vagrant: 1
+hergé: 1
+death notes prompt “notebook”: 1
+thaal sinestro: 1
+astro city: 1
+hellboy: 1
+lucy van pelt prompt last name: 1
+: 1
+crisis infinite earths: 1
+jack ripper prompt whitechapel murderer saucy jack; just jack; dr william gull after “covers up” read: 1
+krazy kat: 1
+: 1
+detective chimp: 1
+spiegelmann: 1
+incal: 1
+swamp thing: 1
+black hat guy: 1
+deathstroke: 1
+katherine “kitty” anne pryde: 1
+fun: 1
+satan: 1
+egypt ed’s note: technically amalgam counts dc universe properties…: 1
+raina telgemeier prompt just “raina” guess she’s character several clues: 1
+tick: 1
+richards: 1
+dilbert: 1
+dream: 1
+black hole: 1
+john constantine: 1
+cold based powers: 1
+craig thompson: 1
+wonder woman: 1
+doc: 1
+whatever happened man to: 1
+“the dead”: 1
+trains: 1
+vic: 1
+death salesman: certain private conversations two acts requiem &lt;sjw&gt;: 1
+overcoat: 1
+hester prynne: 1
+young werther veir terr; pronunciations such wurr thurr like &lt;mj&gt;: 1
+prince hamlet &lt;mj&gt; round 8 bonuses: 1
+“september 1 1939”: 1
+having wings prompt being able “fly” bonuses:: 1
+having multiple endings: 1
+american civil war grudgingly “the war: 1
+harry potter fanfiction prompt “fanfiction”: 1
+“in grove”: 1
+roman empe: 1
+defenestration prompt “falling”; reasonable equivalents “jumping window” “being thrown window”; “suicide”: 1
+island doc: 1
+“the last question”: 1
+jack reacher: 1
+young pope: 1
+annie gun: 1
+tom perrotta: 1
+last tycoon: 1
+lionel shriver: 1
+charles swann either name: 1
+valediction: 1
+dictionary: 1
+western novels prompt adventure novels &lt;long fiction&gt;: 1
+bashō’s frog haiku: 1
+ryunosuke “ryoo nohs kay” akutagawa &lt;s: 1
+henry charles bukowski: 1
+moon: 1
+folio: 1
+hunter s thompson &lt;miscellaneous lit&gt;: 1
+baseball prompt ball game; s: 1
+ecclesiastes: 1
+cantonese: 1
+flowers: 1
+rhe: 1
+wine: 1
+great depression: 1
+jackson: 1
+: 1
+lamb: 1
+los angeles: 1
+scheherezade: 1
+executions: 1
+journalism: 1
+trials: 1
+uncle vanya &lt;sb drama&gt;: 1
+“dover beach”: 1
+“annabel lee”: 1
+town &lt;joe stitz&gt;/&lt;ed me&gt;/&lt;ed jo&gt;  bonuses: 1
+“my last duchess” &lt;william groger&gt;/&lt;ed me&gt;: 1
+weasley family: 1
+puppets: 1
+“beowulf”: 1
+catherine do “kate”: 1
+dr lemuel gulliver: 1
+party: 1
+jane virgin: 1
+“the lady shalott”: 1
+“richard: 1
+english the two operas powder her face peter grimes &lt;chu&gt;: 1
+tenth muse prompt just muse; names “: 1
+underground man: 1
+france &lt;yue&gt;: 1
+mental hospitals: 1
+daughters king lear: 1
+aut: 1
+“the tell tale heart” &lt;kuang&gt; bonuses: 1
+winter’s night traveler anti prompt ask less specific outside town mal: 1
+sesame street &lt;chu&gt;: 1
+“jabberwocky” do “the jabberwocky” &lt;cohen&gt;: 1
+cairo &lt;yue&gt;: 1
+mary: 1
+death federico garcia: 1
+love: 1
+islands: 1
+politics: 1
+sunday: 1
+mulattos: 1
+konstantin dmitrich “kostya” levin “lyoh vin”: 1
+flowers: 1
+anthology: 1
+alps: 1
+suppliants: 1
+friedrich dürrenmatt &lt;jn drama&gt;: 1
+martha &lt;jx drama&gt;: 1
+“where going where been?” &lt;rk s: 1
+vautrin “voh tran”: 1
+fathers: 1
+letters: 1
+“the e: 1
+suicide: 1
+sons: 1
+barchester prompt barsetshire &lt;rk long fiction&gt; bonuses: 1
+italian: 1
+bar: 1
+prosper mérimée “mare ee may” &lt;jx s: 1
+mock epics: 1
+metaphysical poetry the third sentence describes t s eliot’s “the metaphysical poets” &lt;rk poetry&gt;: 1
+monte cristo &lt;rd long fiction&gt;: 1
+exile pandavas: 1
+ballads prompt songs &lt;rk poetry&gt;: 1
+socialist republic of vietnam: 1
+dover beach: 1
+krishna: 1
+all girls boarding schools: 1
+orangutan or pongo borneo; pongo pygmaeus; ape until read; monkey &lt;bollinger&gt: 1
+eugene o'neil: 1
+involuntary me: 1
+churchyard: 1
+blues​ music prompt answers music song: 1
+mad hatter: 1
+funerals: 1
+i wandered lonely cloud​: 1
+marco polo: 1
+louis xiv prompt king prince tartuffe &lt;brownstein&gt;: 1
+geishas: 1
+virgil &lt;brownstein&gt;: 1
+: 1
+prometheus &lt;bentley&gt;: 1
+alexander sergeyevich pushkin &lt;kothari&gt; bonuses: 1
+journeys: 1
+: 1
+byro: 1
+bowler hats &lt;brownstein&gt;: 1
+baskervilles: 1
+swimming: 1
+ice: 1
+jersey prompt nj &lt;carson&gt;: 1
+london &lt;brownstein&gt;: 1
+sinbad: 1
+rose: 1
+underground railroad &lt;bentley&gt;: 1
+the necklace​: 1
+: 1
+mexican american: 1
+salesman: 1
+: 1
+ewell pronounced you ull; phonetic pronunciations &lt;jose&gt;: 1
+jay gatsby's parties: 1
+cats: 1
+night: 1
+book burning: 1
+jews: 1
+assassination abraham lincoln: 1
+coffins prompt canoes buoys sea chests &lt;brownstein&gt;: 1
+caliban &lt;alston&gt;: 1
+sylvia plath's father: 1
+pigs: 1
+infinity: 1
+mrs dalloway &lt;mehigan&gt; bonuses: 1
+don quixote &lt;brownstein&gt; bonuses: 1
+slaughterhouse five: 1
+english &lt;jose&gt;: 1
+travelogues: 1
+brooklyn prompt: 1
+death &lt;brownstein&gt;: 1
+committing suicide: 1
+wine prompt alcohol less specific answer &lt;alston&gt;: 1
+winston smith: 1
+republic cuba &lt;jose&gt;: 1
+homeric similes: 1
+congo river &lt;wang&gt;: 1
+isak dinesen: 1
+dante degli alighieri &lt;ol european literature&gt;: 1
+blood: 1
+poetry anthology: 1
+icarus &lt;jb american literature&gt;: 1
+juan manuel puig delledonne &lt;ol: 1
+masks: 1
+mikhail yuryevich lermontov &lt;ol european literature&gt;: 1
+riddles &lt;jb british literature&gt;: 1
+skylark: 1
+fielding: 1
+holocaust: 1
+plays shakespeare: 1
+elizabeth rousset: 1
+soldier: 1
+castle prompt synonyms citadel palace: 1
+sonnets john milton: 1
+mexico &lt;ab&gt;: 1
+devil: 1
+“howl” &lt;ab&gt;: 1
+doc: 1
+committing suicide: 1
+ireland &lt;ab&gt;: 1
+secret garden: 1
+el: 1
+“the second coming”: 1
+boats: 1
+snoopy: 1
+doc: 1
+cars: 1
+finch: 1
+apocalypse: 1
+water margin: 1
+s: 1
+auschwitz prompt concentration camp &lt;carlson&gt; note: sentence’s clue way gas ladies gentlemen: 1
+oresteia trilogy: 1
+snow &lt;mclain&gt;: 1
+boat heart darkness set: 1
+republic philippines: 1
+twenty one love poems prompt dream common language read &lt;poetry&gt;: 1
+grete samsa: 1
+william shakespeare’s: 1
+lynn nottage &lt;drama&gt;: 1
+: 1
+john clare &lt;poetry&gt;: 1
+detective fiction: 1
+“an octopus” &lt;poetry&gt;: 1
+zakes mda: 1
+possessed: 1
+modern standardized hindi: 1
+elderly: 1
+mary sidney: 1
+john donne’s sermons &lt;miscellaneous lit&gt;: 1
+emotions: 1
+fire: 1
+utopian literature: 1
+“in heart heart country” &lt;s: 1
+solitude: 1
+cockaigne: 1
+prefaces henry james: 1
+eleatic stranger: 1
+homosexuality: 1
+humbert humbert halftime: 1
+yoknapatawpha county yoke nuh pah taw fa be generous: 1
+bennet sisters halftime: 1
+salvation army: 1
+émile zola: 1
+: london england bonuses: 1
+handmaids: 1
+chefs: 1
+firemen: 1
+two minutes hate &lt;grames literature   british&gt;: 1
+books: 1
+rodion romanovich raskolnikov: 1
+tom sawyer painting aunt polly's fence: 1
+rice: 1
+irish people prompt catholics &lt;bollinger literature   british&gt;: 1
+buddha: 1
+ghosts: 1
+emmett till: 1
+oranges or tangerines; specific varieties oranges such sweet orange bitter orange mandarin orange &lt;jose mixed/other/general knowledge&gt: 1
+st thomas aquinas: 1
+oldness: 1
+trolls: 1
+“to: 1
+sappho: 1
+“the custom house”: 1
+carousel: 1
+french revolution anti prompt ie ask “can less specific?” specific answers such “reign ter: 1
+mushrooms: 1
+novels: 1
+“sand foam”: 1
+wallpaper: 1
+“asphodel greeny flower”: 1
+tatyana larina: 1
+: 1
+writing: 1
+monks: 1
+“the dry salvages” sal vay jez: 1
+phoenix: 1
+aura: 1
+villette: 1
+trolls: 1
+ira: 1
+johnson: 1
+blackberry: 1
+“in dreams begin responsibilities”: 1
+russian the clue woolf’s “the russian point view”: 1
+frontispiece thomas hobbes’s leviathan prompt less specific answers mentioning “leviathan” such “title leviathan”; answers mentioning “cover leviathan”: 1
+jakob michael reinhold lenz: 1
+death john keats: 1
+fasting: 1
+nazi german occupation france: 1
+louise glück: 1
+raymond williams: 1
+fog prompt mist water va: 1
+marriages: 1
+museums prompt collections synonyms; museum unconditional surrender museum innocence acf nationals 2018 edi: 1
+emily webb’s 12th birthday: 1
+“benito cereno”: 1
+sarrasine: 1
+thomas browne: 1
+rotten english: 1
+pensées prompt “thoughts” acf nationals 2018 edi: 1
+“but where snows yesteryear?”: 1
+“tithonus”: 1
+passion ac: 1
+walking: 1
+dead souls: 1
+trinity nuclear test prompt descriptive answers first atomic bomb test until first: 1
+brotherhood: 1
+avia: 1
+ap: 1
+pines: 1
+transatlantic: 1
+patricia lockwood: 1
+jersey devil: 1
+witches: 1
+alcoholism: 1
+“this just say”: 1
+josé martí &lt;ds&gt;: 1
+“rabbit”: 1
+italy &lt;ds&gt;: 1
+zealand &lt;ds&gt; bonuses:: 1
+“ward no 6”: 1
+bess: 1
+singa: 1
+9/11: 1
+goldsmith &lt;ds&gt;: 1
+mali empire &lt;ds&gt;: 1
+les misérables &lt;ed ds&gt;: 1
+noel coward &lt;ed ds&gt;: 1
+crash &lt;ds&gt;: 1
+rosalind prompt ganymede read &lt;ds&gt;: 1
+desai: 1
+olympic games: 1
+“the tyger”: 1
+italy the s: 1
+othello the tragedy othello m: 1
+answer: romeo: 1
+answer: animal farm &lt;sherry xie&gt;/&lt;ed jacob&gt;: 1
+agatha christie &lt;alex harmata&gt;/&lt;ed jacob&gt;: 1
+american civil war: 1
+canterbury tales tales canterbury &lt;jacob o’rourke&gt;: 1
+answer:: 1
+ngũgĩ wa thiong’o goo gee wah thee on go: 1
+footnotes: 1
+caliban &lt;jc drama&gt;: 1
+illuminated manuscripts prompt books codex codices scrolls psalters books hours asking “what type book/codex/scroll/psalter/book hours?”; answer pertaining “printed” books &lt;aa his: 1
+biographies muhammad: 1
+“politics english language” &lt;wa essays/crit&gt;: 1
+his: 1
+frederic chopin &lt;wa histinlit&gt;: 1
+angels: 1
+christine de pisan: 1
+voyage: 1
+cherry: 1
+elsi: 1
+simón bolívar prompt general el general &lt;wa histinlit&gt;: 1
+operas prompt music singing &lt;jc longfic&gt;: 1
+bars: 1
+images: 1
+wole soyinka &lt;sb drama&gt;: 1
+republic of indonesia the buru quartet pramoedya ananta toer &lt;wa longfic&gt;: 1
+madame sosostris prompt madame &lt;wa poetry&gt;: 1
+cancer: 1
+danzig: 1
+“the hedgehog fox” &lt;wa phil/ss&gt;: 1
+harlem: 1
+josephine march prompt march &lt;sb longfic&gt;: 1
+il milione: 1
+moonlight: 1
+“an image africa” &lt;sb essays/crit&gt;: 1
+old english do “middle english” “english” the line refers widsith &lt;wa histinlit&gt;: 1
+“civil disobedience” &lt;sb essays/crit&gt;: 1
+icarus &lt;sb literary legacy&gt;: 1
+republic of: 1
+robert browning &lt;wa poetry&gt;: 1
+letters: 1
+england: 1
+napoleon bonaparte: 1
+“sunstone”: 1
+k: 1
+stéphane mallarmé &lt;sb poetry&gt;: 1
+concentration camps: 1
+mask: 1
+philosopher: 1
+hyperion: 1
+duck: 1
+easter: 1
+limerick do poem existed well 13th century: 1
+wizard oz oscar diggs: 1
+birthday birthdate: 1
+little house prairie: 1
+stephen king: 1
+: 1
+love thee?: 1
+second person point: 1
+nun: 1
+rose: 1
+hua mulan: 1
+gravity’s rainbow &lt;jin&gt; bonuses:: 1
+accept answers indicating reader second person narration mention &lt;mcmaken&gt: 1
+stars: 1
+chairs &lt;rk&gt;: 1
+queen spades prompt playing cards &lt;jm&gt;: 1
+pillows: 1
+wild ass’s skin: 1
+cameras &lt;jm&gt;: 1
+shovel: 1
+chrysanthemums: 1
+pumpkins prompt gourds &lt;rk&gt;: 1
+dice: 1
+clocks: 1
+fruits: 1
+knife: 1
+pound antonio’s flesh prompt incomplete answers &lt;rk&gt;: 1
+headscarf: 1
+phantom’s mask: 1
+rings &lt;rk&gt;: 1
+bread: 1
+nails: 1
+wall: 1
+v 2 rockets &lt;jm&gt;: 1
+almanacs: 1
+watermelons: 1
+paintings: 1
+flowers: 1
+last leaf prompt leaf &lt;rk&gt;: 1
+stockings: 1
+mills: 1
+urns &lt;rk&gt;: 1
+quilts: 1
+books: 1
+curtains: 1
+bells &lt;rk&gt;: 1
+eyes: 1
+coins &lt;rk&gt;: 1
+bathtub &lt;rk&gt;: 1
+stones: 1
+bibles: 1
+: 1
+rickshaws prompt taxis similar equivalents &lt;rk&gt;: 1
+transatlantic telegraph cable &lt;jm&gt;: 1
+skulls prompt skeletons &lt;rk&gt;: 1
+sausages &lt;wn&gt;: 1
+college: 1
+auschwitz prompt answers concentration camp equivalents holocaust equivalents until “barbaric” after them outright; specific sites &lt;ejjl&gt;: 1
+go between &lt;ho&gt;: 1
+grantchester: 1
+palestinians: 1
+fernando pessoa prompt heteronyms; most common ones include alberto caeiro alvaro de campos ricardo reis be: 1
+waitress: 1
+nancy &lt;tom&gt;: 1
+angels: 1
+wigs &lt;js&gt;: 1
+raven: 1
+soldier: 1
+daisy fay buchanan prompt just buchanan &lt;lc&gt;: 1
+libraries do “bookshop” &lt;theo&gt;: 1
+assassination john f kennedy: 1
+compson &lt;js&gt;: 1
+dicta: 1
+boleyn &lt;js&gt;: 1
+disc: 1
+muḥammad &lt;tom&gt;: 1
+encyclopaedias: 1
+jerusalem &lt;theo&gt; bonuses:: 1
+partition: 1
+crossrail: 1
+steven patrick: 1
+diaries: 1
+travel moon: 1
+france &lt;jk&gt;: 1
+marry someone: 1
+sir henry solomon wellcome &lt;lc&gt;: 1
+mother mother!: 1
+concentration camps anti prompt ask less specific specific concentration camp; similar places death camps extermination camps; even just stuff holocaust sites guess since that’s meat question: 1
+laurence olivier: 1
+“notes ‘camp’”: 1
+truman show: 1
+3 idiots: 1
+edith head: 1
+feet quentin tarantino films anti prompt ask less specific “ankles” “toes”; “women” “people” guess mean know buzzes happen heat moment pronoun “things”: 1
+tramp prompt “the lone prospec: 1
+baby children men: 1
+handmaiden: 1
+syndrome: 1
+winona ryder: 1
+death james dean: 1
+deaf: 1
+caché: 1
+toni erdmann: 1
+dziga vertov: 1
+elizabeth tay: 1
+opening scene scream 4: 1
+deafness: 1
+cube: 1
+look see: 1
+nurse: 1
+“a rose emily” &lt;jc american literature&gt;: 1
+james arthur baldwin &lt;mt american literature&gt;: 1
+comic books: 1
+“the garden: 1
+“the waste land” &lt;jc british literature&gt;: 1
+soldier: 1
+getting one’s hair cut: 1
+jean valjean &lt;mt european literature&gt;: 1
+gabriela mistral: 1
+car crash: 1
+coins: 1
+sai: 1
+gong’an literature: 1
+grande sertão: veredas: 1
+iraq &lt;th&gt;: 1
+light also: 1
+book songs: 1
+mother india &lt;dj&gt;: 1
+approach al mu’tasim: 1
+g: 1
+woman warr: 1
+winter counts &lt;jm&gt;: 1
+haiti &lt;jm&gt;: 1
+alain mabanckou &lt;dj&gt; &lt;ed jm&gt;: 1
+blinding absence light &lt;dj&gt;: 1
+trinidad &lt;dj&gt;: 1
+st lucia &lt;dj&gt;: 1
+earth mankind &lt;jm&gt;: 1
+bai juyi: 1
+ikiru: 1
+enheduanna &lt;jm&gt;: 1
+ethiopia &lt;jm&gt;: 1
+allama muhammad iqbal &lt;dj&gt;: 1
+shin kyung sook &lt;th&gt;: 1
+nigerian civil war: 1
+panchatantra &lt;jm&gt;: 1
+zenchi naigu’s nose &lt;dj&gt;: 1
+dragon: 1
+poets prompt writers &lt;dj&gt;: 1
+sumanguru kante: 1
+desert islands prompt caves until caves &lt;mc&gt;: 1
+taxi driver: 1
+uganda &lt;jm&gt;: 1
+bahia &lt;dj&gt;: 1
+: 1
+“howl” &lt;mk&gt;: 1
+“the diamond necklace”: 1
+easter: 1
+elegy: 1
+vietnam: 1
+slaves: 1
+witches: 1
+winter: 1
+birds: 1
+othello &lt;mk&gt;: 1
+duchess: 1
+tess durbeyfield: 1
+don giovanni prompt don juan &lt;jw&gt;: 1
+french: 1
+billie holiday: 1
+scottish: 1
+glass: 1
+children: 1
+charlie chaplin: 1
+gwendolyn elizabeth brooks &lt;ck&gt; bonuses: 1
+droopy dog: 1
+s: 1
+primary co: 1
+4616 melrose place &lt;gehring&gt;: 1
+mr robot: 1
+dominican republic: 1
+ultima vii: 1
+tipton hotel &lt;gehring&gt;: 1
+grandpa joe: 1
+battle royale: 1
+sir robin not quite so brave as sir lancelot &lt;hart&gt;: 1
+jukebox &lt;gehring&gt;: 1
+springtime hitler: gay romp adolf eva berchtesgaden &lt;hart&gt;: 1
+hannibal lecter: 1
+grey &lt;hart&gt;: 1
+andre gre: 1
+liverpool fc: 1
+fontaine: 1
+romeo + juliet: 1
+michael’s tuppence: 1
+wurlitzer: 1
+million little pieces &lt;hart&gt;: 1
+copybook: 1
+roots: 1

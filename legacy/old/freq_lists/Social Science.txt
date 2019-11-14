@@ -1,0 +1,1787 @@
+polling: 54
+john maynard keynes: 44
+sigmund freud: 36
+david emile durkheim: 34
+carl gustav jung: 32
+margaret mead: 32
+stanley milgram: 31
+avram noam chomsky: 31
+jean piaget: 30
+max weber: 30
+milton friedman: 28
+david ricardo: 26
+inflation: 25
+erik homburger erikson: 23
+reading: 22
+claude levi strauss: 22
+abraham harold maslow: 22
+bronislaw malinowski: 21
+demand: 20
+unemployment rate: 20
+t: 20
+john broadus watson: 19
+friedrich august von hayek: 19
+clif: 18
+ruth fulton benedict: 18
+intelligence quotient iq: 17
+personality: 16
+john kenneth galbraith: 16
+karl heinrich marx: 16
+wealth nations: 16
+thomas malthus: 15
+burrhus frederic skinner: 14
+monopoly: 13
+alfred adler: 13
+adam smith: 13
+taxes: 13
+erving goffman: 13
+franz boas: 12
+cognitive dissonance: 12
+capital: 11
+philip zimbardo: 11
+carl rogers: 11
+bystander effect prompt kitty genovese effect name read: 11
+vilfredo pareto: 11
+marcel mauss: 11
+solomon asch: 11
+gross domestic product: 10
+schizophrenia: 10
+kenneth arrow: 10
+chrysanthemum s: 10
+auguste comte: 10
+albert bandura: 10
+robert c merton: 9
+ronald coase: 9
+coming age samoa: 9
+dreams: 9
+maslow's hierarchy needs: 9
+gestalt psychology: 9
+charles wright mills: 9
+game th: 9
+golden bough: 9
+risk: 9
+daniel kahneman: 9
+stan: 9
+bruno bettelheim: 8
+emotions: 8
+lev semyonovich vygotsky: 8
+interpretation dreams: 8
+crime: 8
+milgram shock/obedience/aut: 8
+alfred kroeber: 7
+comparative advantage: 7
+maximilian carl emil weber vay burr: 7
+chicago: 7
+william edward burghardt du bois: 7
+general th: 7
+lewis henry: 7
+talcott parsons: 7
+verbs: 7
+antonio gramsci: 7
+me: 7
+power elite: 7
+attention: 7
+interest rate: 7
+lonely crowd: 6
+robert lucas: 6
+japanese: 6
+archaeology prompt anthropology: 6
+city: 6
+th: 6
+harry harlow: 6
+marshall mcluhan: 6
+savage mind: 6
+erich fromm: 6
+samuel huntington: 6
+goods: 6
+presentation self everyday life: 6
+con: 6
+communist manifesto: 6
+republic indonesia: 6
+aspiration: 5
+lawrence kohlberg: 5
+marshall sahlins: 5
+linguistics: 5
+taxation: 5
+jurgen habermas: 5
+broken windows th: 5
+bobo doll experiment: 5
+prisoner's dilemma: 5
+protestant ethic spirit capitalism: 5
+vowels: 5
+democracy america: 5
+sir james g: 5
+middle english do old english english: 5
+conditioning: 5
+leon festinger: 5
+affluent society: 5
+joseph stiglitz: 5
+utility: 5
+voting prompt creating laws: 5
+g: 5
+minimum wage: 5
+race: 5
+copyright prompt intellectual property since concerned explicitly copyright not say patents: 4
+ludwig von mises: 4
+auctions: 4
+american his: 4
+william james prompt james: 4
+esperanto: 4
+contracts: 4
+elasticity: 4
+conditioning prompt classical operant conditioning read: 4
+sapir w: 4
+stanley milgram's obedience aut: 4
+alexis charles henri clerel de tocqueville: 4
+proto indo european language prompt indo european: 4
+gift:: 4
+division la: 4
+magic: 4
+wilhelm maximilian wundt: 4
+laffer curve: 4
+sigmund schlomo freud: 4
+patterns culture: 4
+amartya: 4
+robber's cave experiment: 4
+joseph s nye jr: 4
+jacques lacan: 4
+gresham's law: 4
+monkeys: 4
+stress: 4
+phillips curve: 4
+pierre bourdieu: 4
+self actualization: 4
+behav: 4
+learned helplessness: 4
+grammar: 4
+irving fisher 4: 4
+facing mount kenya: 4
+money: 4
+united states america: 4
+cities: 4
+africa: 4
+sociology: 4
+international trade: 4
+japanese culture: 4
+john: 4
+steven arthur pinker: 4
+autism: 4
+orientalis: 4
+prisons: 4
+anthony giddens baron giddens: 4
+federative republic brazil: 4
+gre: 4
+marriage: 4
+clif: 4
+client centered therapy: 3
+g: 3
+karen: 3
+william graham sumner: 3
+prison: 3
+: 3
+redistricting: 3
+filibuster: 3
+jury: 3
+spanish: 3
+tenth amendment united states constitution: 3
+civilization discontents: 3
+coase's th: 3
+roland barthes: 3
+arrow's impossibility th: 3
+edward said: 3
+john richard hicks: 3
+originalism: 3
+closing american mind: higher education failed democracy impoverished souls today's students: 3
+primitive culture: 3
+t: 3
+road serfdom: 3
+cattell: 3
+asylums: 3
+politics vocation: 3
+taboo: 3
+la: 3
+azande: 3
+edward burnett ty: 3
+chrysanthemum s: 3
+columbia university do columbia college: 3
+edward sapir: 3
+philosophy money: 3
+paul krugman: 3
+alfred reginald radcliffe brown: 3
+karl polanyi: 3
+globalization: 3
+fundamental attribution er: 3
+roman osipovich jakobson: 3
+praise folly: 3
+napoleon chagnon: 3
+social facts: 3
+white collar: 3
+microcredit microloans: 3
+federal reserve bank united states: 3
+secretary state: 3
+ivan petrovich pavlov: 3
+oedipus complex: 3
+racism: 3
+little albert experiment: 3
+lewis mum: 3
+prices: 3
+civilization: 3
+australian a: 3
+co: 3
+suicide: 3
+france: 3
+paul anthony samuelson: 3
+kinship prompt things being related family relationships: 3
+poland: 3
+monopsony: 3
+birth control: 3
+dialects prompt languages: 3
+culture: 3
+attachment th: 3
+exchange rates: 3
+johanna hannah arendt: 3
+sanskrit: 3
+vic: 3
+russia: 3
+real interest rate: 3
+vik: 3
+david harvey: 3
+souls black folk: 3
+arousal: 3
+ronald d: 3
+elizabeth loftus: 3
+ferdinand de saussure: 3
+edward t: 3
+transaction costs: 3
+savings: 3
+symbols: 3
+richard posner: 3
+play: 3
+joseph alois schumpeter: 3
+united states america either answer/equivalents fine: 3
+prisons: 3
+republic of turkey: 3
+martin seligman: 3
+émile durkheim &lt;cc&gt;: 3
+protestantism: 3
+gratification: 3
+trobrianders: 2
+two fac: 2
+roman citizenship: 2
+tony robert judt: 2
+one dimensional man: 2
+madness civilization: 2
+halo effect: 2
+john peter altgeld: 2
+production functions: 2
+anti intellectualism american life: 2
+spleen: 2
+sir isaac newton: 2
+marbury vs madison: 2
+ancient greek: 2
+henry: 2
+genitive case: 2
+modern hebrew: 2
+g: 2
+passive voice: 2
+three: 2
+subjunctive mood: 2
+bias: 2
+consumer price index: 2
+marbury v madison: 2
+greek: 2
+triceratops prompt: 2
+dividends: 2
+nationalism no answer: 2
+liquidity trap: 2
+half lives: studies among tenements: 2
+michel de montaigne: 2
+rational expectations: 2
+peter diamond: 2
+robert nozick: 2
+power sets: 2
+european central bank: 2
+mayan civilization: 2
+brown v board education topeka: 2
+suicide: 2
+slavic languages: 2
+altruism altruistic behav: 2
+folkways: 2
+franco modigliani: 2
+gdp: 2
+thick description: 2
+leon walras: 2
+ethica: 2
+languages: 2
+rules sociological method: 2
+affirmative action: 2
+polls: 2
+psychoanalysis: 2
+japan: 2
+chimpanzees: 2
+tristes tropiques: 2
+th: 2
+postmodernism: 2
+edmund strother phelps jr: 2
+hal: 2
+uncanny: 2
+liberty: 2
+monopolistic competition prompt imperfect competition mentioned: 2
+henri bergson: 2
+totemism: 2
+writing system: 2
+black skin white masks: 2
+b f skinner: 2
+viceroy india gover: 2
+william stanley jevons: 2
+alvin toffler: 2
+sociological imagination: 2
+syllables: 2
+harry stack sullivan: 2
+towards architecture: 2
+wretched earth les damnes de la terre: 2
+nuer: 2
+cognitive maps: 2
+creative destruction: 2
+alan greenspan: 2
+slavic languages: 2
+mancur lloyd  olson jr: 2
+creoles: 2
+externalities spillover: 2
+leakey: 2
+kenneth neal waltz: 2
+supreme court united states: 2
+germaine greer: 2
+troubled asset relief program lets take bailout: 2
+benjamin lee w: 2
+identity: 2
+culture shock: 2
+arabic: 2
+frantz fanon: 2
+poverty his: 2
+john ruskin: 2
+russell kirk: 2
+anomie: 2
+myth birth hero: 2
+sign languages: 2
+golden bough: study magic religion: 2
+rats do mice: 2
+externality: 2
+classical conditioning: 2
+optical illusions prompt illusions: 2
+: 2
+: 2
+phrenology: 2
+origins totalitarianis: 2
+: 2
+konrad: 2
+rider problem: 2
+co: 2
+social th: 2
+marie jean antoine nicolas de caritat marquis de con: 2
+china: 2
+money: 2
+fear: 2
+england: 2
+national debt: 2
+t: 2
+dolls do robot: 2
+nash equilibrium: 2
+stan: 2
+course general linguistics: 2
+oligopoly: 2
+dogs: 2
+intelligence: 2
+denis diderot: 2
+la: 2
+daniel bell: 2
+dialectic enlightenment: 2
+herbert spencer: 2
+bystander effect prompt social loafing diffusion responsibility: 2
+bubbles: 2
+friedrich engels: 2
+immanuel maurice wallerstein: 2
+me: 2
+: 2
+susan sontag: 2
+hero thousand faces: 2
+david l rosenhan: 2
+mechanism design th: 2
+uncanny valley: 2
+learning language: 2
+due process: 2
+: 2
+identity crisis: 2
+tragedy commons prompt free rider problem until negative read: 2
+me: 2
+w e b dubois du boyz; william edward burghardt dubois; in: 2
+progress poverty: 2
+bandwagoning: 2
+phonemes: 2
+stereotype threat: 2
+edward evan evans pritchard: 2
+solow swan growth model: 2
+nouns: 2
+: 2
+power: 2
+indonesian muslims: 2
+volatility: 2
+g: 2
+beta: 2
+rent: 2
+joseph campbell: 2
+land prompt property until mentioned: 2
+meaning prompt semantics until read: 2
+cycles prompt answers economic cycles boom bust cycles; recessions depressions similar answers: 2
+socialism: 2
+art war: 2
+consonants: 2
+economic growth: 2
+john stuart mill: 2
+asymmetry: 2
+price discrimination: 2
+organization ma: 2
+gary stanley becker: 2
+william labov: 2
+: 2
+bowling alone: collapse revival american community: 2
+karl gunnar myrdal: 2
+french revolution: 2
+hot cool media: 2
+bernard lewis: 2
+elementary: 2
+social groups: 2
+feminine mystique: 2
+aphasia: 2
+james tobin: 2
+human speech production: 2
+jean baudrillard: 2
+cesare lombroso: 2
+pareto efficiency: 2
+crowds power: 2
+mazes: 2
+camille paglia: 2
+bystander effect: 2
+bronisław kasper malinowski: 2
+canada: 2
+albert ellis: 2
+seven types ambiguity: 2
+kate millett: 2
+adjectives: 2
+mediterranean sea: 2
+objects: 2
+attitudes prompt beliefs reasonable synonyms: 2
+: 2
+kant: 2
+barbara ehrenreich: 2
+guilt: 2
+debt: 2
+lakoff: 2
+federal republic germany: 2
+the: 2
+people's republic china: 2
+colonizer colonized: 2
+defense mechanisms: 2
+brazil: 2
+harris: 2
+easements: 2
+motivation: 2
+marxism: 2
+negligence: 2
+accept stickiness asymmetr: 2
+emotion: 2
+uni: 2
+women economics: 2
+medicine: 2
+republic haiti: 2
+trade: 2
+exit voice loyalty: 2
+dame mary  douglas: 2
+violence: 2
+wages prompt prices; prices la: 2
+model mi: 2
+cycles: 2
+symbolic interactionism: 2
+rational choice th: 2
+constructive possession prompt possession: 2
+necessity: 2
+pennsylvania: 2
+law economics: 2
+mississippi river: 2
+x bar th: 2
+structuralism &lt;lt&gt;: 2
+dolls: 2
+hegemony: 2
+capital: 2
+great power politics: 2
+john e roemer &lt;social science&gt;: 2
+fo: 2
+innovation: 2
+mark granovetter &lt;social science&gt;: 2
+international war: 2
+civilizing process: 2
+global climate change: 2
+herbert paul grice: 1
+john marshall harlan elder: 1
+natural his: 1
+darwin among machines: 1
+dedan kimathi: 1
+mikve miqvah prompt jewish ritual bath similar: 1
+soul ice: 1
+heavensgate: 1
+partisan review: 1
+philosophy poverty philosophy misery: 1
+supreme soviet verkhniy soviet: 1
+kafir prompt infidel synonyms: 1
+locality: 1
+anti federalist papers: 1
+code switching: 1
+letter concerning toleration: 1
+william butler yeats: 1
+kerplunk experiment prompt anything having watson's rats: 1
+thomas schelling: 1
+modigliani miller th: 1
+washington: 1
+preoperational prompt piaget's th: 1
+etruscans civilization: 1
+stability: 1
+anne robert jacques turgot: 1
+: 1
+university pittsburgh: 1
+mimesis: reproduction reality western literature: 1
+concluding unscientific postscript philosophical framents: mimical pathetical dialectical compilation existential contribution: 1
+peter ludwig mejdell sylow: 1
+maria czaplicka: 1
+bricolage: 1
+franz brentano: 1
+ten days shook: 1
+jan tinbergen: 1
+melanie klein: 1
+linguistic: 1
+crimes: 1
+clinical depression: 1
+yoga: 1
+hindi: 1
+potato: 1
+classes: 1
+or testamen: 1
+met: 1
+oliver wendell holmes jr: 1
+scientific creationism: 1
+cedilla seh dee yuh: 1
+small fruit fly: 1
+david foster wallace: 1
+polio vaccine: 1
+meter prompt prosody: 1
+sun: 1
+rhyme: 1
+double bond: 1
+czech prompt slavic: 1
+hands: 1
+united states at: 1
+ablative case: 1
+silent letters: 1
+alexander hamilton: 1
+mandarin: 1
+pathetic fallacy prompt personification mention: 1
+treason: 1
+italian: 1
+jonathan franzen: 1
+his: 1
+poetry: 1
+infinitesimal calculus prompt math: 1
+vec: 1
+sunspots: 1
+lyme disease: 1
+bonds: 1
+regular: 1
+soviet nuclear weapons program: 1
+: 1
+surface tension: 1
+moving/immigrating israel: 1
+edwin powell hubble: 1
+vitamin: 1
+citizens united v federal election commission: 1
+geometric series prompt geometric; geometric sequence: 1
+public housing projects: 1
+: 1
+sir henry: 1
+baldassare castiglione: 1
+multiple equilibria: 1
+fiscal policy: 1
+roe v wade: 1
+alzheimer's disease prompt dementia senile dementia mentioned: 1
+: 1
+ready mades marcel duchamp prompt: 1
+argonauts western pacific: 1
+charles sumner: 1
+middletown prompt muncie indiana mentioned: 1
+urban planning: 1
+efficient markets hypothesis: 1
+spiritual exercises: 1
+principia ethica: 1
+: 1
+ching book changes: 1
+structure scientific revolutions prompt ssr: 1
+rationality: 1
+tungusic language family prompt altaic micro altaic macro altaic mention; turkish mongolic: 1
+elements philosophy right: 1
+shelley v kraemer: 1
+thomas friedman: 1
+re: 1
+alfred w: 1
+robert william fogel: 1
+ferdinand tonnies: 1
+karaites qara'im: 1
+follicle stimulating: 1
+capitalism socialism democracy: 1
+schrodinger's cat: 1
+parable man law: 1
+paranoid style american politics: 1
+god failed: 1
+ox: 1
+dowry: 1
+prairie style school: 1
+mechanical: 1
+grammatical mood: 1
+schools: 1
+can subaltern speak?: 1
+robert barro: 1
+nelson goodman: 1
+the two cultures: 1
+labyrinth solitude: 1
+third wave: 1
+structural trans: 1
+terms trade: 1
+secretary treasury: 1
+fourteenth amendment: 1
+rudolf virchow: 1
+hilary whitehall putnam: 1
+semiotics: 1
+aut: 1
+commons: 1
+statistical hypothesis testing significance: 1
+positivism: 1
+darwinian fitness: 1
+fourth amendment prompt descriptions thereof: 1
+bronislaw malinowksi: 1
+bronislaw kasper: 1
+: 1
+democracy: 1
+maltese: 1
+venerable john henry newman: 1
+syllable: 1
+personality traits types: 1
+object relations th: 1
+hyman minsky: 1
+agil paradigm: 1
+kabbalah criticism: 1
+: 1
+pleading contest: 1
+bell curve: 1
+concept mind: 1
+richard hoffstadter: 1
+max: 1
+hans jurgen eysenck: 1
+confess confession: 1
+prison notebooks: 1
+gender prompt noun class phi characteristic: 1
+second amendment: 1
+is lm model: 1
+augustinus: 1
+barro ricardian equivalence barro ricardo equivalence proposition: 1
+olduvai: 1
+: 1
+paradise lost: 1
+tariff: 1
+childhood amnesia: 1
+length: 1
+propaganda prompt answers such media manipulation manufacturing consent: 1
+eric wolf: 1
+matching th: 1
+venture capital 炤rm prompt private equity: 1
+origin species means natural selection preservation favoured races struggle lif: 1
+stockholm syndrome: 1
+timothy leary: 1
+half lives: 1
+human too human: 1
+edward b titchener: 1
+robert zajonc: 1
+caroline bouvier kennedy prompt kennedy: 1
+hechsher: 1
+genomic imprinting prompt epigenetic mechanism: 1
+the nature firm: 1
+wheel: 1
+peace: 1
+sutra: 1
+price fixing: 1
+fourth amendment us constitution: 1
+mcdonald's: 1
+prince: 1
+organ donation or organ transplanting similar answer: 1
+interest rates prompt rates: 1
+six: 1
+reflection: 1
+cynicism: 1
+gaia hypothesis: 1
+rites passage: 1
+potlach: 1
+asch con: 1
+totem taboo: 1
+department justice: 1
+tones prompt pitch similar guess gt: 1
+eros civilization: 1
+john wesley prompt wesley: 1
+trobriand islanders: 1
+simulacra simulation simulacres et simulation: 1
+: 1
+averroes: 1
+seven laws noah: 1
+velocity money: 1
+le: 1
+the death aut: 1
+welfare: 1
+monopolies: 1
+cargo cults 1: 1
+gross national happiness 2: 1
+death dying 3: 1
+marie esprit leon walras 4: 1
+apartheid: 1
+infer: 1
+bradley effect: 1
+criminology: 1
+grimm's law: 1
+warren edward buffett: 1
+telophase: 1
+russian: 1
+bronis?aw malinowski: 1
+subliminal advertising: 1
+jacques derrida: 1
+turkish: 1
+war: 1
+louis brandeis: 1
+lions: 1
+john dewey: 1
+texas: 1
+british commonwealth nations: 1
+collective unconscious don't subconscious: 1
+cargo cult: 1
+noah webster: 1
+karl popper {ba}: 1
+gift giving: 1
+walter kaufmann {ma}: 1
+availability heuristic: 1
+objectivism: 1
+skepticism animal faith {ma}: 1
+being sein und zeit {ma}: 1
+estonian: 1
+pali canon grudgingly abhidhamma pitaka until yamaka {ba}: 1
+glottochronology {ba}: 1
+mapp v ohio: 1
+prague school prague linguistic circle: 1
+kulu exchange ring: 1
+basque: 1
+slaughterhouse cases: 1
+rite passage: 1
+social darwinism: 1
+the problem social cost: 1
+sir arthur evans: 1
+cavendish la: 1
+universal grammar: 1
+herbert marcuse: 1
+: 1
+cannibalism: 1
+unemployment: 1
+administering electric shock: 1
+present infinitives: 1
+columbia university city: 1
+vosostros: 1
+phoneme: 1
+bantu languages: 1
+witchcraft: 1
+edward lee t: 1
+vision: 1
+unemployment: 1
+trade: 1
+adopting euro: 1
+american dream prompt descriptions: 1
+caste system: 1
+: 1
+infants: 1
+totalitarianism: 1
+trusts: 1
+income effect: 1
+eyes: 1
+stan: 1
+meat: 1
+income inequality: 1
+punitive damages: 1
+waldo tobler: 1
+sã¡n: 1
+redlining: 1
+interracial marriage prompt miscegenation; interracial couples perez; clear knowledge equivalents; marriage racism: 1
+social learning th: 1
+beard: 1
+human slaves: 1
+cultural evolution: 1
+friedrich fritz perls: 1
+housing projects: 1
+international law: 1
+camp talk: 1
+white collar: american middle classes: 1
+samoa: 1
+public goods: 1
+debt: 5000 years: 1
+burckhardt: 1
+anxiety: 1
+printing press: 1
+small: 1
+web dubois: 1
+theo: 1
+robots: 1
+language acquisition: 1
+social net: 1
+stuart mcphail hall: 1
+mihaly csikszentmihalyi cheek sent me hy ee be lenient pronunciation wrong answers with eg consonants wrong: 1
+1	political parties: 1
+rappa: 1
+jean paul charles aymard sartre: 1
+map terri: 1
+inattentional blindness: 1
+descent man selection relation sex: 1
+mircea eliade: 1
+eyewitnesses: 1
+personality tests: 1
+keynesian economics: 1
+s: 1
+price indices price indexes prompt prices: 1
+intelligence tests do intelligence quotient iq just intelligence; things tests intelligence: 1
+multilingualism: 1
+odysseus ulysses: 1
+standing shoulders giants prompt partial answers; equivalents: 1
+stephen walt: 1
+father: 1
+discrimination: 1
+: 1
+suburbs: 1
+national income: 1
+advertising: 1
+poverty: 1
+tenure: 1
+universities colleges prompt schools: 1
+ainu: 1
+options: 1
+antitrust law prompt monopoly law: 1
+facial recognition: 1
+religion: 1
+agreement: 1
+alfred charles kinsey: 1
+swedish: 1
+bets: 1
+th: 1
+arcades project: 1
+women: 1
+paul edward farmer: 1
+lost letter experiment: 1
+the barbarian status women: 1
+critique gotha program: 1
+revival hebrew language: 1
+incest: 1
+lonely crowd: study changing american character: 1
+social security prompt public sec: 1
+phenomenology perception: 1
+anarchism: 1
+johannes gutenberg: 1
+learning: 1
+revealed preferences prompt consumer choice th: 1
+african american vernacular english: 1
+the market lemons: quality uncertainty market mechanism: 1
+neil postman: 1
+spirit laws: 1
+grammars: 1
+freud froyt froyd; anna freud until father read: 1
+kingdom italy: 1
+bowling: 1
+arthur meier schlesinger jr: 1
+young man luther: study psychoanalysis his: 1
+pottery wheel: 1
+heroes: 1
+indifference curves: 1
+g: 1
+the eighteenth brumaire louis napoleon: 1
+a: 1
+real demand money: 1
+aztec human sacrifice prompt partial answer; specific variations long include right answer: 1
+flow: 1
+the clash civilizations: 1
+robert putnam: 1
+leon trotsky: 1
+trobriand islanders prompt melanesians: 1
+eliminative materialism: 1
+wilhelm von humboldt prompt humboldt: 1
+end his: 1
+cliometrics: 1
+harry frederick harlow prompt harry israel: 1
+statues limitation: 1
+deterrence: 1
+white flight: 1
+voting systems: 1
+chinese characters hanzi don't need chinese after mention literally anything implying writing chinese mandarin language: 1
+austrian school: 1
+commentaries laws england: 1
+semiotics: 1
+investment: 1
+mcdonalds: 1
+margaret meade: 1
+notes 'camp': 1
+democracy education: 1
+yanomamo: 1
+mythologiques: 1
+ipa: 1
+reflections violence: 1
+edward wadie saã¯d: 1
+the metropolis mental life: 1
+robert: 1
+economic trade: 1
+substitution effect: 1
+: 1
+needs prompt motivation read: 1
+deep play: 1
+civilizations do similar answers: 1
+syntax prompt linguistics until out lunch read: 1
+death: 1
+dicta: 1
+stephen jay gould: 1
+money take equivalents such currency legal tender: 1
+archaeology on clue garbology that's kind unlikely excavating things end similar answers gleefully amateur archaeology: 1
+universal health care: 1
+racial achievement gap: 1
+firms: 1
+education: 1
+externality: 1
+colonization: 1
+charles darwin: 1
+: 1
+optical aberration: 1
+thomas piketty: 1
+jim crow: mass incarceration age co: 1
+translation: 1
+behav: 1
+aggregate supply: 1
+internet sales tax: 1
+heuristics prompt strategies; rules; decision making methods; problem solving methods; biases: 1
+structural functionalism prompt functionalism: 1
+spoken languages: 1
+reflections revolution france: 1
+richard hofstadter: 1
+econometrics prompt economics; macroeconomics; microeconomic s: 1
+is/lm model: 1
+lucifer effect: understanding good people turn evil: 1
+paul felix lazarsfeld: 1
+alain leroy locke: 1
+cooperatives: 1
+property: 1
+united states tax code: 1
+gerard debreu: 1
+physiological arousal prompt stimulation equivalents being amped up: 1
+legal criminal punishment: 1
+barter system: 1
+conservative: 1
+guy de: 1
+john frum: 1
+sir william matthew flinders petrie: 1
+attitudes: 1
+just war th: 1
+fixed action patterns: 1
+camera lucida: 1
+thematic apperception test: 1
+prospect th: 1
+whiteness: 1
+quest his: 1
+fair: 1
+technical analysis do fundamental analysis: 1
+escape freedom: 1
+bipolar affective di: 1
+income inequality: 1
+empire: 1
+frankfurt school: 1
+female eunuch: 1
+g: 1
+property? qu'est ce que la propriete: 1
+intelligent design id prompt creationism: 1
+culture industry: 1
+treasuries: 1
+vietnamese: 1
+co: 1
+stephen pinker: 1
+kenneth mamie clark's doll experiments: 1
+eichmann jerusalem: re: 1
+hernando de soto: 1
+wolfgang kã¶hler: 1
+richard f: 1
+wrestling: 1
+community property: 1
+autokinetic effect: 1
+runes: 1
+hicksian demand prompt demand read: 1
+alan sokal: 1
+zero: 1
+narcissism: 1
+mothers: 1
+joseph harold greenberg: 1
+german: 1
+thomas szasz: 1
+indigenous hawaiians prompt polynesians system named people read; answers afterwards hawaiian kinship specific term: 1
+pumping lemmas: 1
+object prompt complement read; direct object indirect object oblique object: 1
+john locke: 1
+magic: 1
+trobriand islanders: 1
+algeria: 1
+done? burning questions movement: 1
+mental hospitals: 1
+economic inequality: 1
+holocaust: 1
+lawrence kohlberg's six stage th: 1
+: 1
+wilhelm reich: 1
+fetishism: 1
+semantics prompt linguistics early: 1
+zapotecs: 1
+henry louis gates jr: 1
+alfred russel wallace: 1
+skyhooks: 1
+alexis d'tocqueville: 1
+christopher hitchens: 1
+latin locative case: 1
+zuni: 1
+ishi last yahi: 1
+cremation prompt funeral; burial: 1
+islam observed: religious development: 1
+jane addams: 1
+culture anarchy: 1
+consciousness explained: 1
+eating: 1
+the intentional fallacy: 1
+donna haraway: 1
+money multiplier prompt partial answer: 1
+his: 1
+hyman minksy: 1
+elburz mountains: 1
+the th: 1
+science: 1
+attitude: 1
+: 1
+howard zinn: 1
+baby booms prompt population boom increase birth rate equivalents: 1
+natural selection prompt evolution: 1
+language acquisition: 1
+spanish language espaã±ol: 1
+economic profit: 1
+grammatical gender prompt noun class; natural gender: 1
+patients sigmund freud: 1
+elections: 1
+australia: 1
+great depression: 1
+self: 1
+close reading: 1
+hawaii: 1
+flaneur: 1
+social political power also aut: 1
+erasmus darwin prompt darwin: 1
+: 1
+telling lie: 1
+cockfights: 1
+self prompt identity equivalents: 1
+sweden: 1
+monetary policy: 1
+marseille: 1
+imperative mood: 1
+celtic languages: 1
+pierre joseph proudhon: 1
+technics civilization: 1
+nicholas kal: 1
+suicide prompt equivalents: 1
+income inequality: 1
+prison: 1
+voting: 1
+vowel: 1
+homosexuaality: 1
+maya: 1
+transcendenstalism: 1
+modern english: 1
+islam: 1
+: 1
+optical: 1
+violence: 1
+education prompt learning teaching schooling pedagogy and: 1
+drive: 1
+judith butler: 1
+law diminishing marginal returns: 1
+wassily leontief: 1
+: gift: 1
+: 1
+sino tibetan: 1
+johann gottlieb fichte: 1
+hermann ebbinghaus: 1
+robert earl henri: 1
+anarchy state utopia: 1
+co: 1
+gã¶del escher bach: eternal golden braid: 1
+finnish suomi: 1
+invisible hand: 1
+looking glass self: 1
+international airspace: 1
+acculturation do assimilation descriptive answers such adapting culture   clues specifically reference term acculturation: 1
+life cycle / permanent income hypothesis: 1
+equity: 1
+basque: 1
+al: 1
+job motivation: 1
+mystery capital: 1
+solow swan cass koopmans model: 1
+everyday life: 1
+instrumental variables: 1
+betty friedan: 1
+pluperfect tense/aspect: 1
+g: 1
+poverty: 1
+harvard university: 1
+h ancient greek hex hepta latin sex septem descend pie *swã©ḱs *septḿ̥: 1
+jared diamond: 1
+cycles: 1
+insurance: 1
+income inequality disparity: 1
+election: 1
+hospitals: 1
+parliamentary procedure: 1
+th: 1
+maurice allais: 1
+sane society: 1
+mind primitive man: 1
+small: 1
+charles louis de secondat baron de la brã¨de et de montesquieu: 1
+context free grammar: 1
+hypnotherapy: 1
+rasmus christian rask: 1
+edge: 1
+liminality liminal state liminal moments   pretty much anything liminal fine: 1
+commonwealth oceana: 1
+pure th: 1
+paul feyerabend: 1
+intelligence tests: 1
+europe: 1
+ta nehisi coates: 1
+civil wars be generous: 1
+homosexuality: 1
+imagined communities: 1
+rapa nui people: 1
+n: 1
+a: 1
+: 1
+african american vernacular english: 1
+magic: 1
+deviance: 1
+latin: 1
+state: 1
+prisons: 1
+ter: 1
+education: 1
+giving of gifts: 1
+fac: 1
+eating di: 1
+annual rate return: 1
+maasai: 1
+sound deletions: 1
+pigeons: 1
+positive: 1
+diphthong: 1
+ostracism: 1
+hysteria: 1
+drums: 1
+suburbs: 1
+pedestrian malls: 1
+herbert simon: 1
+soviet union: 1
+phonology prompt linguistics computational linguistics mention; phonetics: 1
+nazi concentration camps: 1
+welfare: 1
+crowds prompt groups mentioned; riots touched: 1
+charles murray: 1
+hmong: 1
+womb: 1
+t: 1
+trademark law: 1
+human faces: 1
+agriculture: 1
+: 1
+discipline punish: birth prison: 1
+stereotypes: 1
+verb: 1
+diamonds: 1
+monty hall problem: 1
+law: 1
+: 1
+austria: 1
+childbirth: 1
+aymara people: 1
+intergenerational social mobility: 1
+aut: 1
+reading text: 1
+admiralty law: 1
+disruptive innovation: 1
+plural nouns: 1
+creativity: 1
+nominal rigidity: 1
+desensitization: 1
+knowledge: 1
+logotherapy: 1
+human capital: 1
+: 1
+gershom scholem: 1
+evidentiality: 1
+inuit: 1
+james quinn wilson: 1
+daniel b: 1
+thomas paine: 1
+theta: 1
+bloom: 1
+consumers' surplus: 1
+stan: 1
+clovis culture: 1
+robert rosenthal: 1
+phonetics: 1
+differences in differences: 1
+dissents antonin scalia: 1
+depictions speech: 1
+moynihan re: 1
+gestalt therapy: 1
+drug addiction: 1
+zero lower bound: 1
+bankruptcy: 1
+charles cooley: 1
+secularity: 1
+payoffs: 1
+realism: 1
+redistribution: 1
+suicide bombing suicide attacking suicide ter: 1
+black athena: afroasiatic roots classical civilization: 1
+yerkes dodson law: 1
+the reflex arc concept psychology: 1
+grassmann's law: 1
+solow residual: 1
+julian steward: 1
+reo: 1
+clever hans: 1
+law/principle pragnanz i guess gestalt many english expressions idea including precision pregnancy simplicity suggestive figure minimum principle on: 1
+eugen von bohm bawerk: 1
+friedrich schlegel: 1
+q ratio: 1
+albion small: 1
+dinka people: 1
+harold garfinkel: 1
+: 1
+colleges: 1
+homelessness: 1
+transposons: 1
+ter: 1
+mass incarceration: 1
+accept s impurum s impura impure s; s mobile; s structur: 1
+anarchy: 1
+france: 1
+germany: 1
+shipwreck: 1
+: 1
+consumption: 1
+social class prompt answers status attainment class necessary: 1
+causal attribution: 1
+albert o hirschman: 1
+folk: 1
+face: 1
+monster experiment monster study: 1
+warrant requirement: 1
+:  man 's earch   mean g  until: 1
+second language acquisition: 1
+rg collingwood: 1
+voting systems: 1
+william hollings: 1
+a: 1
+: 1
+primal therapy: 1
+lucien lã©vy bruhl: 1
+english: 1
+: 1
+south africa: 1
+hmong: 1
+modernity: 1
+clinton richard dawkins: 1
+liberal: 1
+pronouns prompt nouns; subjects: 1
+nations: 1
+wage la: 1
+conditioning: 1
+theaters: 1
+amicus curiae briefs: 1
+eminent domain: 1
+colonialism: 1
+amusing ourselves death: 1
+calculus consent: logical foundations constitutional democracy: 1
+israel feinstein stone: 1
+irving howe: 1
+reactionary mind: 1
+jacques ellul: 1
+david riesman: 1
+baumol effect cost disease: 1
+impossibility paretian liberal: 1
+siegfried kracauer: 1
+answer: me: 1
+pain: 1
+clif: 1
+production functions: 1
+johann gottfried von herder: 1
+baroque: 1
+movement: 1
+language acquisition: 1
+jã¼rgen habermas: 1
+addiction: 1
+personality prompt temperament character: 1
+division la: 1
+s: 1
+j curve: 1
+functional specialization brain: 1
+matching: 1
+simone lucie ernestine marie bertrand de beauvoir: 1
+education: 1
+language di: 1
+walter bendix schã¶nflies benjamin benâ­yahâ­meen: 1
+fire next: 1
+d: 1
+television: 1
+taste: 1
+poverty: 1
+diphthongs prompt vowels long vowels until hiatus read: 1
+identity prompt personality mentioned even though it's really wrong: 1
+unconscious: 1
+neo conservatism: 1
+aptitude tests: 1
+evolution cooperation: 1
+slaves: 1
+experimental archaeology: 1
+mo: 1
+ego: 1
+photographs: 1
+evolution: 1
+lou andreas salome: 1
+: 1
+joking relationships: 1
+extr: 1
+great trans: 1
+azanade: 1
+rollo: 1
+unsafe speed: 1
+violence take equivalents destruction military: 1
+pyotr kropotkin: 1
+annales school: 1
+ainu people: 1
+strict scrutiny: 1
+charter schools do public schools schools: 1
+condition: 1
+rider problem prompt public goods read: 1
+telenovelas: 1
+neanderthals: 1
+division la: 1
+pigeons prompt birds: 1
+moses monotheism: 1
+edward c prescott: 1
+princeton review inc: 1
+angela davis: 1
+: 1
+dyirbal language: 1
+learning: 1
+standing: 1
+mind: 1
+currency devaluation: 1
+eligion take civil religion civic religion; don't take magic don't take witchcraft don't take magical thinking wrong answers: 1
+feral children: 1
+migration: 1
+mechanical clocks: 1
+alan dershowitz: 1
+beyond pleasure principle: 1
+franz anton mesmer: 1
+religion: 1
+delay gratification: 1
+hearsay: 1
+ergativity: 1
+intelligence: 1
+myth negro past: 1
+ottoâ rankâ: 1
+muzafer sherif: 1
+social classes owe each: 1
+the instinct: 1
+slutskyâ equation: 1
+g: 1
+theâ robbers caveâ experiment: 1
+progress poverty:â an inquiry into cause industrial depressions increase want increase wealth remedy: 1
+theâ book tea: 1
+g: 1
+pierreâ clastres: 1
+theâ logic collective action: public goods th: 1
+php: hypertext preprocesser: 1
+homo sapiens sapiens prompt human: 1
+iron law oligarchy: 1
+elites: 1
+never modern: 1
+republic france: 1
+aut: 1
+cognitive biases: 1
+narrow bantu: 1
+donald woods winnicott: 1
+conceptual metap: 1
+steps ecology mind: 1
+secular stagnation prompt stagnation: 1
+rosa luxemburg: 1
+arjun appadurai: 1
+th: 1
+mir: 1
+: 1
+: 1
+death: 1
+sociobiology prompt evolutionary biology evolutionary psychology behav: 1
+folk: 1
+stanley eugene fish: 1
+revealed preference: 1
+romer david paul christina: 1
+arlie russell hochschild hokes chilled: 1
+asimov's three laws robotics: 1
+medical diagnosis: 1
+facial expressions: 1
+civilizations: 1
+in: 1
+rule 11: 1
+spending power: 1
+diversity jurisdiction: 1
+intentional infliction severe emotional distress: 1
+rule against perpetuities: 1
+complaint: 1
+signature: 1
+abandonment: 1
+res ipsa loquitur: 1
+false imprisonment: 1
+summary judgment motion: 1
+parol evidence rule: 1
+duty: 1
+privity: 1
+felony murder rule: 1
+unconscionability: 1
+buried: 1
+option contract: 1
+seventh circuit: 1
+offer: 1
+touch concern: 1
+mistake fact prompt mistake: 1
+strict liability: 1
+: 1
+defendant impleader third parties: 1
+industry professional custom: 1
+proximate cause: 1
+rule 12b6: 1
+delivery: 1
+restitution: 1
+pinkerton rule: 1
+assumption risk: 1
+attempt: 1
+gifts: 1
+contingent remainder: 1
+: 1
+adverse possession: 1
+learned hand: 1
+private nuisance: 1
+doctrine reasonable expectations: 1
+issue preclusion: 1
+unilateral contract: 1
+reasonable person: 1
+subcontrac: 1
+retreat rule: 1
+zoning: 1
+left handedness: 1
+surnames: 1
+judges: 1
+rationality: 1
+gandhi's truth:: 1
+zuni prompt pueblo people: 1
+masks: 1
+equality: 1
+anasazi people/civilization: 1
+robert lifton: 1
+anthropology: 1
+stereotype threat prompt stereotype: 1
+robert shiller: 1
+shareholders: 1
+famines prompt droughts: 1
+advertising: 1
+meaning: 1
+better angels nature: 1
+john mcw: 1
+ronald david laing: 1
+clash civilizations: 1
+general competitive equilibrium exchange: 1
+lumpenproletariat: 1
+mustafa kemal ataturk: 1
+henry molaison: 1
+robert axelrod: 1
+arthashastra prompt rough translations the science state say native language title: 1
+hugo munsterberg: 1
+mongols: 1
+: 1
+paul ekman: 1
+nicholas gre: 1
+kikuyu people: 1
+lewis bin: 1
+american south: 1
+diversification: 1
+david graeber: 1
+thomas sowell: 1
+sexual personae: art decadence nefertiti emily dickinson: 1
+great powers prompt european/: 1
+cyril lionel robert james: 1
+priming: 1
+frequency: 1
+technics: 1
+spain: 1
+benjamin libet: 1
+second life prompt internet similar answers: 1
+human ape hybrids: 1
+twin studies: 1
+listening music: 1
+sami people: 1
+daryl j bem: 1
+interpersonal ties: 1
+dr fredric wertham: 1
+lionel trilling: 1
+: 1
+job searching: 1
+hunter gatherer societies: 1
+ishi &lt;cheyne&gt;: 1
+homosexuality: 1
+strategies: 1
+voting: 1
+braille: 1
+placebo effect &lt;lt&gt;: 1
+capitalism &lt;cc&gt;: 1
+love: 1
+intelligence: 1
+dissociative identity di: 1
+mcdonald’s: 1
+trade &lt;pa&gt;: 1
+infants: 1
+communist manifesto &lt;rp&gt; halftime: 1
+firms: 1
+bureaucracy: 1
+functionalism: 1
+income: 1
+: 1
+william frank buckley jr: 1
+addiction prompt dependence: 1
+me: 1
+his: 1
+magic: 1
+money supply: 1
+electric shocks &lt;hx&gt;: 1
+patents: 1
+im: 1
+mothers: 1
+unemployment &lt;bz&gt;: 1
+price &lt;bz&gt;: 1
+five: 1
+: 1
+anthropology: 1
+alexander wendt: 1
+stockholm school economics: 1
+cleopatra's nose: 1
+double bind th: 1
+kenneth lee pike: 1
+american civil religion: 1
+leo vik: 1
+kurgan hypothesis: 1
+casebook method: 1
+festinger carlsmith cognitive dissonance study prompt partial answer; anything mentions festinger turning knobs/spools: 1
+psychological drives: 1
+zuni: 1
+consumption: 1
+philadelphia pennsylvania &lt;bailey&gt;: 1
+nouns: 1
+wages: 1
+happiness: 1
+citizenship: 1
+r prompt “rhotic consonant” &lt;bailey&gt;: 1
+productivity: 1
+movies: 1
+protestantism prompt religion christianity; lutheranism calvinism puritanism methodism baptism quakers: 1
+anthropologists: 1
+psycho: 1
+articles prompt adjectives mention: 1
+voting: 1
+south america: 1
+dead body bodies: 1
+poverty prompt “being p: 1
+erich seligmann fromm: 1
+voting: 1
+children: 1
+: poverty: 1
+social classes: 1
+supply: 1
+food: 1
+chickens: 1
+skulls: 1
+sigmund schlomo freud froyt froyd; reasonable pronunciations &lt;mj&gt;: 1
+christianity prompt “religion”; specific answers “protestantism”: 1
+infants: 1
+nuclear weapons: 1
+sign language: 1
+pigeons: 1
+posner: 1
+counting: 1
+third: 1
+middletown: 1
+decolonization: 1
+masculinity: 1
+persuasion: 1
+farming: 1
+: 1
+power: 1
+imf: 1
+facial expressions: 1
+prices prompt costs &lt;wa socsci&gt;: 1
+net neutrality &lt;david dennis&gt;: 1
+bf skinner: 1
+indonesia: 1
+obscenity: 1
+mythology: 1
+wikipedia: 1
+archives &lt;mc academic&gt;: 1
+sec: 1
+rituals: 1
+: 1
+reading: 1
+egocentrism prompt centration; “lack th: 1
+aggregate demand: 1
+anderson: 1
+global warming: 1
+gay men: 1
+international human rights law: 1
+trauma: 1
+economic efficiency: 1
+division la: 1
+power: 1
+gift giving: 1
+development: 1
+human races &lt;kothari&gt;: 1
+land: 1
+prisoners philip zimbardo's stan: 1
+employment: 1
+religion: 1
+self driving cars: 1
+competition: 1
+politicians: 1
+investment: 1
+laws &lt;kothari&gt;: 1
+athletes: 1
+war: 1
+la: 1
+taste &lt;jose&gt;: 1
+chickens: 1
+democracy &lt;jose&gt;: 1
+attribution &lt;jose&gt;: 1
+psychotherapy: 1
+etymology: 1
+: 1
+music: 1
+la: 1
+social net: 1
+b f skinner: 1
+cognitive biases prompt heuristics mental er: 1
+stan: 1
+future tense &lt;cd&gt;: 1
+jane: 1
+semitic languages: 1
+money &lt;mclain&gt;: 1
+scientific management: 1
+bell hooks: 1
+plea bargaining: 1
+af: 1
+neutrality money: 1
+quality management: 1
+bureaucracies: 1
+postcolonial: 1
+bilingualism: 1
+accept frictions imperfect i: 1
+past present &lt;european his: 1
+accumulation capital: 1
+archaeology: 1
+children: 1
+marginal cost: 1
+kinship: 1
+choice: 1
+making art: 1
+price security: 1
+psychotherapy: 1
+government spending: 1
+harold hotelling: 1
+liminality: 1
+earth: 1
+: 1
+cross: 1
+commons: 1
+social learning th: 1
+: 1
+surveys: 1
+whiteness: 1
+families: 1
+rituals: 1
+stroop effect: 1
+intention: 1
+nasalization: 1
+wolf man: 1
+iron cage rationality: 1
+critical legal studies: 1
+lakoff lay koff: 1
+real cycle th: 1
+masculinity: 1
+production functions: 1
+goodwill: 1
+: 1
+: 1
+homo economicus: 1
+equilibrium also partial general equilibrium nash equilibrium competitive equilibrium walrasian equilibrium specific equilibria &lt;hb&gt;: 1
+jeffrey sachs &lt;hb&gt;: 1
+face recognition: 1
+chimpanzees prompt “apes” “the mentality apes” read definitely “monkeys” &lt;ed hb&gt;: 1
+jane jacobs &lt;ed hb&gt;: 1
+political realism &lt;hb&gt;: 1
+commonwealth australia &lt;ed hb&gt;: 1
+francis fukuyama &lt;hb&gt;: 1
+socialization: 1
+nicaraguan sign language: 1
+collusion prompt oligopoly; duopoly; cartels &lt;the above question cate: 1
+pinker family: 1
+9/11 attacks: 1
+political parties: 1
+federal reserve board gover: 1
+human sexuality: 1
+: 1
+depression depressive mood: 1
+dutch language: 1
+me: 1
+tools anti prompt hammers; equipment das zeug after “heidegger” &lt;wn&gt;: 1
+cars: 1
+richard thaler prompt cass sunstein “who: 1
+democratisation: 1
+stereotypes prompt social attitudes &lt;jg&gt;: 1
+riding: 1
+social action: 1
+aave: 1
+anthropologists also ethnographers; yourself until “social net: 1
+gentrification: 1
+gestalt “guh shtalt” psychology &lt;jc social science psychology&gt;: 1
+swahili &lt;jm&gt;: 1
+philippines &lt;ejw&gt;: 1

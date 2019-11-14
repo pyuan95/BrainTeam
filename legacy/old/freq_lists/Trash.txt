@@ -1,0 +1,2946 @@
+detectives: 19
+utah jazz: 16
+balti: 14
+philadelphia eagles: 13
+barney stinson: 11
+zinedine zidane: 10
+calvin: 9
+geico gecko prompt partial answer: 9
+paul: 8
+tom brady: 8
+social net: 7
+: 7
+martin charles s: 7
+san antonio spurs: 7
+katy perry: 6
+: 6
+eminem: 6
+mad men: 6
+bob dylan: 6
+9/11 ter: 5
+lawrence kansas: 5
+brooklyn dodgers: 5
+kansas city chiefs: 5
+dark side moon: 5
+arcade fire: 5
+orson welle: 5
+big bang th: 5
+green day: 5
+bullshit: 5
+beatles: 5
+hangover: 5
+parks recreation: 5
+ferris bueller's day off: 5
+st louis cardinals: 5
+cleveland browns: 5
+sweden: 5
+firefly: 5
+making rain: 5
+super mario: 5
+girls: 5
+stanley kubrick: 5
+canada: 4
+michael: 4
+stephen colbert: 4
+watchmen: 4
+gre: 4
+donkey kong country returns do incomplete answers: 4
+modern family: 4
+roger federer: 4
+queen: 4
+south: 4
+halo: 4
+minnesota: 4
+met mother: 4
+wall e: 4
+lebron raymone james: 4
+legend zelda: ocarina: 4
+adrian monk: 4
+leonardo wilhelm dicaprio: 4
+arsenal: 4
+tay: 4
+radiohead: 4
+joker: 4
+jean luc picard: 4
+citizen kane: 4
+john locke: 4
+adolf hitler: 4
+houston rockets either both names: 4
+iron man: 4
+arnold schwarzenegger: 4
+blade runner: 4
+breaking bad: 4
+drive: 4
+west wing: 4
+boxer: 4
+godfather: part ii do godfather: 4
+flash: 4
+nicki minaj: 4
+great dicta: 4
+master &lt;ed hb&gt;: 4
+third man: 3
+bartholomew fair: comedy: 3
+mass effect 1 do mass effect 2 wrong answers: 3
+australia: 3
+brett favre: 3
+scott pilgrim vs: 3
+led zeppelin: 3
+basketball: 3
+civilization: 3
+edward kennedy duke ellington: 3
+sacramento kings: 3
+lil wayne: 3
+detroit red wings: 3
+atlanta falcons: 3
+miami heat: 3
+rolling stones: 3
+hello: 3
+avatar: last airbender: 3
+: 3
+derrick martell rose: 3
+future tense: 3
+jersey: 3
+marlon brando jr: 3
+glee: 3
+oklahoma: 3
+university oklahoma sooners: 3
+mickey mouse: 3
+beach boys: 3
+akira kurosawa: 3
+stairway heaven: 3
+pink floyd: 3
+santiago: 3
+monsters inc: 3
+kingdom sweden: 3
+general zod: 3
+orde: 3
+soccer game: 3
+bowling: 3
+humphrey bogart: 3
+washington redskins: 3
+it's wonderful life mj: 3
+lady gaga: 3
+bioshock 2: 3
+assassin's creed ii: 3
+hot fuzz: 3
+elves: 3
+ethics: 3
+drew carey show: 3
+slumdog millionaire: 3
+death star: 3
+police: 3
+mars: 3
+texas: 3
+heroes: 3
+true blood: 3
+rush limbaugh: 3
+michael steele: 3
+fight club: 3
+marx brothers: 3
+castle: 3
+u2: 3
+phil jackson: 3
+don't fear reaper: 3
+washington wizards: 3
+link s: 3
+summer: 3
+san diego padres: 3
+: 3
+university: 3
+casablanca: 3
+2001: space odyssey: 3
+blink 182: 3
+woody: 3
+django unchained: 3
+chinatown: 3
+japan: 3
+fargo: 3
+it's always sunny philadelphia: 3
+brazil: 3
+bill cosby: 3
+daft punk: 3
+kareem abdul jabbar: 3
+minecraft: 3
+guardians galaxy: 3
+la noire: 3
+stranger things: 3
+monty python holy grail prompt just monty python: 3
+soviet union: 3
+ed sheeran: 3
+cricket &lt;tyler benedict&gt;/&lt;ed sp&gt;/&lt;ed jo&gt;: 3
+alfred hitchcock &lt;david dennis&gt;: 3
+eyes wide shut &lt;tiebreaker&gt;: 3
+india &lt;kothari arts   film&gt;: 3
+dressed: 3
+years: 2
+e1cb unimolecular elimination via conjugate base: 2
+peter cooper: 2
+sonnets gerard manley hopkins: 2
+second anglo boer war: 2
+election 1992: 2
+roger penrose: 2
+battle bunker hill: 2
+republic lebanon: 2
+hamilton: 2
+colonel muammar abu minyar al gaddafi: 2
+daphnis et chloe: 2
+peterloo massacre: 2
+anglo zanzibar war: 2
+: 2
+siswe banzi dead: 2
+great fairy's fountains: 2
+t rex: 2
+orlean: 2
+starcraft ii: wings liberty: 2
+cali: 2
+patrick henry: 2
+waiting: 2
+samus aran: 2
+last mohicans: 2
+marshall: 2
+kenny mc: 2
+: 2
+cincinnati reds: 2
+jeff bridges: 2
+robin: 2
+sheldon cooper: 2
+nevada: 2
+south: 2
+seattle seahawks: 2
+despicable: 2
+joe biden: 2
+inception: 2
+pitching perfect game: 2
+monopoly: 2
+stevie wonder: 2
+detroit tigers: 2
+university south carolina prompt usc: 2
+detroit michigan: 2
+michael mike singletary: 2
+dwight kurt schrute: 2
+table tennis: 2
+indiana university: 2
+avatar: 2
+heart: 2
+chelsea fc: 2
+clint eastwood: 2
+lois lane: 2
+keith theo: 2
+invasion poland: 2
+party usa: 2
+sir alfred hitchcock: 2
+johnny depp: 2
+kingdom thailand: 2
+nathan bed: 2
+: 2
+futurama: 2
+charizard: 2
+battleship potemkin: 2
+hayao miyazaki: 2
+isaac bruce: 2
+ubiquitin: 2
+fleetwood mac: 2
+pedro jaime martinez: 2
+vampire weekend: 2
+ignatius j reilly: 2
+bridge river kwai: 2
+domitian: 2
+election 1948: 2
+los angeles lakers prompt los angeles; minneapolis lakers until ralph sampson: 2
+love s: 2
+poker: 2
+batman: 2
+happened night: 2
+economic interpretation constitution united states: 2
+kesha: 2
+steve nash: 2
+camille: 2
+straight outta compton: 2
+dollhouse: 2
+count basie: 2
+dead man walking: 2
+ornette colema: 2
+anthony bourdain: 2
+hermione granger: 2
+cookie monster: 2
+wicked: 2
+chess: 2
+cheese: 2
+westing game: 2
+rem: 2
+toy s: 2
+penny lane: 2
+hurt locker: 2
+spider man: 2
+google inc: 2
+webcomics: 2
+tommy lee jones: 2
+beauty beast: 2
+tampa bay: 2
+ray lewis rym: 2
+wario mj: 2
+malleus maleficarum: 2
+: 2
+superman prompt clark kent kal el assholes; superman's due slight ambiguity: 2
+: 2
+grand theft auto: vice city: 2
+james: 2
+e: 2
+vampires: 2
+stern gerlach experiment: 2
+chuck bartowski: 2
+blowup: 2
+denver nuggets either: 2
+a team: 2
+muse: 2
+die hard: 2
+santa claus: 2
+offspring: 2
+university texas austin long: 2
+half life 2: 2
+maria montes: 2
+anne jacqueline hathaway: 2
+doc: 2
+xkcd: 2
+boston red sox: 2
+beyond good evil: prelude philosophy future: 2
+g proteins: 2
+mega man: 2
+pete sampras: 2
+solving rubik's cube: 2
+barry goldwater: 2
+herbert simon: 2
+heartbreak house: 2
+yoda: 2
+kung fu hustle: 2
+damon be nice damon hill damon dash damon stoudamire johnny damon matt damon: 2
+cosmo kramer prompt cosmo: 2
+seth rogen: 2
+donovan mcnabb: 2
+fresh prince bel air intro: 2
+boy meets: 2
+nirvana: 2
+liberal democratic party liberal democrats libdems do partial answer: 2
+robert william bob barker: 2
+managers detroit tigers: 2
+syriana: 2
+s: 2
+women's figure skating: 2
+penn state: 2
+cleveland brown: 2
+james bond: 2
+office: 2
+williams: 2
+kobe bryant: 2
+seattle washington: 2
+empire state mind: 2
+: 2
+coco chanel: 2
+henry louis hank aaron: 2
+seventh seal: 2
+peyton manning: 2
+elizabeth stamatina tina fey: 2
+kong: 2
+naruto: 2
+dragons: 2
+chris bosh: 2
+klingons klingon empire: 2
+little miss sunshine: 2
+birds: 2
+stand grudgingly standing: 2
+duran duran: 2
+fullmetal alchemist: 2
+diego armando maradona kk: 2
+dr strangelove: 2
+doc: 2
+beatles: 2
+smashing pumpkins: 2
+: 2
+sergeant pepper's lonely hearts club band: 2
+doom: 2
+ron artest: 2
+tight end: 2
+baron roman feo: 2
+gre: 2
+chris paul: 2
+robyn rihanna fenty: 2
+natalie: 2
+30 rock: 2
+1919: 2
+michael scott: 2
+newman: 2
+charlie uni: 2
+red hot chili peppers: 2
+guns n' roses prompt gnr: 2
+michael joseph jackson: 2
+love lucy: 2
+boulevard broken dreams: 2
+johannes honus wagner: 2
+david bowie: 2
+motion city soundtrack: 2
+scrubs: 2
+oh yeah!: 2
+foie gras: 2
+united states america: 2
+william: 2
+james jimmy stewart: 2
+barbarella: queen galaxy: 2
+crash: 2
+kinks: 2
+montreal expos: 2
+novak djokovic: 2
+willy wonka's chocolate fac: 2
+jack bauer: 2
+: 2
+mister: 2
+william bill hader: 2
+goldfinger: 2
+outkast: 2
+moonrise kingdom: 2
+silver linings playbook: 2
+robot jews prompt partial answers tai: 2
+reservoir dogs: 2
+peaches: 2
+legend zelda prompt zelda: 2
+franklin delano bluth prompt bluth: 2
+weezer: 2
+little pony: friendship magic: 2
+charlie sheen: 2
+gangnam style: 2
+psych: 2
+profes: 2
+willie howard mays jr: 2
+run lola run: 2
+supernatural: 2
+sting: 2
+andrew geoffrey andy kaufman: 2
+bioshock infinite do bioshock: 2
+golden state warr: 2
+pedro almodovar: 2
+phil spec: 2
+tokyo the two movies diary shinjuku thief tokyo s: 2
+avenue q: 2
+book: 2
+los angeles angels anaheim: 2
+like rolling stone: 2
+mexico: 2
+swimming: 2
+tipton hotel: 2
+samuel l jackson: 2
+las vegas: 2
+san francisco: 2
+cincinnati reds: 2
+david lynch: 2
+weird al yankovic: 2
+enix: 2
+owen cunningham wilson prompt wilson: 2
+once upon west: 2
+hannibal: 2
+house dead: 2
+mercedes benz superdome: 2
+medley end abbey road do abbey road: 2
+japan: 2
+star wars episode v: empire strikes back: 2
+12 years slave: 2
+soul: 2
+most interesting man: 2
+luigi: 2
+simon garfunkel: 2
+peanuts: 2
+rocky: 2
+john havlicek: 2
+brooklyn nine nine: 2
+milwaukee brewers: 2
+saturday night live: 2
+neeson: 2
+levine: 2
+direction: 2
+right thing: 2
+university notre dame: 2
+dwight howard: 2
+graduate: 2
+neil richard gaiman: 2
+robert altman: 2
+pick destiny: 2
+desperado: 2
+ilie nastase: 2
+bishop: 2
+russia love: 2
+: 2
+spelling bee: 2
+derek jeter: 2
+let go: 2
+olive garden: 2
+8: 2
+lewis carroll: 2
+wonderful wizard oz: 2
+lemonade: 2
+william: 2
+bojack: 2
+melissa mccarthy: 2
+dangerous woman: 2
+mad max rockatansky: 2
+silmarillion: 2
+dennis rodman: 2
+aaron benjamin: 2
+video games: 2
+shia saide labeouf: 2
+oj simpson: 2
+spy loved: 2
+drake: 2
+leslie knope: 2
+zero: 2
+1989: 2
+simon &amp; garfunkel: 2
+assassin’s creed: 2
+jaws &lt;cc&gt;: 2
+los angeles dodgers prompt “los angeles”; “brooklyn” until read &lt;nc trash&gt;: 2
+tracy: 2
+elektra natchios: 2
+dinosaurs: 2
+muppets do the muppet show: 2
+deemed insensitive because 9/11 attacks: 2
+big sick: 2
+spotlight: 2
+chuck berry: 2
+lawn tennis &lt;jose&gt;: 2
+mo: 2
+big: 2
+mark zuckerberg &lt;cd&gt;: 2
+guillermo del: 2
+1924 democratic national convention: 2
+animals: 2
+republic trinidad tobago &lt;audi: 2
+chupacabras &lt;mythology/geography/current events&gt;: 2
+doctrine covenants: 2
+anthony tony soprano jr prompt soprano anthony soprano; “tone” &lt;hb&gt;: 2
+chris ofili &lt;ds&gt;: 2
+unabomber: 2
+death stalin: 2
+jim carrey: 2
+repo man &lt;hart&gt;: 2
+gaza: 1
+charge coupled device: 1
+zine el abidine ben ali: 1
+soviet invasion afghanistan: 1
+suppliant women suppliants hiketides: 1
+cosmic voids: 1
+scientific management: 1
+stock exchange: 1
+la re: 1
+pathet lao: 1
+marriage heaven hell: 1
+truman desegregating armed: 1
+ferrocene: 1
+neo liberalism: 1
+wang anshi: 1
+interzone: 1
+leopold: 1
+hua guofeng: 1
+scottsdale arizona: 1
+thymus: 1
+john coltrane: 1
+ivo andric: 1
+pan african movement / pan africanism: 1
+herero genocide: 1
+thyrsis: 1
+best years lives: 1
+duke guise: 1
+prohibition party: 1
+michelle a rhee: 1
+emmanuel dapidran manny pacquiao: 1
+: 1
+rocko's modern life: 1
+alex delarge: 1
+watergate scandal: 1
+legacy cain: 1
+ferdinand edralin marcos: 1
+where it's at: 1
+hugo chavez: 1
+long march: 1
+trung sisters: 1
+groundhog day: 1
+quasi war: 1
+rafael leonidas trujillo molina prompt el jefe boss chief: 1
+twenty love poems song despair: 1
+anzac: 1
+hms vic: 1
+phantom tollbooth: 1
+cee lo green: 1
+stephane mallarme: 1
+tennis court oath: 1
+mictlan: 1
+rubyfruit jungle: 1
+field henry martyn field david dudley field stephen field cyrus field: 1
+banjo paterson: 1
+sabrina: 1
+edward everett: 1
+philip iv philip fair: 1
+william quantrill: 1
+winter's tale: 1
+mother plane: 1
+bone: 1
+telchines: 1
+robert: 1
+exterminating angel el angel extermina: 1
+dirty war: 1
+giovanni pierluigi da palestrina: 1
+sarutahiko: 1
+airplane bombings: 1
+second vatican council: 1
+operation tidal wave: 1
+pope clement vii: 1
+boleslaw chobry: 1
+lacrosse: 1
+kosher laws kashrut: 1
+ken griffey jr prompt griffey ken griffey sr: 1
+wisconsin: 1
+samuel johnson: 1
+william henry harrison prompt harrison: 1
+usb universal serial bus: 1
+british broadcasting: 1
+m*a*s*h: 1
+rock band: 1
+owl city: 1
+excalibur: 1
+ned flanders: 1
+stonehenge: 1
+spain: 1
+doonesbury: 1
+tropic thunder: 1
+beekeeping: 1
+wizard id: 1
+charles ives: 1
+vic: 1
+dallas mavericks: 1
+lucy sky diamonds: 1
+vincent van gogh's ear: 1
+deschanel day shah nel: 1
+czech republic prompt czechoslovakia: 1
+mario kart: 1
+android os: 1
+dance: 1
+cali: 1
+: 1
+jose albert pujols alcantara: 1
+trans: 1
+tron: 1
+spanish inquisition: 1
+apple inc: 1
+tariffs prompt taxes; im: 1
+kent state shootings: 1
+2010 united statrs census: 1
+call wild: 1
+tbs: 1
+brian griffin prompt griffin: 1
+duke blue devils: 1
+orlando magic or orlando magi: 1
+gene simmons: 1
+archimedes syracuse: 1
+rubicon: 1
+david wark griffith: 1
+cnn: 1
+delaware: 1
+risk: 1
+realism: 1
+pirates caribbean: curse black pearl: 1
+john roberts: 1
+zooey deschanel first initial required: 1
+machine gun prompt maxim gun; gun similar answer: 1
+narra: 1
+people's republic china: 1
+charles sumner: 1
+statue liberty enlightening: 1
+sarah louise palin: 1
+petals prompt leaf: 1
+battle alamo: 1
+kill mockingbird: 1
+geronimo: 1
+love way lie: 1
+s: 1
+divine comedy: 1
+european union: 1
+syfy channel: 1
+reichstag: 1
+saturday evening post: 1
+kennedy family: 1
+arkansas: 1
+minute win: 1
+beat literature: 1
+steve prefontaine: 1
+republican party: 1
+moby dick: 1
+felipe calderon: 1
+paradise lost: 1
+herbert g: 1
+don't ask don't tell: 1
+kristallnacht: 1
+warcraft: 1
+nuclear weapons: 1
+im pei pay: 1
+cilian murphy: 1
+blake griffin: 1
+james edward franco: 1
+betty white: 1
+bobby cox: 1
+law: 1
+denver broncos: 1
+jai alai hi ah lie: 1
+wonderwall: 1
+true grit: 1
+jetsons: 1
+shopping malls: 1
+mikado;: 1
+charlton heston: 1
+electric charge: 1
+ivan numbers epithets matter: 1
+alphonse gabriel al capone prompt scarface until mentioned johnny: 1
+otto eduard leopold von bismarck: 1
+oahu: 1
+camp: 1
+applebee's neigh: 1
+islamic republic pakistan: 1
+robert francis kennedy: 1
+oncogenes: 1
+gerald rudolph: 1
+biomes: 1
+looking backward: 2000 1887: 1
+eugene vic: 1
+piano: 1
+perspective: 1
+giuseppe garibaldi: 1
+silvio berlusconi: 1
+minister: 1
+elliptical galaxies prompt galaxies: 1
+samuel houston: 1
+walter frederick mondale: 1
+im: 1
+freedmen's bureau: 1
+alfred emanuel smith jr: 1
+sharon angle: 1
+macarthur: 1
+colin luther powell: 1
+stephen michael reich: 1
+alfonso: 1
+r daneel olivaw: 1
+great state cali: 1
+speaker house: 1
+boston massachusetts: 1
+harry s truman: 1
+juan domingo peron: 1
+banana: 1
+joseph hill joss whedon: 1
+beer prompt equivalents: 1
+producers: 1
+eunuchs prompt castrati: 1
+nation islam: 1
+french: 1
+super bowl iii balti: 1
+vincent cassel: 1
+impeachment conviction: 1
+hyperbolic: 1
+spheres: 1
+edward: 1
+royal proclamation 1763: 1
+call duty: black ops prompt partial title: 1
+g: 1
+joseph andrews: 1
+gluconeogenesis: 1
+dungeons dragons: 1
+phoenix suns: 1
+atp synthase also atp synthetase adenosine tri phosphate synthase etc: 1
+rings: 1
+barack hussein obama ii: 1
+delta: 1
+pyrite: 1
+rnai rna interference: 1
+fuck you prompt: 1
+tim lincecum: 1
+earthbound: 1
+warren commission prompt things kennedy assassination commission etc: 1
+cocaine blow peruvian fine: 1
+war powers act: 1
+ulalume: 1
+antoninus pius titus aurelius fulvus boionus arrius antoninus: 1
+paris commune: 1
+haley reeves barbour: 1
+battle long island: 1
+spirited away also sen chihiro kamikakushi: 1
+brideshead revisited: 1
+midnight's children: 1
+microtubules prompt tubulin mentioned: 1
+capetian: 1
+united states presidential elections 1968: 1
+ruslan lyudmila: 1
+braganza dynasty: 1
+battle cannae: 1
+flies: 1
+gaba: 1
+wu zetian: 1
+kissing: 1
+switzerland: 1
+ithaca: 1
+good wife: 1
+republic south africa: 1
+balti: 1
+hippopotamus: 1
+complex number: 1
+pink: 1
+phineas tay: 1
+sanjuro: 1
+autobiography ex co: 1
+alfred mossman landon: 1
+chinese room: 1
+thomas hart benton: 1
+henry cabot lodge jr prompt lodge cabot lodge: 1
+battle chalons battle catalaunian plains: 1
+sonoluminescence: 1
+pedagogical sketchbook: 1
+stewie griffin: 1
+battle marathon: 1
+roger eugene maris: 1
+sermon mount: 1
+james francis cameron: 1
+subway prompt doc: 1
+schindler's list: 1
+madonna: 1
+compactness: 1
+ahura mazda: 1
+frederick: 1
+: 1
+inner product: 1
+copperheads prompt peace democrats: 1
+gin juice: 1
+production: 1
+nasir ud din muhammad humayun: 1
+gre: 1
+yosemite sam: 1
+folsom prison prompt partial answer; folsom prison blues: 1
+invictus: 1
+sam houston: 1
+the message: 1
+joe maddon: 1
+vulcans: 1
+battle helm's deep: 1
+rglyph1197a interference: 1
+yippies: 1
+thierry daniel henry: 1
+con: 1
+kellen boswell winslow ii: 1
+taqiyya: 1
+criminal minds: 1
+lacplesis: 1
+gender trouble: 1
+sense sensibilia: 1
+virginia resolves: 1
+adolph strecker: 1
+koizumi junichiro: 1
+nidhogg: 1
+azide: 1
+shrine: 1
+nonsense mediated decay: 1
+raise high roof beam carpenters: 1
+built 4 cuban linx: 1
+utada hikaru: 1
+manhattan sy: 1
+philip: 1
+makropoulous affair jha: 1
+villa rotonda also la rotonda villa rotunda villa la rotonda villa almerico villa almerico capra villa capra la rotonda haseeb: 1
+nefertiti sy: 1
+ilsa lund laszlo: 1
+alto rhapsody sy: 1
+grand illusion: 1
+les stances sophie: 1
+tobey maguire: 1
+sean john combs: 1
+sarah palin: 1
+john heisman me: 1
+harry mason reid: 1
+cognitive dissonance: 1
+alec baldwin: 1
+cameron newton: 1
+ma: 1
+amar'e stoudemire: 1
+pointers: 1
+bill simmons: 1
+dante's inferno: 1
+halo: reach: 1
+pandas: 1
+mapp v ohio: 1
+hajj: 1
+stan: 1
+bill nye science guy: 1
+british petroleum: 1
+bob huggins huggy bear: 1
+madness: 1
+jude law: 1
+hotel cali: 1
+family guy: 1
+stock clues prompt clues db n: 1
+oakland athletics: 1
+toyota ie: 1
+master chief petty officer john 117: 1
+whole: 1
+provost zakharov: 1
+apostacy being apostate: 1
+le loi: 1
+rock body: 1
+revenge sith: 1
+1969 seattle pilots prompt brewers mention: 1
+chicago style pizza: 1
+craps: 1
+jean baudrillard: 1
+tosefta tosefata: 1
+wonder bread: 1
+university g: 1
+stagger lee shelton: 1
+andrei tarkovsky: 1
+la fanciulla del west: 1
+audioslave: 1
+ernest ern malley: 1
+diving into wreck: 1
+beowulf: 1
+goblin market: 1
+johann ulrich voss: 1
+burns family: 1
+helmuth karl bernhard graf von moltke elder no need prompt: 1
+ucla bruins: 1
+grand admiral thrawn: 1
+battle copenhagen: 1
+declaration rights woman female citizen: 1
+jimmy: 1
+turbulence: 1
+carmen electra: 1
+african americans answer must convey black people united states; anything less specific: 1
+harald hardrada: 1
+superstar: 1
+pound rebka experiment: 1
+cave s: 1
+seattle mariners: 1
+son sam: 1
+chocolate rain: 1
+vascular cambium: 1
+peale: 1
+jamba juice: 1
+nip/tuck: 1
+vancouver: 1
+demeter: 1
+blah blah blah: 1
+rahm emanuel: 1
+paparazzi: 1
+patrick joseph pat toomey: 1
+fcc: 1
+g: 1
+wilt chamberlain's 100 point game: 1
+asteroids: 1
+jay z: 1
+co: 1
+hobbes: 1
+mahmoud: 1
+waterfalls: 1
+girolamo: 1
+aldol: 1
+pony express: 1
+fall boy: 1
+baibars: 1
+jacksonville f: 1
+rodeo: 1
+dao cao dai: 1
+data encryption standard: 1
+strokes: 1
+ryan leslie: 1
+: 1
+thomas stearns eliot: 1
+sinners hands angry god: 1
+tryptophan: 1
+who let dogs out?: 1
+santa fe trail: 1
+donatists: 1
+: 1
+u can't touch this: 1
+recess: 1
+b 52s: 1
+g: 1
+peter charlie hustle rose: 1
+miller v cali: 1
+boston police strike: 1
+rosenhan experiment: 1
+bobby: 1
+yuri dol: 1
+hillel elder: 1
+liquidity trap: 1
+remmet rem koolhaas: 1
+criminology: 1
+dawes general allotment act: 1
+douglas adams: 1
+: 1
+wife bath: 1
+catwoman: 1
+green goblin prompt goblin: 1
+derek walcott: 1
+gangsta's paradise: 1
+election 1988: 1
+yellow turban rebellion: 1
+watts riots prompt los angeles riot until mentioned los angeles riot 1965 until mentioned: 1
+knuckleball knuckler: 1
+iron law wages prompt law wages: 1
+primogeniture: 1
+granite: 1
+john searle: 1
+mozilla firefox prompt mozilla: 1
+balloon boy hoax: 1
+bears do specific names species bears: 1
+gerrit rietveld: 1
+phospholipase: 1
+: 1
+parc guell: 1
+visiting under: 1
+ming dynasty: 1
+pope adrian: 1
+mitch daniels: 1
+light august: 1
+orinoco rive: 1
+doolittle raid: 1
+louis brandeis: 1
+kneeling zod: 1
+little foxes: 1
+retina: 1
+der freischutz: 1
+l: 1
+silent ma: 1
+scranton: 1
+arthur dent: 1
+sims 3: 1
+quantum solace: 1
+glenn beck: 1
+velvet undergound: 1
+oasis: 1
+idomeneo re di creta: 1
+steve kerr: 1
+red eyebrows: 1
+lag b'omer: 1
+monadology: 1
+suge knight prompt suge; marion hugh knight jr: 1
+ashurbanipal: 1
+tanqueray prompt gin: 1
+john carpenter: 1
+sponge: 1
+easter 1916: 1
+adventures tintin: 1
+bea arthur: 1
+endo shusaku: 1
+tirthankaras jinas: 1
+qdoba mexican grill: 1
+prospect th: 1
+coleman hawkins: 1
+magne: 1
+john wayne: 1
+magic: gathering: 1
+jahn teller effect dis: 1
+the man sold: 1
+lusiads os lusiadas: 1
+halting problem halttm: 1
+hyundai mo: 1
+orphism: 1
+star route scandal: 1
+le samourai jef costello either name: 1
+evander holyfield: 1
+franco modigliani: 1
+great pumpkin: 1
+drogheda: 1
+karl barry sharpless: 1
+common law: 1
+nikolay ivanovich bukharin: 1
+balmer series: 1
+sideshow mel: 1
+josiah jed bartlett: 1
+kevin dyson frank wycheck: 1
+polaris: 1
+metastasis: 1
+hot n' cold: 1
+sephiroth: 1
+enquiry concerning human understanding: 1
+99 problems: 1
+quantum hall effect: 1
+analyticity: 1
+kenneth parcell: 1
+wardrobe malfunction: 1
+vanna white: 1
+mr smith goes washington: 1
+madden curse: 1
+decay angel: 1
+dead souls: 1
+star trek: 1
+michael dwayne vick: 1
+tracy mcgrady: 1
+fray: 1
+rick warren: 1
+dunder mifflin paper company: 1
+marvin daniel harrison: 1
+terrell el: 1
+hatching pete: 1
+broken lizard's super troopers: 1
+maroon 5: 1
+jon stewart: 1
+clear channel communications: 1
+tgi friday's: 1
+green fl: 1
+don quixote: 1
+clementine: 1
+g: 1
+spoon river anthology: 1
+panama scandal: 1
+sam shepard: 1
+leeroy jenkins: 1
+dying gaul: 1
+dc united: 1
+phil lamarr: 1
+general grievous: 1
+jamarcus russell: 1
+huffman coding: 1
+university f: 1
+sierra leone: 1
+rick pitino: 1
+: 1
+yo la tengo: 1
+burn notice: 1
+bronzeville: 1
+jason bateman: 1
+bullet trains shinkansen prompt high speed rail like: 1
+black widow: 1
+hiv deniers: 1
+grand theft auto: chinatown wars: 1
+american dad: 1
+affirmative action: 1
+motown re: 1
+black sabbath prompt just sabbath: 1
+spread offense: 1
+best both: 1
+melvil dewey: 1
+hearts: 1
+moonraker: 1
+andromeda strain: 1
+virtual console: 1
+think dance: 1
+sandra bullock: 1
+eagles: 1
+psychiatrist: 1
+university arizona prompt wildcats: 1
+astrodome: 1
+twittering: 1
+lego: 1
+aladdin: 1
+*nsync: 1
+kelly clarkson: 1
+mac osx: 1
+curtis montague curt schilling: 1
+nba slam dunk contest: 1
+saloons: 1
+black eyed peas: 1
+patrick wayne swayze: 1
+flash: 1
+kris kristofferson: 1
+steak: 1
+david patterson: 1
+i'm yours: 1
+henry alfred kissinger: 1
+left 4 dead: 1
+blind side: 1
+mi: 1
+chicago bulls: 1
+chad ochocinco: 1
+netflix: 1
+jack nicholson: 1
+king hill: 1
+clive owen: 1
+big lebowski: 1
+star wars: empire strikes back: 1
+sam brad: 1
+ryan howard: 1
+robert novak: 1
+dietrich: 1
+cadence cw: 1
+mark: 1
+distillation: 1
+d: 1
+magnetic field earth: 1
+robert taft: 1
+m: 1
+atlas shrugged: 1
+mehmed ii: 1
+republic cuba: 1
+fashoda incident: 1
+prince charles: 1
+orioles' closers: 1
+sonny cuckoo bird: 1
+o a r: 1
+ice hockey: 1
+greg: 1
+katherine ann kate moss: 1
+pete edward rose sr: 1
+: 1
+macao: 1
+american international group: 1
+gunblade: 1
+franz ferdinand: 1
+raven: 1
+life beautiful: 1
+ebay inc: 1
+jerry rice: 1
+rear window: 1
+randall randy marsh: 1
+ran: 1
+apocalypse: 1
+: 1
+rollercoaster tycoon: 1
+band run: 1
+: 1
+mtv's next: 1
+trading: 1
+21: 1
+donald zackary zack greinke: 1
+boggle: 1
+look around: 1
+sergio garcia: 1
+solo: 1
+mookie: 1
+scott prompt dude quizno's commercials: 1
+tony hawk's pro skater soundtrack: 1
+king dedede ??: 1
+prince fielder kk: 1
+douglas yancey funnie gt: 1
+system down prompt soad lc: 1
+yahoo! tc: 1
+pedro alvares cabral tc: 1
+manning yc: 1
+france du: 1
+nick markakis cp: 1
+crowds power masse und macht: 1
+brains vat: 1
+mikvah: 1
+gay science: 1
+battle kurukshetra: 1
+john j mearsheimer: 1
+apophis: 1
+anti pope: 1
+undertaker: 1
+wudang school: 1
+quetzalcoatl: 1
+indiana jones last crusade: 1
+ba: 1
+pope john paul prompt john paul lamberto until mentioned albino luciani: 1
+djinni: 1
+allied atheist alliance prompt sea otters mention: 1
+aloysius snuffleupagus: 1
+captain marvel: 1
+heaven place earth: 1
+last temptation christ: 1
+bringing sheaves: 1
+okami: 1
+cronus: 1
+ambrose everett burnside: 1
+dharma initiative stations: 1
+duality: 1
+operation market garden: 1
+battle grunwald: 1
+justin smith: 1
+alan sidney patrick rickman: 1
+lohengrin: 1
+know nothings: 1
+civil disobedience: 1
+cesar pelli: 1
+mayaguez incident: 1
+talcott parsons: 1
+glass steagall act 1933: 1
+nintendo 64: 1
+magneto: 1
+christian charles philip bale: 1
+kurtis eugene kurt warner: 1
+nucleus: 1
+g: 1
+clayton antitrust act: 1
+passover seder: 1
+danity kane: 1
+termina: 1
+peter pan: 1
+avril lavigne: 1
+memris: 1
+war 2: 1
+thieving magpie: 1
+sancho 4: 1
+the fixation belief 5: 1
+cyclins 3: 1
+laser standard 2: 1
+rex: 1
+: 1
+calvinball 1: 1
+tanabe sugano diagrams 5: 1
+kimya dawson 5: 1
+esophagus: 1
+atharvaveda 4: 1
+aaahh!!! real monsters 2: 1
+inhumans 5: 1
+steve reich 3: 1
+akhnaten 3: 1
+counting cards blackjack: 1
+university west virginia mountaineers: 1
+daily show jon stewart: 1
+rick blaine: 1
+mariel boatlift: 1
+jumping shark: 1
+ferrell: 1
+ace cakes: 1
+chicago white sox prompt chicago: 1
+s: 1
+levar burton: 1
+miles tails prower: 1
+venom symbiote: 1
+subway foot long sandwiches: 1
+smooth criminal: 1
+s: 1
+two face prompt harvey dent read: 1
+randall gene randy moss: 1
+christina aguilera: 1
+rubik's cubes: 1
+kissing girl: 1
+joe namath: 1
+superbad: 1
+nicholas cage prompt nicholas kim coppola: 1
+the end: 1
+juno soundtrack: 1
+no: 1
+johnny cash: 1
+leona lewis: 1
+willard christopher smith jr prompt the fresh prince: 1
+bj upton: 1
+i can't believe it's butter!: 1
+timothy tim duncan: 1
+auburn university: 1
+handlebars: 1
+joe flacco: 1
+run dmc: 1
+ken jennings: 1
+talladega nights: ballad ricky bobby: 1
+ti: 1
+mary jane watson parker: 1
+pizzas: 1
+astroturf prompt artificial turf; synthetic turf; chemgrass;: 1
+yesterday: 1
+27 dresses: 1
+good eats: 1
+fedex: 1
+g: 1
+: 1
+oliver wendell holmes jr prompt holmes: 1
+mlb umpires: 1
+jason michael statham: 1
+empe: 1
+orlando magic: 1
+sacha baron cohen: 1
+final fantasy vii do advent children: 1
+jason tay: 1
+twlight: 1
+five elevenths 045 repeating: 1
+blu ray discs: 1
+18 units: 1
+patton: 1
+brady bunch: 1
+set: 1
+harry lillis bing crosby: 1
+matchbox twenty: 1
+helen thomas: 1
+steven paul jobs: 1
+stop loss: 1
+nba street: 1
+habitat humanity international: 1
+metal gear solid prompt mgs; metal gear: 1
+stephen collins foster: 1
+clocks: 1
+meet spartans: 1
+american idiot: 1
+alexander: 1
+dinosaur comics prompt qwantzcom: 1
+angry beavers: 1
+book secrets: 1
+lou dobbs: 1
+jynx: 1
+quidditch: 1
+nightmare christmas: 1
+met rx: 1
+pan's labyrinth el laberinto del fauno: 1
+metropolis: 1
+billie holliday: 1
+great schlep: 1
+timothy william burton: 1
+ross geller prompt geller: 1
+barenaked ladies: 1
+ghostbusters: 1
+solid snake sonic hedgehog: 1
+beyond good evil jenseits von gut und bose {ma}: 1
+istanbul: 1
+neoconservatism: 1
+izanagi {ba}: 1
+haman {en}: 1
+socialism country: 1
+eid al adha {cc}: 1
+copyright prompt intellectual property until left {ba}: 1
+medina {ba}: 1
+philosophical investigations {ma}: 1
+john claggart: 1
+adamantium: 1
+interdict: 1
+the man: 1
+landrum griffin act la: 1
+jeremiah: 1
+avia: 1
+thaddeus stevens: 1
+pharsalia bellum civile civil war: 1
+jeff suppan: 1
+steroids: 1
+al: 1
+treaty: 1
+alberto kenya fuji: 1
+the unit: 1
+clovis: 1
+julian apostate julian ii flavius claudius iulianus: 1
+griswold v connecticut: 1
+mere christianity: 1
+johann gottlieb fichte: 1
+: 1
+jim mcmahon: 1
+battle poltava: 1
+planarity: 1
+love;: 1
+payne aldrich tariff: 1
+ariel: 1
+highway 61 revisited: 1
+overcoat shinel: 1
+richard b riddick: 1
+gamma ray burster: 1
+johnny david damon: 1
+legend zelda: link past: 1
+shel silverstein: 1
+jesus christ: 1
+neil young: 1
+planet apes: 1
+st louis rams: 1
+death cab cutie: 1
+cosmo kramer: 1
+open championship: 1
+newsreels prompt film  propaganda film photograph: 1
+human: 1
+downton abbey: 1
+archers: 1
+patrick sean payton: 1
+grease: 1
+veal prompt cow meat calf meat: 1
+sauces prompt condiment mother: 1
+doubt: 1
+nathan nate drake: 1
+pete rose: 1
+geico: 1
+snowmen: 1
+kirby puckett: 1
+clinton clint eastwood jr prompt bill hader until second sentence: 1
+woolly mammoths: 1
+imagine: 1
+trailer park boys: 1
+raiders lost ark: 1
+houston: 1
+scarface: 1
+scooby doo: 1
+wild/domestic turkeys: 1
+ernest papa hemingway: 1
+persepolis volume 1 do persepolis 2 persepolis volume 2: 1
+don draper: 1
+mountain goats prompt john darnielle: 1
+achtung baby: 1
+phoenix wright: ace at: 1
+billy madison: 1
+ellie goulding: 1
+kiefer william frederick dempsey g: 1
+calzones: 1
+sweet alabama: 1
+rooks: 1
+prosthetic legs: 1
+harry potter: 1
+girl scout cookies: 1
+ace ventura: 1
+university: 1
+bleach: 1
+2012 summer olympics: 1
+alexander john lex lut: 1
+catcher: 1
+justin bieber: 1
+cartoon net: 1
+crane wife: 1
+alfredo james al pacino: 1
+ti 83: 1
+: 1
+blackadder: 1
+mark reynolds: 1
+dwayne douglas johnson: 1
+drake: 1
+mick jagger: 1
+icarly: 1
+my life suck without you: 1
+fifa: 1
+john malkovich: 1
+: 1
+princess bride: 1
+being tased: 1
+snakes: 1
+legend zelda: twilight princess: 1
+pricelinecom: 1
+pittsburgh penguins: 1
+gears war prompt gow: 1
+arenas: 1
+faces: 1
+gilbert gottfried saying you fool! hollywood squares: 1
+feet legs: 1
+butt fumble: 1
+nintendo wii do wii u: 1
+missing: 1
+great gatsby: 1
+showtime: 1
+dark matter: 1
+tight ends: 1
+joshua tyler josh freeman: 1
+richard milhous nixon: 1
+wes anderson: 1
+hoop dreams: 1
+brian david scalabrine: 1
+sacher: 1
+hitting walk off run prompt game winning run game ending run: 1
+napoleon dynamite: 1
+sharks: 1
+g: 1
+house lannister: 1
+alien abductions: 1
+minions: 1
+skyfall: 1
+jenna maroney: 1
+life: 1
+temptations: 1
+mark: 1
+amnesia: dark descent: 1
+peter gibbons: 1
+ability control ice: 1
+icing kicker freezing kicker prompt calling timeout mention: 1
+francis albert frank sinatra: 1
+easy rider: 1
+linus van pelt prompt van pelt: 1
+troy mcclure: 1
+nippon budokan: 1
+badlands: 1
+lewis allan lou reed: 1
+@midnight: 1
+silicon valley: 1
+claire catherine danes: 1
+lazaretto: 1
+r a dickey: 1
+bonzo: 1
+edge to: 1
+bomberman: 1
+javale mcgee: 1
+option play: 1
+ex boyfriends tay: 1
+phil collins: 1
+queer folk: 1
+gossip girl: 1
+lauryn noelle hill: 1
+zeppelins: 1
+colossal cave adventure: 1
+wiz khalifa: 1
+david robinson: 1
+manchester united football club: 1
+tele: 1
+dead parrot sketch: 1
+i fought law and law won: 1
+lemmings: 1
+rurouni kenshin: meiji s: 1
+david andrew andy samberg: 1
+won't fooled again: 1
+grinch: 1
+buddy ryan: 1
+house stark: 1
+university michigan wolverines: 1
+midnight cowboy: 1
+red skull: 1
+: 1
+blue album prompt weezer until it's read; weezer's album until debut: 1
+beast allegedly name adam hope nobody answers that: 1
+nashville preda: 1
+jump around do jump: 1
+archer: 1
+clerks: 1
+adam west: 1
+almonds: 1
+skyrim: 1
+grapes: 1
+ted mosby's wife: 1
+monty python's flying circus prompt monty python: 1
+courage cowardly dog: 1
+yoshi: 1
+detroit: 1
+district 9: 1
+party rock anthem: 1
+uncharted: 1
+metalbending prompt bending earthbending: 1
+princesses: 1
+newsroom: 1
+national public radio: 1
+ain't: 1
+detasseling: 1
+welding: 1
+twittercom: 1
+dr chris turk prompt turkleton gandhi variation chocolate bear: 1
+red: 1
+salads: 1
+chris pratt: 1
+tarot cards: 1
+eminem: 1
+finding nemo: 1
+fire extinguisher: 1
+telephone numbers: 1
+man yellow hat: 1
+ellen: 1
+stagecoach: 1
+yogurt: 1
+sasha grey: 1
+daughters louis ck: 1
+prison break: 1
+joakim simon noah: 1
+starcraft ii prompt starcraft because plays vanilla starcraft i?: 1
+english wikipedia prompt wikimedia: 1
+social dis: 1
+hidden tracks: 1
+bring head alfredo garcia: 1
+yankee stadium: 1
+battle sexes ii: 1
+venom prompt real names venom hosts: 1
+waylon smithers jr: 1
+evanescence: 1
+chris paul trade clusterfuck: 1
+kind blue: 1
+arrested development: 1
+usmnt: 1
+charles starkweather: 1
+coffee: 1
+so what?: 1
+karate kid: 1
+mulroney: 1
+ice‐t: 1
+darth vader: 1
+vesper lynd: 1
+lone ranger: 1
+lana del rey: 1
+hakeem abdul olajuwon: 1
+chainsaws: 1
+carlos beltran: 1
+whitney houston: 1
+running wrong way football: 1
+vienna: 1
+gary: 1
+john carter: 1
+mephistopheles: 1
+spanish inquisition: 1
+yippee ki yay motherfucker: 1
+eternal sunshine spotless mind: 1
+chicago cubs: 1
+jefferson airplane: 1
+rice krispies: 1
+bob dylan goes electric: 1
+uncle scrooge mcduck prompt mcduck: 1
+hand bitten off crocodile: 1
+deadmau5 pronounced dead mouse: 1
+sublime: 1
+pawn: 1
+josã© miguel miggy cabrera: 1
+frozen: 1
+metroid prime 3:: 1
+roman: 1
+captain falcon: 1
+bonnie clyde: 1
+albion: 1
+: 1
+murals pawnee city hall parks recreation: 1
+golden state warr: 1
+black canary: 1
+wasting light: 1
+chrono cross: 1
+bo staff: 1
+cannoli: 1
+hannah her sisters: 1
+dead space 2: 1
+kate upton: 1
+washington bullets: 1
+hit four runs game: 1
+fuck tha police: 1
+mclovin fogell: 1
+krusty clown: 1
+boos boo diddlys: 1
+scottie pippen: 1
+star wars episode iv: hope: 1
+sherlock holmes: 1
+street fighter: 1
+saint augustine hippo also saint austin augoustinos: 1
+: tele: 1
+yukio mishima: 1
+ang lee: 1
+simpsons: 1
+pittsburgh steelers: 1
+mewtwo: 1
+spongebob squarepants opening sequence: 1
+hobbit: desolation smaug prompt hobbit 2 anything doesn't mention official title: 1
+superman: 1
+alchemy: 1
+pink floyd's wall do another brick wall part 2: 1
+russell crowe: 1
+checks: 1
+nouns: 1
+tilde: 1
+wikipedi: 1
+federation internationale de football association: 1
+blackjack: 1
+subway: 1
+super smash bros melee: 1
+dancing: 1
+improvisational comedy: 1
+onion: 1
+mariano mo rivera: 1
+league legends: 1
+beastie boys: 1
+grand slam: 1
+dance fighting: 1
+homestar runner: 1
+ben roethlisberger prompt big ben: 1
+trapped closet: 1
+magikarp: 1
+pac man: 1
+vuvuzela: 1
+shutter island: 1
+taio cruz: 1
+titanic: 1
+take me: 1
+white stripes: 1
+good bad ugly: 1
+massachusetts institute technology mit: 1
+sir elton hercules john: 1
+bears: 1
+francis: 1
+shining: 1
+william shatner: 1
+: 1
+ms jackson: 1
+polo grounds: 1
+cleveland ohio: 1
+spam emails: 1
+price right: 1
+champagne: 1
+sid meier's civilization 5 prompt civ 5; sid meier's civilization after fifth; civ after fifth; partial answers fifth then refer game series: 1
+community: 1
+stanley cup: 1
+getting frozen ice: 1
+12 angry men: 1
+hades the games final fantasy ix god war 3: 1
+steve buscemi: 1
+doc: 1
+friday modera: 1
+take ball game: 1
+empe: 1
+help!: 1
+bugs bunny: 1
+happy meal: 1
+two half men: 1
+batman prompt dark knight bruce wayne mentioned; caped crusader: 1
+rafael nadal na dahl prompt rafa mentioned: 1
+saul goodman: 1
+mrs robinson: 1
+solange knowles prompt knowles: 1
+cheese antiprompt specific variety cheese; milk until rushan: 1
+alex trebek: 1
+wimbledon: 1
+22: 1
+shenmue: 1
+tarzan: 1
+astro lounge: 1
+commissioner baseball: 1
+ricin: 1
+galaxy quest: 1
+benghazi attack: 1
+randy savage hulk hogan: 1
+phil mickelson: 1
+amy winehouse: 1
+2007 co: 1
+killers: 1
+cake: 1
+: 1
+lock stock two smoking barrels: 1
+people's court: 1
+cheap trick: 1
+smack off: 1
+2008 fiesta bowl: 1
+the super bowl shuffle: 1
+leslie feist: 1
+eddie murray: 1
+spencer bonaventure tracy: 1
+riches: 1
+pistons pacers brawl: 1
+star man: 1
+iron &amp; wine: 1
+bacona: 1
+ncaa football death penalty: 1
+super freak: 1
+darren mcfadden: 1
+kal penn: 1
+two dollar bill: 1
+tree hill: 1
+kimono: 1
+ninja gaiden: 1
+magic missile: 1
+rilo kiley: 1
+mustard: 1
+carsten charles sabathia: 1
+albert einstein: 1
+pretzel: 1
+: 1
+mcdonald's: 1
+american whaling industry: 1
+lion hunt: 1
+boogie nights: 1
+illmatic: 1
+whistling: 1
+fifth element: 1
+g: 1
+twelfth man: 1
+1999: 1
+pussy riot: 1
+adventure: 1
+veronica mars: 1
+albuquerque: 1
+wolf wall street: 1
+college football: 1
+mindy kaling: 1
+gone girl: 1
+detroit pistons: 1
+vagrant s: 1
+seattle slew: 1
+tegan sara: 1
+meat loaf: 1
+professional: 1
+i shot sheriff: 1
+hakaeem olajuwan: 1
+tu: 1
+walk away: 1
+drake university: 1
+amsterdam: 1
+cbi college basketball invitational: 1
+dreamgirls: 1
+the well lighthouse: 1
+skip bayless: 1
+omar vizquel: 1
+matt hasselbeck: 1
+billy donovan: 1
+amy poehler: 1
+big momma's house: 1
+zinedine zidane headbutting marco materazzi 2006 fifa: 1
+jinx: 1
+bob during two sentences: 1
+wuthering heights: 1
+someone you: 1
+heartbeat: 1
+guitars: 1
+robin lopez: 1
+kaylee kaywinnit lee frye any those names just fine: 1
+taxi drivers: 1
+my sharona: 1
+knack: 1
+ocelots that t silent direc: 1
+rod beck: 1
+lemmiwinks: 1
+wheel fish: 1
+eliminating duke ncaa tournament: 1
+unbreakable kimmy schmidt: 1
+minivans: 1
+sir roger g: 1
+los angeles clippers golden state warr: 1
+battle hoth: 1
+red: 1
+milhouse van houten: 1
+pictures spider man: 1
+third base: 1
+trunks briefs prompt briefs; future trunks kid trunks: 1
+clock: 1
+doc: 1
+wreck it ralph: 1
+fish: 1
+lawyers: 1
+rohan: 1
+wants millionaire?: 1
+captain underpants: 1
+dr stephen t colbert d f a: 1
+a day life: 1
+baldwin: 1
+age empires series: 1
+mir: 1
+butter ghee prompt fat: 1
+rugby union: 1
+inside: 1
+orange black or oitn: 1
+ray allen: 1
+lasagna: 1
+red lobster: 1
+van gundy: 1
+diners prompt restaurant greasy spoon: 1
+: 1
+bruno mars: 1
+making war: 1
+republic haiti: 1
+raising minimum wage: 1
+federative republic brazil: 1
+rome: 1
+samurai: 1
+education: 1
+giants: 1
+bob's burgers: 1
+pac 12: 1
+christmas day: 1
+east germany: 1
+bishops: 1
+clue do cluedo: 1
+obsidian prompt volcanic glass mentioned: 1
+vin diesel​: 1
+adele laurie blue adkins: 1
+mountain climbing: 1
+charlie chocolate fac: 1
+knights: 1
+hans christian andersen: 1
+stephen steph curry: 1
+robert: 1
+zootopia: 1
+onions: 1
+chronicles narnia: 1
+richard russell rick r: 1
+magic: gathering: 1
+jennifer lawrence: 1
+mother goose: 1
+alan turing: 1
+uper smash bros: 1
+tatooine: 1
+pinball machines: 1
+poached eggs do boiled eggs: 1
+opera singer prompt singer: 1
+tele: 1
+: 1
+the dream police: 1
+atrus: 1
+ultraviolet: 1
+vinny del negro: 1
+astro pops: 1
+charles charge: 1
+parker bohn iii: 1
+ting tings: 1
+wonderfalls: 1
+itty bitty titty committee: 1
+thamasa: 1
+johnny paycheck: 1
+passion pit: 1
+republic india: 1
+rick: 1
+deflating football: 1
+kanye west: 1
+donald glover: 1
+hamilton: american musical: 1
+bananas: 1
+arrow: 1
+grayson allen tripping people prompt less specific answers mentioning just grayson allen tripping people both; book question grayson allen's trip advi: 1
+john wick: 1
+trolley problem: 1
+tom petty: 1
+sell: 1
+brainiac: 1
+fire emblem: 1
+bon jovi: 1
+philip j fryâ: 1
+jimmy kimmel's i'm fucking ben affleck: 1
+trainwreck: 1
+bulls: 1
+true detective: 1
+kermit frog: 1
+kendrick lamar duck: 1
+ants: 1
+zachary levi: 1
+dwight schrute: 1
+crusader kings: 1
+matthew david mcconaughey: 1
+pitch perfect 2 do just pitch perfect: 1
+papa john's pizza: 1
+chicago bears: 1
+shania twain: 1
+fx: 1
+cinderella: 1
+jerry seinfeld: 1
+ticket ride: 1
+miley cyrus: 1
+outback: 1
+: 1
+gray's anatomy: 1
+good luck: 1
+enterprise rent a car: 1
+superjail!: 1
+festivusâ maximus prompt super bowl super bowl xxxv: 1
+massive multiplayer games prompt partial answer; video games; m: 1
+roger alien: 1
+university cali: 1
+far east movement: 1
+don nelson: 1
+jamie dixon: 1
+xena: warr: 1
+tossup question yep meta tossup: 1
+liberal crime squad: 1
+shaolin soccer: 1
+last templar: 1
+pride: 1
+zz top: 1
+raccoon: 1
+dave winfield: 1
+samson: 1
+temple: 1
+gabe lewis: 1
+gullah gullah island: 1
+hugh laurie: 1
+koopa troopa generously things turtle like creatures mario: 1
+briefcase pulp fiction: 1
+eva green: 1
+ted mosby: 1
+sammyâ baugh: 1
+nasty wanna beâ prompt as clean wanna be: 1
+donâ rickles: 1
+biowareâ: 1
+cocktail: 1
+ma: 1
+admiral ackbar: 1
+black mages black wizards: 1
+rollerball: 1
+came beneath sink!: 1
+famicom disk systemâ: 1
+stephen william billyâ bragg: 1
+kuja: 1
+roots: 1
+disney princessesâ: 1
+: 1
+dude where's car?: 1
+super mario galaxy 2: 1
+beyonceâ knowles: 1
+leadbelly: 1
+walter elias walt disney: 1
+smiths: 1
+bill mazeroski's run end game 7 1960: 1
+washington redskins prompt nfl national football league: 1
+ghostface killah: 1
+triangle offense: 1
+riot grrrl prompt third wave feminism underground punkâ—they need give exact answer: 1
+jon snow's mother: 1
+jedi code do answers especially jedi creed: 1
+black sabbath: 1
+fifa: 1
+get lucky: 1
+dan le batard: 1
+covenant religion: 1
+: 1
+movies prompt similar answers amateur movies: 1
+oxen sun: 1
+battle thermopylae: 1
+g: 1
+i spartacus! i'm spartacus!: 1
+bear bears: 1
+jaguar cars: 1
+puff magic dragon: 1
+goa'uld: 1
+milotic: 1
+poochie poochie d: 1
+goldy gopher prompt golden gopher merely many golden gophers just adam weber andrew hart: 1
+mothman: 1
+godzilla: 1
+mailchimp: 1
+john carmack: 1
+hanna barbera productions inc: 1
+sushi: 1
+valve handbook employees: 1
+drinking straw: 1
+singles day: 1
+mlb advanced media: 1
+playing cards: 1
+michelin: 1
+bingo: 1
+zines: 1
+bally manufacturing company: 1
+starbucks pumpkin spice latte: 1
+slack: 1
+mad magazine: 1
+napster: 1
+michael larson: 1
+barbie: 1
+hulk hogan sex tape: 1
+n64 emula: 1
+hooli: 1
+se: 1
+hamsters: 1
+jerry garcia: 1
+nes: 1
+stealth prompt things radar invisibility end: 1
+re: 1
+♥: 1
+genius: 1
+playboy clubs prompt gentlemen's clubs; nightclubs mentioned; brothels; playboy mansions: 1
+freddy pig: 1
+jim bouton: 1
+nightfall: 1
+ned nickerson: 1
+jack benny: 1
+goodnight moon: 1
+baby sitters club: 1
+nicolae carpathia: 1
+rl stine: 1
+jessica wakefield: 1
+catherine tramell: 1
+little engine could: 1
+alfred e neuman: 1
+ghostwriter: 1
+biggles: 1
+curious g: 1
+fu manchu: 1
+duke: 1
+cat hat: 1
+little t learns share: 1
+jake featherston: 1
+pd eastman: 1
+jake sisko: 1
+chitty chitty bang bang: 1
+helga pataki: 1
+splinter mind's eye: 1
+wayside school: 1
+tom swift: 1
+jack: 1
+eat fried: 1
+chuck: 1
+mike hammer: 1
+jose chung: 1
+uncle john's bathroom readers: 1
+hamster huey gooey kablooie: 1
+snoopy: 1
+kevin murphy: 1
+imagineer prompt stuff disney employee disney engineer; don't just engineer: 1
+pile poop emjoi: 1
+jell o: 1
+dr dre: 1
+: 1
+video poker: 1
+ian bogost: 1
+soylent do soylent green it's actually called that â: 1
+imitation game: 1
+spacewar!: 1
+sega saturn: 1
+newgroundscom: 1
+sean parker: 1
+winamp â: 1
+penny arcade: 1
+nir eyal: 1
+colin kaepernick: 1
+dj khaled: 1
+herbie hancock &lt;white&gt;: 1
+tōkyō japan &lt;cheyne&gt;: 1
+charles manson: 1
+churches do stuff “chapels” because clues refer “church” specifically &lt;sb&gt;: 1
+katie ledecky &lt;sb&gt;: 1
+saturday &lt;cl&gt;: 1
+zlatan ibrahimović prompt zlatan; ibra &lt;po&gt;: 1
+whip: 1
+missouri &lt;ga&gt;: 1
+sands: 1
+seattle seahawks: 1
+: 1
+frogs: 1
+steel: 1
+seven samurai: 1
+good hunting: 1
+jenner: 1
+quentin tarantino: 1
+star wars episode vii:: 1
+full metal jacket: 1
+christopher michael “chris” pratt: 1
+taking selfie: 1
+richard dawkins: 1
+pepe frog: 1
+“bohemian rhapsody”: 1
+: zlatan ibrahimovic: 1
+back future part one do parts beside “one”; ed’s note: promised hoverboards now: 1
+david letterman: 1
+championship wimbledon: 1
+tom cruise: 1
+pulp fiction: 1
+marvin gaye: 1
+batman: 1
+assassination john lennon: 1
+white album: 1
+pilots: 1
+adult swim prompt cartoon net: 1
+stan: 1
+orenthal james simpson trial: 1
+walter white: 1
+six the series 2002 western conference finals; 1998 nba finals; 2013 nba finals; ed’s note: sadly couldn’t fit most im: 1
+doc: 1
+bruce lee: 1
+thriller: 1
+mrs valerie felicity frizzle: 1
+knights prompt: 1
+friends &lt;cc&gt; halftime: 1
+legend zelda: ocarina prompt “legend zelda” &lt;ms&gt;: 1
+abba &lt;mip&gt;: 1
+homeland &lt;da&gt;: 1
+chief keef: 1
+interstellar &lt;ap trash&gt; bonuses: 1
+honda mo: 1
+chocolate: 1
+hulk: 1
+moneyball: art winning unfair game &lt;nc trash&gt;: 1
+united kingdom: 1
+rent: 1
+vertigo: 1
+“blank space”: 1
+“call maybe” &lt;kt&gt;: 1
+mean girls &lt;jd&gt;: 1
+“the fox” “what does fox say?” &lt;ec&gt;: 1
+pirates: 1
+rubik’s cube &lt;ec&gt;: 1
+lance edward armstrong: 1
+arrows do “bow” “bow arrow” the line references mulan hobbit: desolation smaug &lt;ec&gt;: 1
+rose bowl game prompt “the granddaddy them all”: 1
+lions &lt;jd&gt;: 1
+hobbits: 1
+oklahoma!: 1
+what is jeopardy!ed’s note: exclamation necessary: 1
+stark family &lt;mj&gt;: 1
+sox: 1
+wolf o’donnell: 1
+shaquille o’neal: 1
+fun: 1
+slow clap: 1
+western films: 1
+judge judy sheindlin: 1
+beef &lt;kk&gt;: 1
+g: 1
+simba &lt;mj&gt;: 1
+detroit tigers: 1
+terrans: 1
+drag per: 1
+french laundry: 1
+truffles prompt fungus mushrooms: 1
+wim wenders: 1
+penelope spheeris: 1
+savoy ballroom: 1
+children's hospitals: 1
+apocalypse &lt;cheyne&gt;: 1
+columbine high school massacre &lt;cheyne&gt;: 1
+dwayne “the rock” johnson: 1
+pigs: 1
+talos: 1
+sufjan stevens &lt;hart&gt;: 1
+: 1
+roger ebert: 1
+wham! &lt;carson&gt;: 1
+johnny manziel: 1
+kenny g: 1
+broadway: 1
+watch dogs &lt;carson&gt;: 1
+jess: 1
+donald duck prompt duck: 1
+university alabama auburn university: 1
+g: 1
+dennis menace: 1
+jason sudeikis: 1
+penguin: 1
+double indemnity: 1
+: 1
+rocket raccoon: 1
+invulnerability: 1
+destroying death star: 1
+: 1
+nasa: 1
+praying: 1
+clouds: 1
+chickpeas: 1
+prisons: 1
+los angeles chargers: 1
+jackson 5: 1
+spider man: 1
+bart simpson prompt simpson mention; el barto: 1
+dark knight rises: 1
+karma: 1
+ronald reagan: 1
+monkeys: 1
+redditcom: 1
+dallas cowboys and washington redskins only each pair names needed: 1
+creep: 1
+rocky balboa: 1
+rainbow connection: 1
+: 1
+cary grant: 1
+muddywaters: 1
+peru: 1
+zombies: 1
+per: 1
+nicolas kim coppola grudgingly nicholas cage tell players that's name took: 1
+power rangers: 1
+harvard crimson yale bulldogs: 1
+nick saban: 1
+grand theft auto v: 1
+twitch plays pokemon red: 1
+milwaukee brewers: 1
+loch ness monster: 1
+friedrich “fritz” lang: 1
+men’s basketball head coach indiana: 1
+guys dolls: 1
+“scar: 1
+dr simon hurt: 1
+dr henry “hank” pym: 1
+anti life equation prompt partial ale: 1
+hawkeye: 1
+52 do “52” itself: 1
+matthew abram “matt” groening: 1
+ego living planet prompt living planet end question: 1
+teenage mutant ninja turtles: 1
+squirrel girl: 1
+jimmy olsen: 1
+fight between human: 1
+etrigan prompt jason blood: 1
+jeffrey paul “jeph” jacques: 1
+prisons: 1
+jack kirby: 1
+usagi yojimbo: 1
+scott mccloud: 1
+justice society america: 1
+g: 1
+captain marvel superman prompt partial answer; shazam place captain marvel it’s read: 1
+green arrow black canary: 1
+; yellow kid: 1
+infinity gauntlet ed’s note: thanos always too tricky own good: 1
+alien invasions earth: 1
+shape shifting: 1
+harley quinn prompt partial; harleen frances quinzel either both underlined parts: 1
+dark claw prompt logan wayne: 1
+iron fist: 1
+5th dimension: 1
+t: 1
+bronze age anti prompt dc explosion dc implosion; ed’s note: “implosion” being actually happened…: 1
+atom: 1
+lobo: 1
+nausicaä valley wind: 1
+“kraven’s last hunt”: 1
+miscarriage ctrl alt del: 1
+cardboard boxes from calvin hobbes anti prompt specific devices duplica: 1
+mandarin: 1
+marvel 2099: 1
+: 1
+united kingdom anti prompt great britain england: 1
+samurai prompt s: 1
+speed: 1
+planet hulk: 1
+groot ed’s note:  1000 dolt thinks they’re clever saying ‘i groot’  nah love groot give ‘em +50 imaginary points: 1
+william erwin “will” eisner: 1
+mongul: 1
+devil fruit prompt “fruit” guess: 1
+clones: 1
+captain marvel: 1
+hyperbole half: 1
+fantastic four ed’s note: variations fantastic 4 fant4stic 4 f4nt4sti4 4: 1
+circuses: 1
+barbara “babs”: 1
+x: 1
+sound music: 1
+concussions: 1
+dallas mavericks: 1
+black dragons: 1
+britney spears &lt;sl&gt;: 1
+sopranos &lt;sjw&gt;: 1
+jeremy shu how lin &lt;mhh&gt;: 1
+misty: 1
+g: 1
+lightsabers &lt;mj&gt;: 1
+trix rabbit prompt “silly rabbit” “rabbit” &lt;mpg&gt;: 1
+billy joel: 1
+profes: 1
+robert “bobby” fischer &lt;dsteinberg&gt;: 1
+: 1
+miami marlins: 1
+marlene dietrich: 1
+kristen bell: 1
+alex jones: 1
+amusement park: 1
+big s: 1
+deep space 9: 1
+beast: 1
+cobra command: 1
+laserblast: 1
+escape la: 1
+fantastic voyage: 1
+running steps philadelphia museum art: 1
+do hear people sing?: 1
+bill haley: 1
+everybody wants some!!: 1
+stuntman: 1
+little prince: 1
+1996 summer olympics: 1
+ira glass: 1
+ingrid bergman: 1
+selma: 1
+mia: 1
+okja: 1
+ancient rome: 1
+resident evil: 1
+weight loss programs bonuses: 1
+glow: 1
+president united states america prompt politician: 1
+bob marley: 1
+donald sutherland: 1
+carrie brownstein: 1
+founder: 1
+thanksgiving football games prompt cowboys games cowboys redskins games clue: 1
+hound dog: 1
+moonlight: 1
+replacements: 1
+big hero 6: 1
+john doe prompt john: 1
+hollywoo stars celebrities: know? know things?? let's find out! prompt bojack: 1
+area 51 bonuses: 1
+lee daniels' butler: 1
+cats: 1
+great british bake off: 1
+g: 1
+leon black: 1
+casting direc: 1
+yooka laylee: 1
+elea: 1
+pablo escobar: 1
+al green: 1
+love &amp; mercy: 1
+boston marathon: 1
+band: 1
+taxi cab driver: 1
+vikings prompt: 1
+alexander payne: 1
+juice: 1
+rectify: 1
+eddie eagle: 1
+into woods: 1
+ballet dancers: 1
+felix cat: 1
+tonya harding nancy kerrigan: 1
+titus andromedon: 1
+elvis's 1968 comeback special prompt elvis: 1
+e t bonuses: 1
+altamont speedway festival: 1
+hidden figures: 1
+american football: 1
+jemaine clement: 1
+aretha franklin: 1
+movie novelizations: 1
+joan rivers: 1
+dragon cancer: 1
+fruitvale station: 1
+kenneth lonergan: 1
+trash: 1
+leonard cohen: 1
+evel knievel: 1
+rod serling: 1
+hell high water: 1
+lose yourself: 1
+children men: 1
+elvis impersona: 1
+prince's houses: 1
+comrade detective: 1
+le mans: 1
+voiceover acting: 1
+hippies: 1
+20th century women: 1
+stealing: 1
+property brothers: 1
+good place: 1
+starcraft: 1
+jesse eisenberg: 1
+philomena: 1
+yonkers: 1
+comedy cellar: 1
+whitney houston's rendition national anthem: 1
+jacksonville jaguars: 1
+kingdom spain: 1
+lady bird &lt;trash&gt;: 1
+rage against machine: 1
+france: 1
+ufos: 1
+moon: 1
+beyoncé: 1
+bee movie &lt;william groger&gt;/&lt;ed sp&gt;/&lt;ed jo&gt;: 1
+starkiller base &lt;william groger &amp; john john groger&gt;/&lt;ed sp&gt;/&lt;ed jo&gt;: 1
+chance rapper: 1
+roller coasters &lt;max grimes&gt;/&lt;ed sp&gt;/&lt;ed jo&gt;: 1
+eli manning prompt “manning”: 1
+disney princesses: 1
+travel: 1
+melodrama: 1
+charlottesville rally: 1
+frank ocean &lt;cohen&gt;: 1
+stephen kevin “steve” bannon prompt grim reaper it’s mentioned &lt;park&gt;: 1
+pizza: 1
+daniel day lewis &lt;kuang&gt;: 1
+chicago prompt specific team names such cubs white sox &lt;suh&gt;: 1
+“lose yourself” &lt;kuang&gt;: 1
+uncle ben: 1
+cristiano ronaldo dos santos aveiro: 1
+balti: 1
+ingmar bergman &lt;owen/jin&gt;: 1
+tina: 1
+mesoamerican ballgame: 1
+typefaces: 1
+bob fosse “foss ee”: 1
+pineapple: 1
+catalonia: 1
+commonwealth australia &lt;ec academic&gt;: 1
+house cards: 1
+profes: 1
+: kendrick lamar’s music videos: 1
+united airlines inc: 1
+kevin durant: 1
+pepsi: 1
+no: 1
+dogs: 1
+frankenstein &lt;kothari&gt;: 1
+macguffins prompt plot devices &lt;jose&gt;: 1
+advertisements: 1
+: 1
+trains &lt;weiser&gt;: 1
+school shootings: 1
+last jedi: 1
+2018 winter olympics: 1
+dreams &lt;as trash&gt;: 1
+nba: 1
+sopranos &lt;sam&gt;: 1
+prison: 1
+gawkercom: 1
+tom hanks &lt;cd&gt;: 1
+lean &lt;cd&gt;: 1
+baby driver: 1
+: 1
+chance rapper: 1
+survi: 1
+los angeles rams: 1
+south park: 1
+netherlands holland &lt;hao&gt;: 1
+chance rapper: 1
+long take: 1
+wonder woman &lt: 1
+beyoncé knowles carter &lt;tummarakota&gt;: 1
+maurice merleau ponty jean paul sartre &lt;philosophy&gt;: 1
+sourdough bread: 1
+jazz trios: 1
+nature’s metropolis: chicago great west &lt;long fiction&gt;: 1
+bringing back &lt;other academic&gt;: 1
+lonzo ball: 1
+kneeling during national anthem: 1
+wire: 1
+“despacito”: 1
+amazoncom inc: 1
+statue liberty: 1
+steve bannon: 1
+evita &lt;carson arts   misc&gt;: 1
+xerox: 1
+mo: 1
+playing piano: 1
+disney: 1
+buddy rich: 1
+iron dome: 1
+women’s gymnastics: 1
+irish catholic jewish: 1
+persona &lt;ds&gt;: 1
+kevin durant’s twitter accounts: 1
+gucci on line gucci mane guwop &lt;jm&gt; edi: 1
+video game soundtracks: 1
+matthew staf: 1
+robert johnson: 1
+cyclops: 1
+muhammad ali joe frazier: 1
+houston astros: 1
+seinfeld &lt;dinis trindade&gt;/&lt;ed sean&gt;/&lt;ed jacob&gt;: 1
+altoids prompt mints &lt;wenzer qin&gt;/&lt;ed sean&gt;/&lt;ed jacob&gt;: 1
+kendrick lamar k dot; king kendrick; kendrick lamar duck: 1
+nyota uhura: 1
+pokemon go &lt;alex harmata&gt;/&lt;ed jacob&gt;: 1
+carl edward sagan &lt;the above question cate: 1
+hair: 1
+crack cocaine: 1
+gotham: 1
+smurfs: 1
+fifa women's: 1
+pretty little liars: 1
+neil degrasse tyson: 1
+felicity jones: 1
+ariana grande butera: 1
+montage &lt;mcmaken&gt;: 1
+hq2: 1
+hitchhiker’s guide galaxy &lt;stecko&gt;: 1
+nuclear bombs &lt;rk&gt;: 1
+trains &lt;jm&gt;: 1
+gallows &lt;jm&gt;: 1
+brown paper bags prompt bags &lt;rk&gt;: 1
+space stations: 1
+ten commandments: 1
+oval office desks prompt “the president’s desk” &lt;wn&gt;: 1
+videotapes: 1
+edward hopper &lt;lc&gt;: 1
+grandmaster flash furious five also grandmaster flash 3 mcs until lyrics “the message” thereafter; just grandmaster flash joseph saddler &lt;jg&gt;: 1
+paris &lt;theo&gt;: 1
+pwc: 1
+ikea &lt;ejw&gt;: 1
+seattle seahawks: 1
+tubular bells &lt;tom&gt;: 1
+zombies prompt undead mention &lt;theo&gt;: 1
+ian curtis &lt;jk&gt;: 1
+guardian: 1
+pingu &lt;tom&gt;: 1
+spoons &lt;lc&gt;: 1
+sofia coppola &lt;ejw&gt;: 1
+supermarionation: 1
+elizabeth ii’s: 1
+miriam margolyes &lt;lc&gt;: 1
+tinder &lt;jk&gt;: 1
+andrew lloyd webber plagiarising things allegedly: 1
+mitchell johnson &lt;theo&gt; bonuses:: 1
+rachel meghan markle &lt;lc&gt;: 1
+russian roulette scene deer hunter prompt just deer hunter; descriptions “russian roulette” playing guns whatever ultimately require exact phrase: 1
+: 1
+threat level midnight: 1
+wachowski ed’s note: intentionally made parts question singular when course aptly refers pair: grammatically misleading technically: 1
+federal republic nigeria: 1
+thx: 1
+abba ed’s note: chiasmus: 1
+cool hand luke: 1
+travel: 1
+john cusack: 1
+felix gary gray: 1
+tree life: 1
+emily blunt: 1
+kathryn bigelow: 1
+mood love: 1
+name: 1
+magic mike do “magic mike xxl”: 1
+blumhouse productions: 1
+sony hack: 1
+mr miyagi: 1
+wheelchair scene mac: 1
+breathless: 1
+: 1
+taraji penda henson: 1
+thelma schoonmaker: 1
+brawndo: 1
+joss whedon ed’s note: ac: 1
+zealand: 1
+cloverfield prompt: 1
+: 1
+love actually: 1
+jump scare prompt just “scare”; “suspense” “tension” asking “what kind moment does film usually pay off sequence with?”; anti prompt ask less specific “lewton bus” read; edi: 1
+kevin hart dwayne johnson prompt partial answer; “the rock” place johnson: 1
+internet: 1
+madea: 1
+: 1
+sharon stone: 1
+santa claus: 1
+infinity stones: 1
+omar sharif: 1
+stalker: 1
+hot ed’s note: “some hot personally prefer classical music”: 1
+carol: 1
+apu trilogy: 1
+god’s dead: 1
+aids: 1
+highway jumping scene speed prompt partial answer; anything vaguely describing jump bus speed; partial answers mention speed bus: 1
+angelina jolie: 1
+planes trains automobiles: 1
+films made using legos: 1
+darth vader scene rogue: 1
+chimes midnight: 1
+ken watanabe: 1
+: 1
+trailer alien: 1
+blackface: 1
+nyu: 1
+deep throat: 1
+: 1
+manic pixie dream girl prompt mpdg; variations phrase “dream girl”; manic pixie dreamland “all: 1
+dogs: 1
+errol: 1
+wolf warr: 1
+pet detective prompt just “detective” “private investiga: 1
+sidney poitier: 1
+what’s opera doc?: 1
+die another day: 1
+michael audrey myers: 1
+somalia: 1
+being black list: 1
+richard linklater: 1
+being able understand inception: 1
+blaxploitation prompt exploitation; films clued named are: 1
+smith: 1
+mgm: 1
+super 8 prompt “8 mm”; super 8 someone somehow pronounce italics; film guess?: 1
+mad max: fury road prompt just “mad max”: 1
+guns prompt weapons similar; specific kinds guns rifles; ammunition bullets asking “what items things most commonly used equipment: 1
+robert red: 1
+nightcrawler: 1
+given sunday: 1
+wes anderson the clues: 1
+high school prompt “school”; anti prompt reasonable location inside high school including limited to theater basketball gym: 1
+michael giacchino “juh key no”: 1
+jodie foster: 1
+2017 best picture flub: 1
+pauline kael: 1
+searchers: 1
+bong joon ho: 1
+cinemasins anti prompt ask less specific “everything wrong with”; ed’s note: yes question hugely edi: 1
+harvey weinstein prompt just weinstein: 1
+bad bears: 1
+scenes shot roger deakins give leeway very vague general answers “beautiful shots”; generally anything mentioning deakins; ed’s note: yes awful question: 1
+aardman animations ltd: 1
+red: 1
+tommy wiseau: 1
+nicolas cage: 1
+boys don’t cry: 1
+fred astaire: 1
+f: 1
+act killing: 1
+lost translation: 1
+2008 financial crisis: 1
+anna wong ed’s note: “ccc” = curious chinese child: 1
+mumble: 1
+asghar farhadi: 1
+shah rukh khan prompt “srk” until read: 1
+jerry bruckheimer: 1
+manos: hands fate: 1
+having sex: 1
+call name: 1
+andré bazin: 1
+church scientology: 1
+bicycles: 1
+attack block: 1
+“based true s: 1
+miss congeniality prompt “gracie hart; “gracie lou freebrush”; “fbi agent” similar things until read asking “what title she awarded her peers?”; “miss america” “miss usa”: 1
+joe pesci: 1
+spike lee: 1
+meryl streep: 1
+drunken master: 1
+academy award best makeup hairstyling: 1
+charlie kaufman: 1
+song south: 1
+argentina: 1
+omen: 1
+west virginia do “best virginia”: 1
+mark duplass: 1
+venus fly trap: 1
+pinhead: 1
+pt: 1
+green the films green inferno green room soylent green: 1
+scream queens: 1
+anya tay: 1
+house 1000: 1
+“fifteen million merits”: 1
+gremlins 2: batch: 1
+loved ones: 1
+james wan bonuses:: 1
+top gun &lt;nr trash film&gt;: 1
+red soles: 1
+love simon &lt;wd trash film&gt;: 1
+elder scrolls series: 1
+abraham lincoln: 1
+miracle ice: 1
+university kansas: 1
+elon musk &lt;ga current events&gt;: 1
+slideshows: 1
+blues also blues rock “desert blues”; african finger style guitar music partial answers; tuareg tamasheq music; rock music rebel music; agadez so called “sultan shred” bombino &lt;jg&gt;: 1
+meatballs &lt;dj&gt;: 1
+barbados &lt;jm&gt;: 1
+ancient aliens hypothesis: 1
+fela kuti prompt surname alone&lt;th&gt;: 1
+israeli defence: 1
+lebanon: 1
+shohei imamura the film pigs battleships&lt;th&gt;: 1
+youssou n’dour &lt;dj&gt;: 1
+ousmane sembène &lt;ejw&gt;: 1
+friendship between mudasir ismail ahmed asif rana raza: 1
+chile &lt;es&gt;: 1
+alejandro jo: 1
+england patriots: 1
+pied piper llc &lt;hart&gt;: 1
+fletch: 1
+g: 1
+backing ass: 1
+helium balloons: 1
+frog fractions &lt;carson&gt;: 1
+murder she wrote &lt;carson&gt;: 1
+marvin gaye’s national anthem: 1
+: 1
+“africa” &lt;gehring&gt;: 1
+alan partridge: 1
+franco harris &lt;carson&gt;: 1
+matt taibbi: 1
+harvey danger &lt;carson&gt;: 1
+sandwich wraps: 1
+matt damon: 1
+election donald john trump: 1
+“girlfriend” &lt;carson&gt;: 1
+joe theismann’s leg breaking: 1
+bye bye birdie &lt;hart&gt;: 1
+simcity 2000 prompt “sim city”; simcity games the spinoff streets simcity &lt;carson&gt;: 1
+oprah car giveaway: 1
+richard simmons: 1
+“sabotage” &lt;gehring&gt;: 1
+s: 1
+battlestar galactica &lt;gehring&gt;: 1
+trust process: 1
+languages: 1
+the buzzcocks: 1
+martin &lt;gehring&gt;: 1
+chapman: 1
+remote controls: 1
+ta nehisi coates: 1
+tinker evers chance: 1
+shadows: 1
+ahmad rashād: 1
+jerry springer: 1
+foxtrax: 1
+“say name” &lt;hart&gt;: 1
+dothraki language &lt;gehring&gt;: 1
+dawson’s creek love triangle: 1
+“behind blue eyes” &lt;hart&gt;: 1
+geno auriemma: 1
+oddibe mcdowell’s water bills prompt partial answers mentioning oddibe “mcdowell” “water bills” &lt;hart&gt;: 1
+tallest player nba given: 1
+ashleys: 1
+“love train” &lt;hart&gt;: 1
+captain america being member hydra: 1
+lion: 1
+master hand: 1
+ball four &lt;hart&gt;: 1
+following &lt;gehring&gt;: 1
+herbie love bug &lt;gehring&gt;: 1
+faith &lt;carson&gt;: 1
+jag &lt;gehring&gt;: 1
+edge: 1
+chicago illinois &lt;carson&gt;: 1
+: 1
+blood: 1
+oil spills: 1
+trolley problem: 1
+waffle house prompt “restaurants” &lt;gehring&gt;: 1
+f: 1
+rv calpyso: 1
+roger stone: 1
+chipper jones: 1
+prompt “me” answers indicating “self” &lt;hart&gt;: 1
+kobe bryant’s last game: 1
+olivia hussey: 1
+knocking wood &lt;gehring&gt;: 1
+slap &lt;hart&gt;: 1
+jim harbaugh: 1
+macgruber &lt;hart&gt;: 1
+“in end” &lt;hart&gt;: 1
+la brea tar pits &lt;hart&gt;: 1
+camila cabello: 1
+jamaican bobsled team: 1
+emmitt smith: 1
+bradley cooper jennifer lawrence: 1
+link’s boomerang: 1
+arie luyendyk jr: 1
+ennio: 1
+clemens &lt;hart&gt;: 1
+apple jacks &lt;hart&gt;: 1
+culkin: 1
+treasure sierra madre &lt;hart&gt;: 1
+flight attendants: 1
+dan okrent: 1
+jazz: 1
+film sets: 1
+taxslayer ga: 1
+bottom well: 1
+elephant &lt;hart&gt;: 1
+smallville &lt;gehring&gt;: 1
+rowan &amp; martin’s laugh in &lt;gehring&gt;: 1
+“express yourself” &lt;carson&gt;: 1
+apocalypse &lt;hart&gt;: 1
+buffy vampire slayer &lt;gehring&gt;: 1
+leonardo da vinci: 1
+craw: 1
+lsu tigers: 1
+: 1
+high heels: 1
+beach house &lt;hart&gt;: 1
+angus macgyver: 1
+wrongfully accused &lt;hart&gt;: 1
+amazing sea monkeys &lt;hart&gt;: 1
+: 1
+italy: 1
+bailey: 1
+everybody loves raymond &lt;gehring&gt;: 1
+university memphis: 1
+andy milonakis: 1
+fiddler roof &lt;hart&gt;: 1
+sinking rms titanic: 1
+team rocket &lt;carson&gt;: 1
+hawkins: 1
+depeche mode &lt;carson&gt;: 1
+boston: 1
+deal deal briefcase models: 1
+trog: 1
+oil boyd: 1
+daytona &lt;hart&gt;: 1
+art: 1
+running scis: 1
+tupelo: 1
+“holiday” do answers the 1994 song weezer &lt;hart&gt;: 1
+nanny &lt;hart&gt;: 1
+luann &lt;carson&gt;: 1
+camp crystal lake: 1
+jones: 1
+“i think we’re alone now” &lt;carson&gt;: 1
+jeffrey michael tam: 1
+chris webber: 1
+2 fast 2 furious: 1
+stargate sg 1 prompt “stargate” &lt;gehring&gt;: 1
+“the bad touch” &lt;hart&gt;: 1
+grozny &lt;hart&gt;: 1
+tracer: 1
+owning tv: 1
+kim jong il’s round golf pyongyang golf complex: 1
+summertime: 1
+shangri la: 1
+tony romo: 1
+david tennant: 1
+“the warr: 1
+queer duck &lt;hart&gt;: 1
+alarm clock groundhog day: 1
+tgi fridays: 1
+“the girl ipanema”: 1
+melissa joan hart &lt;gehring&gt;: 1
+“zombie” &lt;gehring&gt;: 1
+nate robinson: 1
+madonna’s cone bra: 1
+daria &lt;gehring&gt;: 1
+tekken &lt;carson&gt;: 1
+j jonah jameson jr: 1
+“great balls fire” &lt;hart&gt;: 1
+dennis franz: 1
+beckett: 1
+open mike eagle: 1
+pablo sanchez: 1
+school bus accident: 1
+high fives prompt less specific answers mentioning “five”; “low five” &lt;hart&gt;: 1
+ping: 1

@@ -7,6 +7,8 @@ import android.content.res.Resources;
 import android.database.Cursor;
 import android.database.sqlite.*;
 import android.text.TextUtils;
+import java.util.HashMap;
+import java.util.Map;
 import android.util.Log;
 
 import com.example.brainteam.R;
@@ -16,6 +18,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.lang.reflect.Array;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -30,16 +33,30 @@ public class DatabaseManager extends SQLiteOpenHelper
     public Context context;
     public int[] IDs;
     public int[][] equalIDs;
-    boolean equal = false;
+    public boolean equal = false;
+    public int lastXDays;
+    public int lastXAdditions;
+    public ArrayList<String> categories = new ArrayList<>();
+    public ArrayList<String> difficulties = new ArrayList<>();
+    public ArrayList<String> topics = new ArrayList<>();
+    public String mode;
     // Equal selection from each topic will be implemented later.
 
     private static final String DATABASE_NAME = "topicData.db";
     private static final int DATABASE_VERSION = 1;
 
-    public DatabaseManager(Context context, ArrayList<String> categories, ArrayList<String> difficulties) throws IOException {
+    public DatabaseManager(Context context){
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
         this.context = context;
+        this.loadTopicData();
+        Resources res = context.getResources();
 
+        // Setting values to the default, AKA all possible.
+        setDifficulties((ArrayList<String>) Arrays.asList(res.getStringArray(R.array.tossupDifficulties)));
+        setCategories((ArrayList<String>) Arrays.asList(res.getStringArray(R.array.tossupCategories)));
+        setTopics(getTopicNames());
+        lastXDays = -1;
+        lastXAdditions = -1;
         //This code is deprecated. Moving database responsibility moved to BrainTeam.java, AKA Startup.
         /*
         AssetManager assetManager = context.getAssets();
@@ -82,7 +99,7 @@ public class DatabaseManager extends SQLiteOpenHelper
     @Override
     public void onCreate(SQLiteDatabase db)
     {
-        String sql = "CREATE TABLE IF NOT EXISTS topicData(id INTEGER PRIMARY KEY, topic TEXT, ids TEXT, dateAdded DATETIME DEFAULT CURRENT_DATE, age INTEGER, numberTossups INTEGER)";
+        String sql = "CREATE TABLE IF NOT EXISTS topicData(id INTEGER PRIMARY KEY, topic TEXT, ids TEXT, dateAdded DATETIME DEFAULT CURRENT_DATE, age INTEGER, numberTossups INTEGER, categpry TEXT, timesCorrect INTEGER, timesIncorrect INTEGER, timesTotal INTEGER)";
         db.execSQL(sql);
     }
 
@@ -94,6 +111,8 @@ public class DatabaseManager extends SQLiteOpenHelper
         onCreate(db);
     }
 
+    // LOADS TOSSUPS AND TOPIC DATA ----------------------------------------------------------------
+
     public void loadAllTossups()
     {
         this.allTossups = new AllTossups(context).getReadableDatabase();
@@ -104,22 +123,79 @@ public class DatabaseManager extends SQLiteOpenHelper
         topicData = getWritableDatabase();
     }
 
+    // GETTERS AND SETTERS -------------------------------------------------------------------------
+
     public void setTossupIDs(int[] ids)
     {
         this.IDs = ids;
     }
 
-    public String[][] getTopicNames()
+    public void setTopics(ArrayList<String> d)
     {
-        String sql = "SELECT topic, numberTossups FROM topicData";
+        this.topics = d;
+    }
+
+    public void setEqual(boolean b)
+    {
+        equal = b;
+    }
+
+    public void setLastXDays(int d)
+    {
+        lastXDays = d;
+    }
+
+    public void setLastXAdditions(int d)
+    {
+        lastXAdditions = d;
+    }
+
+    public void setCategories(ArrayList<String> d)
+    {
+        categories = d;
+    }
+
+    public void setDifficulties(ArrayList<String> d)
+    {
+        difficulties = d;
+    }
+
+    public boolean getEqual()
+    {
+        return equal;
+    }
+
+    public int getLastXDays()
+    {
+        return lastXDays;
+    }
+
+    public int getLastXAdditions()
+    {
+        return lastXAdditions;
+    }
+
+    public ArrayList<String> getCategories()
+    {
+        return categories;
+    }
+
+    public ArrayList<String> getDifficulties()
+    {
+        return difficulties;
+    }
+
+    public ArrayList<String> getTopicNames()
+    {
+        String sql = "SELECT topic FROM topicData";
         Cursor cursor = topicData.rawQuery(sql, null);
-        ArrayList<String[]> topicNames = new ArrayList<>();
+        ArrayList<String> topicNames = new ArrayList<>();
         while (cursor.moveToNext())
         {
-            topicNames.add(new String[] {cursor.getString(0), cursor.getString(1)});
+            topicNames.add(cursor.getString(0));
         }
         cursor.close();
-        return Arrays.copyOf(topicNames.toArray(), topicNames.size(), String[][].class);
+        return topicNames;
     }
 
     /**
@@ -151,81 +227,8 @@ public class DatabaseManager extends SQLiteOpenHelper
         }
     }
 
-    public int[] selectTopicsFromList(ArrayList<String> topic)
-    {
-        for (int i = 0; i < topic.size(); i++)
-        {
-            topic.set(i, "'" + topic.get(i) + "'");
-        }
 
-        String topicString = "(" + TextUtils.join(",", topic) + ")";
-        String sql = "SELECT topic, ids FROM topicData WHERE topic in " + topicString;
-        Cursor cursor = topicData.rawQuery(sql, null);
-        ArrayList<Integer> IDs = new ArrayList<Integer>();
-        while (cursor.moveToNext())
-        {
-            String[] stringIDs = cursor.getString(1).split(",");
-            for (int i = 0; i < stringIDs.length; i++)
-            {
-                IDs.add(Integer.parseInt(stringIDs[i]));
-            }
-        }
-
-        int[] IDsArray = new int[IDs.size()];
-        for (int i = 0; i < IDs.size(); i++)
-        {
-            IDsArray[i] = IDs.get(i);
-        }
-        cursor.close();
-        return IDsArray;
-    }
-
-
-    public int[] selectTossupsFromTopicsFromLastXDays(int x)
-    {
-        String sql = "SELECT topic, ids FROM topicData WHERE age <= " + x;
-        Cursor cursor = topicData.rawQuery(sql, null);
-        ArrayList<Integer> IDs = new ArrayList<Integer>();
-        while (cursor.moveToNext())
-        {
-            String[] stringIDs = cursor.getString(1).split(",");
-            for (int i = 0; i < stringIDs.length; i++)
-            {
-                IDs.add(Integer.parseInt(stringIDs[i]));
-            }
-        }
-
-        int[] IDsArray = new int[IDs.size()];
-        for (int i = 0; i < IDs.size(); i++)
-        {
-            IDsArray[i] = IDs.get(i);
-        }
-        cursor.close();
-        return IDsArray;
-    }
-
-    public int[] selectTopicsFromLastXAdditions(int x)
-    {
-        String sql = "SELECT TOP " + x + " topic, ids FROM topicData ORDER BY age";
-        Cursor cursor = topicData.rawQuery(sql, null);
-        ArrayList<Integer> IDs = new ArrayList<Integer>();
-        while (cursor.moveToNext())
-        {
-            String[] stringIDs = cursor.getString(1).split(",");
-            for (int i = 0; i < stringIDs.length; i++)
-            {
-                IDs.add(Integer.parseInt(stringIDs[i]));
-            }
-        }
-
-        int[] IDsArray = new int[IDs.size()];
-        for (int i = 0; i < IDs.size(); i++)
-        {
-            IDsArray[i] = IDs.get(i);
-        }
-        cursor.close();
-        return IDsArray;
-    }
+    // METHODS THAT SET IDs OF TOSSUPS -------------------------------------------------------------
 
     /**
      * Returns an int[] of up to 100 tossups based on categories and difficulty.
@@ -233,7 +236,7 @@ public class DatabaseManager extends SQLiteOpenHelper
      * Difficulties: All, Middle School, Easy High School, Regular High School, National High School, Easy College, Regular College, Hard College, Open.
      * @return the ids of the tossups
      */
-    public int[] selectRandomTossups(ArrayList<String> categories, ArrayList<String> difficulties)
+    public void selectRandomTossups()
     {
         for (int i = 0; i < categories.size(); i++)
         {
@@ -284,8 +287,127 @@ public class DatabaseManager extends SQLiteOpenHelper
             IDsArray[i] = IDs.get(i);
         }
         cursor.close();
-        return IDsArray;
+        this.IDs = IDsArray;
     }
+
+    /**
+     * Considers:
+     * Category
+     * Difficulty
+     * topics
+     * lastXDays
+     * lastXAdditions
+     *
+     * CREATE TABLE IF NOT EXISTS topicData(id INTEGER PRIMARY KEY, topic TEXT, ids TEXT,
+     * dateAdded DATETIME DEFAULT CURRENT_DATE, age INTEGER, numberTossups INTEGER, categpry TEXT, timesCorrect INTEGER, timesIncorrect INTEGER, timesTotal INTEGER)
+     */
+    public void selectTossupsFromTopics()
+    {
+        if (equal)
+        {
+            ArrayList<String> temp_topics = (ArrayList<String>) topics.clone();
+            for (int i = 0; i < temp_topics.size(); i++)
+            {
+                temp_topics.set(i, "'" + temp_topics.get(i) + "'");
+            }
+
+            if (lastXAdditions > 0)
+            {
+                this.topics = getTopicNames();
+                this.topics = (ArrayList<String>) this.topics.subList(this.topics.size() - lastXAdditions, this.topics.size());
+            }
+
+            String topicString = "(" + TextUtils.join(",", temp_topics) + ")";
+            String sql = "SELECT topic, ids, age FROM topicData WHERE topic in " + topicString;
+            if (this.lastXDays > 0)
+            {
+                sql += " AND age <= " + this.lastXDays;
+            }
+            Cursor cursor = topicData.rawQuery(sql, null);
+            ArrayList<Integer> IDs = new ArrayList<Integer>();
+            while (cursor.moveToNext())
+            {
+                String[] stringIDs = cursor.getString(1).split(",");
+                for (int i = 0; i < stringIDs.length; i++)
+                {
+                    int id = Integer.parseInt(stringIDs[i]);
+                    IDs.add(id);
+                }
+            }
+
+            sql = "SELECT id, category, difficulty FROM allTossups WHERE tossupID in " + TextUtils.join(",", IDs) + ")";
+            cursor= allTossups.rawQuery(s, null);
+            while (cursor.moveToNext())
+            {
+                if (!(this.categories.contains(cursor.getString(1)) && this.difficulties.contains(cursor.getString(2)))) // if the tossups is not in either the difficulties or categories
+                {
+                    int id = cursor.getInt(0);
+                    IDs.remove(new Integer(id));
+                }
+            }
+
+            int[] IDsArray = new int[IDs.size()];
+            for (int i = 0; i < IDs.size(); i++)
+            {
+                IDsArray[i] = IDs.get(i);
+            }
+            cursor.close();
+            this.IDs = IDsArray;
+        }
+        else
+        {
+            ArrayList<String> temp_topics = (ArrayList<String>) topics.clone();
+            for (int i = 0; i < temp_topics.size(); i++)
+            {
+                temp_topics.set(i, "'" + temp_topics.get(i) + "'");
+            }
+
+            if (lastXAdditions > 0)
+            {
+                this.topics = getTopicNames();
+                this.topics = (ArrayList<String>) this.topics.subList(this.topics.size() - lastXAdditions, this.topics.size());
+            }
+
+            String topicString = "(" + TextUtils.join(",", temp_topics) + ")";
+            String sql = "SELECT topic, ids, age FROM topicData WHERE topic in " + topicString;
+            if (this.lastXDays > 0)
+            {
+                sql += " AND age <= " + this.lastXDays;
+            }
+            Cursor cursor = topicData.rawQuery(sql, null);
+            ArrayList<Integer> IDs = new ArrayList<Integer>();
+            while (cursor.moveToNext())
+            {
+                String[] stringIDs = cursor.getString(1).split(",");
+                for (int i = 0; i < stringIDs.length; i++)
+                {
+                    int id = Integer.parseInt(stringIDs[i]);
+                    IDs.add(id);
+                }
+            }
+
+            sql = "SELECT id, category, difficulty FROM allTossups WHERE tossupID in " + TextUtils.join(",", IDs) + ")";
+            cursor= allTossups.rawQuery(s, null);
+            while (cursor.moveToNext())
+            {
+                if (!(this.categories.contains(cursor.getString(1)) && this.difficulties.contains(cursor.getString(2)))) // if the tossups is not in either the difficulties or categories
+                {
+                    int id = cursor.getInt(0);
+                    IDs.remove(new Integer(id));
+                }
+            }
+
+            int[] IDsArray = new int[IDs.size()];
+            for (int i = 0; i < IDs.size(); i++)
+            {
+                IDsArray[i] = IDs.get(i);
+            }
+            cursor.close();
+            this.IDs = IDsArray;
+        }
+    }
+
+
 
     /**
      * Adds a topic to the database; does a query, adds all the name of the topic, the ids to that topic,

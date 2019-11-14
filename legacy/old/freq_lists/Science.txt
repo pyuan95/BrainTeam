@@ -1,0 +1,6314 @@
+meta stable: 282
+polarization: 78
+diffusion: 53
+chromatography: 50
+entropy: 48
+friction: 43
+mitochondria: 41
+independent: 41
+diffraction: 39
+distillation: 39
+doppler fizeau effect: 37
+serine proteases prompt partial answer: 36
+electron: 36
+electronegativity: 36
+acids: 36
+scattering: 35
+electrons: 34
+second law thermodynamics: 34
+kinetic energy: 34
+carbon dioxide: 34
+spin angular momentum prompt angular momentum; momentum: 33
+hydrogen: 33
+waves: 33
+gibbs energy: 33
+polymers: 33
+mercury: 33
+prime numbers: 31
+va: 31
+power: 31
+pi: 31
+gravity: 31
+atp: 30
+iron: 30
+ferromagnetism: 30
+leonhard euler: 30
+angular momentum do momentum itself linear: 30
+special relativity prompt relativity; general relativity: 30
+photons: 30
+: 30
+surface tension: 29
+capacitance: 29
+sulfuric acid: 28
+glaciers: 28
+liver: 28
+titration: 28
+temperature prompt t;: 28
+richard phillips feynman: 28
+endoplasmic reticulum: 28
+hall effect: 27
+ammonia: 27
+black holes: 27
+current: 27
+nernst equation: 27
+sodium: 26
+electrical resistance: 26
+neutron: 26
+mass spectroscopy: 26
+infrared spectroscopy: 25
+calcium: 25
+plasma membrane: 25
+thyroid: 25
+alpha: 25
+alkynes: 25
+linear momentum: 25
+four co: 25
+precession: 25
+sir isaac newton: 25
+ants: 25
+albert einstein: 24
+ideal gas law: 24
+echinodermata: 24
+ozone: 24
+silicon: 24
+: 24
+polynomials: 24
+magnetic field: 24
+trees: 23
+stomach: 23
+volume: 23
+matrix determinant: 23
+cholesterol: 23
+red blood cells: 23
+hemoglobin: 22
+esters: 22
+alan mathison turing: 22
+glycolysis: 22
+viscosity prompt mu; nu: 22
+insulin: 22
+collagen: 21
+hydrogen peroxide: 21
+actin: 21
+nmr spectroscopy: 21
+fibonacci numbers: 21
+water: 21
+carl friedrich gauss: 21
+electric charge: 21
+weak: 20
+nucleus: 20
+mantle: 20
+refraction: 20
+michelson: 20
+potential energy: 20
+van der waals equation: 20
+apoptosis: 20
+genetic: 20
+reflection: 20
+equilibrium constant: 20
+amines: 19
+enthalpy prompt h mentioned: 19
+nuclear fusion do fission: 19
+derivative: 19
+michael faraday: 19
+enrico fermi: 19
+lasers: 19
+radicals prompt oxidizing molecules point: 19
+fac: 19
+ketones prompt carbonyl: 19
+neutrons: 19
+cystic fibrosis: 19
+chromosome inactivation: 18
+ribosomes: 18
+oxygen: 18
+dark matter prompt dark energy until matter: 18
+blood clotting: 18
+transcription: 18
+specific heat capacity: 18
+alcohols: 18
+copper: 18
+neutrinos: 18
+groups: 18
+crown ethers prompt ethers: 18
+niels henrik david bohr: 18
+zinc: 17
+ampere's law: 17
+semiconduc: 17
+enzymes: 17
+: 17
+dna: 17
+springs prompt simple harmonic oscilla: 17
+sulfur: 17
+potassium: 17
+venus: 17
+electric current: 17
+quantum tunneling: 17
+lysosomes: 17
+heisenberg uncertainty principle: 17
+cosine: 17
+neptune: 16
+aldehydes: 16
+titanium ti: 16
+neutrino: 16
+cancer: 16
+quartz be: 16
+index refraction prompt n: 16
+velocity do speed: 16
+benzene: 16
+avogadro's number: 16
+plasmas: 16
+tuberculosis: 16
+quarks: 16
+photoelectric effect: 16
+cerebrum prompt brain until mentioned: 16
+catalysts: 16
+stars: 16
+iodine: 16
+polymerase chain reaction: 16
+mars: 16
+hamiltonian: 16
+reduction: 16
+mollusca: 15
+acetylcholine: 15
+photosynthesis: 15
+neurons: 15
+alzheimer's disease prompt ad; dementia: 15
+: 15
+microtubules: 15
+pancreas: 15
+triangles: 15
+malaria: 15
+spleen: 15
+capaci: 15
+serotonin 5 hydroxytryptamine 5 ht: 15
+activation energy: 15
+clouds: 15
+xylem: 15
+henry's law: 15
+pierre de fermat: 15
+strong nuclear: 15
+dopamine: 15
+opik: 15
+green fl: 15
+superconductivity: 15
+: 15
+edwin hubble: 15
+stem cells: 15
+electric permittivity: 14
+fermat's little th: 14
+beta oxidation: 14
+fl: 14
+pytha: 14
+golgi apparatus: 14
+comets: 14
+ludwig eduard boltzmann: 14
+vec: 14
+resonance: 14
+flagellum: 14
+matrix matrices: 14
+ethanol: 14
+jurassic period: 14
+boiling point: 14
+vitamin: 14
+carbon monoxide: 14
+paul adrien maurice dirac: 14
+huntington's disease: 14
+augustin louis cauchy: 14
+convection: 14
+gamma ray burst: 14
+jupiter: 14
+kidneys: 14
+mass spectrometry: 14
+galaxies: 14
+titan: 14
+chemical potential: 14
+andromeda galaxy: 13
+rotation: 13
+bernoulli's principle: 13
+acceleration: 13
+circles: 13
+index refraction: 13
+nickel: 13
+antibodies: 13
+subduction: 13
+angular momentum: 13
+cmbr: 13
+volcanoes: 13
+integers: 13
+escherichia coli: 13
+moment inertia: 13
+cerebellum: 13
+johannes kepler: 13
+lungs: 13
+alcohol: 13
+drosophila melanogaster: 13
+histones: 13
+higgs boson: 13
+szent g: 13
+oil drop experiment: 13
+lithium: 13
+tides: 13
+ch: 13
+feldspars: 13
+translation: 13
+java: 13
+six: 13
+rna: 13
+trans effect: 12
+diels alder reaction: 12
+t cells t lymphocytes prompt white blood cells lymphocytes specific answers: 12
+virial equation state: 12
+aluminum: 12
+integral: 12
+pituitary gland: 12
+: 12
+viruses: 12
+small intestine prompt ileum brunner: 12
+: 12
+drag: 12
+ionosphere: 12
+prions: 12
+real numbers: 12
+max planck: 12
+halogens: 12
+kidney: 12
+harmonic oscilla: 12
+series: 12
+acetic acid: 12
+protein folding: 12
+sickle cell anemia: 12
+angiosperms: 12
+brownian motion: 12
+hooke's law elasticity: 12
+peroxisomes: 12
+piezoelectricity: 12
+arrhenius equation: 12
+star: 12
+euler totient function: 11
+esterification: 11
+orion or orion crew exploration vehicl: 11
+pendulum: 11
+sine function: 11
+me: 11
+triangle: 11
+hardy weinberg equilibrium: 11
+pauli exclusion principle: 11
+stratosphere: 11
+dna replication: 11
+ch: 11
+aquifers: 11
+prophase: 11
+ch: 11
+skin: 11
+joseph louis lagrange: 11
+trna: 11
+nematoda: 11
+transis: 11
+vacuum: 11
+haber bosch process: 11
+human immunodeficiency virus do acquired immune deficiency syndrome: 11
+polymerization: 11
+bose einstein condensation: 11
+standard deviation: 11
+turing machines: 11
+diodes: 11
+lava do magma: 11
+partition function: 11
+white dwarf: 11
+roots: 11
+five: 11
+dominance: 11
+symmetry: 10
+fungi fungus: 10
+limit function: 10
+colloids: 10
+absolute zero: 10
+lakes: 10
+: 10
+svante arrhenius: 10
+sphere: 10
+brain: 10
+protons: 10
+lambda: 10
+magnetic monopoles prompt monopole: 10
+liquid crystals prompt nematic material lipid membranes: 10
+critical point: 10
+telomeres: 10
+rivers: 10
+graphs: 10
+adrenal glands: 10
+lactate: 10
+parallel: 10
+atomic: 10
+wittig reaction: 10
+magnesium: 10
+electrolysis: 10
+phonons: 10
+two dimensional: 10
+seafl: 10
+cosmic rays: 10
+gibberellins: 10
+flux: 10
+alkenes: 10
+cambrian period: 10
+hydrogen bonding prompt dipole dipole interaction until mention: 10
+circle: 10
+rubisco: 10
+halogens prompt group 17 group viia mentioned: 10
+bernhard riemann: 10
+hippocampus: 10
+glycine: 10
+metathesis: 10
+saturn: 10
+fractals: 10
+ideal gases prompt gases: 10
+redox reactions: 10
+stacks: 10
+precipitation: 10
+ionization: 10
+linear programming prompt partial answers: 10
+baeyer villiger oxidation: 9
+open: 9
+placenta: 9
+luminosity prompt absolute magnitude; luminance: 9
+gaba gamma aminobutyric acid: 9
+young's double slit experiment: 9
+uranium: 9
+ph indica: 9
+noble gases: 9
+antoine laurent de lavoisier: 9
+euclid alexandria: 9
+inverse: 9
+speed sound: 9
+phloem: 9
+nitrogen: 9
+fundamental: 9
+frictional: 9
+muscle: 9
+spheres: 9
+pendulums: 9
+maximum: 9
+acetone: 9
+: 9
+heart attacks: 9
+stern gerlach experiment: 9
+wavefunction: 9
+turbulent flow: 9
+hydrogenation: 9
+pointers: 9
+: 9
+clausius clapeyron equation: 9
+arsenic: 9
+gluons: 9
+: 9
+electric field: 9
+rational: 9
+134340 pluto: 9
+speed light: 9
+hysteresis: 9
+helium: 9
+stack: 9
+ether: 9
+anaphase: 9
+ethylene: 9
+capaci: 9
+graphene: 9
+limestone: 9
+cosine &lt;david dennis&gt;/&lt;ed hb&gt;: 9
+chemical hardness: 8
+d: 8
+total internal reflection: 8
+hyperconjugation: 8
+cubewanos: 8
+lysosome: 8
+resis: 8
+x rays: 8
+bacteriophage prompt virus: 8
+diabetes mellitus: 8
+keratin: 8
+recursion: 8
+delta: 8
+buffer solutions: 8
+g: 8
+discovery oxygen: 8
+moment inertia do inertia: 8
+c++: 8
+phosp: 8
+ribosome: 8
+searching: 8
+supernovae: 8
+urea: 8
+: 8
+glycogen: 8
+lattice energy: 8
+arrays: 8
+cerenkov radiation: 8
+beer lambert bouger law: 8
+frequency: 8
+vitamin d: 8
+acetic acid ethanoic acid: 8
+auxins prompt plant: 8
+peptidoglycan: 8
+heap: 8
+p53: 8
+parabola: 8
+hess's law: 8
+cnidarians: 8
+cyclohexane: 8
+gustav kirchhoff: 8
+chinese remainder th: 8
+urea cycle: 8
+linus carl pauling: 8
+cyclic: 8
+asteroids: 8
+cae: 8
+milky way galaxy: 8
+raoult's law: 8
+young's modulus: 8
+fugacity: 8
+el nino southern oscillation: 8
+calvin benson cycle prompt dark reactions: 8
+bose einstein condensate: 8
+gold: 8
+hydrogen bonds: 8
+curie: 8
+hiv human immunodeficiency virus prompt aids virus; aids: 8
+pulsars: 8
+energy: 8
+uranus: 8
+square numbers: 8
+vitamin b12: 7
+methane: 7
+p: 7
+charm quark: 7
+rna interference: 7
+organometallic compounds: 7
+random walk: 7
+3rd baron: 7
+solar magnetic field: 7
+deserts: 7
+aids: 7
+bacteria: 7
+faults: 7
+parkinson's disease: 7
+strings prompt: 7
+nebulas: 7
+photon: 7
+planck's constant prompt h: 7
+glass: 7
+molecular: 7
+gymnosperms: 7
+gilbert newton lewis: 7
+gallbladder: 7
+water: 7
+josiah willard gibbs: 7
+mutations: 7
+basalt: 7
+vitamin: 7
+macrophages: 7
+down syndrome: 7
+circadian rhythms: 7
+james clerk maxwell: 7
+bone tissue osseus tissue: 7
+traveling salesman problem: 7
+superfluidity: 7
+buffers: 7
+matrix multiplication: 7
+chaos th: 7
+hypothalamus: 7
+restriction enzymes: 7
+surface area: 7
+lac operon: 7
+werner heisenberg: 7
+compactness: 7
+quantum entanglement prompt epr paradox epr effect being mentioned: 7
+zeeman effect: 7
+cytochrome: 7
+phase transitions prompt changes state mentioned: 7
+mollusca: 7
+curvature: 7
+electric dipole moment: 7
+nitriles: 7
+gibbs duhem equation prompt gibbs' phase rule: 7
+ising model: 7
+particle box: 7
+frost ebs: 7
+action prompt s: 7
+aromaticity: 7
+hydrogen atom: 7
+deuterium h 2: 7
+fl: 7
+quasars: 7
+nitrogen fixation prompt nitrogen reduction equivalents: 7
+quartz prompt silicon dioxide sio2 mentioned: 7
+reductions: 7
+dispersion: 7
+hydrazine: 7
+diode: 7
+peter joseph william debye: 7
+eigenvalues: 7
+tay sachs disease: 7
+bacteriophages: 7
+ribozyme prompt rna: 7
+solubility: 7
+qcd quantum chromodynamics: 7
+blue: 7
+quick: 7
+fitness: 7
+cartilage: 7
+lead: 7
+granite: 7
+leaf: 7
+aldol condensation: 7
+antibody: 7
+crystallization: 7
+golden ratio: 7
+epstein barr virus ebv: 6
+landau th: 6
+solvation: 6
+pathfinding: 6
+boundary layer flow: 6
+fixed points: 6
+adiabatic: 6
+steel: 6
+dna repair: 6
+: 6
+tau: 6
+fields: 6
+sandmeyer reaction: 6
+fast fourier trans: 6
+encryption: 6
+white blood cells: 6
+amphibia: 6
+meiosis do mitosis prophase non disjunction read: 6
+supernova: 6
+proton: 6
+cepheid variables: 6
+magnetic fields: 6
+archimedes syracuse: 6
+sperm cells: 6
+array: 6
+mimicry: 6
+big bang: 6
+line: 6
+permutations: 6
+earthquakes: 6
+dimensions: 6
+specific heat capacity prompt heat capacity until gram: 6
+charles augustin de coulomb: 6
+triton: 6
+hendrik: 6
+cosmic inflation: 6
+p: 6
+cerebrospinal fluid: 6
+fluid velocity: 6
+arthropoda: 6
+john dalton: 6
+thymus: 6
+dimension: 6
+noble gases: 6
+elias james: 6
+bases: 6
+telomerase: 6
+palladium: 6
+brown dwarf: 6
+21 cm line hydrogen: 6
+ohm's law: 6
+dirac delta function prompt delta function: 6
+dirichlet: 6
+liquid helium prompt helium; superfluid mentioned: 6
+magnetic moment: 6
+donald ervin knuth: 6
+claisen condensation: 6
+cretaceous period: 6
+recombination: 6
+mean do average: 6
+accept euler's oiler's number euler's constan: 6
+carrying capacity prompt k mentioned: 6
+charles robert darwin: 6
+teeth: 6
+cnidaria ni dair ee uh: 6
+stress: 6
+urey miller experiment: 6
+sun sol: 6
+double bond mj: 6
+j/psi meson: 6
+inequality: 6
+irrational numbers: 6
+solar wind prompt solar flares flares: 6
+poisson distribution: 6
+paramagnetism: 6
+phobos: 6
+voltaic cell: 6
+compton scattering: 6
+stress energy ten: 6
+chromium: 6
+turing test: 6
+alveoli: 6
+complex numbers: 6
+ecological succession: 6
+spiral galaxies prompt galaxies: 6
+species: 6
+sand dunes: 6
+induc: 6
+lightning: 6
+cellulose: 6
+testosterone: 6
+cube: 6
+platyhelminthes prompt flat: 6
+drosophila melanogaster common fruit fly: 6
+sunspots prompt starspot lc: 6
+beta decay: 6
+grignard reagents prompt alkyl magnesium halides aryl magnesium halides: 6
+jacobus henricus: 6
+sleep: 6
+y chromosome: 6
+q: 6
+myelin sheath: 6
+mass density: 6
+gel electrop: 6
+va: 6
+olivine: 6
+adipose tissue: 6
+energy: 6
+speed light prompt mention: 6
+silver: 6
+laplace trans: 6
+rate constant prompt k: 6
+raman spectroscopy: 6
+bosons: 6
+adenosine &lt;ry biology&gt;: 6
+boltzmann trans: 5
+completeness: 5
+matter antimatter asymmetry: 5
+carmichael numbers prompt pseudoprime fermat pseudoprime absolute fermat pseudoprime: 5
+functional programming: 5
+thiols: 5
+gluconeogenesis: 5
+syphilis: 5
+fischer tropsch: 5
+b vitamins prompt vitamins; b complex vitamins: 5
+cholera: 5
+thomas young: 5
+birds: 5
+odd: 5
+influenza viruses: 5
+: 5
+earth's moon: 5
+solutions: 5
+combustion reaction: 5
+benzene: 5
+buoyancy: 5
+freezing point: 5
+continental drift: 5
+robert wilhelm eberhard bunsen: 5
+lanthanides: 5
+louis pasteur: 5
+maxwell's demon: 5
+crystals: 5
+platinum: 5
+impedance: 5
+bipolar junction transis: 5
+duchenne muscular dystrophy dmd: 5
+reaction rate: 5
+manganese: 5
+central limit th: 5
+golgi body: 5
+lagrangian do euler lagrange lagrange equation: 5
+epoxides oxiranes prompt ethers mentioned: 5
+rearrangement reactions: 5
+bile: 5
+shielding: 5
+compiler: 5
+phagocytosis: 5
+solving: 5
+basis: 5
+femur: 5
+black hole: 5
+orogen: 5
+square planar: 5
+glucose: 5
+meselson stahl experiment: 5
+: 5
+splicing: 5
+mossbauer effect: 5
+bardeen cooper schrieffer th: 5
+cobalt: 5
+inner: 5
+surfactants: 5
+cyclopropane: 5
+august wilhelm von hofmann: 5
+scale: 5
+edge: 5
+feldspar: 5
+niacin nicotinic acid vitamin pp: 5
+henderson hasselbalch equation rym: 5
+peroxides: 5
+iron sulfur proteins: 5
+mean path: 5
+ab: 5
+dna methylation: 5
+molecular weight: 5
+cysteine: 5
+linked lists do partial answers: 5
+ca: 5
+cross product: 5
+leptons: 5
+osmosis: 5
+dilation: 5
+transition states: 5
+solar flares: 5
+vesicles: 5
+riemann zeta function: 5
+debye huckel equation: 5
+population inversion prompt lasing: 5
+chirality: 5
+permian period: 5
+chitin: 5
+gravitational lensing: 5
+transposons: 5
+meissner oschenfeld effect: 5
+murray gell mann: 5
+myoglobin: 5
+systemic lupus erythematosus: 5
+carbonic anhydrase: 5
+endocytosis: 5
+gravitational redshift prompt redshift: 5
+c: 5
+speciation: 5
+bubbles: 5
+pain: 5
+algae: 5
+wavelength: 5
+degree: 5
+humidity: 5
+france: 5
+influenza: 5
+platelets: 5
+data types: 5
+calcite: 5
+oxidation do redox: 5
+diamagnetism prompt magnetism: 5
+electric field prompt e: 5
+compilers: 5
+wolfgang pauli: 5
+quantum computers: 5
+william rowan hamilton: 5
+leukemia: 5
+pascal: 5
+alkanes: 5
+conjugation: 5
+hail: 5
+eight: 5
+ion channels: 5
+relational databases: 5
+helmholtz energy prompt energy: 5
+triassic period: 5
+chromatin: 5
+b cells: 5
+coal: 5
+gre: 5
+solid phase peptide synthesis prompt spps: 5
+elliptical galaxies prompt galaxies; anti prompt specific things radio galaxies active galaxies: 5
+david hilbert: 5
+diatomic oxygen: 5
+human growth: 5
+classical three body problem system: 5
+reynolds number: 5
+: 5
+karl weierstrass: 5
+dinitrogen gas: 5
+interpolation prompt approximation approximating function: 5
+gauge trans: 5
+dark energy: 5
+autophagy: 5
+heat prompt thermal energy; temperature: 5
+leon nicolas brillouin: 5
+ethers &lt;sr chemistry&gt;: 5
+black holes &lt;sy physics&gt;: 5
+mir: 5
+ceres &lt;other science astronomy&gt;: 5
+heart &lt;david dennis&gt;/&lt;ed ar&gt;: 5
+magnetization: 4
+matrix assisted laser de: 4
+rings jupiter: 4
+human nk lymphocytes: 4
+black bodies: 4
+binary fission: 4
+salmonella: 4
+phenolphthalein: 4
+garbage collection prompt automatic me: 4
+noise: 4
+amides do amine lactams because few clues could refer them: 4
+auger effect: 4
+creep strain: 4
+synchrotron radiation prompt bremsstrahlung mention cyclotron radiation mention: 4
+nitric oxide: 4
+: 4
+gyres prompt oceanic currents mentioned: 4
+reptilia: 4
+sharks: 4
+mesozoic era: 4
+hard drive: 4
+polynomial equations: 4
+ruther: 4
+b cells prompt lymphocyte; white blood cell; leukocyte: 4
+linux operating system: 4
+phosphate ion prompt po43: 4
+natural logarithm: 4
+linked list prompt list; list circular read: 4
+soil: 4
+solvents: 4
+salts: 4
+lists: 4
+hydrogen bond: 4
+galileo galilei: 4
+seeds: 4
+abo blood groups: 4
+hydroch: 4
+ultraviolet light: 4
+tectonic plates prompt lithosphere mentioned: 4
+commutative commutativity: 4
+snell's law: 4
+india: 4
+black body: 4
+spinal: 4
+primality: 4
+hyphae: 4
+apollo: 4
+nephrons prompt kidneys mentioned: 4
+macular degeneration: 4
+pyrite prompt fool's gold: 4
+optical aberrations: 4
+dna polymerase: 4
+auxin: 4
+protein kinases: 4
+string th: 4
+wolfgang ernst pauli: 4
+particle accelera: 4
+stephen william hawking: 4
+ovaries: 4
+sagittarius: 4
+stark effect: 4
+le chatelier's principle: 4
+kruskal's al: 4
+operons: 4
+trapezoid: 4
+ozonolysis: 4
+density matrix: 4
+newton's constant: 4
+monsanto process: 4
+mesosphere: 4
+carboniferous period: 4
+wnt signaling pathway: 4
+chemical equilibrium: 4
+mass prompt m; rest mass until faster than light: 4
+crystal field th: 4
+felix bloch: 4
+hydro: 4
+olefin metathesis: 4
+von neumann architecture: 4
+moon: 4
+: 4
+one to one: 4
+sublimation: 4
+thin layer chromatography tlc: 4
+adrenaline epinephrine do: 4
+triple point mj: 4
+machine learning: 4
+extrasolar planets: 4
+curl: 4
+dynamic programming: 4
+pentose phosphate pathway: 4
+perovskite: 4
+sequencing dna: 4
+davisson germer: 4
+wilhelm: 4
+bryophytes: 4
+navier stokes equations: 4
+uterus: 4
+isomerism: 4
+hpv: 4
+taurus: 4
+histidine: 4
+lev davidovich: 4
+asthma: 4
+dirac equation: 4
+coa: 4
+rabies: 4
+antibodies immunoglobulins: 4
+staphylococcus aureus: 4
+diophantine equations: 4
+micas: 4
+solar wind: 4
+hermann von helmholtz: 4
+virial th: 4
+hotspots: 4
+monotremata: 4
+heaps: 4
+bessel functions: 4
+thomas bayes: 4
+cytokines: 4
+archaea: 4
+perturbation th: 4
+stellar wind: 4
+enteric nervous system: 4
+esophagus: 4
+antiparticles: 4
+octet rule: 4
+ganymede: 4
+leprosy: 4
+punctuated equilibrium: 4
+mammalia mammals: 4
+ph power hydrogen: 4
+basel problem: 4
+sequences: 4
+golgi apparatus: 4
+igneous rock: 4
+coulomb's law: 4
+ram: 4
+: 4
+homo erectus: 4
+induction inductive: 4
+lichens: 4
+amylase: 4
+marfan syndrome: 4
+one half: 4
+camp cyclic adenosine monophosphate; cyclic amp: 4
+queues: 4
+crystals: 4
+: 4
+dipole: 4
+cp violation charge parity violation: 4
+determinants: 4
+red giants: 4
+crab nebula: 4
+uni: 4
+robert burns woodward 3: 4
+breast cancer prompt cancer; malignant breast neoplasm: 4
+max karl ernst ludwig planck: 4
+nucleolus: 4
+interphase: 4
+blood vessels prompt veins; arteries: 4
+three times root five over five three fifths times root five prompt three over root: 4
+melanin: 4
+tyrosine: 4
+dmso: 4
+dienes: 4
+phase transitions: 4
+hilbert spaces: 4
+cope elimination: 4
+t cells: 4
+cytokinins: 4
+: 4
+schrã¶dinger equation: 4
+krebs cycle: 4
+elimination reactions: 4
+atomic nucleus prompt atoms: 4
+os: 4
+wavefunctions: 4
+ocean currents: 4
+infinity: 4
+clinical depression: 4
+algebra: 4
+andrey andreyevich markov: 4
+temperature do heat: 4
+vec: 4
+electrical insula: 4
+faults: 4
+arabidopsis thaliana: 4
+histamine: 4
+uracil: 4
+schwarzschild radius: 4
+edsger wybe dijkstra: 4
+vec: 4
+saccharomyces cerevisiae: 4
+azides: 4
+lev landau: 4
+roger penrose: 4
+flowers prompt petals until androecium: 4
+herpes simplex virus: 4
+poynting vec: 4
+viscosity: 4
+zeolites: 4
+liquid crystals: 4
+continuity: 4
+mean value th: 4
+convolution: 4
+natural logarithm prompt ln lon: 4
+sample population variance: 4
+chromatic number prompt the number co: 4
+hubble space telescope: 4
+coupling constant: 4
+tin: 4
+angular momentum prompt momentum “linear momentum” &lt;bm&gt;: 4
+phosp: 4
+integration &lt;sr math&gt;: 4
+urea &lt;em biology&gt;: 4
+auxins &lt;ap biology&gt;: 4
+fracture: 3
+tu: 3
+hypergeometric: 3
+variational method principle calculus: 3
+methyl group: 3
+holographic principle: 3
+zebrafish: 3
+dft: 3
+compressibility: 3
+carbenes: 3
+gravitational two body problem: 3
+bubble: 3
+geomagnetic reversals: 3
+micelles prompt colloids liposomes lipid bilayers surfactants detergents structures thereafter: 3
+friedel crafts prompt electrophilic aromatic substitution eas: 3
+mi: 3
+edward teller: 3
+azeotropes: 3
+gauss markov th: 3
+lysine: 3
+azide: 3
+ellipse do oval: 3
+influenzavirus prompt flu: 3
+winds: 3
+flasks: 3
+earthquake: 3
+william herschel: 3
+robert hooke: 3
+greatest common divi: 3
+kepler's laws planetary motion: 3
+pollen grains: 3
+permafrost: 3
+axon prompt neuron mentioned: 3
+virtual: 3
+compression: 3
+enthalpy: 3
+lens: 3
+null: 3
+sigma bonds: 3
+ester: 3
+duck billed platypus: 3
+infinite: 3
+nuclear membrane: 3
+arthritis: 3
+covalent bonds: 3
+cpus: 3
+mucus: 3
+blindness: 3
+: 3
+pulleys: 3
+stamen: 3
+even number: 3
+isomers: 3
+extinction dinosaurs: 3
+nuclear fission reac: 3
+peroxisome: 3
+hydroch: 3
+t lymphocytes: 3
+estrogen: 3
+bernoulli: 3
+louis vic: 3
+semiconduc: 3
+convex prompt concave concave: 3
+integration parts: 3
+caches: 3
+paradoxes: 3
+phases: 3
+planarians: 3
+countability: 3
+tropical cyclone hurricane: 3
+soil prompt dirt: 3
+maxwell boltzmann molecular speed distribution: 3
+celiac disease: 3
+ribozymes: 3
+black holes prompt active galactic nuclei until rotating: 3
+maxwell's equations: 3
+artificial intelligence: 3
+nitric acid: 3
+ligands prompt chelating agent: 3
+equipartition th: 3
+e2: 3
+derivatives: 3
+harmonics: 3
+alcohol dehydrogenase also adh: 3
+hartree fock self consistent field method prompt self consistent field method: 3
+spontaneous symmetry breaking prompt symmetry breaking: 3
+fault scarp: 3
+pulsar: 3
+osteoclasts: 3
+richard dedekind: 3
+energy band gap: 3
+sonic hedgehog: 3
+clebsch: 3
+phenol ch: 3
+benzene prompt c6h6 read: 3
+molecular: 3
+boyle mariotte law: 3
+cope rearrangement: 3
+dwarf galaxies: 3
+huckel's rule: 3
+brown dwarfs: 3
+earth's oceans: 3
+maize: 3
+gall bladder: 3
+kinetic isotope effect: 3
+homotopy: 3
+scheduling: 3
+galaxy rotation curve: 3
+decarboxylation: 3
+photosystem ii: 3
+beta hydride elimination: 3
+orion prompt the hunter mentione: 3
+thermal radiation: 3
+thermal de broglie wavelength: 3
+alkali metals do alkaline earth metals: 3
+colligative properties: 3
+asteroid belt main asteroid belt: 3
+energy do specific answers that: 3
+resistance do resistivity du: 3
+hyperbola: 3
+thermosphere prompt ionosphere mentioned; afterwards aj: 3
+tree mj: 3
+ehrenberg siday aharonov bohm effect: 3
+mapk: 3
+sediment: 3
+klein nishina: 3
+marie ennemond camille: 3
+baryons: 3
+missing: 3
+: 3
+interstellar medium: 3
+vulcanization: 3
+amino acids: 3
+supernovas do novas; cataclysmic variables binary: 3
+python: 3
+bond length: 3
+myosin: 3
+thermal efficiency prompt eta: 3
+plasmodium: 3
+knots: 3
+hyperbolic geometry prompt non euclidean geometry/ies; bolyai lobachevskian geometry: 3
+mass moment inertia: 3
+median: 3
+aufbau principle: 3
+phototropism: 3
+monte carlo al: 3
+greatest common fac: 3
+pioneer: 3
+g: 3
+quasar: 3
+floating point numbers: 3
+cosmological constant: 3
+introns: 3
+founder effect prompt genetic drift bottleneck mentioned: 3
+earth's magnetic field: 3
+cycloid prompt trochoid: 3
+sarcomeres prompt striated cardiac skeletal muscle cells; myofibrils mentioned: 3
+schizophrenia: 3
+max: 3
+silurian period: 3
+theo: 3
+jean baptiste joseph fourier: 3
+electric scalar potential: 3
+pions: 3
+convergence: 3
+undecidable: 3
+selection rules prompt transition rules: 3
+thiamine: 3
+staphylococcus aureus: 3
+down's syndrome: 3
+big o notation: 3
+newton's third law motion: 3
+amide: 3
+huffman al: 3
+: 3
+laplacian: 3
+boltzmann's constant: 3
+magnesium cation: 3
+imines: 3
+graves' disease: 3
+ldl: 3
+david joseph bohm: 3
+crystal defects prompt crystals until lattice: 3
+michael addition: 3
+adh: 3
+dielectric constant: 3
+large hadron collider: 3
+darcy's law: 3
+atomic number prompt z: 3
+particle distribution function: 3
+vitamin b1: 3
+meiosis: 3
+magnetar prompt neutron star: 3
+poincare conjecture: 3
+g: 3
+alternating current: 3
+lipids prompt fats read: 3
+square root 2: 3
+html: 3
+fermentation: 3
+atmospheric pressure prompt pressure; air pressure; barometric: 3
+liquids: 3
+cochlea: 3
+ip: 3
+blood type: 3
+vacuole: 3
+simple machines: 3
+humphry davy: 3
+principia mathematica: 3
+laser: 3
+eyes: 3
+white dwarfs prompt population vii: 3
+aldehyde: 3
+ice ages: 3
+beta minus decay: 3
+binary star: 3
+clostridium botulinum: 3
+viscosity: 3
+closure: 3
+boltzmann constant: 3
+shield volcano prompt volcano: 3
+turbidity: 3
+ligand: 3
+cytokinesis: 3
+phase: 3
+hubble constant parameter: 3
+mica prompt silicate sheet silicate phyllosilicate minerals etc until mentioned lc: 3
+mobius strip: 3
+nash equilibrium: 3
+thiamine: 3
+leonard euler: 3
+glycosylation: 3
+sackur tetrode equation 3: 3
+elliot yafet mechanism 6: 3
+minkowski space: 3
+distance: 3
+jane goodall: 3
+flame test: 3
+platelets: 3
+cnidaria: 3
+sirius: 3
+neanderthals: 3
+diamonds: 3
+vowels: 3
+general relativity: 3
+oxidation number: 3
+lake: 3
+linearity: 3
+bernoulli principle: 3
+saliva prompt similar colloquial terms spit: 3
+electromagnetic induction: 3
+trna: 3
+halogens: 3
+sodium: 3
+electrical circuits electrical net: 3
+third power: 3
+polyploidy: 3
+genomic imprinting: 3
+erwin rudolf josef alexander schrodinger: 3
+nebula: 3
+human genome project: 3
+liouville's th: 3
+surfactants: 3
+integer prime fac: 3
+monoclonal antibodies prompt antibodies hama: 3
+accretion disk: 3
+sn2: 3
+dolomite: 3
+ordinary differential equations prompt differential equatio: 3
+transition state: 3
+dna ligase: 3
+dielectrics prompt insula: 3
+diamond: 3
+vibrio: 3
+: 3
+rho: 3
+reverse transcriptase: 3
+internal energy prompt u until mentioned; just internal after energy mentioned: 3
+characteristic polynomial: 3
+cochlea prompt: 3
+pneumonia: 3
+k combinations: 3
+muscles: 3
+london dispersion: 3
+velocity prompt v; speed: 3
+coefficients: 3
+taiga: 3
+g proteins: 3
+dmitri ivanovich mendeleev: 3
+josephson effect: 3
+igneous rocks: 3
+ph prompt acidity basicity; poh until hydrogen: 3
+limit: 3
+western blot: 3
+: 3
+steric effects hindrance: 3
+self: 3
+voltage electric scalar potential: 3
+superstring th: 3
+pion: 3
+seven: 3
+flatness: 3
+axiom choice: 3
+groundwater prompt water: 3
+interferometers: 3
+topoisomerases ii: 3
+progesterone: 3
+phenylketonuria: 3
+magnetic dipole moment: 3
+selenium: 3
+lift prompt aerodynamic: 3
+mice: 3
+vaccines: 3
+bone marrow: 3
+ad: 3
+copper: 3
+neurons prompt brain cells: 3
+main sequence: 3
+lysozyme: 3
+hox genes homeobox genes: 3
+carbocation: 3
+circular dichroism: 3
+andrey nikolaevich kolmo: 3
+phylogenetic trees: 3
+poisson equation: 3
+chi squared distribution prompt gamma distribution read: 3
+noether's th: 3
+mhc class: 3
+hydrogen gas h2: 3
+pleistocene epoch: 3
+can: 3
+metallicity: 3
+saltation: 3
+red black tree prompt self balancing binary tree: 3
+cephalopoda: 3
+shale: 3
+thin film solar cells: 3
+glaucoma: 3
+co: 3
+fire: 3
+micelle prompt detergents surfactants until read: 3
+claude shannon: 3
+degrees freedom: 3
+cell walls prompt cells: 3
+strong bases: 3
+regular hexagon prompt 6 gon: 3
+sets: 3
+greatest common fac: 3
+camillo golgi: 3
+neutrophil also poly: 3
+carbon nanotubes prompt fullerenes: 3
+carbocations: 3
+: 3
+blackbodies: 3
+detection extrasolar planets: 3
+glutathione: 3
+lung surfactant: 3
+gravitational redshift: 3
+perfect numbers: 3
+rainer ludwig claisen: 3
+simã©on denis poisson: 3
+tetrahedral: 3
+tryptophan: 3
+fermions: 3
+rheumatoid arthritis: 3
+obsidian: 3
+luster prompt co: 3
+bremsstrahlung: 3
+differentiation: 3
+irving langmuir: 3
+splines: 3
+xenopus: 3
+gas chromatography: 3
+larynx prompt voice box mentioned: 3
+caffeine: 3
+mass: 3
+spectral lines: 3
+square: 3
+helium: 3
+thomas hunt: 3
+fritz haber: 3
+butterflies: 3
+julius robert oppenheimer: 3
+nikola tesla: 3
+niels bohr: 3
+caves: 3
+: casimir effect: 3
+woodward hoffman rules: 3
+jet streams prompt partial answers;: 3
+substitution: 3
+crispr/cas9: 3
+james prescott joule: 3
+plasma prompt conduc: 3
+positron: 3
+lenses: 3
+chemical shift: 3
+italy: 3
+karl barry sharpless: 3
+bones: 3
+: 3
+lamb shift: 3
+activity coefficients prompt activity: 3
+gastrulation: 3
+two: 3
+human heart: 3
+ideals: 3
+infrared ir astronomy: 3
+sieves: 3
+dark matter do “dark energy” “matter” &lt;bc&gt; bonuses: 3
+golden ratio: 3
+huntington’s disease &lt;lp&gt;: 3
+august möbius: 3
+proteins &lt;sy biology&gt;: 3
+philosophiae naturalis principia mathematica prompt “principia”; “whitehead russell's principia mathematica” “alfred: 3
+compass straightedge: 3
+karl theo: 3
+k &lt;david dennis&gt;: 3
+ohm’s law &lt;xiong&gt;: 3
+quantification &lt;ij math&gt;: 3
+toluene &lt;rh chemistry&gt;: 3
+git merge al: 3
+dielectrics: 3
+magnetic flux: 3
+tectonic plates &lt;david dennis&gt;/&lt;ed jacob&gt;: 3
+sound: 3
+ad: 3
+blood brain barrier: 3
+robinson annulation prompt incomplete answer robinson reaction aldol condensation until: 2
+dyneins: 2
+phenols prompt alcohols aromatic compounds *: 2
+quadratic reciprocity th: 2
+isospin: 2
+suzuki miyaura coupling: 2
+singularity singularities: 2
+waveguides: 2
+period luminosity relation: 2
+ubiquitin ligases: 2
+retinoic acid ra do vitamin a; retinol; retinal; retinaldehyde: 2
+cirques: 2
+parker spiral: 2
+gap junctions: 2
+pipe diameter: 2
+karl pearson frs: 2
+nitro group: 2
+jahn teller effect: 2
+pair production: 2
+progeria: 2
+integrable: 2
+magnetic vec: 2
+cam photosynthesis: 2
+degenerate matter: 2
+neural crest: 2
+protostars: 2
+valence shell electron pair repulsion th: 2
+hashing functions prompt checksum mention: 2
+fats: 2
+chemical bonds: 2
+isaac newton's second law motion prompt newton's laws; f equals m: 2
+autism spectrum di: 2
+spell checker: 2
+transcendental: 2
+programming languages prompt languages: 2
+van allen belts prompt radiation belts: 2
+pheromones prompt semiochemical: 2
+dyes prompt stain: 2
+orbit: 2
+ch: 2
+nuclear fusion prompt heating lawson: 2
+plane: 2
+function: 2
+annelida: 2
+axons prompt neuron giant: 2
+double displacement reactions: 2
+tropical savanna: 2
+ear: 2
+http: 2
+neurotransmitters: 2
+laws: 2
+luminiferous ether: 2
+taiga: 2
+gauss's law: 2
+meningitis: 2
+gnu/linux: 2
+giant squid prompt squid: 2
+anthrax: 2
+deltas: 2
+: 2
+ip address prompt partial answer; internet protocol address: 2
+bits: 2
+superconduc: 2
+refining petroleum: 2
+: 2
+nucleophiles: 2
+hurricanes: 2
+glucagon: 2
+pyruvate: 2
+barbara mcclintock: 2
+bilirubin: 2
+anti diuretic: 2
+ascomycota: 2
+conductivity: 2
+euclidean space prompt metric space: 2
+neuron: 2
+capillaries: 2
+hydrocarbons: 2
+total energy: 2
+insula: 2
+addition summation: 2
+opacity: 2
+heat shock proteins: 2
+regular: 2
+atp synthase: 2
+dwarf planets prompt planetoid; mi: 2
+resistance: 2
+adrien marie legendre: 2
+lagrangian prompt l mentioned: 2
+auxins: 2
+base: 2
+preda: 2
+reaction rate: 2
+trans: 2
+plasmids: 2
+nodes ranvier: 2
+centromeres kinetoc: 2
+galois th: 2
+p: 2
+poliovirus do poliomyelitis: 2
+hans bethe: 2
+plasmons: 2
+intercalating agents: 2
+elliptic curve: 2
+prandtl number: 2
+size exclusion chromatography molecular sieve chromatography gel filtration chromatography gel exclusion chromatography gel permeation chromatography sec msc gfc gec gpc: 2
+haus: 2
+earthquakes: 2
+neurons: 2
+triceratops: 2
+galaxies: 2
+sarcoplasmic reticulum: 2
+cyclone prompt specific cyclone such hurricane: 2
+lepidoptera: 2
+optical fiber glass fiber fiber optics: 2
+rotifera: 2
+lennard jones potential: 2
+gpcrs: 2
+abscisic acid: 2
+raney nickel: 2
+raman effect: 2
+bekenstein hawking radiation prompt black body radiation: 2
+interactive proof: 2
+abraham de moivre: 2
+cosmic background exp: 2
+rhodopsin: 2
+: 2
+pseu: 2
+modified newtonian dynamics: 2
+vicinal diols: 2
+hammett equation: 2
+erwin schrodinger: 2
+adaptive optics: 2
+residues: 2
+lagrangian: 2
+lagrange points: 2
+pangaea: 2
+melting: 2
+platonic solids: 2
+acetyl ethanoyl: 2
+superconduc: 2
+recursive: 2
+intelligence prompt intelligence quotient iq quotient read: 2
+brownian motion: 2
+neurons: 2
+speed sound: 2
+1 aj: 2
+cnidaria the c often silent db n: 2
+sulfuric acid: 2
+bond: 2
+cyclins: 2
+bounded: 2
+bell's th: 2
+adiabatic th: 2
+biomass: 2
+threshold voltage: 2
+franck hertz experiment either: 2
+quantum al: 2
+angiogenesis: 2
+ylide prompt zwitterion: 2
+boltzmann h th: 2
+simmons smith reaction: 2
+theodosius dobzhansky: 2
+leptin: 2
+sunyaev zeldovich effect: 2
+gustav robert kirchoff: 2
+fatty acids prompt fats; long chain carboxylic acids equivalents: 2
+red queen: 2
+leonhard paul euler oil er: 2
+p waves prompt sesmic waves compression waves mentioned: 2
+omega: 2
+attention: 2
+magnetic susceptibility prompt chi; susceptibility: 2
+helicobacter py: 2
+inverses: 2
+ten: 2
+phenylalanine prompt phe f: 2
+neutralization reaction prompt acid base reaction: 2
+deposition: 2
+oncogenes prompt cancer gene; proto oncogene: 2
+vitamin k: 2
+modular arithmetic: 2
+gamma rays/radiation prompt electromagnetic radiation; em radiation: 2
+icosahedron: 2
+epinephrine: 2
+lemniscate bernoulli prompt cassini oval: 2
+endos: 2
+ordinary linear least squares regression line: 2
+p: 2
+hurricanes: 2
+data compression: 2
+molecular diffusion prompt osmosis mention: 2
+isostasy prompt post glacial rebound: 2
+fine structure constant: 2
+phosphate: 2
+markov chains: 2
+aldosterone: 2
+untyped: 2
+ernst mach: 2
+tree: 2
+klinefelter's syndrome: 2
+visual basic: 2
+heliosphere: 2
+hashing: 2
+glutamic acid: 2
+wolff kishner reduction: 2
+conservation laws: 2
+uv/visible spectroscopy: 2
+galls: 2
+irrational numbers prompt quadratic surds quadratic irrationals: 2
+cosine function: 2
+carboxylic acids prompt: 2
+lotka volterra equations competition model prompt preda: 2
+archaeopteryx: 2
+quantum hall effect: 2
+sigmatropic rearrangements prompt rearrangements: 2
+epithelial mesenchymal transition: 2
+ghrelin: 2
+mach number: 2
+galaxies: 2
+protein sequencing: 2
+integrins prompt glycoproteins: 2
+bayes' th: 2
+cilia do flagella basal body due ambiguities: 2
+crohn's disease: 2
+ring: 2
+frederick sanger: 2
+spin: 2
+x rays: 2
+australopithecus: 2
+half life: 2
+diatoms prompt algae phytoplankton mention: 2
+extraction: 2
+bubonic plague: 2
+cushing's syndrome: 2
+magnetic vec: 2
+rsa cryptography al: 2
+penguins: 2
+integration: 2
+mitosis prompt individual stages   prophase metaphase anaphase telophase: 2
+spin: 2
+least squares methods: 2
+externalities: 2
+gauss' law of electricity; gauss's law magnetism: 2
+ziegler natta catalyst reagent: 2
+franck condon principle: 2
+wilson's disease: 2
+elisa: 2
+rayleigh tay: 2
+carbonyl group do aldehyde ketone every clue group itself compound containing it: 2
+pafnuty chebyshev: 2
+degradation prompt proteolysis; ubiquitination: 2
+barr bodies: 2
+ergosphere: 2
+non newtonian fluid: 2
+memris: 2
+snow do ice: 2
+john johnny von nuemann also margittai nuemann janos lajos: 2
+cretaceous tertiary extinction event: 2
+gills: 2
+complex conjugate: 2
+hertzsprung russell diagram: 2
+penicillin: 2
+noble gas prompt inert gas: 2
+krebbs cycle: 2
+particle: 2
+house mouse: 2
+blazars prompt quasars; agns active galactic nuclei: 2
+kinesins: 2
+indoles: 2
+chemistry: 2
+yeast 2 hybrid assay: 2
+particle jets: 2
+disulfide bonds bridges prompt cysteines cystines: 2
+biotin: 2
+snares: 2
+electrolytes prompt ions; ionic solutions; non ideal gases: 2
+holograms: 2
+cold fusion: 2
+dwarf planet: 2
+golden ratio: 2
+tungsten: 2
+le chatelier braun's principle: 2
+combustion reactions: 2
+exceptions: 2
+buckminsterfullerene: 2
+isoprene prompt terpenes: 2
+magnetic vec: 2
+domain: 2
+glenn theo: 2
+root finding stuff finding zeros equation: 2
+microscopy: 2
+hydroch: 2
+sql: 2
+object: 2
+aquifer: 2
+binomial th: 2
+gulf stream: 2
+stamens: 2
+bessemer process prompt steelmaking equivalents: 2
+clay: 2
+fungi: 2
+systems linear equations prompt linear equations: 2
+avogadro's constant: 2
+flame tests: 2
+boolean logic: 2
+conic sections: 2
+google: 2
+pointer variable: 2
+polynomial roots: 2
+javascript: 2
+blackbody: 2
+erosion: 2
+total internal reflection prompt partial answer; award 15 points post ftp buzz within: 2
+octahedral: 2
+mass do weight: 2
+earth's: 2
+binary number system: 2
+immune system: 2
+notoc: 2
+paramecium: 2
+molting: 2
+mo: 2
+chicken: 2
+yeasts prompt fungi mentioned: 2
+cyanobacteria: 2
+mass moment inertia prompt it's mentioned: 2
+markov chain prompt markov property; state dependent function: 2
+spirals: 2
+center mass com: 2
+hummingbirds: 2
+damping: 2
+joule thomson effect: 2
+co: 2
+nephron prompt kidney macula densa afterwards: 2
+ch: 2
+cygnus prompt: 2
+karl hans hermann emil fischer: 2
+deterministic chaos prompt butterfly effect clear knowledge equivalents it's mentioned: 2
+cern: 2
+sulfate: 2
+center mass: 2
+potential: 2
+ultraviolet catastrophe prompt rayleigh jeans catastrophe: 2
+nucleus du: 2
+bernoulli's principle effect law equation du: 2
+tokamak: 2
+nuclear: 2
+stephen cole kleene: 2
+quantum electrodynamics qed: 2
+triple bond: 2
+determinant prompt det: 2
+graviton prompt gravity wave wave: 2
+kinetic th: 2
+copper prompt early: cu buzz: 2
+grover's al: 2
+acidity functions 3 prompt basicity functions mention since term uncommon: 2
+nuclear overhauser effect 4: 2
+guanine: 2
+orthogonal: 2
+exponential function accecpt y = after reals read: 2
+hadrons: 2
+solvent: 2
+thymine: 2
+z0 boson: 2
+intrusive igneous rocks: 2
+resistivity: 2
+aphasia: 2
+non conservative: 2
+angle bisec: 2
+centrioles: 2
+active trans: 2
+cilia: 2
+adiabatic: 2
+crab nebula: 2
+copper: 2
+boyle's law: 2
+meiosis: 2
+stomata: 2
+polaris prompt: 2
+colloid: 2
+or imaginary number; square root negative on: 2
+radiation: 2
+paul langerhans: 2
+adrenaline: 2
+recursion: 2
+utility: 2
+spiral galaxy prompt galaxy; barred spiral mentioned: 2
+natural exponential function: 2
+sea fl: 2
+square root three units: 2
+faraday's law induction maxwell faraday law induction: 2
+tobacco mosaic virus: 2
+: 2
+alpine arctic tundra prompt arctic mentioned: 2
+peptide bonds: 2
+prisoner's dilemma: 2
+helicase: 2
+xenon: 2
+rubber prompt latex: 2
+permian mass extinction prompt extinction; great dying: 2
+andromeda: 2
+crab nebula ngc 1952: 2
+amine: 2
+z boson: 2
+antiferromagnetism: 2
+sample; sampling sample size: 2
+anhydrides: 2
+echidna prompt spiny anteater it's mentioned: 2
+jones oxidation prompt oxidation: 2
+continuum hypothesis: 2
+cyclizations: 2
+opioids: 2
+highly composite numbers: 2
+sodium potassium atpase: 2
+folic acid: 2
+gypsum: 2
+: 2
+diols: 2
+probability density function: 2
+time reversal: 2
+promoters prompt recognition elements: 2
+composite: 2
+registers: 2
+d glucose: 2
+august mobius: 2
+gradient prompt del: 2
+p n junction: 2
+johannes robert rydberg: 2
+bragg's law: 2
+estrogens: 2
+icebergs: 2
+vision: 2
+messenger rna: 2
+richard dawkins: 2
+colloids: 2
+carbon: 2
+quasars: 2
+sodium potassium pump: 2
+continuous function: 2
+parthenogenesis prompt asexual reproduction; reproduction; virgin birth;: 2
+frogs: 2
+influenza virus: 2
+inductance: 2
+mass energy equivalence: 2
+population size: 2
+salinity: 2
+cooling: 2
+tundra: 2
+lymph: 2
+characteristic: 2
+alkene: 2
+egg cells: 2
+static: 2
+eliminations: 2
+regression analysis: 2
+: 2
+superacids: 2
+programming languages: 2
+computer typewriter keyboards: 2
+amplitude modulation radio prompt radio similar answers: 2
+debye model: 2
+elliptic curves curve unnecessary after spoken modular: 2
+vilsmeier haack reaction: 2
+lyme disease lyme: 2
+x ray diffraction topography prompt stuff involving x rays diffraction synchrotron: 2
+walter schottky do similar sounding shockley: 2
+mode locking prompt partial answers; q switching: 2
+hexagons: 2
+flower do plant: 2
+honey bees: 2
+isotopes: 2
+meta: 2
+cell nucleus prompt nucleolus buzz cajal bodies: 2
+bases prompt alkali: 2
+cosmids: 2
+loess: 2
+pyrroles: 2
+jawless fishes: 2
+polarization: 2
+crater: 2
+ketone prompt carbonyls: 2
+gas exchange: 2
+pyridine: 2
+magic angle spinning nmr: 2
+flight: 2
+: 2
+osmium tetroxide: 2
+weathering: 2
+aluminum: 2
+magnesium: 2
+phospholipids: 2
+current prompt i: 2
+eva: 2
+co: 2
+zeta: 2
+phosp: 2
+volcanic eruptions: 2
+phase diagrams: 2
+wildfires: 2
+ketogenesis: 2
+stefan banach: 2
+egg cells: 2
+random variables: 2
+permian triassic extinction event: 2
+types: 2
+aqua: 2
+insula: 2
+inflammation: 2
+madden julian oscillation: 2
+electronic filters: 2
+high blood pressure: 2
+euler characteristic: 2
+somites: 2
+paul ehrenfest: 2
+sex ratio: 2
+chromosomal translocations: 2
+hash functions: 2
+felix haus: 2
+feynman's path integral: 2
+white dwarfs: 2
+hermitian: 2
+friedel crafts reaction: 2
+oxytocin: 2
+discrete prompt fast random read: 2
+hofmann rearrangement: 2
+helicases: 2
+serum albumin: 2
+hertzian dipole antenna: 2
+optimization computer programs: 2
+africa: 2
+parity: 2
+finding exoplanets: 2
+astrocytes: 2
+rna polymerase ii rnap ii prompt partial answer answer number numbers: 2
+metric ten: 2
+metaphase: 2
+soil liquefaction: 2
+knapsack problem: 2
+emil leon post: 2
+bromine: 2
+heat conduction prompt trans: 2
+quaternions: 2
+avalanches prompt mass wasting read: 2
+birefringence: 2
+: 2
+associative property identity associativity: 2
+hidden variables th: 2
+1 ceres: 2
+compilation: 2
+accept names actual a: 2
+distance: 2
+myocardial infarction heart attack: 2
+radicals: 2
+water vascular system: 2
+flip flop prompt logic gates until mention logic: 2
+vegfs: 2
+h2 dihydrogen: 2
+signal recognition particle: 2
+catecholamines: 2
+energy bands electronic band structures: 2
+acetyl coa prompt acetyl: 2
+internal pipe roughness: 2
+grand partition function: 2
+oxidation reaction prompt redox oxidation reduction reaction: 2
+volcanic eruptions: 2
+statistical power: 2
+rigid bodies: 2
+dna polymerases prompt polymerases until dna read afterwards; rna polymerase wrong answers: 2
+salivary glands: 2
+optical fibers: 2
+fertilization: 2
+gaia hypothesis: 2
+saddle points: 2
+adh: 2
+hydrides: 2
+differential cross section: 2
+moons saturn prompt moons natural satellites: 2
+pancharatnam berry phase: 2
+ions: 2
+heritability: 2
+carl sagan: 2
+abelian groups prompt commutative groups; partial answers until groups read: 2
+cut: 2
+outliers: 2
+superfluids: 2
+markov chain: 2
+ras: 2
+robert boyle: 2
+tropical rain: 2
+limits: 2
+arithmetic mean: 2
+hyperbolas: 2
+crystallography: 2
+louis agassiz: 2
+12: 2
+eclipse: 2
+sine: 2
+hologram: 2
+coefficient thermal expansion prompt alpha; beta: 2
+mean sea level: 2
+: 2
+henri poincaré: 2
+quantization: 2
+iron: 2
+microscope: 2
+einstein's field equations: 2
+finite state machines: 2
+axions: 2
+doppler effect/shift: 2
+minimum weight spanning trees: 2
+felix klein: 2
+potential energy prompt just energy; types energy: 2
+distance: 2
+debye length: 2
+group selection: 2
+differentiable: 2
+mast cells: 2
+poisson bracket: 2
+polytene chromosomes prompt drosophila chromosomes: 2
+egg cells: 2
+spin glasses: 2
+stokes parameters vec: 2
+enolates do enols: 2
+sir g: 2
+riboswitches: 2
+globular clusters: 2
+chelates: 2
+special relativity: 2
+colloids prompt emulsions aerosols: 2
+virgo cluster do virgo supercluster: 2
+vitamin prompt retinol carotene mention; all trans retinoic acid ra: 2
+bethe weizsacker equation: 2
+accretion disks: 2
+jan: 2
+moons jupiter: 2
+muon: 2
+annihilation: 2
+zero 0: 2
+rock salt: 2
+skull: 2
+streptococcus prompt strep: 2
+: 2
+adiabatic processes: 2
+adder: 2
+laser cooling: 2
+river: 2
+positive: 2
+louis plack hammett: 2
+trypsin: 2
+phase diagram: 2
+als: 2
+michaelis menten equation: 2
+permutation prompt bijection mention: 2
+japan: 2
+fixed point equilibrium point invariant point: 2
+huygens' principle: 2
+benzene: 2
+aspirin: 2
+critical mass: 2
+multiple integrals: 2
+cyclin cdk complexes: 2
+hamilton jacobi equation: 2
+yang mills field th: 2
+meristem: 2
+nuclear shell model: 2
+sigma σ fac: 2
+bellman: 2
+substance p also sp: 2
+wigner energy: 2
+hadley cells: 2
+excitons: 2
+: 2
+interferometer: 2
+electric dipole moment: 2
+edman degradation prompt degradation: 2
+sine: 2
+gold: 2
+t: 2
+quinine: 2
+embryonic stem cells do adult stem cells point; ips induced pluripotent stem cells inner cell mass after: 2
+nitric acid: 2
+sedimentary rocks prompt sediment until clastic read; rock throughout; why not?: 2
+cpu: 2
+8: 2
+centroid prompt center mass center gravity barycenter: 2
+golden ratio: 2
+srinivasa ramanujan: 2
+epinephrine: 2
+salt: 2
+paper: 2
+light: 2
+protists: 2
+meiosis: 2
+hurricane: 2
+magnetohydrodynamics: 2
+logarithm: 2
+long term potentiation: 2
+uv vis spectroscopy: 2
+density states: 2
+casimir onsager reciprocal relations: 2
+proteoglycans: 2
+bicarbonate ion: 2
+johann friedrich wilhelm adolf von baeyer: 2
+: 2
+r: 2
+student's t test: 2
+carbon: 2
+bioluminescence prompt chemiluminescence: 2
+tangent function: 2
+leibniz: 2
+convex: 2
+geomagnetic reversal: 2
+magnetic susceptibility: 2
+carboxylic acids: 2
+mass extinction events prompt dying similar answers; asteroid impact logical equivalent until chicxulub read: 2
+order reactio: 2
+ernest ruther: 2
+metaphysics: 2
+: dmso: 2
+transition metals: 2
+nematoda: 2
+silicates: 2
+cyclization: 2
+muons: 2
+cepheid variable stars prompt variable: 2
+huxley: 2
+lucasian chair lucasian profes: 2
+vesicle: 2
+et: 2
+epr spectroscopy: 2
+halting problem: 2
+acentric fac: 2
+triphenylphosphine: 2
+cauchy riemann equations: 2
+population mean: 2
+edta  ethylenediaminetetraacetic acid ethylenediaminetetraacetate: 2
+focal length: 2
+lymphatic system prompt immune system mention: 2
+velocity: 2
+stress response: 2
+even numbers: 2
+anti patterns: 2
+differentiation: 2
+asymptotic freedom: 2
+wnt proteins prompt on: wg: 2
+linear mapping: 2
+speed sound: 2
+oxaloacetate: 2
+landauer: 2
+euglenoids: 2
+solifluction prompt creep frost creep: 2
+russell saunders coupling: 2
+starch: 2
+rings: 2
+population size: 2
+angular momentum opera: 2
+ad: 2
+linear: 2
+meristems: 2
+feathers: 2
+newton raphson method: 2
+green: 2
+simple harmonic motion: 2
+carolus linnaeus: 2
+rainbows: 2
+tetraethyl lead: 2
+vestigial structures: 2
+solid: 2
+infrared light: 2
+amino acids prompt protein valine mentioned: 2
+zero: 2
+mean: 2
+voltage difference: 2
+asteroid belt be lenient solar system milky way universe similar regions space encompass asteroid belt dawn spacecraft mentioned: 2
+elementary charge: 2
+radioactivity: 2
+twelve: 2
+acetylene: 2
+hepatitis b virus: 2
+powers two: 2
+nature: 2
+arrows: 2
+trace: 2
+photonic crystals: 2
+trypanosomes: 2
+retrosynthesis: 2
+triangular numbers: 2
+bcr abl fusion protein prompt philadelphia chromosome: 2
+discrete logarithm: 2
+clustering al: 2
+sir ronald aylmer fisher: 2
+pyruvate dehydrogenase complex prompt pyruvate oxidase: 2
+viscosity: 2
+2 d: 2
+vitamin: 2
+graph mi: 2
+pearson hard soât acid base th: 2
+blue prompt purple: 2
+teruaki  mukaiyama: 2
+amphoteric: 2
+purines prompt nucleotides nucleobases; anti prompt specific purines adenine guanine xanthine: 2
+magellanic clouds prompt dwarf galaxies; large small magellanic clouds magellanic bridge/stream: 2
+echinodermata echinoderm: 2
+allen newell: 2
+saccharomyces cerevisiae prompt saccharomyces; yeast until read: 2
+measures: 2
+elements: 2
+biodiversity: 2
+multiple sclerosis: 2
+chromosome 21: 2
+join: 2
+andes: 2
+nicolas bourbaki: 2
+ca: 2
+magic squares: 2
+24: 2
+chess: 2
+chain rule: 2
+screensavers prompt games; computer games: 2
+lie detec: 2
+zika virus: 2
+phosp: 2
+hooke’s law &lt;ap&gt;: 2
+two second &lt;sh&gt;: 2
+international space station: 2
+polynomial &lt;ms&gt; bonuses: 2
+seven &lt;ms&gt;: 2
+elimination reaction: 2
+poliomyelitis: 2
+zero: 2
+titanium: 2
+harmonic oscilla: 2
+earthquakes &lt;sr earth science&gt;: 2
+james dewey watson: 2
+crystalline solid &lt;ec&gt;: 2
+hyperbola &lt;as&gt;: 2
+temperature: 2
+voltage: 2
+interest rate: 2
+gel electrop: 2
+antibodies: 2
+gamma rays prompt partial answer; just radiation; answers involving weapons gamma rays just descriptions weapons: 2
+retina prompt rod cells cone cells mentioned; eye: 2
+potential energy: 2
+heat equation: 2
+: 2
+tcr: 2
+mass &lt;physics&gt; bonuses: 2
+henry’s law: 2
+potential energy &lt;david dennis&gt;/&lt;ed hb&gt;/&lt;ed jo&gt;  bonuses: 2
+electronic filters: 2
+gravitons &lt;ps physics&gt;: 2
+met: 2
+b cells &lt;dm biology&gt;: 2
+stress &lt;dm physics&gt;: 2
+radio waves: 2
+beta &lt;em chemistry&gt;: 2
+meiosis do “mitosis” &lt;bz&gt;: 2
+pentagon: 2
+chalcogens: 2
+2 plus 2 plus 2 plus 3: 2
+junq ipod: 2
+equivalence principle: 2
+: 2
+rossby waves: 2
+glucose prompt c 6 h 12 o 6; hexose; sugar &lt;biology&gt;: 2
+global sea surface temperatures: 2
+coupled cluster: 2
+adam bremen: 2
+neurogenesis: 2
+adding carbon chain molecule: 2
+abjection: 2
+tokamaks prompt fusion reac: 2
+cyclodextrins: 2
+kilonovas kilonovae neutron star mergers bns mergers: 2
+cell proliferation: 2
+mole rats: 2
+carrier recombination: 2
+ab: 2
+osel·tamivir phosphate: 2
+karl weierstrass “vie” uh shtrahss &lt;other science&gt;: 2
+rhodopsins: 2
+fluxionality: 2
+ferroelectrics prompt pyroelectrics “transducers”; piezoelectrics “thermal sen: 2
+anelastic: 2
+vanadium: 2
+neutrophil extracellular traps: 2
+jerzy splawa neyman the grammar science written karl pearson; neyman wrote many im: 2
+magnetic helicity &lt;physics&gt;: 2
+oximes prompt imines hydroxyls they’re mentioned &lt;chemistry&gt;: 2
+crispr screens prompt crispr “using crispr what?” screening “screening what?” &lt;biology&gt;: 2
+combustion: 2
+microglia prompt macrophages read; glia; descriptive answers brain macrophages cns macrophages “macrophages” &lt;biology&gt;: 2
+chalcogenides: 2
+g: 2
+scar tissue: 2
+ruthenium: 2
+control th: 2
+noble gases: 2
+leaves &lt;wenzer qin/ed david dennis&gt;: 2
+finite: 2
+lagrangian &lt;jc physics&gt;: 2
+republic zimbabwe &lt;mk&gt;: 2
+radiative transfer: 1
+limbic hypothalamic pituitary adrenal gonadotropic axis lhpag axis prompt stress response until stress mentioned; hypothalamic pituitary gonadal hpg axis: 1
+cauchy completeness: 1
+geomagnetic s: 1
+pachytene pachynema prompt prophase until checkpoint named stage read; don't meiosis meiosis point: 1
+steric fac: 1
+maternal effect genes: 1
+types generously classes: 1
+kolmo: 1
+replicative: 1
+transversions prompt mutations point mutations missense mutations p53 clue after missense; nonsense mutations transitions: 1
+demyelination: 1
+interstellar dust grains: 1
+hyperglycemia high blood sugar: 1
+malpighian tubules: 1
+imidazole: 1
+amphiboles: 1
+subrahmanyan chandrasekhar: 1
+neutral th: 1
+jnk pronounced junk c jun n terminal kinases prompt jun kinases guess: 1
+integration respect: 1
+shrink proofing: 1
+face centered cubic prompt tetragonal mention: 1
+cooling: 1
+glutamate: 1
+proteasome: 1
+notch: 1
+magne: 1
+reversal geomagnetic field: 1
+magnetic reconnection: 1
+hydrazones do hydrazine hydrazides wrong answers: 1
+fibonacci heap prompt heap mention: 1
+international trade: 1
+creatine: 1
+reversal opera: 1
+5' cap: 1
+bottom quark: 1
+generalized: 1
+immune response plant: 1
+wkbj approximation: 1
+ciliop: 1
+klaus fuchs: 1
+queue prompt fifo: 1
+cations prompt ions; carbocations type a; positively charged: 1
+function prompt map mentioned: 1
+hair: 1
+prism: 1
+exponential function: 1
+quadratic: 1
+rnas: 1
+angles: 1
+sir friedrich wilhelm herschel: 1
+wrist: 1
+prompt multiplicative identity mentioned: 1
+pulley: 1
+cyanide: 1
+thomas edison: 1
+respiration: 1
+snellius's law: 1
+autosomal dominant prompt partial answer; non sex linked dominant: 1
+cyclone: 1
+co: 1
+clock: 1
+eukaryota: 1
+rate earth metal: 1
+anglerfish: 1
+encryption al: 1
+dalton's law partial pressures: 1
+audio: 1
+decibels: 1
+mandarin chinese: 1
+: 1
+homogenous: 1
+human blood: 1
+shells: 1
+zygote: 1
+homologous recombination: 1
+latent heat va: 1
+blood clotting: 1
+prefrontal: 1
+antibiotics: 1
+chelation kee lay shun: 1
+anesthesia: 1
+leonardo fibonacci: 1
+plasma membrane: 1
+pendulum: 1
+cis/trans need both; cis/trans acting elements cis/trans isomerism cis/trans faces point: 1
+wheat: 1
+monsoon: 1
+: 1
+identity element: 1
+ice: 1
+strange quark prompt quark mentioned: 1
+statins: 1
+great: 1
+reversible proces: 1
+nuclear envelope: 1
+symmetric matrices: 1
+fibonacci sequence/numbers/series prompt lucas sequence mentioned; pine cone sequence/numbers/series; lucas numbers: 1
+antibodies: 1
+bond angle: 1
+orbital hybridizatio: 1
+object: 1
+oliver heaviside: 1
+erich huckel: 1
+: 1
+colloids prompt double layer mentioned: 1
+reproduction: 1
+human immunodeficiency virus do aids; retrovirus until tar: 1
+secondary lymphoid tissue be lenient things lymphatic system demonstrations reasonably clear knowledge lymph nodes; lymphocytes: 1
+epoxide: 1
+congestion prompt traffic mentioned: 1
+antifungals: 1
+centaurs: 1
+osmium: 1
+potential: 1
+self balanced: 1
+hexagonal crystal system: 1
+chern simons th: 1
+nuclear envelope: 1
+dimerization: 1
+anterograde amnesia prompt amnesia: 1
+: 1
+carbanions: 1
+terpenoids: 1
+: 1
+macula lutea: 1
+actinides actinoids: 1
+intel: 1
+europa: 1
+salt bridges  the macromolecular ones less commonly called salt links; i'd inclined point: 1
+taq polymerase: 1
+friedmann equation: 1
+john henry poynting: 1
+keeling curve prompt co2 concentration similar: 1
+general equilibrium th: 1
+keto esters prompt esters ketones carbonyls: 1
+fermilab: 1
+dispro: 1
+branes: 1
+antimony: 1
+anisotropy: 1
+plant: 1
+meiosis do mitosis; gametogenesis gamete; oogenesis: 1
+polio: 1
+phosphate ion/s: 1
+acetylcholin: 1
+measurement observation: 1
+thermal equilibrium: 1
+obesity: 1
+goldbach's strong conjecture: 1
+neoprene: 1
+analyticity: 1
+glyph1197ad: 1
+principal quantum number: 1
+cronin fitch experiment: 1
+tokamaks: 1
+field: 1
+catalytic process: 1
+optical illusions: 1
+gram stain: 1
+osteichthyes: 1
+hemoglobin: 1
+fret: 1
+desmosomes: 1
+dna barcoding: 1
+hulse tay: 1
+centrosomes: 1
+boundary layers: 1
+tetragonal: 1
+biofilms: 1
+transketolase: 1
+pigeonhole principle: 1
+con: 1
+compara: 1
+sonogashira coupling: 1
+chemical clock reactions: 1
+oxygenases: 1
+molecular beam epitaxy: 1
+titin: 1
+lynn margulis: 1
+dense: 1
+pr: 1
+hunsdiecker: 1
+vaults: 1
+levers: 1
+solution prompt mixture: 1
+troposphere: 1
+big dipper: 1
+dark matter: 1
+rectangles do square: 1
+endoplasmic reticulu: 1
+lipids: 1
+electrocardiogram ecg ekg: 1
+o1 run constant run: 1
+enantiomers: 1
+mitosis: 1
+human stomach do animal stomach specific names animal stomachs: 1
+bone: 1
+mitochondria mj: 1
+: 1
+laws thermodynamics aj: 1
+parthenogenesis mj: 1
+prime number: 1
+viscosity mj: 1
+universal gravitational constant prompt partial answers; big g; just g oh: 1
+molecular mo: 1
+flocculation: 1
+taxol: 1
+coenzyme q10: 1
+wittig reaction prompt saying that's a: 1
+bone: 1
+barbiturates: 1
+miller modigliani th: 1
+angelman's syndrome prompt happy puppet syndrome eugenicists: 1
+air free techniques: 1
+vitamin b12 prompt cobalamins mention; methylcobalamin mention; cyanocobalamin mention: 1
+charles adolphe wurtz: 1
+branch prediction: 1
+my: 1
+kondo effect: 1
+cpu cache: 1
+iguanodon bernissartensis: 1
+endosymbiosis cyanobacteria: 1
+crystal defects reverse point defects dislocations those p: 1
+london equations: 1
+neuromuscular junction: 1
+pinacol: 1
+nucleation: 1
+gouy chapman stern th: 1
+de vries hugo de vries gustave de vries: 1
+kuiper belt: 1
+fullerenes: 1
+rate laws: 1
+sugars: 1
+econometrics: 1
+greenhouse effect prompt global warming: 1
+waggle dance prompt bee dances similar answers involving bees: 1
+debug: 1
+translocation prompt rearrangement: 1
+marsupials prompt metatheria: 1
+dwarf planets do planets; asteroids hi'iaka;: 1
+darwin's finches prompt finches; galapagos finches; geospiza: 1
+orbitals: 1
+ciphers: 1
+jaundice: 1
+estrogen: 1
+file systems prompt fss: 1
+event independence: 1
+mesophyll: 1
+met: 1
+arachnida: 1
+interquartile range: 1
+radians: 1
+hyperbolic sine function do partial answer; sinh; sinch;: 1
+: 1
+orthogonality: 1
+thought experiment: 1
+fullerene: 1
+ectothermic: 1
+arithmetic aa rith maa tik lenient sequence: 1
+natural logarithm: 1
+immiscibility: 1
+: 1
+eratosthenes cyrene: 1
+apothem: 1
+diastole: 1
+plasmodesmata: 1
+particle magnetic spin: 1
+zero product property: 1
+climate prompt weather mentioned: 1
+anaerobic: 1
+a: 1
+bowman's capsule: 1
+thermite reaction: 1
+electroweak unification: 1
+achromatic lenses prompt lenses mentioned: 1
+g: 1
+cadmium: 1
+stalagmite do stalactite: 1
+: 1
+nuclear fission: 1
+hess': 1
+thunders: 1
+red dwarfs: 1
+raman scattering: 1
+buckministerfullerenes: 1
+young stellar objects: 1
+operational amplifier: 1
+trans: 1
+stellar luminosity: 1
+peat bogs peat mires: 1
+lineweaver burk: 1
+ferrofluid: 1
+eightfold way: 1
+io: 1
+ergodic hypothesis: 1
+microscopic total cross section prompt sigma: 1
+: 1
+natural numbers: 1
+rnas ribonucleic acids: 1
+golgi body apparatus prompt membrane bound vesicles during sentence: 1
+entropy do enthalphy: 1
+acid base titration: 1
+penicillins prompt antibiotics antibacterial agents: 1
+magnesium prompt mg mentioned: 1
+sandmeyer reactions: 1
+redlich kwong: 1
+myasthenia gravis: 1
+femaleness prompt sex determination gender determination things suggest thing talking female: 1
+aspartate aspartic acid: 1
+markovnikov's rule: 1
+michael j s dewar: 1
+cephaloc: 1
+sir hiram stevens maxim: 1
+bayesian statistics: 1
+jahn teller effect: 1
+buffer overflow: 1
+riboswitch prompt aptamer mentioned: 1
+alkenols: 1
+cycloaddition prompt pericyclic reactions mention; diels alder reaction mention; demayo reaction mention; 13 dipolar cycloaddition mention; cheletropic reactions until mention; answer includes names suarez: 1
+oda nobunaga: 1
+serine: 1
+inelastic: 1
+making rings: 1
+topoisomerase: 1
+methylenation: 1
+strangeness: 1
+dna repair pathways equivalents ok specific answers mismatch repair base excision repair nucleotide excision repair non homologous end joining just fine: 1
+deuterium: 1
+oceanic currents oceanic circulations do the oceanic feeling: 1
+subclavian artery: 1
+type ii diabetes: 1
+light emitting diodes: 1
+prospect th: 1
+irreducible: 1
+glia: 1
+: 1
+economic utility: 1
+benzene: 1
+parabolas: 1
+argon: 1
+fresnel diffraction: 1
+arthur eddington: 1
+ackermann function: 1
+fad: 1
+neuroglia: 1
+collatz conjecture problem: 1
+proton proton chain: 1
+enolate prompt alcohol alkene since both parts enol: 1
+dna topoisomerases prompt gyrase: 1
+hydrolysis: 1
+superfluid: 1
+eutrophication prompt spring bloom algal bloom until anthropogenic: 1
+au: 1
+articles prompt determiners partitive variety: 1
+messenger rna: 1
+tropical cyclone: 1
+goto statement: 1
+ph prompt negative log hydrogen until mentioned: 1
+gene knockout: 1
+ludwig gattermann: 1
+retention sequence: 1
+dna polymerases: 1
+pinacol: 1
+paschen back effect: 1
+cd antigens: 1
+pseudo random number genera: 1
+ascomycota: 1
+ophiuchus prompt 'serpent holder' logical equivalent: 1
+chlamydia: 1
+pho: 1
+cooperativity prompt early allostery similar answers: 1
+ordovician perio: 1
+fermionic condensate: 1
+136199 eris: 1
+seismometer seismograph grudgingly seismoscope even seismogram: 1
+tektites: 1
+potts model: 1
+cracking: 1
+flow cytometry: 1
+julia lythgoe olefination: 1
+stromatolites: 1
+amalie emmy noether: 1
+b tree: 1
+pockels effect: 1
+caspases: 1
+climate i wouldn't many equivalents   they're explicitly climate classifications: 1
+interferons: 1
+isotope effects: 1
+lebesgue integral lebesgue integration prompt integral integration until namesake: 1
+vlasov equations: 1
+huntington's c: 1
+abberations: 1
+chinese room argument: 1
+stroop effect: 1
+cryovolcanism: 1
+canizzarro reaction: 1
+cherenkov radiation effect light: 1
+elastic collisions prompt collision: 1
+golgi apparatus/body: 1
+buffer solutions/agents: 1
+ch: 1
+neils bohr: 1
+lechatlier's principle: 1
+punnett square: 1
+consonants: 1
+hemoglobin i guess clue gene hemoglobin: 1
+homeostasis: 1
+de: 1
+avogadro's number/constant: 1
+particle number: 1
+udp: 1
+order: 1
+atmospheric turbulence: 1
+hematoâ·poiesis hee mat oh poy ee sihs: 1
+canonical trans: 1
+armadillos: 1
+oil wells: 1
+tempo: 1
+teflon: 1
+joseph priestley: 1
+proton prompt h+: 1
+benzene benzol do phenyl phenol; anything aromatic sentence: 1
+golgi apparatus/body/dictyosome/complex: 1
+ex read x y = ex fx = ex read f equals ex exponential function: 1
+lanthanum: 1
+hydroch: 1
+adrenal gland: 1
+avogadro constant: 1
+butterfly mechanism: 1
+exosphere: 1
+homeopathy: 1
+lonely crowd: 1
+theo: 1
+quantum dot: 1
+dark current: 1
+cisplatin: 1
+mannich reaction: 1
+juventus football club: 1
+fu: 1
+polarization: 1
+frame dragging: 1
+termina: 1
+grashof number: 1
+l'hopital's rule: 1
+orbitals take atomic orbitals non bondin: 1
+electrochemistry electrical chemistry: 1
+stds stis clear equivalent knowledge: 1
+: 1
+terminal velocity: 1
+honeybees: 1
+urinary bladder: 1
+loops prompt itera: 1
+agriculture: 1
+anions: 1
+jpeg: 1
+golgi apparatus: 1
+internet: 1
+numerical integration: 1
+yeast: 1
+pea plants: 1
+dwarfism prompt reasonable synonyms s: 1
+parallelity: 1
+atomic: 1
+capillaries: 1
+computer moni: 1
+: 1
+single displacement reaction: 1
+septum: 1
+tyrannosaurus rex: 1
+ruby: 1
+meter: 1
+distributive property: 1
+phenotype: 1
+1/4: 1
+complete: 1
+firewalls: 1
+optical microscopes: 1
+indica: 1
+gpu: 1
+mersenne prime numbers prompt prime mentioned: 1
+logarithms: 1
+stratigraphy prompt geology: 1
+water: 1
+fractal: 1
+gamma prompt electromagnetic; em: 1
+collisions: 1
+tone: 1
+tectonic plates: 1
+silent spring: 1
+c4 photosynthesis: 1
+ursa ma: 1
+volcanos: 1
+codons: 1
+ch: 1
+angles: 1
+rene descartes: 1
+blastula: 1
+oxidative phosp: 1
+cosmic egg: 1
+satyendranath nath bose: 1
+le chatelier's principle: 1
+talc: 1
+variable star: 1
+galvanic cell: 1
+ampere's circuit law: 1
+barium: 1
+hydrofl: 1
+atomic clocks: 1
+ideal gases: 1
+carbon nanotubes: 1
+cosine function: 1
+cirrus clouds prompt mare's tail mentioned; cirrostratus: 1
+supersaturated solutions: 1
+marianas trench: 1
+marginal utility do partial answer: 1
+activation energy: 1
+sexual reproduction prompt reproduction; mating equivalents: 1
+beryl do variations such beryite beryllium: 1
+hybridization: 1
+law large numbers: 1
+alzheimer's disease: 1
+ultraviolet light: 1
+wave functions: 1
+mersenne primes prompt primes: 1
+equality: 1
+diphtheria: 1
+graphite: 1
+impulse: 1
+scientific method: 1
+lagrange point: 1
+drumlin: 1
+condensation reactions: 1
+hall heroult process: 1
+positrons: 1
+oxbow lakes prompt meanders mentioned: 1
+william thompson: 1
+catenary curve prompt catenoid lc: 1
+asiatic epidemic cholera prompt gastroenteritis mentioned vibrio cholerae guess lc: 1
+cystic fibrosis mucovoidosis mucoviscidosis prompt argh thing espn covers every six months because gunnar esiason it lc: 1
+alkenes do alkane alkyne olefins mentioned lc: 1
+buffer solution lc: 1
+teflon polytetrafl: 1
+black hole du/mt 1: 1
+hemoglobin lc: 1
+romulus: 1
+lindlar's catalyst: 1
+hubble's constant: 1
+galvanization: 1
+reynolds' number: 1
+lanthanide series lanthanides: 1
+rh blood group rhesus fac: 1
+conservative: 1
+quasar: 1
+marginal revenue prompt mr: 1
+axon prompt nerve fiber equivalent; neuron until growth cone: 1
+intrusions: 1
+perfect number: 1
+inner: 1
+rifts: 1
+john: 1
+geodynamo th: 1
+ward takahashi identities 5: 1
+kim jong il prompt kim kim il sung great juche ideal until 38 under things credited writing crap both father son credited writing every operatic: 1
+bird song singing 3: 1
+aza aza modification aza reaction 4: 1
+great attrac: 1
+cooper pairs 3 prompt superconduc: 1
+nuclear fac: 1
+paul erdos 2: 1
+brachiopods: 1
+rein: 1
+burgers vec: 1
+aluminum: 1
+: 1
+gelfond's th: 1
+vulcanoid asteroids: 1
+chalcones 6: 1
+higgs bosons 2: 1
+rhizobia 3: 1
+calcitonin: 1
+capsaicin: 1
+immune tolerance: 1
+phototropism: 1
+l'hopital's rule: 1
+atwood's machine: 1
+planetary nebulae: 1
+steroids: 1
+stoma: 1
+rr lyrae variables: 1
+carbonyl: 1
+chelation: 1
+alkaline earth metals: 1
+antimatter prompt antiparticle: 1
+kepler's third law: 1
+relativity: 1
+intelligence tests: 1
+: 1
+filtration: 1
+sulfuric acid: 1
+buckminsterfullerenes prompt buckyballs read; buckytubes;: 1
+amoebae: 1
+hills: 1
+earth's: 1
+tension: 1
+bitmap: 1
+: 1
+glucose: 1
+fluid mosaic model: 1
+cochlear implant: 1
+parallax: 1
+eschericia coli: 1
+lanthanides: 1
+quasar: 1
+viscosity: 1
+chandrasekhar limit: 1
+conjugate: 1
+chromosomes: 1
+: 1
+overflows: 1
+enthalpy prompt h; heat content: 1
+periodic table elements: 1
+heron's: 1
+faults: 1
+taste buds: 1
+electrode: 1
+charge: 1
+ozone layer: 1
+quadrilateral do specific type quadrilateral: 1
+henri louis le chatelier: 1
+urine: 1
+? read mu: 1
+light reactions prompt electron trans: 1
+charon: 1
+stomata: 1
+nuclear bomb: 1
+alloys: 1
+saturn's moons: 1
+bridges konigsburg problem: 1
+alesandro volta: 1
+andre marie ampere: 1
+tyrannosaurus rex: 1
+energy level prompt: 1
+condensation take claisen condensation until mentioned: 1
+epidermis: 1
+vermi: 1
+one fourth times quantity square root six minus square root two: 1
+komodo dragon varanus komodoensis: 1
+square root five over two half times square root five equivalents: 1
+dmitry ivanovich mendeleyev: 1
+square root 3 over 3 third times square root 3 equivalent: 1
+x y equals pi over 4 square root 2 x y equals one fourth times pi square: 1
+360: 1
+1 over: 1
+50 square units: 1
+carl woese: 1
+x y = 4  2 x y = 1 1 x=4 y= 2 x=1 y=1two answers required: 1
+coelom either koh lum seal um prompt body cavity mentioned: 1
+luis walter alvarez: 1
+9: 1
+1/81 00123456789 repeating: 1
+poly: 1
+seventeen times pi over six units seventeen over six times pi units two five sixths: 1
+= 10: 1
+amphoteric am foh tehr ihk: 1
+lisp: 1
+nondisjunction: 1
+parenchymal cells: 1
+cyclotrons: 1
+schoenberg chandrasekhar limit: 1
+brief his: 1
+gibberellins: 1
+thermometers: 1
+planck's blackbody distribution function law: 1
+nuclear fission reac: 1
+transpiration: 1
+mo: 1
+thomas graham: 1
+gabriel's: 1
+aerosols: 1
+non euclidean geometries: 1
+random access me: 1
+omar khayyam: 1
+cate: 1
+spanish influenza epidemic pandemic prompt 1918 flu epidemic until end tossup: 1
+friedrich wohler: 1
+fibonacci sequence/numbers: 1
+game life: 1
+academy: 1
+tower silence: 1
+gottlob frege {ma}: 1
+deadweight loss: 1
+a/d converter analog to digital converter do d/a anything else answers wrong: 1
+bravais lattices: 1
+hyphae be: 1
+african sleeping sickness: 1
+fischer esterification: 1
+helices: 1
+black scholes th: 1
+rare earths rare earth elements: 1
+munchausen syndrome proxy: 1
+physics physica/phusika: 1
+rhizobium rhizobia: 1
+piltdown man: 1
+seebeck effect: 1
+drumlins: 1
+: 1
+krebs henseleit urea cycle: 1
+saponification: 1
+surjectiveness: 1
+bubble chambers: 1
+parsers: 1
+learned helplessness: 1
+coenzymes: 1
+australopithecus africanus: 1
+magnetic monopoles: 1
+abscisic acid: 1
+sn1: 1
+bernoulli's equation: 1
+neurofibromatosis: 1
+botulinum toxin: 1
+atomic clocks prompt clock similar answers implying timekeeping: 1
+thermodiffusion: 1
+density prompt rho mentioned; electron density: 1
+hyphae sing hypha: 1
+gibberelins: 1
+graphical user interface programs: 1
+or timestamps; timin: 1
+tebbe's reagent: 1
+quantitative trait loci: 1
+poisson process prompt levy process; exponential process: 1
+irrotational: 1
+4 vesta: 1
+smallpox vaccine prompt partial answer; vaccinia: 1
+retrograde motion: 1
+centrifugation: 1
+thin films prompt monolayers: 1
+atlantic ocean: 1
+constant volume heat capacity: 1
+cepheid variable star: 1
+maps: 1
+penicillins prompt antibiotics; antibiotic compounds: 1
+complement system: 1
+taurus prompt tauri rv tauri: 1
+vitamin b12: 1
+t cells prompt lymphocyte: 1
+ellipses prompt ovals read: 1
+poxviruses: 1
+hypersphere: 1
+string th: 1
+turner syndrome: 1
+silicate prompt feldspars mentioned: 1
+tu: 1
+planetary: 1
+water ice: 1
+radical prompt spins superoxide; electrons mention: 1
+isobaric process: 1
+green's functions: 1
+three spined sticklebacks: 1
+biological aging: 1
+voting: 1
+kinases prompt answers enzymes transfer phosphate groups until giveaway; protein kinases; specific types tyrosine kinases serine/threonine kinsases: 1
+colloids: 1
+biodiversity: 1
+tree: 1
+active trans: 1
+splitting water: 1
+velocity: 1
+bryophyta: 1
+ethers: 1
+transposons: 1
+coprime: 1
+proton: 1
+discriminant: 1
+tectonic plates: 1
+big crunch: 1
+syphilis: 1
+boolean satisfiability: 1
+cloning dolly: 1
+distance: 1
+basal body temperature also heat suppose: 1
+particle number: 1
+magellanic clouds: 1
+nadph: 1
+sandstone prompt sedimentary rock: 1
+pascal's law: 1
+colloids prompt dispersions; emulsions; gels; sols aerosols; foams: 1
+rocket fuel: 1
+loops: 1
+reducing agents: 1
+induction: 1
+controlled experiments: 1
+keratins: 1
+medians: 1
+blood sugar level: 1
+tectonic plates: 1
+supernovae: 1
+mass: 1
+wave particle duality: 1
+cnidaria prompt coelenterates coelenterata: 1
+linear: 1
+crystals: 1
+identity function: 1
+skyscraper prompt building; tower: 1
+vitamins: 1
+marsupial: 1
+parasite: 1
+antibodies: 1
+bernoulli equation: 1
+ph: 1
+telescopes: 1
+3/2: 1
+redshift prompt doppler shift effect mention: 1
+angle trisection: 1
+hershey chase experiment: 1
+slope: 1
+negative numbers: 1
+snakes: 1
+isothiocyanate under circumstances should partial answer: 1
+bladder: 1
+antoine equation: 1
+twis: 1
+derechos: 1
+peano axioms postulates arithmetic: 1
+flow cytometry: 1
+spherical aberration: 1
+aniline phenylamine: 1
+makemake: 1
+jean martin charcot: 1
+mitsunobu reaction: 1
+graves disease prompt hyperthyroidism thyrotoxicosis clues refer that basedow's disease mentioned: 1
+cassini huygens mission prompt cassini huygens: 1
+feature detec: 1
+shading: 1
+mossbauer spectroscopy: 1
+thermoelectric effect: 1
+src tyrosine kinase: 1
+3 sphere prompt sphere hypersphere; s3; apparently glome: 1
+tetrahydrofuran: 1
+water: 1
+accept description includes two indication objects solid synonym touch each other until question itself tells this after; crack: 1
+iridium: 1
+fingerprints: 1
+golgi apparatus/complex/body: 1
+ca: 1
+: 1
+extinction dinosaurs: 1
+system linear equations: 1
+walther nernst: 1
+dijkstra's al: 1
+hard disk drives prompt hard disks: 1
+ultrasonic frequencies: 1
+galaxy/ies: 1
+phenotypes prompt traits: 1
+cassiopeia: 1
+cosine: 1
+tu: 1
+nervous tissue: 1
+pyroxene: 1
+people's republic china: 1
+gã¶del's incompleteness th: 1
+curvature of universe riemann curvature ten: 1
+faults: 1
+insects: 1
+dyes: 1
+magnets: 1
+meiosis: 1
+cardiac muscle cells: 1
+cosmic cen: 1
+richard heck: 1
+beta lactams: 1
+herbig haro objects: 1
+diazonium compounds/salts: 1
+octonions prompt octaves: 1
+malate: 1
+klein fock: 1
+proline: 1
+pulmonary edema: 1
+two dimensional ising model prompt partial answer; dimension demonstrably wrong points: 1
+riemann mapping th: 1
+peroxyacids: 1
+homo f: 1
+albert eschenmoser: 1
+x ray photoelectron spectroscopy prompt on: photoelectron spectroscopy photoemission spectroscopy: 1
+luria delbruck experiment: 1
+amber: 1
+greedy al: 1
+ligands be: 1
+adipose tissue: 1
+temperature: 1
+turner's syndrome: 1
+programming languages: 1
+graphics processing units: 1
+multiple sclerosis prompt demyelination until giveaway: 1
+extra solar planets: 1
+fossils: 1
+tu: 1
+pressure prompt p: 1
+space dust: 1
+column chromatography: 1
+pulmonary alveoli the singular alveolus: 1
+chemical physical weathering prompt sheeting mention: 1
+exponential distribution: 1
+chickens: 1
+constraints: 1
+glycerol: 1
+ocean acidification prompt increase amount dissolved i: 1
+schwann cells: 1
+meta: 1
+hydrophobicity: 1
+queue: 1
+stellar rotation rate: 1
+minkowski spacetime prompt flat spacetime: 1
+ca: 1
+intrinsic fac: 1
+fatigue prompt failure; anti prompt crack: 1
+ramsauer townsend effect: 1
+acetylation: 1
+antidepressants: 1
+: 1
+hydra: 1
+sulfonate: 1
+coherence: 1
+phenols: 1
+autodesk inc: 1
+16	mutation rate: 1
+singular value decomposition: 1
+: 1
+extinction: 1
+bullet cluster: 1
+heart: 1
+serum creatinine: 1
+wu experiment prompt the parity violation experiment similar answers saying i need name lead researcher: 1
+hypothesis test: 1
+right angles: 1
+lysis: 1
+linear prompt causal mention: 1
+ames test: 1
+debyeâ–huckel equation th: 1
+optical rotation: 1
+precambrian supereon: 1
+flares flaring: 1
+x ray radiation: 1
+poisoning catalyst prompt catalyst inhibition deactivation descriptive  answers; ad: 1
+chandrasekhara venkata raman: 1
+chicken: 1
+beta cells prompt pancreatic cells islets langerhans mentioned: 1
+instruction pipelining: 1
+vasodilation: 1
+molecular clouds: 1
+olefin metathesis: 1
+eusociality: 1
+pes: 1
+population iii stars prompt early stars first stars similarly vague descriptions: 1
+pierre curie: 1
+hillslopes: 1
+speciation: 1
+electrical resistivity: 1
+integrins antiprompt specific integrins mentioned: 1
+relational model database algebra calculus: 1
+bell's th: 1
+lobotomy: 1
+protein: 1
+chiral/enantiomer/optical isomer resolution: 1
+hearing: 1
+position: 1
+geographic range size: 1
+r  s  d  l proline: 1
+molecular clocks: 1
+peter higgs: 1
+galaxy: 1
+lumo: 1
+photosystem: 1
+cobalt: 1
+grasslands: 1
+piezoelectric materials: 1
+chromosome 15: 1
+phenyl fee nil group: 1
+polymerizations: 1
+electrophilic aromatic substitution: 1
+stefan boltzmann law: 1
+apical meristem prompt type cambium: 1
+malate: 1
+homologous recombination: 1
+drug addiction: 1
+reaction c: 1
+apolipoprotein: 1
+queens prompt chess pieces equivalents: 1
+hexosaminidase: 1
+fossilized dinosaur eggs: 1
+van deemter equation: 1
+crystalline lens prompt eye equivalents; antiprompt epithelial cells equivalents: 1
+félix édouard justin émile: 1
+geometrical frustration: 1
+cosmic voids: 1
+blum: 1
+phytopht: 1
+: 1
+hydro: 1
+files: 1
+swern oxidation: 1
+haldane: 1
+go: 1
+medulla oblongata prompt brainstem: 1
+self assembled monolayer: 1
+olefination: 1
+methionine: 1
+ginzburg landau th: 1
+alkylation prompt making carbon carbon bonds similar stu; reverse methylation ethylation propylation butylation: 1
+wavelets: 1
+herpesviruses: 1
+cambium: 1
+non steroidal anti inflamma: 1
+symmetric group: 1
+extrasolar planets: 1
+op amp: 1
+santiago ramã³n y cajal: 1
+functional magnetic resonance imaging prompt mri: 1
+organocuprates or gilman reagents; lithium dialkyl cuprates; copper containing organometallics equivalents lithium diorganocopper; organometallics; answers just refer cuprates coppe: 1
+euler lagrange equations: 1
+segmentation fault: 1
+: 1
+camp: 1
+servers: 1
+lamb: 1
+catalyst poisons: 1
+18 electron rule: 1
+carl gustav jacob jacobi: 1
+annealing: 1
+collision resistant cryptographic hashing functions: 1
+mosfet: 1
+distribution function prompt f: 1
+stellar atmospheres prompt: 1
+radio pulsars prompt neutron stars magnetars: 1
+sequence: 1
+ferrocene prompt metallocene: 1
+ab: 1
+abscisic acid: 1
+hailstones: 1
+loss sea ice coverage arctic seas: 1
+divide conquer al: 1
+anticlines prompt domes: 1
+gamow th: 1
+functions: 1
+finding all pairs s: 1
+planck's law: 1
+elimination: 1
+stokes' th: 1
+inductively coupled plasma: 1
+southern blot: 1
+con: 1
+liquid liquid extraction prompt separation: 1
+: 1
+b meson meson required aer mention; meson read: 1
+catenary: 1
+rna interference rnai prompt interference: 1
+william thomson baron kelvin: 1
+elimination: 1
+vision: 1
+atmospheric weather prediction: 1
+lasers: 1
+hartree fock method: 1
+mid ocean ridges: 1
+crystallographic defects: 1
+my: 1
+eutectic prompt things having low melting temperature all phases crystallizing same time: 1
+quadrupole: 1
+fractional quantum hall effect prompt partial integer quantum hall: 1
+kinesin: 1
+space dust: 1
+legionnaire's disease: 1
+spherical c: 1
+antennas the plural antennae found engineering literature: 1
+hydrides prompt reducing agents: 1
+instability: 1
+obsessive compulsive di: 1
+fourier series do fourier trans: 1
+pressure: 1
+benzyne: 1
+angular momentum ladder opera: 1
+rna ex: 1
+immunoglobulin ige: 1
+joseph liouville: 1
+glycoproteins do proteins: 1
+amygdala: 1
+galaxy mergers galaxy collision: 1
+g type main sequence star: 1
+exception handling prompt er: 1
+rashes: 1
+ventricles: 1
+feit thompson th: 1
+compton scattering: 1
+triple alpha process: 1
+rod: 1
+cno cycle: 1
+lenski's longterm e coli evolution experiment: 1
+quaternion: 1
+ulcers: 1
+bats: 1
+competitive inhibi: 1
+hepatitis virus hcv prompt partial: 1
+stress/strain curve: 1
+gastropoda: 1
+f: 1
+ferns: 1
+twinning: 1
+ultraviolet light prompt light sunlight: 1
+trp operon prompt trp: 1
+arabidopsis thaliana: 1
+latent heat: 1
+manifold: 1
+riemann surfaces: 1
+constants motion prompt conserved quantities; constants; integrals; conjugate momenta; actions: 1
+r/k selection th: 1
+fullerenes prompt buckyballs stuff that: 1
+numerical integration: 1
+indole: 1
+n spheres and: 1
+stop codons prompt codons; nonsense mutations mention missense: 1
+induc: 1
+blood transfusion: 1
+amphibians prompt tetrapods; frogs until temnospondyli: 1
+caspases: 1
+gpi glycophosphatidylinositol: 1
+von willebrand fac: 1
+house mouse: 1
+sudoku puzzle: 1
+radiation pressure: 1
+plague: 1
+halogenation: 1
+ptime: 1
+type ia supernovae prompt supernovae mention; type supernovae points; supernova needed after mentioned: 1
+testes: 1
+: 1
+three: 1
+spermatogenesis prompt meiosis spermiogenesis: 1
+debyeâ–hã¼ckel equation: 1
+strong interaction: 1
+olfaction smelling stuff: 1
+: 1
+jaks: 1
+electrodes anti prompt anode cathode: 1
+phase: 1
+senescence: 1
+voyager program: 1
+: 1
+harmonic oscilla: 1
+numerical integration: 1
+kepler mission spacecraft: 1
+reversal: 1
+anfinsen's experiment: 1
+clausius mossotti relation prompt partial answer;: 1
+botulism: 1
+concentration dissolved oxygen body water be amazingly generous anything refers amount oxygen; oxygenation: 1
+sieve: 1
+bioluminescence: 1
+hash function: 1
+intermediate filaments ifs anti prompt keratins gfap nuclear lamins cytokeratins mention: 1
+lagrange multipliers: 1
+nuclear: 1
+particle 1 dimensional periodic crystal lattice: 1
+octahedral molecules: 1
+stress do strain pressure: 1
+alkenes: 1
+union: 1
+integrable: 1
+ascomycota: 1
+routing: 1
+special th: 1
+capture mark recapture: 1
+root finding: 1
+conjugated prompt aromatic aromaticity; conjugation;: 1
+transition metals: 1
+monocots: 1
+water: 1
+cycloaddition prompt addition; anti prompt pausonâ–khand nitroneâ–olefin huisgen dielsâ–alder: 1
+william shockley: 1
+email: 1
+greenhouse gases prompt ghg: 1
+golden ratio: 1
+net neutrality: 1
+erwin schrã¶dinger: 1
+echolocation prompt sonar: 1
+mott insula: 1
+dna sequencing: 1
+petrified: 1
+cantilever beam: 1
+bifurcations: 1
+population size: 1
+bowen: 1
+adhd: 1
+va: 1
+optical aberration: 1
+secondary foliation: 1
+cytokinin: 1
+arousal: 1
+electronic bands: 1
+memris: 1
+carboxylic acid: 1
+toxic shock syndrome: 1
+g: 1
+carni: 1
+plum pudding model: 1
+methods: 1
+tag: 1
+higgs: 1
+artificial selection: 1
+electrical current: 1
+actinides prompt radioactive elements; transuranic transuranium transplutonic transplutonium: 1
+acid rain: 1
+filtering: 1
+vestigial structures prompt non functioning non: 1
+eye: 1
+viscosity do: 1
+nicolaus copernicus: 1
+scales prompt units: 1
+phospholipid prompt lipid: 1
+orthogonal: 1
+epigenetics: 1
+clausiusâ–clapeyron equation relation: 1
+colon do semicolon: 1
+kites prompt deltoids: 1
+candela: 1
+ores prompt mineral: 1
+valves: 1
+parallelograms: 1
+amoeba: 1
+seizures prompt convulsion: 1
+amedeo avogadro: 1
+cones: 1
+pollen: 1
+complementary: 1
+john napier: 1
+vascular procambium: 1
+angular momentum: 1
+finding inverse: 1
+giant panda do red panda: 1
+euler's method prompt runge kutta methods until read: 1
+nazca plate: 1
+cr: 1
+blue: 1
+globular cluster: 1
+josephson junction: 1
+product: 1
+stokes's th: 1
+ulna: 1
+cycloids: 1
+pierre simon laplace: 1
+computer viruses: 1
+er: 1
+molecular size: 1
+mania: 1
+max flow min cut th: 1
+: 1
+topological manifolds: 1
+schroedinger equation: 1
+membrane potential: 1
+lyman alpha line prompt ultraviolet uv: 1
+sonar: 1
+cesium: 1
+distance: 1
+nucleosynthesis prompt synthesis elements neutron capture nuclear fusion: 1
+nucleases: 1
+chromatic dispersion: 1
+aging: 1
+multinucleated cells: 1
+runge kutta method: 1
+complement prompt innate immune system until it's mentioned: 1
+heterosis: 1
+eocene epoch: 1
+fermi gas: 1
+isi: 1
+lempel ziv al: 1
+diols: 1
+toll like recep: 1
+boltzmann machine prompt neural net: 1
+histone deacetylases: 1
+chen ning yang: 1
+mitotic meiotic spindles: 1
+planetary rings prompt specific ring system eg saturn's rings jupiter's rings: 1
+adenosine do adenine: 1
+rna: 1
+arginine: 1
+ultraviolet light: 1
+moons uranus: 1
+racemic mixtur: 1
+osteo: 1
+my: 1
+hexagonal close packed prompt hexagonal: 1
+cratons prompt continental shields mention question: 1
+detonation: 1
+microsatellites: 1
+krill: 1
+abc model flower development proteins: 1
+triphenylphosphene: 1
+barr body: 1
+karst topography: 1
+vitamin b12: 1
+friedmann equations prompt einstein field equations density: 1
+pre exponential fac: 1
+water content: 1
+mountain ranges: 1
+centromeres do centrosome kinetoc: 1
+cycloaddition prompt pericyclic reactions; specific example it's mentioned eg diels alder someone buzzes dienophile: 1
+seismic tomography: 1
+dynamo th: 1
+j/psi: 1
+plant cell wall prompt cell wall: 1
+peroxide: 1
+markov process chain prompt stochastic mention; wiener process transient: 1
+suzuki miyaura cross coupling: 1
+thalamus: 1
+olefination: 1
+sir charles wheatstone: 1
+flip flops: 1
+g: 1
+gastrin: 1
+magnetosphere: 1
+pass: 1
+alanine: 1
+harmonic functions: 1
+photosystem ii prompt photosystem photosystem i: 1
+: 1
+cytoskeleton prompt answers alluded specific clues such tubulin microtubules actin microfilaments intermediate filaments etc: 1
+geoid: 1
+independence: 1
+em electron microscopy: 1
+periodic prompt symmetric translationally symmetric: 1
+finding roots polynomial: 1
+radicals: 1
+galaxy: 1
+magne: 1
+sea ice: 1
+water: 1
+l'hã´pital's rule: 1
+mass: 1
+iodide: 1
+proton pump inhibi: 1
+surface plasmon: 1
+particle identification: 1
+fish: 1
+clustering: 1
+trilobites: 1
+plaintext pass: 1
+myosins: 1
+calculus variations: 1
+frontier: 1
+migra: 1
+charge carrier mobility: 1
+: euler characteristic prompt chi euler poincare characteristic: 1
+hideki yukawa: 1
+transposons: 1
+particle number: 1
+perixosome: 1
+quantum scattering: 1
+tetrahymena: 1
+social net: 1
+melvin ellis calvin: 1
+dna polymerases: 1
+ch: 1
+bcs th: 1
+rough endoplasmic reticulum golgi apparatus: 1
+pound rebka experiment: 1
+atoll: 1
+occipital lobe: 1
+lysis: 1
+hydrothermal vents: 1
+ligand binding: 1
+feynman diagrams: 1
+bone: 1
+pumps: 1
+john strutt third baron rayleigh: 1
+convex: 1
+finite do countable point: 1
+exponential function: 1
+wind: 1
+herman joseph muller: 1
+mitotic spindle: 1
+inner product: 1
+nadph do nad nadh: 1
+stellar wind driven mass loss: 1
+c4 dicarboxylate acid pathway: 1
+quantum entanglement prompt spooky action distance: 1
+scarring: 1
+boolean expressions boolean statements boolean function prompt partial answer; logical functions logical statements: 1
+schrodinger equation: 1
+reversible prompt ideal; time reversible time invertible; isentropic entropy: 1
+lewis acid prompt acid mention: 1
+pterodactyls: 1
+parabolic: 1
+toxicity: 1
+angle: 1
+hearing: 1
+magnetic flux: 1
+batteries: 1
+childbirth: 1
+conservation electric charge: 1
+mtdna: 1
+: 1
+meristematic cells: 1
+nicotine addiction: 1
+linear programming: 1
+pyrophosphate: 1
+regular expressions: 1
+hendrik antoon: 1
+glyoxylate glyoxylic acid: 1
+kelvin helmholtz instability: 1
+leo szilard: 1
+grace brewster murray hopper: 1
+drought: 1
+contrails: 1
+scrotum: 1
+esophagus: 1
+calcium: 1
+freezing: 1
+plankton: 1
+arthur cayley: 1
+urea: 1
+viscosity prompt eta mu: 1
+supernovas: 1
+superconduc: 1
+: java do javascript: 1
+windows 81: 1
+abiogenesis: 1
+mutations: 1
+cations: 1
+van't hoff equation: 1
+bubble chamber: 1
+church turing thesis: 1
+latin squares: 1
+g: 1
+simeon poisson: 1
+ehrenfest's th: 1
+straightedge compass prompt ruler straightedge; answers either: 1
+discrete quantized energy levels: 1
+: 1
+simplex method: 1
+estuaries: 1
+deep inelastic scattering: 1
+particle size: 1
+plastic de: 1
+lectins: 1
+richard manning karp: 1
+age specific survi: 1
+basic local alignment tool blast: 1
+broca's area: 1
+alkyllithium compounds do grignard reagents point question: 1
+x inactivation: 1
+chua's circuit: 1
+refrigera: 1
+quasicrystals: 1
+zircons do zirconium: 1
+necrosis: 1
+nitrous oxide: 1
+finding zeros function: 1
+brood reduction: 1
+natural selection: 1
+glashow weinberg salam model also: 1
+fick's laws diffusion: 1
+reissner: 1
+c myc mick: 1
+diols: 1
+jahn teller effect/dis: 1
+pyrrole: 1
+opiates opioids grudingly narcotics: 1
+purkinje cell: 1
+anticlines do anti: 1
+cfa2 great wall: 1
+: 1
+: 1
+optimization: 1
+gibbs' phase rule: 1
+: 1
+atherosclerosis prompt arteriosclerosis mentioned: 1
+cassiopeiae prompt the seated queen: 1
+red blood cells: 1
+ostwald process: 1
+madelung constant: 1
+: 1
+galactic rotation curves: 1
+zeeman eect: 1
+scoliosis: 1
+imidazoles: 1
+dna ligases: 1
+andrei nikolayevich kolmo: 1
+frontal lobe: 1
+aryl diazonium salts: 1
+radiometric dating radioactive dating: 1
+rings atoms cycles generous cycloalkanes cycloalkenes: 1
+human pregnancy gestation: 1
+: 1
+binomial: 1
+lactation: 1
+tree: 1
+expansion universe: 1
+intermolecular: 1
+chirality: 1
+staining: 1
+fac: 1
+oscilla: 1
+: 1
+ph indica: 1
+aspirin: 1
+chirality: 1
+1/x: 1
+oceanic currents: 1
+thylakoids prompt ch: 1
+molting: 1
+hearing: 1
+three: 1
+rate constant: 1
+chromosomes: 1
+helium nucleus atom; he; alpha particles until element read: 1
+n fac: 1
+oxygen prompt o; o2 o3 silly things that: 1
+rna: 1
+ferromagnets: 1
+al: 1
+osteoarthritis: 1
+malleability: 1
+crop rotation: 1
+andrew wiles: 1
+darwinian evolutionary fitness: 1
+rectangle: 1
+magnitude: 1
+linear programming: 1
+limacon: 1
+trojans: 1
+brook tay: 1
+seafl: 1
+radio waves prompt light; photons: 1
+functions: 1
+enthalpy: 1
+regular tetrahedron: 1
+pendulum: 1
+anode: 1
+dots: 1
+or j; negative i; negative j; imaginary unit until mentioned; unit imaginary number until imaginary unit; square root negative until mentioned; mathematically equivalent answers: 1
+vacuum: 1
+game th: 1
+artificial satellites: 1
+: 1
+starch: 1
+habitual bipedalism: 1
+bone tissue prompt connective tissue: 1
+coastlines: 1
+republic india: 1
+cereals: 1
+speciation: 1
+nucleophilic substitution: 1
+addition: 1
+calvin benson bassham cycle: 1
+partial derivatives: 1
+meltingpoin: 1
+: 1
+plants: 1
+boiling: 1
+preda: 1
+atomic radius: 1
+reference frames: 1
+: 1
+leaves prompt plants; stomata; guard cells: 1
+water mars: 1
+strings: 1
+asymptotes: 1
+stellar age: 1
+ants: 1
+rendering: 1
+lactose intolerance: 1
+molecular dynamics: 1
+sigmatropicreactions: 1
+irrotational ow: 1
+reflexes: 1
+sine sin: 1
+syphilis: 1
+surfactant prompt detergents mentioned: 1
+trusses: 1
+carnot cycle: 1
+neonates: 1
+electrolysis prompt electrochemical reaction similar answers: 1
+: 1
+grooming: 1
+eccentricity: 1
+cyclotron do synchrotron; particle accelera: 1
+blindness: 1
+pedigree don't take anything else term really specific: 1
+gypsum: 1
+deuterium: 1
+clemmensen reduction: 1
+magnetite: 1
+quinones: 1
+phyletic gradualism: 1
+re: 1
+antifungals: 1
+burns: 1
+sparse matrices: 1
+cosmic scale fac: 1
+logarithms: 1
+orthogonality: 1
+glucose: 1
+diagonal: 1
+cubic grudgingly: 1
+exponentiation: 1
+weight: 1
+battery batteries: 1
+fullerenes: 1
+herpesviridae: 1
+listeria monocytogenes: 1
+meta: 1
+metallocenes: 1
+vertex vertices prompt nodes nodes read: 1
+tsunami prompt tidal wave mentioned: 1
+ernest ruther: 1
+accept unit: 1
+potential energy prompt potential; u u; v: 1
+metalloids: 1
+piturary: 1
+gould: 1
+amperes: 1
+alzheimers: 1
+coloumb: 1
+nitrogen: 1
+geyser prompt hot spring: 1
+comet prompt kreutz sungrazers mentioned: 1
+: 1
+neanderthals neandertals: 1
+z: 1
+alkyne prompt acetylene: 1
+entropy: 1
+electric permittivity prompt permittivity: 1
+logistic function: 1
+thiols: 1
+abscisic acid: 1
+ideal/molar/universal gas constant: 1
+membrane trans: 1
+cells: 1
+hydrogen prompt h; hydronium h3o+: 1
+diameter: 1
+urine tests: 1
+area triangle both parts required; area; logical equivalents including both underlined parts: 1
+linear translational acceleration prompt a: 1
+stellar mass: 1
+myogenesis: 1
+ice: 1
+aspartate: 1
+musons: 1
+lebesgue integral: 1
+diarrhea: 1
+deterministic finite automaton: 1
+nucleation reverse prompt crystallization crystal: 1
+upper lower mantle prompt asthenosphere mentioned: 1
+parallelogram prompt quadrilateral quadrangle; answer: 1
+halley's comet: 1
+latitude prompt geographical position answers effect where planet: 1
+vertical lines: 1
+joule thomson effect: 1
+olbers' paradox: 1
+coherence: 1
+discovery higgs boson: 1
+homo: 1
+fog: 1
+carbanion: 1
+cell adhesion: 1
+t3: 1
+spacetime singularities: 1
+two plus two equals four: 1
+quintic equations: 1
+sympatric speciation: 1
+aqua: 1
+frederick soddy: 1
+pons varolii: 1
+arthur cope: 1
+crustacea: 1
+: 1
+earthquakes: 1
+cyclohexene: 1
+gran plot/method/titration: 1
+furan: 1
+binary systems: 1
+thermocline: 1
+emf: 1
+leon cooper: 1
+hyperspheres: 1
+velocirap: 1
+racemic mixture: 1
+hexokinase: 1
+nike samothrace: 1
+adelson velskii landis tree: 1
+geodynamo effect: 1
+purkinje fibers do purkinje cells: 1
+tautomerism: 1
+rfid radio frequency identification chips/tags etc: 1
+organ cort: 1
+satisfiability: 1
+dna repair prompt proofreading: 1
+centromere: 1
+tauon: 1
+dipoles: 1
+gravitational waves: 1
+marine sediment: 1
+tp53: 1
+ampã¨re's law: 1
+polynomial prompt rational function: 1
+3: 1
+symmetric polynomials: 1
+erich hückel: 1
+distributed system: 1
+bacillus: 1
+integrins: 1
+met: 1
+spherical harmonics: 1
+robert dicke: 1
+situ hybridization: 1
+electrical double layer: 1
+river systems: 1
+strain ten: 1
+lactams: 1
+: 1
+process scheduler: 1
+catfish prompt fish: 1
+peroxidase: 1
+potential energy: 1
+sir james hopwood jeans: 1
+kt: 1
+positive feedback loops: 1
+kaons: 1
+sugars: 1
+spin relaxation: 1
+commuta: 1
+molecular electronic transitions: 1
+lactation: 1
+two level system: 1
+lungfish: 1
+waste water treatment: 1
+astronomical: 1
+cardiac arrhythmia: 1
+cross section: 1
+x 64: 1
+neuros: 1
+reversal symmetry: 1
+water gas shift reaction: 1
+adenylyl cyclase: 1
+waveplates: 1
+gradient: 1
+julian seymour schwinger: 1
+vomiting: 1
+programming languages do specific programming paradigms: 1
+epoxides: 1
+duplication: 1
+prefixes: 1
+solar eclipse prompt eclipses until sun read afterwards: 1
+gradient: 1
+nsaids: 1
+sweating: 1
+software testing: 1
+insertion: 1
+molecular: 1
+ca: 1
+eutrophication: 1
+dating: 1
+electrospray ionization: 1
+program optimization: 1
+glasses: 1
+chromosomes: 1
+oceans: 1
+vitamin k: 1
+soils: 1
+quadrilaterals: 1
+pacific ocean: 1
+resistance: 1
+vertices: 1
+cellular automata: 1
+lars onsager: 1
+computer virus: 1
+: 1
+tu: 1
+b vitamins: 1
+plant: 1
+electric field: 1
+planes: 1
+positron: 1
+small intestine: 1
+sea water: 1
+cambridge: 1
+semilunar valves prompt heart valves: 1
+peltier effect: 1
+rearrangements: 1
+polyurethanes: 1
+nambu goldstone bosons: 1
+pahoehoe lava flows: 1
+quantum foam: 1
+sard's th: 1
+michael js dewar just dewar fine james dewar chemist: 1
+cope reaction/elimination: 1
+sunspots please notice ef: 1
+: 1
+abyssal zone: 1
+lophop: 1
+ylides: 1
+wave velocity: 1
+locusts prompt grasshoppers caelifera; acrididae: 1
+beaches: 1
+ecological niches: 1
+jbs  haldane  john burdon sanderson haldane: 1
+brachistochrone problem: 1
+sphingolipids: 1
+polar bears: 1
+epilepsy: 1
+photomultiplier tube pmt: 1
+luigi galvani: 1
+logistic population growth model: 1
+proteasomes: 1
+barrier islands: 1
+resource competition: 1
+gravitational potential: 1
+steady state approximation: 1
+angle brackets: 1
+urination: 1
+planetary: 1
+electroplating: 1
+thomas young's double slit experiment: 1
+mutagenesis until mutations read: 1
+automata minimization: 1
+seismic anisotropy: 1
+entropy: 1
+mangroves: 1
+existence uniqueness: 1
+taxol: 1
+metal alloys: 1
+dendritic cells: 1
+john tukey: 1
+quantum scattering prompt on: particle collisions: 1
+prussian blue: 1
+mammalian cyclic nucleotide phosphodiesterases: 1
+flattened disk: 1
+polymers until chains read: 1
+rhyolite: 1
+fructose: 1
+small density fluctuations: 1
+co: 1
+dna synthesis: 1
+concentration prompt molarity molality: 1
+sulfate ion: 1
+kirkwood gaps: 1
+hilbert space: 1
+degradations you anything similar decomposition: 1
+ludwig prandtl: 1
+mandelbrot set: 1
+kranz anatomy: 1
+tully fisher relation/law: 1
+probablistic randomized skip list do deterministic skip list: 1
+fermi pasta ulam experiment/problem: 1
+salicylic acid: 1
+legendre frenchel trans: 1
+metapopulations prompt on: populations metacommunities: 1
+beaches prompt on: coasts coastal zones coastal structures s: 1
+fmet: 1
+snow crystals: 1
+abstract data types: 1
+chimpanzees: 1
+superfluid 4 helium: 1
+tree rings: 1
+neuros: 1
+baire's cate: 1
+phosp: 1
+time harmonic plane wave: 1
+liquid liquid extraction: 1
+n log n: 1
+organ transplant rejection: 1
+supersymmetry th: 1
+young's double slit: 1
+honeybees: 1
+planet nine: 1
+lymphomas: 1
+accept answers containing: 1
+eigenvalue: 1
+richard bellman: 1
+wind turbines: 1
+pnictogens also group 15 group va group vb pronounced 5a/b nitrogen group said end tossup answers synonyms group family: 1
+mass spectrometry prompt ionizing answers ionizing mass spec: 1
+tyrosine prompt y: 1
+thermosphere prompt ionosphere guess none clues specifically that outer atmosphere: 1
+pka prompt things acid strength acidity ka until parameter decreases: 1
+meta: 1
+residuals do er: 1
+x ray crystallography: 1
+fragile syndrome: 1
+qubit: 1
+poisson's ratio: 1
+cerebral palsy: 1
+or euler's number; napier's constant; euler's constan: 1
+dinitrogen: 1
+3 spheres: 1
+galapagos islands: 1
+planetary nebulae: 1
+jacob henricus van 't hoff: 1
+carbonate: 1
+darwin's finches: 1
+ã‰douard albert roche: 1
+pollination: 1
+control systems: 1
+x ray crystallography x ray_diffraction they points just say crystallography say diffraction specify x ray just diffraction: 1
+matrix decomposition: 1
+moons jupiter prompt partial answers; equivalents: 1
+induction: 1
+double bonds: 1
+fungi if answer yeast mold mushrooms saying they want something general: 1
+inflammation: 1
+division: 1
+bony fish: 1
+intermolecular: 1
+microscopy: 1
+growth: 1
+alkene olefine: 1
+bird migration: 1
+cranium: 1
+traffic congestion: 1
+money supply: 1
+algae prompt protists; phytoplankton; heterokonts until mentioned; specific types algae such brown algae green algae red algae: 1
+: 1
+microscopy: 1
+cytochromes: 1
+kidneys: 1
+golden ratio: 1
+darkness: 1
+bilirubin prompt hematoidin; bile pigments: 1
+stratification: 1
+: 1
+axiom choice: 1
+hertz: 1
+sulfate: 1
+tsunamis: 1
+electric potential: 1
+pupillary dilation: 1
+hash tables: 1
+dialysis: 1
+enzyme​s prompt proteins; catalysts: 1
+johannes kepler​: 1
+halogen​s: 1
+mechanical equilibrium: 1
+black​: 1
+cervix: 1
+gambling: 1
+dyslexia prompt reading di: 1
+microscopy: 1
+catalysis: 1
+sunspots: 1
+hairs: 1
+cloud seeding prompt nucleation; weather modification similar answers: 1
+erythropoietin: 1
+folds: 1
+kelp: 1
+niels bohr with van leeuwan sommerfeld respectively: 1
+hendrick casimir: 1
+diabetes mellitus: 1
+electrophilic aromatic substitution: 1
+x ray binary star systems: 1
+hydrophobicity: 1
+spin glass prompt a: 1
+lung cancer: 1
+impact craters: 1
+kin selection prompt selection; altruism until mentioned: 1
+sand: 1
+urine: 1
+bone: 1
+rotational motion: 1
+mitochondrial dna: 1
+met: 1
+cytoplasm: 1
+trigonometry: 1
+surface waves: 1
+lead: 1
+space telescopes: 1
+90 degrees: 1
+solar energy: 1
+proteins prompt polypeptide ￼￼￼ roos  ￼ keh ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼: 1
+velocity: 1
+meiosis prompt cell division said: 1
+ice: 1
+tetrahedron prompt triangular pyramid: 1
+vascular plants: 1
+or viewing; materialized foo viewport model view controller viewing frustum  eld pageview; visio: 1
+glutamate: 1
+binary tree: 1
+grignard reagents: 1
+high blood pressure: 1
+micelles: 1
+immutable: 1
+summation methods divergent series: 1
+chelation: 1
+convex: 1
+citric acid: 1
+ow velocity: 1
+external magnetic  eld: 1
+baryonic: 1
+mass to light ratio: 1
+cetaceans: 1
+gelatine: 1
+ovulation prompt menstruation; menstrual cycle; periods; releasing egg cells related answers; estrous cycle: 1
+autoionization water: 1
+fl: 1
+energy: 1
+microsoft excel prompt either underlined: 1
+ubiquitination: 1
+simpson's method: 1
+bioin: 1
+atria: 1
+between parallel plates: 1
+nitric oxide: 1
+dna repair: 1
+relative velocity: 1
+binary phase diagram: 1
+sound waves: 1
+fred hoyle: 1
+planar: 1
+system bios: 1
+equines: 1
+amyloid beta: 1
+bats: 1
+uraniumâ–t: 1
+real: 1
+matroids: 1
+retina: 1
+diphtheria toxin: 1
+bolometers prompt radio astronomy detec: 1
+angle: 1
+chandra x ray observa: 1
+orchids or orchidacaea; angiosperms; flowering plant: 1
+pinching: 1
+walker circulation: 1
+spliceosome prompt snrnps; alphanumeric protein beginning u u1 u2 u6 etc: 1
+hermann weyl vile: 1
+backus naur: 1
+gels: 1
+angiotensin converting enzyme: 1
+methanol: 1
+phase: 1
+titan's atmosphere prompt either part alone: 1
+overpotential prompt eta until read; electric potential; cell potential redox potential reduction potential modifiers potential: 1
+2n choose n: 1
+surface plasmon polaritons: 1
+sea urchins: 1
+carbon stars generously red giant: 1
+complement system: 1
+water desalination: 1
+buckling prompt failure mention: 1
+binary space partition tree: 1
+xy model: 1
+maillard reaction my yard: 1
+time of flight: 1
+pons prompt midbrain; brainstem: 1
+c h activation: 1
+computational th: 1
+enhancers prompt activa: 1
+mylonite prompt fault rocks mentioned: 1
+polydispersity index: 1
+dcc: 1
+integrable systems: 1
+kerr metric prompt kerr newman metric newman: 1
+field programmable gate arrays fpgas prompt field programmable device: 1
+huisgen cycloaddition: 1
+hiv 1 protease: 1
+arnold sommerfeld: 1
+cas9: 1
+model features: 1
+order parameter prompt m; psi; orde: 1
+pichia pick ee uh: 1
+harold scott macdonald coxeter: 1
+reflux ratio: 1
+phage display: 1
+ted codd: 1
+emil artin the functions artin l functions doubly eponymous th: 1
+atomic: 1
+herbicides: 1
+pyroxenes: 1
+aneurysm: 1
+tropism: 1
+beaver dams: 1
+sarcomeres: 1
+engineering strain: 1
+catalytic velocity: 1
+bacteriophage: 1
+scientific drilling deep into earth's crust: 1
+hoof prompt feet claws nails; toe until read: 1
+wildfire: 1
+function arguments: 1
+down quarks: 1
+dna restriction digest: 1
+a* al: 1
+cabibbo kobayashi maskawa matrix: 1
+cumene process: 1
+bezier curves: 1
+leucine: 1
+allele frequencies: 1
+dissipation prompt damping until named process read; friction until named process read: 1
+holo: 1
+multi armed bandit problem: 1
+hodgkin's lymphoma: 1
+lane emden equation: 1
+bridging ligand prompt ligand: 1
+taxol total synthesis also paclitaxel total synthesis; equivalents making taxol: 1
+flip flops i guess should eccles: 1
+galactic luminosity function prompt partial answer specific answers: 1
+mã¶ssbauer spectroscopy: 1
+wkb approximation: 1
+quenching: 1
+methyl prompt alkyl: 1
+triangulation: 1
+galactose: 1
+sertoli cells: 1
+regular dodecahedron: 1
+triphenylphosphine triphenylphosphane pph3 ph3p: 1
+acetylcholinesterase: 1
+ryoji no: 1
+neyman pearson lemma th: 1
+glucose 6 phosphate dehydrogenase: 1
+ion traps: 1
+catalase: 1
+euler angles do euler axes: 1
+clathrin: 1
+buchwald hartwig reaction: 1
+temperature: 1
+haskell: 1
+peg: 1
+sumoylation just sumo pathway: 1
+cram's rule: 1
+butler volmer equation: 1
+cajal bodies take coiled bodies cbs mention coiled: 1
+varves: 1
+starquakes: 1
+backpropagation: 1
+geiger nuttall law/rule/relation: 1
+pariser parr pople method: 1
+kronig penney model: 1
+milankovitch cycles: 1
+phylum ctenop: 1
+urysohn's lemma: 1
+ampa recep: 1
+birch and swinnerton dyer conjecture: 1
+s: 1
+: 1
+sachs wolfe effect: 1
+marcus th: 1
+moller plesset perturbation th: 1
+schlenk equilibrium: 1
+confidence intervals: 1
+fenske equation: 1
+snare complex; snap recep: 1
+guttation: 1
+homestake experiment: 1
+hermann amandus schwarz: 1
+sat: 1
+rackett equation: 1
+anthanides: 1
+antarctic ozone hole: 1
+agrobacterium: 1
+facebook: 1
+beta lactams: 1
+femto chemistry: 1
+map: 1
+zebrafish: 1
+: 1
+protecting group: 1
+racemic: 1
+spherical harmonics: 1
+substitution: 1
+even numbers/functions/permutations: 1
+trigeminal nerve: 1
+geodesics: 1
+glutamate: 1
+exchange  interaction: 1
+sequence alignment prompt descriptive answers such looking sequence similarity: 1
+geometric clipping: 1
+impurities: 1
+warburg effect: 1
+martingales: 1
+traps: 1
+poly a tail: 1
+pancake: 1
+nitric oxide: 1
+carbon 13 nmr: 1
+god el's  comp let en ess  th: 1
+phase prompt crystal  structure fac: 1
+busy beaver function do beaver function: 1
+ureas: 1
+centrosymmetry: 1
+adaptive landscapes: 1
+aliasing: 1
+tar pits: 1
+imine ih meen: 1
+schwarzschild metric: 1
+optic nerve: 1
+three spined stickleback: 1
+sup: 1
+hplc: 1
+na/k+ pump atpase: 1
+curvature: 1
+synapses: 1
+nutation: 1
+gtp guanosine triphosphate: 1
+cyanide anion: 1
+higgs mass: 1
+amides: 1
+eosinophil granulocytes: 1
+eva: 1
+nacreous clouds: 1
+pulmonary surfactant: 1
+spectrum: 1
+monoamine oxidases: 1
+ion fragmentation mass spectrometry: 1
+hohmann transfer: 1
+john: 1
+toxoplasma gondii: 1
+unstable flow: 1
+context sensitive languages: 1
+phosphofructokinase 1: 1
+central: 1
+large intestine: 1
+sn1 mechanism: 1
+rabbits: 1
+ethanol: 1
+sugars: 1
+tay: 1
+: 1
+carbonyls: 1
+acid reflux: 1
+mirages: 1
+islands: 1
+primes: 1
+inflammation: 1
+plastic surgery: 1
+electronic noise: 1
+menstrual cycle: 1
+tangrams: 1
+bioluminescence: 1
+radio waves: 1
+bubble: 1
+hydronium h3o+ oxonium: 1
+hubble's law prompt h naught: 1
+john von neumann: 1
+lytic cycle: 1
+graham's law diffusion graham's law effusion: 1
+virgo: 1
+ground stateâ: 1
+helix: 1
+amino acids prompt peptides polypeptides amides until ramachandran read: 1
+pcr: 1
+galaxies: 1
+prostate: 1
+microscope: 1
+ef hand structural motif: 1
+proper motion: 1
+polytropes: 1
+time temperature superposition principle/method: 1
+radiation era: 1
+principal component analysis pca: 1
+critical exponents critical index: 1
+machine translation: 1
+pho: 1
+collision between shoemaker levy 9 jupiter: 1
+bifurcation: 1
+graph drawing layout: 1
+residence distribution: 1
+akt/pkb kinase: 1
+2df galaxy redshift survey: 1
+mo: 1
+dilution refridgera: 1
+peyer's patches: 1
+brillouin zone: 1
+visual display quantitative: 1
+fred brooks: 1
+solar transition region: 1
+airfoil prompt wing similar answers mention: 1
+hsps: 1
+cvd: 1
+green: 1
+hydrothermal vents: 1
+randomi  zed al: 1
+global  warming: 1
+cylinder: 1
+recep: 1
+inviscid fluid: 1
+piâ: 1
+bekensteinâ–hawking radiation antiâ­prompt black hole eva: 1
+composition: 1
+carbene: 1
+floods: 1
+string searching: 1
+rnas: 1
+aldol reaction: 1
+molecular: 1
+flowering: 1
+synovial joints prompt spine vertebrae until hilton's law read: 1
+alloys: 1
+relational databases do tables spreadsheets: 1
+vitamin: 1
+current: 1
+osmotic pressure: 1
+ocean acidification: 1
+christian doppler: 1
+partial differential equations: 1
+surfactants prompt phospholipids until read; detergents; emulsifiers: 1
+accept capital lowercase: 1
+ionizing radiation: 1
+speciation: 1
+jellyfish: 1
+four: 1
+tsunamis be nice tidal wave: 1
+b vitamins: 1
+hydrogenations: 1
+extinction events: 1
+appendix: 1
+computational complexity classes: 1
+amides: 1
+enzyme inhibition prompt enzyme modulation; answers along lines changing activity enzyme: 1
+prostaglandins: 1
+nucleophilic conjugate addition: 1
+modulo: 1
+ores: 1
+oxidation: 1
+magnetic moment: 1
+immunoprecipitation: 1
+craters mars prompt craters: 1
+: 1
+rotavirus: 1
+mass to charge ratio: 1
+challenger: 1
+trapezoids: 1
+cephalopods: 1
+cosine: 1
+operating systems: 1
+phosphate prompt: 1
+phosphines fahss feenz: 1
+thermal expansion: 1
+hairpin: 1
+phenols i suppose should alcohols: 1
+optimization: 1
+harvard: 1
+elemental analysis: 1
+immunological me: 1
+plasma instability: 1
+perfusion: 1
+activity coefficient which same activity though two related: 1
+planetary ring systems: 1
+strain ten: 1
+answer: peptidoglycan: 1
+callisto: 1
+deadlock: 1
+folate folic acid folacin: 1
+density functional th: 1
+micrographia: 1
+joule thomson effect process etc: 1
+aerogels: 1
+agile development: 1
+ir spectroscopy: 1
+cauchy integral th: 1
+humerus: 1
+principles geology: 1
+nonsense mediated decay: 1
+las vegas al: 1
+paul langevin: 1
+triassic prompt mesozoic: 1
+creutzfeldt jakob disease: 1
+rhodium: 1
+hemophilia: 1
+flash point: 1
+gerardusâ 't hooft: 1
+bingel reaction: 1
+discontinuityâ: 1
+studentsâ of levâ landauâ: 1
+nectar: 1
+trieâ pronounced try: 1
+activity coefficient do just activity because differs coefficient trivial fac: 1
+space hierarchy th: 1
+central: 1
+: 1
+proton affinity: 1
+gas giants prompt giant planets: 1
+lymphoid tissue: 1
+adiabatic: 1
+biomineralization: 1
+geodesics prompt: 1
+cyclopentadienyl anion: 1
+: 1
+enol: 1
+peroxidases: 1
+aleph numbers: 1
+gap junction channels: 1
+laser cooling prompt cooling; optical trapping: 1
+linear mappings: 1
+seed germination: 1
+archaebacteria: 1
+platyhelminths flat: 1
+surfactant: 1
+c: 1
+dna rna base pairs: 1
+grignard reagents prompt: 1
+binomial distribution: 1
+stephen wolfram: 1
+petroleum: 1
+erdos number: 1
+assembly: 1
+bogolyubov first names efim nikolay; bogoljubov bogoliubov: 1
+mr cgh tompkins: 1
+jonas e salk: 1
+hydraulic fracturing hydro fracking: 1
+crick's central dogma molecular biology: 1
+three centre bonding: 1
+cryogenic  refrigeration: 1
+koalas: 1
+rigid ro: 1
+qubits: 1
+histone  acetylation: 1
+spins: 1
+oryza  sativa or  ric: 1
+auto: 1
+anthropic principle: 1
+radical: 1
+calderas: 1
+nondeterministic nondeterminism: 1
+metal carbon bonds: 1
+damped harmonic motion: 1
+dementia me: 1
+tethys ocean: 1
+elisa enzyme linked immuno: 1
+phenol prompt phenoxide phenyl sentence: 1
+spatial complexity classes space complexity class prompt complexity class nondeterministic complexity class: 1
+net primary productivity: 1
+amyotrophic lateral sclerosis: 1
+gyroscopes anti prompt optical fiber interferometer sagnac interferometer early: 1
+classification: 1
+epidemics: 1
+gradient descent: 1
+geiger counters: 1
+human neurocranium prompt skull until mentioned; antiprompt occipital bone; antiprompt calvaria skullcap until petrous: 1
+albedo: 1
+ekmanâ spiralâ prompt ekman trans: 1
+rubiscoâ: 1
+thevenin's th: 1
+mesocyclone do: 1
+hydrogen cyanide: 1
+rhodopsins prompt opsin until transducin;: 1
+a*â pronounced a star: 1
+phenolâ: 1
+myasthenia gravisâ: 1
+fokker planckâ equation: 1
+curtiusâ rearrangement: 1
+banach tarski th: 1
+niacinâ: 1
+gelifluctionâ: 1
+: 1
+chinese roomâ experiment: 1
+villiâ: 1
+wigner eckhartâ th: 1
+pigeonholeâ principle: 1
+telomeraseâ reverse transcriptase: 1
+whittaker nyquist shannon kotel'nikov th: 1
+sachs wolfeâ effect: 1
+hydropathicity: 1
+magnetars: 1
+spermatogenesis do: 1
+ha: 1
+woodward's rules: 1
+chandrashekhar: 1
+lehmann discontinuity note: earliest usage term lehmann discontinuity referred outer inner: 1
+aziridines: 1
+type ii superconductivity prompt on: superconductivity: 1
+angiotensins: 1
+bolzano weierstrass th: 1
+target rapamycin: 1
+solitons: 1
+quadtreeâ: 1
+nikolaiâ bogoliubovâ: 1
+oligodendrocytesâ prompt early neuroglial cells; schwann cells: 1
+solubilityâ prompt onâ miscibility;â: 1
+n bodyâ problems simulations: 1
+clausius mosottiâ equation: 1
+inert pairâ effect: 1
+fisher yates shuffleâ: 1
+frank tammâ: 1
+beta galactosidase: 1
+chemistryâ: 1
+muller's ratchetâ: 1
+spritesâ prompt lightning upper atmosphere lightning even though clue rule: 1
+cahn ingold prelogâ pr: 1
+tunelâ assay: 1
+tollâ recep: 1
+green taoâ th: 1
+zetaâ potential prompt mobility electrop: 1
+two hybridâ assay: 1
+gunn petersonâ trough: 1
+itcâ: 1
+trigonal planarâ: 1
+fatty acid: 1
+weakly interacting massive particles wimps; dark matter neutralino: 1
+olympus mons prompt mount olympus mars aureole after: 1
+hardness: 1
+circumference earth: 1
+discovery neptune: 1
+yellow fever: 1
+computational complexity th: 1
+steve jobs: 1
+variational principles: 1
+complementarity: 1
+uni: 1
+polyphase induction mo: 1
+viterbi al: 1
+stiction prompt on: van der waals: 1
+uperdiode until read: half wave precision rectifier; on: half wave rectifier: 1
+multics: 1
+intersymbol interference: 1
+type chebyshev filter: 1
+miller: 1
+microchem su 8 2000: 1
+bilinear trans: 1
+smith chart: 1
+rbf neural net: 1
+yag: 1
+dlts: 1
+111 silicon wafer prompt on: silicon wafer;: 1
+lockout/tagout: 1
+homo: 1
+kalman filter prompt on: linear quadratic estima: 1
+congestion avoidance control: 1
+bandgap: 1
+auto: 1
+hendrik bode: 1
+oh  ab: 1
+silvaco athena: 1
+dtmf: 1
+backpropagation prompt on: gradient descent method: 1
+turbo code: 1
+pair kleins: 1
+locos: 1
+gene dresselhaus: 1
+ats: 1
+cigs: 1
+lattice constant: 1
+cleaning silicon wafer until reduce defects read: obvious equivalents involving reducing number process defects: 1
+heterojunction: 1
+hamming codes: 1
+interdigitated comb drive configuration: 1
+afci breaker: 1
+elliptic filter: 1
+dopants: 1
+mosfet threshold voltage: 1
+electric genera: 1
+fir filters: 1
+zno: 1
+numerical aperture: 1
+detecting gravitational wave: 1
+computer vision: 1
+pulmonary alveoli: 1
+global positioning system: 1
+spermatogenesis: 1
+mutation: 1
+epoxides: 1
+active galactic nuclei antiprompt subclass read including liner bl lac seyfert galaxy blazar quasar supermassive black hole: 1
+fuel cells: 1
+elasticity: 1
+organ transplant the procedures described named hair transplant kidney transplant liver transplan: 1
+galaxy cluster prompt cluster until 'galaxies' read afterwards galaxy: 1
+cycloaddition reaction  pericyclic reaction ring: 1
+debugging: 1
+sinc 'sink' function: 1
+friedrich bessel: 1
+cytochromes: 1
+ladder opera: 1
+eclipsing binary star system: 1
+chemotherapy: 1
+tangent: 1
+uniqueness: 1
+amides prompt lactams since most im: 1
+molecular bromine: 1
+light polarization: 1
+shock wave prompt discontinuity: 1
+1/2: 1
+brouwer  fixed point th: 1
+direct sum prompt sum addition: 1
+russian federation: 1
+erdâ®s number prompt colla: 1
+compressed sensing: 1
+knot polynomials after  knots  read just  polynomials: 1
+fourier trans: 1
+latin squares prompt sudoku solutions kenken solutions until respectively read: 1
+lie groups do  lie algebras: 1
+representation th: 1
+space filling curves: 1
+differential equations: 1
+hairy ball th: 1
+polyominoes: 1
+openness: 1
+gödel escher bach: eternal golden braid: 1
+intercal: 1
+tay: 1
+klein four group prompt four group vierergruppe d2 z2 ã— z2 read: 1
+multisets be generous sets bags lists heaps samples weighted sets collections bunches suites until respectively read: 1
+muhammad ibn mu sa  al khw arizm: 1
+primality tests: 1
+mathematician's apology: 1
+algebraic numbers: 1
+squaring circle: 1
+distributions: 1
+fl: 1
+hyperbolae prompt conic sections read: 1
+fuzzy: 1
+can: 1
+seven bridges königsberg prompt bridges: 1
+geometric construction compass straightedge: 1
+lattices prompt partially: 1
+lagrange's th: 1
+probability sun rise to: 1
+surreal numbers: 1
+orbi: 1
+empty set prompt null set since that's just set measure zero  set elements  until read: 1
+closed curve: 1
+melitta teapot: 1
+chernoff  faces prompt faces: 1
+cosets: 1
+hyperreal numbers: 1
+naive set th: 1
+field element: 1
+body switching th: 1
+gradient: 1
+on line encyclopedia integer sequences: 1
+cassini   huygens: 1
+atmosphere   mars: 1
+galaxy  merging: 1
+function composition: 1
+taxicab geometry: 1
+monster group: 1
+curious incident dog night time: 1
+collatz conjecture: 1
+roman catholic clergy: 1
+quadrilaterals antiprompt speci types thereof: 1
+marcus du sautoy: 1
+measure prompt size read  metric: 1
+decompositions: 1
+boarding commercial airplanes prompt answers indicating just boarding  boarding?: 1
+inner products generously dot products read: 1
+bivec: 1
+waring's problem: 1
+natural logarithm: 1
+knight's tours prompt hamiltonian paths paths tours: 1
+benoit b mandelbrot: 1
+skew symmetric: 1
+greedy al: 1
+japan: 1
+sine: 1
+tra signs: 1
+spaceships antiprompt gliders knightships: 1
+weierstrass function: 1
+boundedness: 1
+two plus two  ve: 1
+rep tiles: 1
+semigroups: 1
+squarefree: 1
+empty set: 1
+bolzano weierstrass th: 1
+klein bottle: 1
+solving differential equations prompt partial logically equivalent answers   nding solutions di erential equations  an  swers pertaining certain types di erential equations: 1
+pascal's triangle: 1
+basílica temple expia: 1
+iso: 1
+germany: 1
+charles lutwidge dodgson prompt lewis carroll: 1
+sylow's th: 1
+axiom choice prompt anything equivalent axiom choice: 1
+: 1
+long line: 1
+math textbooks prompt math books answers indicating they're used teaching learning instruction: 1
+supremum: 1
+banach mazur game: 1
+music: 1
+: 1
+cate: 1
+monoids: 1
+equivalence relation do  equality: 1
+raymond merrill smullyan: 1
+magyarosaurus: 1
+mosquitos: 1
+anteaters: 1
+anoles: 1
+muskellunge: 1
+feathers: 1
+turkish van cat lake van cat: 1
+crocodiles crocodylidae prompt crocodilian: 1
+tuna: 1
+badger: 1
+undergo meta: 1
+mammoth mammuthus: 1
+cobras: 1
+salmon prompt salmonidae: 1
+lizards: 1
+lemurs: 1
+piranha: 1
+house mouse: 1
+armadillos: 1
+kookaburra: 1
+orangutan orangutang: 1
+s: 1
+cutthroat trout: 1
+duck billed dinosaurs hadrosaurs hadrosauridae do hadrosaurus: 1
+opossum possum: 1
+bedbugs: 1
+bull shark: 1
+anaconda: 1
+gobi desert: 1
+tux: 1
+ducks: 1
+bowerbird: 1
+domestic pig domestic swine: 1
+greyhound: 1
+flamingos: 1
+spinosaurus: 1
+fugu pufferfish: 1
+chameleons: 1
+devonian: 1
+goldfish: 1
+colubrids: 1
+giant panda: 1
+eagles: 1
+sheepdog: 1
+kangaroo: 1
+: 1
+wombats: 1
+heart: 1
+geckos gekkonidae prompt lizards sqamata: 1
+cod gadus: 1
+cloaca: 1
+south america: 1
+warblers prompt passerine birds: 1
+crickets: 1
+largemouth bass: 1
+calcula: 1
+jethro tull: 1
+zenefits: 1
+cam: 1
+franklin institute: 1
+steadicam: 1
+windows vista: 1
+baron ferdinand graf von zeppelin: 1
+airbrushes prompt paint distribu: 1
+smells: 1
+airline industry: 1
+banting: 1
+prodigy: 1
+audiophiles: 1
+vulcan: 1
+john mcafee: 1
+airplane black box: 1
+macintosh: 1
+robotics: 1
+greenwich observa: 1
+gugliemo marconi: 1
+packard: 1
+paint programs: 1
+francis beau: 1
+doug engelbart: 1
+bakelite: 1
+ringtones: 1
+oliver sacks: 1
+screws: 1
+stop lights: 1
+louis braille: 1
+alloons: 1
+passenger pigeons: 1
+y2k bug: 1
+robert moog rhymes vogue although commonly pronounced rhyme fugue: 1
+sony: 1
+diesel engine: 1
+dread pirate roberts: 1
+hp: 1
+print shop: 1
+demoparty: 1
+microsoft powerpoint: 1
+dsv alvin: 1
+php: 1
+edmond halley: 1
+barbed wire fences: 1
+diggcom: 1
+broadcast television: 1
+childbirth: 1
+tax return filing software: 1
+phone phreaking: 1
+american ef: 1
+linus benedict: 1
+sidekick: 1
+zx zed ex spectrum: 1
+death ray: 1
+billy bookshelf: 1
+franz anton mesmer: 1
+alfred bernhard nobel: 1
+cassette tapes: 1
+trofim denisovich lysenko: 1
+aol cds: 1
+richard arkwright: 1
+robert fitzroy: 1
+bloomberg terminals: 1
+hovercraft: 1
+baldu: 1
+laptop per child: 1
+apple s: 1
+satoshi nakamoto: 1
+institute advanced study: 1
+smoke detec: 1
+oracle corporatio: 1
+ivf: 1
+netscape communications: 1
+ilm: 1
+margarine: 1
+rope: 1
+artificial cardiac pacemakers: 1
+cigarettes prompt tobacco: 1
+g: 1
+chatbots: 1
+sony pictures entertainment hack prompt pretty much anything involving interview end; things playstation hack â: 1
+zippers: 1
+tim o'reilly: 1
+con: 1
+eastman kodak company: 1
+magnetic compass prompt lodestone mentioned: 1
+kellogg do kelloggs: 1
+metal cans: 1
+quizbowl buzzer systems: 1
+chunnel: 1
+tampons prompt feminine hygiene product; antiprompt applica: 1
+stock ticker: 1
+matches: 1
+: 1
+william harvey: 1
+vending machines: 1
+toughbooks: 1
+magic lanterns: 1
+eleva: 1
+cash registers: 1
+logarithm function: 1
+females: 1
+triangulation: 1
+optical fibers: 1
+quadratic prompt polynomial until eisenstein read &lt;thompson&gt;: 1
+wings &lt;smart&gt;: 1
+superconduc: 1
+retroviruses prompt lentivirus &lt;smart&gt;: 1
+distance prompt length &lt;thompson&gt;: 1
+lipids: 1
+tokamaks &lt;rombro&gt;: 1
+centroid: 1
+conway's game life prompt cellular automaton automata until read &lt;thompson&gt;: 1
+symmetric groups: 1
+radiometric dating: 1
+migraine headaches prompt headaches auras until read &lt;mukherjee&gt;: 1
+trigonal bipyramidal &lt;pendyala&gt;: 1
+characteristic &lt;thompson&gt;: 1
+synapses: 1
+alkenes prompt double bond until read &lt;pendyala&gt;: 1
+charon &lt;thompson&gt;: 1
+primality tests: 1
+sucrose prompt table sugar until read &lt;smart&gt;: 1
+anthropocene epoch prompt age man &lt;thompson&gt;: 1
+polarization: 1
+ethers &lt;pendyala&gt;: 1
+carbon &lt;dm&gt;: 1
+aluminum &lt;ap&gt;: 1
+intelligence quotient: 1
+blue &lt;dm&gt;: 1
+pressure &lt;ap&gt;: 1
+human immunodeficiency virus do “aids” “acquired immunodeficiency syndrome” &lt;dm&gt;: 1
+integrals: 1
+maize: 1
+p &lt;dm&gt;: 1
+bernoulli &lt;dm&gt;: 1
+mustard gas: 1
+atoms: 1
+entropy &lt;ap&gt;: 1
+standard model &lt;aj&gt;: 1
+fertility rates prompt birth rate description until mentioned; fertility &lt;lt&gt;: 1
+sunspots &lt;ap&gt;: 1
+édouard lucas: 1
+auxins &lt;ap&gt;: 1
+cell membrane plasma membrane do “cell wall” &lt;at&gt;: 1
+beer’s law: 1
+: 1
+chromosomes: 1
+bone &lt;sc/at&gt;: 1
+mir: 1
+equilibrium: 1
+titrations: 1
+proton &lt;bm&gt; bonuses: 1
+beta particles: 1
+resistance &lt;bm&gt;: 1
+fullerenes: 1
+energy: 1
+cathodes &lt;bm&gt;: 1
+capacitance &lt;jk&gt;: 1
+&lt;bs&gt;: 1
+s: 1
+fractional distillation &lt;at&gt;: 1
+meiosis &lt;ag&gt;: 1
+covalent bond prompt bond mentioned &lt;bm&gt;: 1
+: 1
+antibodies &lt;ag/lp&gt;: 1
+noble gas: 1
+momentum &lt;ms&gt;: 1
+integration &lt;ms&gt;: 1
+harmonic oscilla: 1
+black hole &lt;ag&gt; halftime: 1
+sine also sine x sinx mathematical equivalents &lt;ag&gt;: 1
+quartz &lt;ng&gt;: 1
+quadrilateral: 1
+incenter &lt;ms&gt;: 1
+ocean waves also water waves &lt;ag&gt;: 1
+hyper text markup language html &lt;pa&gt;: 1
+cnidaria: 1
+krebs cycle also “citric acid cycle” “tca” cycle: 1
+mass extinction: 1
+hydroch: 1
+penicillins prompt “beta lactams” “antibiotics” until mentioned: 1
+turbulence: 1
+green: 1
+energy prompt “lagrangian” due ambiguities derivative action: 1
+ammonium do “ammonia”; nh4 mention: 1
+transposons: 1
+context free grammar: 1
+nitrile cyano: 1
+tasmanian devil: 1
+decryption cryptanalysis: 1
+fourier trans: 1
+cambrian explosion: 1
+ccd: 1
+endosperm: 1
+travelling faster sound: 1
+partial charge: 1
+colons: 1
+liquid liquid extraction: 1
+thiol groups: 1
+heating: 1
+mutualism prompt “symbiosis” “symbiotic” read; co operation: 1
+binomial: 1
+atomic number: 1
+list: 1
+pregnancy: 1
+thunders: 1
+carni: 1
+universal gravitational constant: 1
+do variants “c++” “c sharp”: 1
+spring constant: 1
+beta: 1
+commutative: 1
+oil spills: 1
+email prompt “spam” “smtp”: 1
+yellow: 1
+red: 1
+sequencing dna prompt partial; obvious synonyms describe figuring dna says determining genome at least “genome” read;: 1
+platyhelminthes: 1
+bernoulli’s principle: 1
+exoplanets: 1
+accept pager “ed: 1
+photography: 1
+binomial coefficients prompt descriptive answers “n choose k” “members pascal’s triangle” “number combinations”: 1
+cracking enigma code: 1
+stress: 1
+molarity prompt “capital m”;: 1
+hearing: 1
+faraday’s law electromagnetic induction bonuses: 1
+co: 1
+beta: 1
+amino acids if reason give it “acid” “amines”; polypeptides proteins “murchison”; “dna” “nucleotides”: 1
+generating random number: 1
+arabidopsis thaliana: 1
+accept napier’s constant euler’s number; euler’s constant that’s actually something els: 1
+cell counting: 1
+images: 1
+capacitance: 1
+on2 “big o n squared” basically anything mentions square; power 2: 1
+negative: 1
+internal energy: 1
+enthalpy: 1
+parasites: 1
+blood vessels: 1
+loops: 1
+cosine: 1
+nitrogen &lt;ms&gt;: 1
+viscosity viscous: 1
+ellipses &lt;ms&gt;: 1
+: 1
+quadratic functions/polynomials/equations: 1
+vacuoles &lt;bz&gt;: 1
+three &lt;ms&gt;: 1
+positive perfect cubes don’t “perfect numbers”; cubic numbers &lt;ms&gt;: 1
+universe prompt multiverse &lt;hx&gt;: 1
+mass: 1
+smallpox: 1
+n+1 “n plus one” stuff “adding one” anything implies number coming bigger going in anything different variable n x+1 &lt;ms&gt;: 1
+auxins &lt;kt&gt;: 1
+microscopes: 1
+antimatter: 1
+square: 1
+atomic radius do “bohr radius” &lt;ms&gt;: 1
+four &lt;yl&gt;: 1
+archaeans: 1
+phonemes prompt “sounds” until read &lt;sr social science&gt;: 1
+edge: 1
+chromosome &lt;sr biology&gt;: 1
+fibonacci sequence &lt;sy math&gt;: 1
+ionic bonds: 1
+nuclear reac: 1
+mitosis prompt cell division; ask players less specific answers cytokinesis prophase metaphase anaphase telophase; “interphase” “meiosis”: 1
+phase diagrams: 1
+mechanical resonance: 1
+velocirap: 1
+euclidean distance: 1
+population: 1
+altitude: 1
+coulomb’s law: 1
+mountains: 1
+fibonacci: 1
+blood clots: 1
+atomic number: 1
+polarity: 1
+right circular cone: 1
+monosaccharides: 1
+vaccination: 1
+nuclear fusion: 1
+flammability: 1
+electrical genera: 1
+square root: 1
+random numbers: 1
+right triangles prompt partial; specific type triangle &lt;ec&gt;: 1
+drug addiction: 1
+tetrahedron: 1
+neurons prompt “nerve cells” “nerves” &lt;bz&gt;: 1
+fish: 1
+halley’s comet: 1
+hyperbola &lt;ec&gt;: 1
+index refraction: 1
+blue &lt;ec&gt;: 1
+three &lt;ec&gt;: 1
+chromosome: 1
+entropy &lt;ec&gt;: 1
+even &lt;ec&gt;: 1
+speciation: 1
+urea &lt;bz&gt; bonuses: 1
+solar eclipse prompt “eclipse”; “lunar eclipse” &lt;ec&gt;: 1
+combustion prompt “oxidation” “reduction” “redox” “exothermic”: 1
+four &lt;ec&gt;: 1
+mitosis prompt “cell division” “cell cycle”; “meiosis” &lt;bz&gt;: 1
+polaris: 1
+hemoglobin &lt;bz&gt;: 1
+cell wall: 1
+schrodinger’s cat &lt;ec&gt;: 1
+lines &lt;ec&gt;: 1
+dimensio: 1
+angular momentu: 1
+francis harry compton crick: 1
+zincprompt “zn”: 1
+wate: 1
+average temperature earth: 1
+radicals &lt;mg/as&gt;: 1
+population size: 1
+va: 1
+cylinder &lt;bh&gt;: 1
+fires: 1
+heart &lt;as&gt;: 1
+petroleum: 1
+exponentiation: 1
+the field of complex numbers prompt “c”; “imaginary numbers” &lt;jg&gt;: 1
+speed light in vacuum: 1
+saliva prompt “spit” colloquialisms &lt;as&gt;: 1
+chromosomes: 1
+entropy prompt “s” &lt;as&gt;: 1
+chimpanzees: 1
+rounding up down: 1
+zero: 1
+clocks prompt oscilla: 1
+hemoglobin &lt;as&gt;: 1
+continental crust prompt “crust” &lt;as&gt;: 1
+three: 1
+whitney embedding th: 1
+partial wave expansion: 1
+scanning: 1
+sulfonates sulfonic acids do “sulfates”: 1
+hmg coa: 1
+helmholtz equation: 1
+monads: 1
+photochemical reactions: 1
+oceanic anoxic events: 1
+dmf: 1
+t cells the paradigm cancer immunotherapy: 1
+particle detec: 1
+pseudomonas aeruginosa: 1
+rate convergence prompt convergence; runtime: 1
+ergodicity: 1
+space charge: 1
+configuration interaction method: 1
+viscoelastic materials: 1
+cyclogenesis: 1
+electrospray ionization: 1
+effective mass prompt just mass: 1
+neutral: 1
+ultrafilters prompt ultraproducts; filters maximal filters: 1
+flash: 1
+steam re: 1
+interaction picture: 1
+pspace: 1
+nasa: 1
+protein kinase: 1
+baire cate: 1
+lectins: 1
+positive definiteness prompt definiteness; positive: 1
+myasthenia gravis: 1
+analytic continuation prompt extension domain continuation: 1
+gc content: 1
+penning trap prompt ion trap read bonuses: 1
+amniotes prompt tetrapods; diapsids until mention; afterwards: 1
+classification finite simple groups prompt incomplete answer; answers indicating classification groups finite simple: 1
+solid phase dna synthesis: 1
+bayesian net: 1
+pre eclampsia prompt eclampsia: 1
+lepton: 1
+bacterial endos: 1
+camels: 1
+freezing: 1
+double bonds: 1
+piezoelectric effect: 1
+phospho•lipids: 1
+dihydrogen gas: 1
+vaginas &lt;hart&gt;: 1
+pressure: 1
+variance: 1
+rainbows &lt;garg&gt;: 1
+moments &lt;garg&gt;: 1
+epi•thelium: 1
+phase changes: 1
+aqua regia &lt;hart&gt;: 1
+darwin's finches: 1
+numerical weather: 1
+ebola virus: 1
+ligands: 1
+density &lt;garg&gt;: 1
+lavas: 1
+carbon nanotubes: 1
+organic matter decomposition or word forms; organic matter decay &lt;kothari&gt: 1
+thomas: 1
+helmholtz energy: 1
+little sigma &lt;garg&gt;: 1
+mauna kea prompt on: hawaii united states: 1
+water va: 1
+le chatelier’s principle prompt “equilibrium law” equivalents “equilibrium”: 1
+second: 1
+obesity prompt answers “being overweight” until end: 1
+: 1
+steam: 1
+statistic: 1
+photographic film: 1
+rna interference: 1
+cyano group: 1
+dengue fever: 1
+phase transitions: 1
+45 degrees: 1
+heart &lt;jr&gt;: 1
+charge: 1
+critical: 1
+conservation momentum prompt answers mentioning inertia; answers mentioning newton’s laws &lt;se&gt;: 1
+absolute value: 1
+bicarbonate ion: 1
+mutualism: 1
+ions: 1
+k &lt;af&gt;: 1
+water: 1
+half: 1
+transition metals: 1
+logic: 1
+steroid: 1
+striated muscles prompt heart tissue “glycogen” &lt;jr&gt;: 1
+vertex: 1
+logarithm: 1
+three: 1
+aluminum &lt;af&gt;: 1
+t: 1
+infinite series: 1
+blue: 1
+commutative property: 1
+: 1
+ocean current: 1
+equilibrium constant: 1
+calcium: 1
+lone electron pairs: 1
+esherichia coli: 1
+sexual reproduction: 1
+electrochemical cell potential: 1
+activation energy prompt gibbs energy mention ea answers “energy barrier”: 1
+epinephrine: 1
+: 1
+phase diagrams the: 1
+addition reaction prompt “oxidation” until “oxidative”; “oxidative addition”; cycloaddition after “diels alder” read: 1
+interest rates prompt “rate return” “return on investment” equivalents answerer appears bank credi: 1
+resistance: 1
+associativity: 1
+spin prompt “multiplicity” “spin multiplicity” “magnetization” “intersystem crossing”: 1
+turtle shells: 1
+2: 1
+heat capacity: 1
+logarithm: 1
+fresh water prompting “water” seems dubious me let’s so “lake water” “river water” “ground water”: 1
+computer graphics: 1
+primers: 1
+solving differential equations: 1
+phosphate: 1
+velocity: 1
+ad: 1
+atomic: 1
+regression analysis: 1
+urine: 1
+islands: 1
+regular hexagons: 1
+pressure: 1
+plate subduction prompt “plate convergence”: 1
+glucose: 1
+exponential function: 1
+four: 1
+temperature: 1
+matrix: 1
+eye: 1
+recursion: 1
+double bonds: 1
+equilibrium constant: 1
+origin life earth or obvious equivalents such beginning life; abiogenesis; biopoiesis &lt;as&gt: 1
+false positives: 1
+polarity: 1
+fluids prompt “liquids” “gases” “plasmas” &lt;bh/as&gt;: 1
+hydrogen: 1
+stress: 1
+poliomyelitis &lt;mj&gt; edi: 1
+islands: 1
+cellular nucleus &lt;mj&gt;: 1
+mass: 1
+powder be generous: 1
+complex analysis prompt just “analysis”: 1
+cryo em: 1
+weather: 1
+microstates: 1
+compression prompt “coding” “encoding”: 1
+neural net: 1
+alzheimer’s disease: 1
+quantum harmonic oscilla: 1
+electronic filter: 1
+wilson’s disease: 1
+white people: 1
+redshift: 1
+claisen rearrangement: 1
+nephron prompt “kidney” anti prompt specific parts nephron glomerulus bowman’s capsule proximal convoluted tubule loop henle etc: 1
+compton wavelength: 1
+gravitational waves: 1
+galactic mergers: 1
+cache prompt “me: 1
+rickettsia: 1
+scanning tunneling microscopy: 1
+ethanol: 1
+: 1
+desert pavement: 1
+nuclear lamins prompt “intermediate filaments” “nuclear lamina” “nuclear matrix”: 1
+landry guillan barre syndrome: 1
+polynomial fac: 1
+kerr effect: 1
+second virial coefficient: 1
+superacid prompt “acid”: 1
+smoothness prompt “infinitely differentiable” “differentiable”; flat “birational”: 1
+anticoagulants: 1
+enamine do “imines” “amines”; ask them spell necessary: 1
+hawking radiation: 1
+dating: 1
+air free: 1
+gaussian beam prompt beam laser laser beam ideal laser beam zero: 1
+depth: 1
+21 cm line: 1
+geoid prompt “earth’s gravitational field” similar answers: 1
+selection rule: 1
+calmodulin: 1
+photochemical reactions: 1
+interferon prompt “cytokines” “interleukins”: 1
+molar ab: 1
+vision: 1
+s: 1
+endothelial cells: 1
+globally harmonized system: 1
+: 1
+intergalactic medium: 1
+apolipoproteins prompt “lipoprotein” specific apolipoproteins ie apoa i apob apoe apoc i apoc ii apol1: 1
+saha ionization equation: 1
+triple junctions: 1
+electroweak: 1
+string searching: 1
+x ray fl: 1
+or polyacrylamide gel electrophoresis protein gel electrophoresis; protein electrophoresis specific answers sds page native page qnpc page 2d sds page etc; need both protein electrophoresis points distinguish dna gel electrophoresis; partial answer: 1
+gamma function: 1
+dark matter halo prompt “galaxies” “galaxy seeds”: 1
+fabry perot interferometer prompt “interferometer”; etalon mention: 1
+wind: 1
+supercritical fluid prompt high pressure high temperature both; answers saying something being above critical point: 1
+lactone prompt “ester”: 1
+coma cluster: 1
+tephra anti prompt “ash” “volcanic ash”; pyroclastic deposits pyroclasts; “volcanic ejecta” “the stuff ejected volcanoes” similar answers: 1
+wigner eckart th: 1
+salinity: 1
+cascade reactions prompt “cyclization” “one pot” tandem domino sequential reaction: 1
+spherical: 1
+convex hull: 1
+babinet’s principle: 1
+gaussian: 1
+gene duplication prompt on: 1
+stable marriage problem: 1
+cadherin: 1
+c h bond: 1
+planck satellite: 1
+lumbar puncture: 1
+size exclusion chromatography: 1
+lin shu density wave th: 1
+er: 1
+cajal bodies: 1
+crystal growth: 1
+planet: 1
+axion: 1
+rayleigh number: 1
+fl: 1
+hard soft acid base th: 1
+hybrid incompatibility: 1
+cryptographic keys: 1
+bkt transition: 1
+al: 1
+allan sandage: 1
+impact event: 1
+optogenetics: 1
+ms/ms ms2 tandem mass spectrometry prompt “mass spec” “protein mass spec” “peptide mass spec” throughout; anything: 1
+rigid body: 1
+sn1987a: 1
+field extension prompt “fields”: 1
+vic: 1
+index: 1
+energy: 1
+thermoclines: 1
+velocity: 1
+radial: 1
+bacterial conjugation prompt: 1
+battery: 1
+riemann hypothesis prompt riemann &lt;other science math&gt;: 1
+electric potential: 1
+inversion symmetry: 1
+equilibrium constant: 1
+number sign: 1
+promoters anti prompt ask “can less specific?” tata boxes transcription initiation sites cpg islands until “tata” “transcription” “cpg” respectively read; specific cis regula: 1
+monoclonal antibody: 1
+quantum fields: 1
+euarthropoda: 1
+field effect transis: 1
+freezing: 1
+uranium: 1
+tu: 1
+call stack: 1
+convergent evolution: 1
+electrophiles &lt;chemistry&gt;: 1
+chirality &lt;chemistry&gt;: 1
+competition &lt;biology&gt;: 1
+polarization specific types such linear polarization circular polarization &lt;physics&gt; read f: 1
+friedel–crafts reaction: 1
+three: 1
+soil: 1
+curvature prompt kappa k; things “curvature object” &lt;jl math&gt;: 1
+co: 1
+permutation prompt fac: 1
+poisson pwah sahn distribution &lt;jl math&gt;: 1
+heat capacity: 1
+amine do “amide” &lt;jl chem&gt;: 1
+meta: 1
+human control of fire: 1
+polarization &lt;sb phys&gt;: 1
+spin prompt “angular momentum” mentioned: 1
+chirality: 1
+hiv: 1
+reflecting telescopes: 1
+glacier: 1
+earth’s magnetic field: 1
+j: 1
+big g: 1
+: 1
+ethers: 1
+nad: 1
+monkeys: 1
+elementary charge: 1
+asterisk: 1
+mass &lt;pendyala&gt;: 1
+fonts: 1
+quark &lt;xiong&gt;: 1
+solar: 1
+rené descartes: 1
+linear &lt;pendyala&gt;: 1
+lactose intolerance: 1
+carbon dioxide: 1
+functions: 1
+velocity prompt speed; relativistic beta &lt;xiong&gt;: 1
+yellow &lt;park&gt; bonuses: 1
+heart attacks: 1
+exponential &lt;park&gt;: 1
+bernoulli &lt;pendyala&gt;: 1
+primates: 1
+cosine &lt;xiong&gt;: 1
+epoxides prompt epoxy resins cyclic ether until read &lt;rd chemistry&gt;: 1
+laminar flow: 1
+thin films: 1
+cosmic scale fac: 1
+partition coefficient: 1
+trapping: 1
+hepatic: 1
+reaction rate: 1
+type i er: 1
+superoxide dismutase: 1
+dog breeds: 1
+ch: 1
+instructions: 1
+dinoflagellates: 1
+tubulin: 1
+carbonate: 1
+nitrogenases anti prompt mofe protein &lt;rd biology&gt;: 1
+cracks: 1
+cocoa bean: 1
+doxa: 1
+differential scanning ca: 1
+ovarian follicles: 1
+sds “s d s page”: 1
+basophils the second clue refers basophilia phenotype t6;9p23;q34 aml &lt;rh biology&gt;: 1
+flint: 1
+thirteen: 1
+limb: 1
+electrodes: 1
+artemisinins: 1
+: 1
+banded iron: 1
+silver: 1
+pregnancy: 1
+öpik–: 1
+half: 1
+orthogonal: 1
+proteins prompt “polypeptides” “peptides”: 1
+: colloids: 1
+enthalpy prompt “lattice energy”: 1
+: calcium prompt “ca” end question: 1
+: down syndrome: 1
+parkinson’s disease: 1
+three: 1
+edge: 1
+eating di: 1
+heartbeat: 1
+human gut: 1
+points: 1
+t cells: 1
+camels: 1
+twilight &lt;jose&gt;: 1
+law conservation charge: 1
+carpels: 1
+zero &lt;mukherjee&gt;: 1
+harmonic: 1
+real number do positive negative &lt;wang&gt;: 1
+queen ants: 1
+cosine: 1
+poliovirus &lt;silverman&gt;: 1
+osmotic pressure: 1
+mosquitoes: 1
+capitalizatio: 1
+ernst mach&lt;silverman&gt;: 1
+arithmeti: 1
+trache: 1
+c: 1
+arabs: 1
+m: 1
+cellular motion: 1
+position linear momentum: 1
+ovary: 1
+quark fla: 1
+distance: 1
+angular frequency: 1
+real: 1
+tetrahedron &lt;jose&gt;: 1
+tree: 1
+calcite &lt;jose&gt;: 1
+accept time constant mentioned &lt;busse&gt: 1
+dark matter halo after navarro frenk white profile mentioned mass &lt;jose&gt;: 1
+empty set: 1
+diamagnetism do paramagnetism &lt;wang&gt;: 1
+maps: 1
+supercontinent do continent &lt;jose&gt;: 1
+astronomical: 1
+retina prompt eye &lt;mukherjee&gt;: 1
+sunspots &lt;jose&gt;: 1
+strings &lt;jose&gt;: 1
+tree rings prompt trees &lt;jose&gt;: 1
++2: 1
+follicle stimulating: 1
+variance &lt;jose&gt;: 1
+wasps prompt hymenoptera apocrita; bees; leadin describes wiskott aldrich syndrome protein wasp &lt;kothari&gt;: 1
+pascal's triangle: 1
+population growth: 1
+monoclonal antibodies: 1
+males: 1
+bugs: 1
+bromine: 1
+volcanic eruptions: 1
+gram negative bacteria prompt bacteria prokaryotes &lt;silverman&gt;: 1
+reversible process reversibility &lt;busse&gt;: 1
+rockets: 1
+partial: 1
+tobacco: 1
+orbital angular momentum quantum number or azimuthal quantum number; l until read; total angular momentum quantum number j; spin spin quantum number &lt;silverman&gt: 1
+pulmonary artery &lt;silverman&gt;: 1
+myelin: 1
+japan: 1
+partial derivative: 1
+heat: 1
+yeast: 1
+artificial neural net: 1
+plurality: 1
+fruit fly: 1
+halting: 1
+exoplanets: 1
+ligase: 1
+water: 1
+cyanide: 1
+bird eggs: 1
+invertible: 1
+pseu: 1
+earth &lt;sam&gt;: 1
+2 pi: 1
+proteins: 1
+mass prompt “m” &lt;sam&gt;: 1
+pink: 1
+lines: 1
+nucleus: 1
+point mutations &lt;bz&gt;: 1
+luminosity prompt “brightness” &lt;sam&gt;: 1
+euclid: 1
+soil prompt “dirt” &lt;sam&gt;: 1
+fluid density prompt “rho” &lt;sam&gt;: 1
+covalent bond: 1
+taurus &lt;sam&gt;: 1
+k &lt;sam&gt;: 1
+wind &lt;sam&gt;: 1
+white dwarfs prompt “dwarfs”; “stars” mention &lt;sam&gt;: 1
+tangent &lt;sam&gt;: 1
+leaves &lt;bz&gt;: 1
+four &lt;sam&gt;: 1
+½: 1
+phosphate: 1
+hydrogen: 1
+zero &lt;sam&gt;: 1
+aluminum prompt “al” &lt;sam&gt;: 1
+stress prompt “pressure” &lt;sam&gt;: 1
+funnel &lt;rn&gt;: 1
+function prompt “map” “mapping;” “graph”: 1
+earth’s moon: 1
+special relativity prompt “relativity” “general relativity”: 1
+golgi apparatus/body/complex: 1
+parasites anti prompt “protozoa” mafia; anti prompt “mosquitoes” specific types: 1
+weather fronts: 1
+benzene prompt “c6h6” mentioned: 1
+allotropes carbon prompt “carbon nanotubes” “hpht”; “: 1
+internal energy: 1
+ears: 1
+meth: 1
+white: 1
+viscosity: 1
+tetrahedron &lt;hao&gt;: 1
+alcohol &lt;hao&gt;: 1
+radicals &lt;hao&gt;: 1
+russia union soviet socialist republics: 1
+hyphae &lt;hao&gt;: 1
+yellow &lt;hao&gt;: 1
+expansion universe: 1
+cnidaria &lt;hao&gt;: 1
+ampère’s circuital law do “ampère’s: 1
+phosp: 1
+long range​: 1
+multiplet​s prompt nmr peaks: 1
+point spread functions: 1
+maximilien de béthune duke sully: 1
+4n &lt;chemistry&gt;: 1
+graphene​: 1
+quasiparticles: 1
+gut microbiota: 1
+numerical integration &lt;other science&gt;: 1
+rna polymerase: 1
+microwave spectroscopy: 1
+gian carlo wick: 1
+umpolung: 1
+atomic nuclei: 1
+determining distance cepheids: 1
+interbreeding modern humans neanderthals: 1
+voltammetry: 1
+complex conjugation conjugate prompt twin wave image “positive omega” &lt;physics&gt;: 1
+adeno associated virus: 1
+exercise: 1
+peter david lax: 1
+gravitational potential: 1
+pi​ pi stacking: 1
+6 &lt;chemistry&gt;: 1
+mysql do just “sql”; anti prompt “innodb” until “happy birthday” read &lt;other science&gt;: 1
+david liu &lt;biology&gt;: 1
+overfitting prompt variance bias–variance tradeoff “variance” &lt;other science&gt;: 1
+soil: 1
+primality: 1
+tay–sachs disease: 1
+cochlea prompt “ear” “inner ear”: 1
+addiction: 1
+bose–einstein condensate: 1
+endothermy: 1
+rené descartes day cart &lt;minarik science   math&gt;: 1
+<strong><span class=underline>alzheimer</span></strong>'s disease prompt <span class=underline>dementia</span> until read: 1
+y: 1
+functions: 1
+two: 1
+microwave radiation the device refers ammonia maser &lt;wang science   physics&gt;  nsc 2018   round 06   bonuses: 1
+atoms: 1
+capillary cap ill airy tubes: 1
+phytoplankton prompt plankton coccolithop: 1
+accept vitamin c peptide protein kinase c pkc &lt;ramaswami science   biology&gt: 1
+chaos: 1
+g: 1
+al: 1
+trnas: 1
+ligands lig unds prompt chelates chelating agents until read &lt;wang science   chemistry&gt;: 1
+chi squared distribution &lt;damisch science   math&gt;: 1
+angular velocity prompt omega; velocity linear velocity &lt;busse science   physics&gt;: 1
+flowers: 1
+or j; imaginary unit; equivalents square root negative until read &lt;mukherjee science   physics&gt: 1
+measles: 1
+vitamin b12: 1
+second language acquisition: 1
+nitrogen: 1
+plain text edi: 1
+niels henrik abel ah bull &lt;minarik science   math&gt;: 1
+logarithm: 1
+wildfires: 1
+uric acid: 1
+co: 1
+spinning tops: 1
+post: 1
+mie scattering: 1
+jaks: 1
+carbon hydrogen bonds: 1
+proteins: 1
+j b s haldane: 1
+variables: 1
+finite square well: 1
+reactive ion etching: 1
+darcy friction fac: 1
+alexander grothendieck groh ten dik: 1
+dendrimers: 1
+vdj recombination: 1
+whale falls: 1
+asymmetric reactionss: 1
+b trees: 1
+sigma algebra: 1
+cyclobutane: 1
+alternative splicing: 1
+homolytic cleavages: 1
+bipolar junction transis: 1
+cats’ righting reflex: 1
+ft icr ms: 1
+cratons prompt “continents” “continental crust” “continents”; “shield” “plat: 1
+nf kappa b: 1
+mechanical clocks: 1
+poincaré recurrence th: 1
+collision detection: 1
+pyridine: 1
+real time polymerase chain reaction: 1
+21 centimeter line: 1
+insolvability quintic: 1
+atp binding cassette trans: 1
+optical tweezers: 1
+parathyroid: 1
+chemical reac: 1
+ad: 1
+x ray diffraction: 1
+angular momentum do “momentum”; spin until: 1
+kepler conjecture: 1
+cell adhesion: 1
+parsing: 1
+photosystem ii: 1
+lactones prompt “esters”: 1
+chickens: 1
+ray tracing: 1
+molecular polarizability: 1
+foxes: 1
+: 1
+surface runoff: 1
+planetary rings: 1
+metal: 1
+finite element method: 1
+nuclear envelope: 1
+capillary electrop: 1
+josef yo sef stefan: 1
+great oxygenation event: 1
+sigma fac: 1
+group actions: 1
+single layer perceptrons prompt “neural net: 1
+somatostatin: 1
+phosp: 1
+nickel: 1
+inner mitochondrial membrane: 1
+diagonalizability: 1
+regression: 1
+electrical resistivity prompt rho mentioned; “resistance”: 1
+biot savart law: 1
+amplifier: 1
+lysogeny: 1
+galaxy mergers: 1
+spacecraft propulsion: 1
+cardinal number: 1
+migra: 1
+constrained optimization: 1
+ten 10: 1
+prospecting: 1
+large magellanic cloud: 1
+beehives: 1
+heuristics: 1
+sexual reproduction fungi: 1
+harmonic oscilla: 1
+constructing tessellation: 1
+bent: 1
+entropy do “enthalpy” &lt;wenzer qin&gt;/&lt;ed seth ebner&gt;: 1
+quartz: 1
+two: 1
+answer: google inc: 1
+or euler’s number; napier’s constant; “euler’s constant” &lt;wenzer qin&gt;/&lt;ed seth ebner&gt: 1
+: 1
+longitudinal waves: 1
+triangular numbers &lt;david dennis&gt;/&lt;ed jake sundberg&gt;: 1
+marsupials: 1
+function: 1
+urinary tract infections: 1
+unit sphere: 1
+thin films: 1
+air pollution: 1
+beta lactam antibiotics: 1
+fick’s laws diffusions: 1
+proteolysis: 1
+barley: 1
+ellipse the clue states 14 42 2 8 8 5 5 7 71 lie ellipse: 1
+chameleon: 1
+pseudo random number generation: 1
+salt: 1
+erwin schrödinger: 1
+vertical: 1
+mathematics: 1
+irrational numbers do “rational”: 1
+impact craters: 1
+standard atomic weight: 1
+eva: 1
+opioids: 1
+blaise pascal: 1
+photovoltaic cells: 1
+accept minute; seconds give: 1
+remainder: 1
+less than greater than signs in either: 1
+operating systems: 1
+microwaves: 1
+beetles: 1
+charon &lt;mcmaken&gt;: 1
+fischer &lt;mcmaken&gt;: 1
+rings &lt;halza&gt; bonuses:: 1
+titanium &lt;mcmaken&gt;: 1
+2 &lt;mcmaken&gt;: 1
+echinodermata &lt;mcmaken&gt;: 1
+exclamation mark: 1
+event: 1
+oxygen &lt;mcmaken&gt;: 1
+co: 1
+string &lt;mcmaken&gt;: 1
+subway maps: 1
+boundary &lt;rf&gt;: 1
+rosetta: 1
+quaternary &lt;sc&gt;: 1
+landslides: 1
+three body problem/system: 1
+reading &lt;ejw&gt;: 1
+dioxygen: 1
+human bodies: 1
+m2 + n2: 1
+magellanic clouds prompt galaxies “bridge” mentioned &lt;mn&gt;: 1
+ma: 1
+transparency: 1
+polarisation light &lt;yy&gt;: 1
+dyes: 1
+fourier series do “fourier trans: 1
+rodentia: 1
+type ii supernovae prompt supernova;: 1
+glenohumeral joint: 1
+viscosity &lt;yy&gt;: 1
+tex: 1
+lipid membranes: 1
+thermal expansion: 1
+henry cavendish &lt;ho&gt;: 1
+nuclear tests: 1
+: 1
+dis: 1
+muon prompt “mu meson” reminder longer preferred term particles mesons &lt;yy&gt;: 1
+taurus &lt;mn&gt;: 1
+algal blooms: 1
+sewers: 1
+ocean sunfish: 1
+s: 1
+diamagnetism &lt;em&gt; bonuses:: 1
+gamma: 1
+beer–lambert–bouguer law: 1
+er: 1
+shock wave: 1
+edwin powell hubble &lt;jd science astronomy&gt;: 1
+databases: 1
+g protein coupled recep: 1
+fuel cells anti prompt hydrogen cells; “batteries” &lt;ap science engineering&gt;: 1
+wittig reaction &lt;ap chemistry&gt;: 1
+paul dirac &lt;ap physics&gt;: 1
+ovary: 1
+: 1
+sand: 1
+einstein field equations: 1
+bragg’s law &lt;ap physics&gt;: 1
+bekenstein–hawking radiation &lt;ap science astronomy&gt;: 1
+density: 1
+quantum entanglement &lt;ap physics&gt;: 1
+retrograde: 1
+preeclampsia: 1
+transition metals prompt just metals &lt;jw&gt;: 1
+bricks: 1
+black mir: 1
+capital: 1
+raphael: 1
+wine: 1
+constant: 1
+blood: 1
+detroit &lt;jr&gt;: 1
+mosaics: 1
+dementia: 1
+milton friedman &lt;by&gt;: 1
+elastic: 1
+odin: 1
+buffer solutions: 1
+athletes: 1
+e coli: 1
+house elves: 1
+filippo brunelleschi broo nuh leh skee &lt;jr&gt;: 1
+radium: 1
+stoicism &lt;jw&gt;: 1
+franz ritter von liszt: 1
+appalachian mountains: 1
+paris &lt;af&gt;: 1
+giant: 1
+protein structures: 1
+art songs: 1
+language: 1
+barcelona: 1
+shield: 1
+carmen &lt;jr&gt;: 1
+link &lt;jr/by&gt;: 1
+francisco goya: 1
+captain nemo: 1
+paper: 1
+overtures: 1
+ecstasy saint theresa: 1
+18th century: 1
+madonna: 1
+yellow: 1
+arches: 1
+guns: 1
+wolf: 1
+dreamers: 1
+henri robert marcel duchamp: 1
+intelligence: 1
+under: 1
+oxidation states: 1
+sichuan: 1
+chicago white sox prompt chicago &lt;scw&gt;: 1
+voodoo: 1
+boiling: 1
+shipwreck: 1
+surrealism: 1
+john william coltrane &lt;jr&gt;: 1
+french: 1
+adenine: 1
+vertigo &lt;jr&gt;: 1
+justice: 1
+shiva &lt;hk&gt;: 1
+fish: 1
+saint john: 1
+viola davis &lt;jr&gt;: 1
+sound waves: 1
+neolithic period prompt stone age until it’s mentioned; neolithic revolution; chalcolithic copper age &lt;jr&gt;: 1
+isa ibn maryam: 1
+lion: 1
+german: 1
+russian doping scandal: 1
+equilibrium: 1
+prints until they’re mentioned etchings engravings woodblocks woodcuts; hundred guilder print &lt;jr&gt;: 1
+aaron copland &lt;jr&gt;: 1
+benjamin franklin &lt;jw/jr&gt;: 1
+accept m: 1
+indus river: 1
+menelaus &lt;spqr&gt;: 1
+rum: 1
+street art: 1
+strings &lt;af&gt;: 1
+apple: 1
+optics: 1
+pirates caribbean &lt;jw&gt;: 1
+minimalism &lt;jr&gt;: 1
+carboxylic acids: 1
+serpents: 1
+laws: 1
+cascade range: 1
+england: 1
+g: 1
+columns: 1
+kung fu panda do “kung fu panda 2” “kung fu panda 3” &lt;by&gt;: 1
+fox: 1
+nuclear fusion fyoo zhun: 1
+hong kong: 1
+lotuses: 1
+kingdom italy: 1
+maya people: 1
+denis diderot &lt;jr&gt;: 1
+“pathétique” &lt;jw&gt;: 1
+capitalism: 1
+hesiod: 1
+accept time like interval; t &lt;se&gt: 1
+voting: 1
+lillian f: 1
+golf balls prompt “balls” &lt;hart&gt;: 1

@@ -1,0 +1,473 @@
+arab republic egypt: 11
+russian federation: 8
+uber: 7
+ukraine: 6
+bolivarian republic venezuela: 6
+people's republic china: 6
+commonwealth of virginia: 6
+jersey: 6
+vladimir vladimirovich putin: 6
+david cameron: 5
+benjamin bibi netanyahu: 5
+kim jong un prompt partial answer: 5
+islamic republic pakistan: 5
+union myanmar: 4
+illinois: 4
+brazil: 4
+arizona: 4
+hugo chavez: 4
+: 4
+france: 4
+cali: 4
+paul ryan: 4
+joe biden: 4
+john boehner prompt speaker house house speaker: 4
+republic kenya: 4
+boko haram: 4
+shinzo abe: 4
+edward joseph snowden: 4
+university michigan: 4
+: fifa: 4
+rand paul prompt paul: 4
+afghanistan: 3
+david petraeus: 3
+republic ireland: 3
+stephen harper: 3
+los estados unidos de mã©xico: 3
+francois hollande: 3
+detroit: 3
+qatar: 3
+south sudan: 3
+honduras: 3
+european union: 3
+narendra modi: 3
+ohio: 3
+apple computer inc: 3
+greenpeace: 3
+wisconsin: 3
+: 3
+national security agency: 3
+nigeria: 3
+pope francis: 3
+federal republic germany: 3
+evo: 2
+julia gillard: 2
+gerald arthur jerry sandusky: 2
+john sidney mccain iii: 2
+chris christie: 2
+republic turkey: 2
+dilma rousseff: 2
+central african republic: 2
+f: 2
+hosni mubarak: 2
+occupy wall street prompt answer just includes: 2
+silvio berlusconi: 2
+republic of turkey: 2
+i: 2
+: 2
+puerto rico: 2
+obamacare: 2
+facebook: 2
+japan: 2
+nicolã¡s maduro: 2
+mexico: 2
+republic of india: 2
+rohingya people: 2
+united states sena: 2
+republic guinea: 2
+ted cruz: 2
+michael bloomberg: 2
+italy: 2
+starbucks: 2
+general mo: 2
+london: 2
+alexander: 2
+rahm emanuel: 2
+rick san: 2
+bashar al assad: 2
+democratic party wisconsin: 2
+south: 2
+iowa: 2
+: 2
+mohamed: 2
+fracking: 2
+hungary: 2
+angela merkel: 2
+draft: 2
+john roberts prompt chief justice of us supreme court mentioned: 2
+romano prodi: 2
+amazoncom: 2
+matteo renzi: 2
+balti: 2
+kingdom of spain: 2
+us department veterans affairs: 2
+el chapo: 2
+rodrigo rody duterte prompt digong nickname: 2
+republic colombia: 2
+united states embargo against cuba: 2
+carly f: 2
+commonwealth australia: 2
+john kerry &lt;ga&gt;: 2
+malaysia: 2
+housing: 2
+g: 1
+hu jintao: 1
+gaza flotilla raid: 1
+david paterson: 1
+roland wallace burris: 1
+regulated taxi industry: 1
+buffett rule: 1
+recep tayyip erdogan er do wan extremely lenient pronunciation: 1
+final fantasy: 1
+spain: 1
+rand paul's filibuster: 1
+citizens united v federal election commission: 1
+peru: 1
+sung myun moon: 1
+alexander gri: 1
+2013 papal conclave: 1
+birth control: 1
+keith rupert murdoch: 1
+: 1
+hillary diane rodham clinton: 1
+wikileaks: 1
+hamid karzai: 1
+kim dotcom: 1
+trillion dollar coin: 1
+pre kindergarten education: 1
+tesla mo: 1
+charter schools: 1
+benghazi libya: 1
+pussy riot: 1
+washington state: 1
+nicholas maduro: 1
+medical hospitals: 1
+joplin: 1
+republica argentina: 1
+gabrielle gabby gif: 1
+nfl replacement referees: 1
+filing bankruptcy: 1
+prism: 1
+mississippi: 1
+secretary state: 1
+iphone 5 prompt iphone: 1
+jp: 1
+scott kevin walker: 1
+mexican drug cartels prompt drug cartels; equivalents containing mexico drugs: 1
+curiosity rover: 1
+mozilla: 1
+android: 1
+marie esprit lã©on walras: 1
+rob: 1
+al qaeda: 1
+five star movement: 1
+mexican drug cartels: 1
+eads: 1
+: 1
+chelsea manning: 1
+republic iraq: 1
+fidesz: 1
+burwell v hobby lobby: 1
+g: 1
+lois lerner: 1
+tammy baldwin: 1
+hampshire: 1
+scotland anti prompt united kingdom uk mentioned: 1
+women: 1
+shooting down aircraft: 1
+obesity generously anything related eating/drinking things: 1
+drones: 1
+cispa: 1
+south carolina: 1
+nasa: 1
+2012 vice presidential debate: 1
+daily mail general trust: 1
+death penalty: 1
+operation fast furious prompt project gunrunner mentioned: 1
+lawrence henry summers: 1
+seattle: 1
+teachers: 1
+housing: 1
+herman cain: 1
+silicon valley prompt less specific answers such cali: 1
+2012 french presidential election prompt partial answer; combinations 2012 president france; equivalents most recent french presidential election hollande sarkozy election: 1
+people's republic china united states: 1
+teachers' unions prompt unions public sec: 1
+democratic republic congo: 1
+voting: 1
+angela ahn geh lah: 1
+people's republic of bangladesh: 1
+h j heinz company: 1
+a: 1
+: 1
+lindsey olin graham: 1
+enda: 1
+donald sterling: 1
+native american mascot debate: 1
+condoleezza rice: 1
+ricin letters: 1
+guantanamo bay detention camp: 1
+pink slime: 1
+never nude: 1
+coltan: 1
+yoweri museveni: 1
+sarah palin's bus tour: 1
+foxconn: 1
+costa con: 1
+syrian electronic army: 1
+taliban: 1
+2012 united states senate election massachusetts: 1
+2013 papal conclave prompt answer related selecting pope does include: 1
+berlin: 1
+mcdonald's: 1
+white stripes: 1
+funeral margaret thatcher: 1
+ken cuccinelli ii: 1
+standardized tests: 1
+prime minister pakistan: 1
+dominique strauss kahn: 1
+rand paul: 1
+chen guangcheng: 1
+knight prompt n; feel whimsical answers listed submitted packet including: 1
+indian national congress party: 1
+bo xilai: 1
+2012 chicago teachers' strike: 1
+japanese his: 1
+g: 1
+knock knock joke zimmerman trial: 1
+lt col allen bernard west: 1
+jyllands posten mohammed cartoon controversy: 1
+saudi royal family: 1
+richard richie incognito: 1
+2014 gover: 1
+heart: 1
+girls' education: 1
+olympic opening ceremonies: 1
+newton leroy newt gingrich: 1
+60 minutes: 1
+sonia maria sotoma: 1
+royal baby: 1
+kabul: 1
+mohammed: 1
+september 11 2012 attacks benghazi consulate: 1
+cnn: 1
+lance armstrong: 1
+patenting genes: 1
+west virginia: 1
+scottish independence movement: 1
+delaware: 1
+james richard rick perry: 1
+abu bakr al baghdadi: 1
+wheelchairs: 1
+gover: 1
+libyan republic: 1
+uaw: 1
+gadaafi: 1
+naacp: 1
+initial public offering facebook inc all underlined: 1
+sims: 1
+gardasil hpv vaccine: 1
+filibuster prompt speech things speeches given senate: 1
+measles outbreaks: 1
+2008 minnesota senate election: 1
+al qaeda number 3: 1
+don't ask don't tell: 1
+bernard bernie sanders: 1
+bolivia: 1
+red line: 1
+francois hollande's 75% income tax: 1
+warren edward buffett: 1
+general electric company: 1
+mahmoud ahmadinejad: 1
+imf: 1
+hashemite kingdom: 1
+: benjamin netanyahu's 2015 speech joint session congress: 1
+eric holder: 1
+robert mugabe: 1
+gmos: 1
+attack diplomatic mission libya september 11 2012: 1
+egalization marijuana: 1
+2006 mexican presidential election: 1
+nato: 1
+don't tase me bro: 1
+burma myanmar: 1
+larry craig: 1
+yasuo fukuda: 1
+uzbekistan: 1
+intruding into white house: 1
+planned parenthood: 1
+: 1
+oklahoma: 1
+shopping malls: 1
+andrew cuomo: 1
+republic kazakhstan: 1
+iran nuclear deal: 1
+greek debt crisis: 1
+pension funds: 1
+legalization marijuana: 1
+orleans or nawlin: 1
+trans pacific partnership tpp: 1
+abdel fattah el sisi: 1
+king thailand: 1
+jeremy bernard: 1
+republic of armenia: 1
+kurds: 1
+als ice bucket challenge: 1
+2014 referendum scottish independence: 1
+defense marriage act: 1
+malala yousafzai: 1
+bill de blasio: 1
+philadelphia pennsylvania: 1
+canada: 1
+rohingya prompt burmese until burma read; boat people until read: 1
+posting revenge: 1
+malcolm turnbull: 1
+hillary clinton using private email server: 1
+scottish national party: 1
+brexit: 1
+farcâ–ep: 1
+philippines: 1
+national front: 1
+united kingdom great britain: 1
+koch: 1
+sun: 1
+dennis denny hastert: 1
+haiti: 1
+zika virus epidemic: 1
+secretary veterans affairs: 1
+european space agency: 1
+private military: 1
+persecutions falun gong: 1
+antibiotic resistance: 1
+fidesz party fee dess: 1
+hikiko: 1
+university virginia prompt phi kappa psi fraternity house: 1
+2015 general election united kingdom prompt 2015 general election england; 2015 general election scotland; 2015 general election wales; 2015 general election: 1
+2022 fifa: 1
+pri: 1
+newark public school system: 1
+killing osama bin laden: 1
+immigration: 1
+at&amp;t inc: 1
+assassination kim jong nam: 1
+school vouchers: 1
+cell phone: 1
+park geun hye: 1
+bathroom bills: 1
+opposition dakota access pipeline: 1
+san francisco: 1
+speaker house representatives: 1
+sadiq aman khan: 1
+donald trump's campaign manager: 1
+zealand: 1
+hillbilly elegy: 1
+rolls royce: 1
+tsai ing wen: 1
+universal basic income: 1
+betsy devos confirmation hearings: 1
+ex: 1
+flint michigan: 1
+mario monti: 1
+mikhail prok: 1
+space exp: 1
+guatemala: 1
+andrew breitbart: 1
+delhi: 1
+nicolas sarkozy: 1
+favelas brazil: 1
+solyndra: 1
+university texas: 1
+bhumibol adulyadej: 1
+chechnya: 1
+2016 attempted coup d'état turkey: 1
+gulen movement: 1
+airline industry: 1
+moscow: 1
+chelsea clinton prompt clinton: 1
+yelp: 1
+university missouri: 1
+brics: 1
+western sahara: 1
+tsa: 1
+glock: 1
+js: 1
+al: 1
+herbalife international: 1
+trump university: 1
+chuck blazer: 1
+evernote: 1
+anita sarkeesian: 1
+reed: 1
+russia do soviet union none those clues apply it; backrub clue sergey brin: 1
+ashley madison hack: 1
+etsy: 1
+marissa mayer: 1
+manchester &lt;cheyne&gt;: 1
+neil: 1
+solar panels: 1
+theranos &lt;magin&gt;: 1
+inauguration donald trump &lt;cheyne&gt;: 1
+american health care act: 1
+net neutrality &lt;wx&gt;: 1
+jerusalem: 1
+same sex marriage: 1
+plane crashes: 1
+donald trump: 1
+reclaiming mosul battle mosul operation we coming nineveh qadimun ya naynawa: 1
+brexit: 1
+pipelines prompt oil: 1
+republic union myanmar: 1
+federal republic nigeria &lt;sf+ms&gt;: 1
+libya &lt;ms&gt; halftime: 1
+sudan &lt;ap current events&gt;: 1
+microsoft: 1
+texas &lt;bz&gt;: 1
+: 1
+trayvon martin &lt;jd&gt;: 1
+islamic republic iran: 1
+ma: 1
+state f: 1
+united states department state: 1
+jeb bush: 1
+kellyanne conway: 1
+crude oil: 1
+massachusetts: 1
+bridgegate: 1
+minnesota &lt;mj&gt;: 1
+occupy movement: 1
+keystone xl pipeline system prompt answers such “pipeline across america” until give specific answer &lt;sl&gt;: 1
+unite right rally: 1
+australia: 1
+james comey: 1
+republic of kenya &lt;vc ce&gt;: 1
+riyadh &lt;wa ce&gt;: 1
+google &lt;david dennis&gt;: 1
+national security council: 1
+vermont: 1
+tweets donald john trump: 1
+federative republic brazil: 1
+libya&lt;bentley&gt;: 1
+montana &lt;carson&gt;: 1
+mike pence​: 1
+child policy prompt chinese family planning policy &lt;bentley&gt;: 1
+ramzan akhmadovich kadyrov &lt;carson&gt;: 1
+volkswagen ag: 1
+unesco: 1
+glenn greenwald: 1
+kingdom thailand &lt;bentley&gt;: 1
+kingdom: 1
+paris conference climate change: 1
+bowe bergdahl: 1
+harvey weinstein &lt;ol current events&gt;: 1
+russia &lt;cd&gt;: 1
+egypt: 1
+elon reeve musk: 1
+michael mike flynn: 1
+chinese space program: 1
+rohingya people prompt “burmese” “burmese muslims”: 1
+co: 1
+theresa mary: 1
+alexei navalny &lt;jm&gt;: 1
+legalizing a: 1
+texas gover: 1
+whatsapp prompt facebook &lt;jk current events&gt;: 1

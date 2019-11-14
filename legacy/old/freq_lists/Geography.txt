@@ -1,0 +1,1323 @@
+everglades national park: 34
+congo river: 23
+republic colombia: 20
+mexico: 20
+commonwealth australia: 19
+san francisco: 19
+co: 18
+rio de janeiro: 17
+black sea: 17
+madagascar: 17
+zealand: 15
+gobi desert: 15
+federal republic nigeria: 14
+alaska: 14
+andes mountains: 14
+utah: 13
+lake nicaragua: 13
+sierra nevada: 13
+islamic republic pakistan: 13
+nile river: 12
+f: 12
+lake baikal: 12
+ohio river: 12
+atlas mountains: 12
+seattle: 11
+federative republic brazil: 11
+hong kong: 11
+british columbia: 11
+cali: 11
+buenos aires: 11
+amazon river: 10
+republic ecua: 10
+mississippi river: 10
+london: 10
+lake super: 10
+oregon trai: 10
+lake chad: 10
+sri lanka prompt ceylon read mj: 10
+antarctica: 10
+tierra del fuego: 9
+guinea do papua guinea: 9
+mount kilimanjaro: 9
+snake river: 9
+danube river: 9
+iran: 9
+tasmania: 9
+chile: 9
+montana: 9
+senegal: 8
+bolivia: 8
+: 8
+hokkaido: 8
+alps: 8
+missouri river: 8
+baltic sea: 8
+irrawaddy river: 8
+panama canal: 8
+columbia river sr: 8
+dubai: 8
+volga river: 8
+gibraltar: 8
+south africa: 7
+milwaukee wisconsin: 7
+belize: 7
+switzerland: 7
+grand canyon: 7
+lake vic: 7
+mekong river: 7
+kansas: 7
+chicago: 7
+republic india: 7
+great salt lake: 7
+pennsylvania: 7
+mount everest: 7
+cambodia: 7
+idaho: 7
+united republic tanzania jamhuri ya muungano wa tanzania: 7
+wyoming: 7
+caspian sea: 7
+argentina: 7
+republic honduras: 6
+tennessee: 6
+republic kenya: 6
+myanmar: 6
+sydney australia: 6
+atacama desert: 6
+lake michigan: 6
+south dakota: 6
+paris: 6
+egypt: 6
+berlin: 6
+indonesia: 6
+mongolia: 6
+: 6
+: 6
+republic cuba: 6
+mediterranean sea: 6
+rocky mountains rockies: 6
+canada: 6
+texas panhandle prompt panhandle just texas llano estacado: 6
+mozambique: 6
+shanghai: 6
+louisiana: 6
+lake malawi: 6
+zambezi: 6
+lisbon: 6
+sahara desert: 6
+bangladesh: 6
+venezuela: 6
+sicily: 6
+peru: 6
+mindanao: 5
+g: 5
+long island: 5
+washington state: 5
+republic sudan: 5
+arizona: 5
+istanbul prompt byzantium constantinople mention: 5
+prague: 5
+republic zimbabwe: 5
+aral sea: 5
+: 5
+lake ontario: 5
+greenland: 5
+republic singa: 5
+kazakhstan: 5
+iceland: 5
+mackenzie river: 5
+lake tanganyika: 5
+saskatchewan: 5
+andaman islands: 5
+persian gulf prompt arabian gulf gulf arabia; arabian sea: 5
+estonia: 5
+red sea: 5
+western australia: 5
+kalahari desert: 5
+indian ocean: 5
+rio grande also rio bravo del: 5
+minnesota: 5
+tibet: 5
+amsterdam: 5
+yellow sea: 5
+kingdom bhutan: 5
+rhine river: 5
+patagonia: 5
+people's republic china: 5
+jamaica: 5
+copenhagen: 5
+fiji: 4
+republic philippines: 4
+kingdom saudi arabia: 4
+english: 4
+liechtenstein: 4
+crete: 4
+los angeles: 4
+death valley: 4
+beijing: 4
+vienna: 4
+mumbai: 4
+: 4
+rhode island providence plantations: 4
+cleveland: 4
+moscow: 4
+orinoco rive: 4
+republic botswana: 4
+quebec: 4
+israel: 4
+puerto rico: 4
+isthmus: 4
+: 4
+indus river joc: 4
+venice: 4
+oman: 4
+: 4
+gotland: 4
+vancouver island: 4
+so: 4
+sardinia: 4
+commonwealth kentucky: 4
+malaysia: 4
+guatemala: 4
+: 4
+democratic socialist republic sri lanka: 4
+carpathian mountains: 4
+republic malta: 4
+gabon: 4
+aleutian islands: 4
+appalachian mountains: 4
+sweden sverige: 4
+republic turkey: 4
+madrid: 4
+lake maracaibo: 4
+luzon: 4
+chihuahua: 4
+hispaniola: 4
+arkansas river 1: 4
+solomon islands: 4
+easter island: 4
+albania: 4
+vic: 4
+republic of latvia: 4
+melbourne: 4
+mount mckinley: 4
+south island: 4
+kashmir: 4
+republic poland: 4
+ethiopia: 4
+equa: 4
+grand: 4
+romania: 4
+south atlantic ocean &lt;the above question cate: 4
+santiago: 3
+manitoba: 3
+cairo: 3
+: 3
+orlean: 3
+arab republic egypt: 3
+great dismal swamp: 3
+houston: 3
+boston: 3
+oklahoma city: 3
+mount kenya: 3
+ukraine: 3
+great rift valley  rift valley: 3
+st paul: 3
+thailand: 3
+bangkok: 3
+budapest prompt buda pest: 3
+connecticut mj: 3
+snowy mountains prompt great dividing range read: 3
+: 3
+azerbaijan: 3
+limpopo river: 3
+yukon terri: 3
+el salva: 3
+mount chim: 3
+petra: 3
+yunnan: 3
+cotentin peninsula: 3
+guyana: 3
+costa rica: 3
+lake volta: 3
+lima: 3
+yemen: 3
+hudson river: 3
+seoul: 3
+mauritania: 3
+hungary: 3
+sumatra: 3
+vermont: 3
+germany: 3
+adriatic sea: 3
+montreal: 3
+cape town: 3
+sichuan: 3
+white nile prompt nile: 3
+laos: 3
+republiek suriname republic suriname: 3
+nunavut: 3
+: 3
+kingdom: 3
+kingdom thailand ratcha anachak thai prathet thai: 3
+paraguay: 3
+niger: 3
+red river: 3
+yellow river: 3
+himalayas: 3
+orange rive: 3
+trinidad tobago prompt trinidad: 3
+states brazil: 3
+republic malawi prompt nyasaland until mentioned: 3
+wales: 3
+caucasus mountains: 3
+somalia: 3
+uruguay: 3
+sinai peninsula: 3
+strait: 3
+potomac river: 3
+baghdad: 3
+france: 3
+kuala lumpur: 3
+kingdom spain: 3
+mount fuji: 3
+nebraska: 3
+namibia: 3
+queensland: 3
+ganga river: 3
+yangtze river: 3
+city las vegas: 3
+miami: 3
+java: 3
+mojave desert: 3
+seville spain: 3
+chesapeake bay: 3
+macau: 3
+aruba: 3
+an: 3
+namib desert: 3
+italy: 3
+christmas natal: 2
+catal huyuk: 2
+cote d'ivoire: 2
+tajikistan: 2
+tulsa oklahoma: 2
+vietnam: 2
+crater lake: 2
+euphrates river: 2
+omaha: 2
+urals: 2
+newark jersey: 2
+deccan plateau: 2
+brunswick: 2
+xinjiang shin jee ang: 2
+sand dunes: 2
+: 2
+scotland alba prompt scottish highlands until mentioned: 2
+gulf stream current prompt: 2
+hudson bay: 2
+beirut: 2
+calgary: 2
+jerusalem: 2
+croatia: 2
+bay bengal: 2
+ural mountains uralskiye: 2
+seine river sr/mj: 2
+diego garcia: 2
+guayaquil: 2
+bantustans: 2
+aleppo: 2
+uranium: 2
+sea marmara: 2
+taiwan: 2
+seychelles: 2
+transnistria: 2
+french guiana: 2
+luxembourg: 2
+lake winnipeg: 2
+outer banks: 2
+galapagos islands: 2
+adirondack mountains: 2
+belfast: 2
+bitterroot range: 2
+cabinda: 2
+bali: 2
+vanuatu: 2
+: 2
+czech republic prompt czechoslovakia: 2
+bogota: 2
+moldova: 2
+lesotho: 2
+marriage: 2
+republic uganda: 2
+independent state papua guinea: 2
+white: 2
+helsinki also helsing: 2
+djibouti: 2
+libya: 2
+sulawesi: 2
+angola: 2
+republic zambia: 2
+rhone river: 2
+honsh? island japan: 2
+angel falls: 2
+kingdom: 2
+falkland islands: 2
+alberta: 2
+oaxaca: 2
+waterfalls: 2
+dresden: 2
+delaware river: 2
+halifax: 2
+taiwan: 2
+state qatar: 2
+afghanistan: 2
+apennines: 2
+mount elbrus: 2
+lake tahoe: 2
+: 2
+lagos: 2
+lake okeechobee prompt lake big o: 2
+guam zz: 2
+lake woods: 2
+crimean peninsula: 2
+yalu river: 2
+republic bulgaria: 2
+mammoth cave: 2
+romania 1: 2
+salzburg: 2
+tagus river: 2
+river thames: 2
+arctic ocean: 2
+republic armenia: 2
+montevideo: 2
+hampshire: 2
+ontario prompt canada province's: 2
+honshu: 2
+connecticut river: 2
+baffin island: 2
+kingdom sweden: 2
+kiev: 2
+finland: 2
+teton range: 2
+sacramento: 2
+naples: 2
+samarkand: 2
+bavaria: 2
+k2: 2
+cascade range: 2
+republic south africa: 2
+republic iceland: 2
+san diego: 2
+sea azov: 2
+hague: 2
+canary islands: 2
+pacific ocean do specific answers: 2
+rome italy: 2
+washington dc prompt district columbia read: 2
+mount rush: 2
+socialist republic vietnam: 2
+kodiak island: 2
+hanseatic city hamburg: 2
+athens: 2
+democratic republic congo: 2
+republic cameroon: 2
+hashemite kingdom: 2
+siberia: 2
+baku: 2
+taklamakan desert: 2
+kingdom netherlands: 2
+uzbekistan: 2
+hainan: 2
+virginia: 2
+nepal: 2
+republic croatia: 2
+turkmenistan: 2
+serengeti plain generously tanzania read: 2
+union co: 2
+pyrenees mountains: 2
+milano: 2
+manchuria: 2
+cincinnati ohio: 2
+munich: 2
+central african republic: 2
+kingdom denmark: 2
+pike's peak: 2
+great barrier reef: 2
+rice: 2
+navajo nation: 2
+republic chad: 2
+machu picchu: 2
+massachusetts: 2
+st louis missouri: 2
+nova scotia: 2
+pamirs mountains: 2
+gulf bothnia: 2
+atlanta: 2
+bananas also plantains even though clues apply plantains: 2
+republic peru: 2
+zanzibar: 2
+gulf mexico: 2
+departments france: 2
+malheur national wildlife refuge: 2
+hiking appalachian trail: 2
+tamil nadu: 2
+karakum desert: 2
+anduin: 2
+darien gap prompt isthmus panama: 2
+xinjiang uyghur autonomous region: 2
+cartagena de indias: 2
+blue ridge prompt appalachians luray: 2
+nazca lines: 2
+tristan da cunha island: 2
+baja cali: 2
+mount kosciuszko: 2
+salt flats: 2
+ayers rock: 2
+james clark ross: 2
+: 2
+pantanal: 2
+rub al khali prompt empty quarter mentioned: 2
+detroit: 2
+okavango river: 2
+chattahoochee river: 2
+don river: 2
+commonwealth puerto rico: 2
+zagros mountains: 2
+kinshasa: 2
+fergana valley: 2
+lake champlain &lt;wang&gt;: 2
+republic chad &lt;gp geography&gt;: 2
+haifa &lt;mythology/geography/current events&gt;: 2
+kuwait state kuwait; dawlat al kuwayt &lt;david dennis&gt;/&lt;ed chris chiego&gt;: 2
+triple junctions: 1
+tel aviv yafo: 1
+murray darling river system prompt either both: 1
+brigham young: 1
+migrations: 1
+apache: 1
+heian period: 1
+neanderthals: 1
+lake huron prompt g: 1
+honolulu: 1
+groundwater prompt water equivalents: 1
+alabama: 1
+bronx: 1
+louvre musee du louvre: 1
+mount whitney: 1
+ice age: 1
+moon: 1
+extinction dinosaurs: 1
+permian period: 1
+redwood national state parks: 1
+basque language: 1
+catskill mountains: 1
+puget sound: 1
+auckland: 1
+istanbul: 1
+rome italy: 1
+wales do united kingdom etc: 1
+humboldt current: 1
+tahrir square: 1
+dams: 1
+subduction zones: 1
+: 1
+southern sudan: 1
+lithuania: 1
+carthage: 1
+cape: 1
+taiwan: 1
+tigris river: 1
+: 1
+mount royal: 1
+devonian: 1
+granada: 1
+: 1
+rio negro: 1
+penobscot river: 1
+kyrgyzstan kyrgyz republic: 1
+republic sierra leone: 1
+jersey meadowlands: 1
+lake ladoga: 1
+wabash: 1
+channel islands: 1
+daco romanian also limba roman?: 1
+counties ireland: 1
+virgin islands: 1
+strait magellan: 1
+so: 1
+spanish: 1
+berbers: 1
+lake titicaca: 1
+uqbar: 1
+katanga: 1
+sarajevo: 1
+robert moses: 1
+samoan islands: 1
+schleswig holstein: 1
+grenada: 1
+antietam national battlefield: 1
+augusta national golf club do augusta: 1
+bahrain: 1
+annapurna i: 1
+minsk: 1
+phnom penh: 1
+badlands: 1
+great basin desert: 1
+erie canal: 1
+piedmont: 1
+great zimbabwe prompt zimbabwe: 1
+afar depression: 1
+waldseemuller map: 1
+gaspe peninsula: 1
+algarve: 1
+turks caicos: 1
+santa catalina: 1
+essequibo river: 1
+heartland th: 1
+kisangani: 1
+padua: 1
+gran pulse: 1
+nauru: 1
+ibiza: 1
+pikes peak: 1
+yerevan: 1
+carstenz pyramid: 1
+lake biwa: 1
+dominica: 1
+kerala: 1
+champs elysees: 1
+puntland: 1
+medellin: 1
+mount kinabalu: 1
+point reyes national seas: 1
+st kilda: 1
+trobriand islands: 1
+black: 1
+lake kivu: 1
+yenisei river: 1
+gerardus merca: 1
+gibson desert: 1
+wakhan: 1
+: 1
+mount hood: 1
+trieste: 1
+indo european language family: 1
+pampas: 1
+tasman sea: 1
+language isolates: 1
+canberra: 1
+provinces china: 1
+ozark range: 1
+yalta: 1
+subject: 1
+balkan wars: 1
+panic 1837: 1
+uighurs: 1
+bos: 1
+quasi war: 1
+edin: 1
+romanian language: 1
+: 1
+sakhalin: 1
+brittany: 1
+cyprus: 1
+navarre: 1
+black hills: 1
+san antonio: 1
+oder river: 1
+thunder bay prompt lakehead read: 1
+taipei: 1
+channeled scablands: 1
+zapotecs: 1
+republica del ecua: 1
+dublin ireland: 1
+ural mountains also uralsky khrebet: 1
+yasukuni shrine: 1
+russian federation rossiyskaya federatsiya: 1
+lapland: 1
+dardanelles hellespont: 1
+ells: 1
+hindu kush: 1
+sahel: 1
+crimea crimean peninsula autonomous republic crimea: 1
+turkey: 1
+phoenix: 1
+rhodes: 1
+republic liberia: 1
+cerro aconcagua: 1
+republic panama: 1
+tibetan plateau: 1
+eggs: 1
+ring fire: 1
+japanese: 1
+ottawa: 1
+chinese languages: 1
+caribbean sea: 1
+met: 1
+brasilia: 1
+four: 1
+marianas trench: 1
+scotland prompt united kingdom great britain hebrides cheviot alba: 1
+bahamas: 1
+prince edward island: 1
+uttar pradesh: 1
+: 1
+: 1
+pyrenees los pirineos les pyrenees els pirineus los pireneus perines pirinioak du: 1
+wahhabism: 1
+south australia: 1
+stockholm: 1
+indiana: 1
+slovakia: 1
+quito 1: 1
+republic puntland prompt somalia garowe 5: 1
+chola dynasty 6: 1
+louangprabang 6: 1
+gujarat 3: 1
+sumatera: 1
+naxchivan x pronounced kh 3: 1
+panhandles: 1
+delta: 1
+syrian arab republic: 1
+ozark mountains: 1
+sunni islam: 1
+denver: 1
+yukon river: 1
+great dividing range: 1
+appalachian mountains: 1
+great britain prompt united kingdom; nothing else: 1
+providence: 1
+lake geneva: 1
+ostrov sakhalin: 1
+mount etna: 1
+lena river: 1
+ghana: 1
+parana river: 1
+copan: 1
+wallace line: 1
+susquehanna river: 1
+republic senegal: 1
+galã¡pagos islands: 1
+dakar: 1
+balti: 1
+india: 1
+cyclades: 1
+: 1
+bridges paris: 1
+crude oil: 1
+golden temple: 1
+gardens: 1
+: 1
+gulf cali: 1
+hawaii: 1
+: 1
+non biodegradable plastic bags prompt bags: 1
+state vatican city: 1
+rifts: 1
+valencia: 1
+nuremberg: 1
+orange county or o: 1
+st petersburg prompt leningrad petrograd mentioned: 1
+himalayas range: 1
+copper mines prompt mines; things copper deposits copper: 1
+san francisco's chinatown: 1
+gulf guinea: 1
+barcelona: 1
+adriatic sea prompt mediterranean sea mention; kvarner gulf high water: 1
+caracas: 1
+sami people: 1
+natchez trace: 1
+mosul: 1
+kosovo: 1
+butter: 1
+state israel: 1
+ebro river: 1
+coal: 1
+monaco: 1
+guinea: 1
+cape verde islands: 1
+dallas texas: 1
+jakarta: 1
+: 1
+adirondack range: 1
+bruges: 1
+coca plant: 1
+canyons: 1
+dnieper river: 1
+andalusia: 1
+tokyo to: 1
+mobile bay: 1
+hawai'ian islands: 1
+cape hatteras: 1
+republic hungary: 1
+kyoto: 1
+uttar pradesh prompt up: 1
+coney island prompt new: 1
+montmartre: 1
+taiwan: 1
+south china sea prompt china sea pacific ocean: 1
+lake pontchartrain: 1
+dead sea: 1
+tunisian republic: 1
+molokai: 1
+edinburgh scotland: 1
+st lawrence river: 1
+city vancouver: 1
+danube: 1
+south: 1
+: 1
+zoning: 1
+fergana valley also: 1
+medina: 1
+la paz: 1
+m: 1
+guam: 1
+velikiy nov: 1
+canadian national parks: 1
+inner mongolia autonomous region: 1
+guinea conakry: 1
+fish markets: 1
+hebrides: 1
+republic g: 1
+obi irtysh river prompt irtysh river until read: 1
+k2: 1
+shatt al arab: 1
+drakensberg mountains: 1
+tuvalu: 1
+republic slovenia: 1
+uygur autonomous republic xinjiang sinkiang east turkestan: 1
+vistula river: 1
+: 1
+yangon rangoon: 1
+monte albã¡n: 1
+persian gulf: 1
+newfoundland labra: 1
+west bank prompt palestine: 1
+washington district columbia: 1
+terri: 1
+route 66: 1
+kingdom: 1
+republic iceland: 1
+republic fiji: 1
+park guell: 1
+swamps: 1
+republic haiti dominican republic: 1
+: 1
+eucalyptus trees: 1
+broadway avenue: 1
+phuket: 1
+television programming: 1
+caprivi strip: 1
+mohenjo daro: 1
+independent state samoa: 1
+nice: 1
+hamburg germany: 1
+tallahassee: 1
+south china sea: 1
+republic mozambique: 1
+guangzhou: 1
+wilmington: 1
+glacial lake agassiz: 1
+sofia: 1
+platte river: 1
+republic azerbaijan: 1
+ghost towns: 1
+shikoku: 1
+myrtle beach: 1
+burundi: 1
+darién gap: 1
+white mountains: 1
+durban: 1
+wartburg castle: 1
+abydos: 1
+green river: 1
+archangel: 1
+republic serbia: 1
+deserts prompt xeric: 1
+pyrenees: 1
+guinea bissau: 1
+ban: 1
+kurds: 1
+simpson desert: 1
+euboea: 1
+little rock: 1
+vladivostok: 1
+reno: 1
+staten island: 1
+bucharest: 1
+usa: 1
+salt mines prompt on: mines: 1
+south wales: 1
+mud volcanoes: 1
+el paso: 1
+najaf: 1
+parrots until psittacosis read: 1
+swamps prompt flood plainâ—not really right understandable: 1
+himalayas prompt greater ranges: 1
+oslo: 1
+guangdong: 1
+malay peninsula: 1
+karachi: 1
+pampas the tossup says natural region don't anything else: 1
+united kingdom great britain: 1
+national parks: 1
+mumbai: 1
+danube river: 1
+manila: 1
+milan italy: 1
+baghdad iraq: 1
+kiwi birds: 1
+f: 1
+russia ukraine: 1
+iowa: 1
+landfills: 1
+virgin islands: 1
+wine anti prompt specific varieties such: 1
+area 51 prompt homey air: 1
+catalonia: 1
+atlantic city: 1
+edinburgh: 1
+geographical center europe: 1
+: 1
+tangier island: 1
+aswan high dam: 1
+feminism: 1
+sarawak: 1
+camino de santiago: 1
+ross ice shelf: 1
+long range desert group: 1
+isle man: 1
+amman: 1
+giant: 1
+terra australis incognita: 1
+iron gate: 1
+united airlines flight 93 impact: 1
+mountain climbing: 1
+grand canal: 1
+american military bases okinawa prompt military bases japan generously branch point: 1
+pernambuco: 1
+buildings: 1
+: 1
+niagara falls: 1
+abuja nigeria: 1
+xxxx pronounced ecksecksecksecks fourecks; ter: 1
+african union: 1
+1991 eruption mount pinatubo: 1
+black: 1
+loch lomond: 1
+rã­o de la plata other answers possible uncommon: 1
+gap interstate 95: 1
+marajo island: 1
+tatra mountains: 1
+wrestling: 1
+fergana valley: 1
+glasgow: 1
+quad cities prompt daven: 1
+thessaloniki: 1
+llanos: 1
+iditarod: 1
+adelaide: 1
+cha: 1
+socotra: 1
+1902 eruption: 1
+: 1
+mercury: 1
+douro river: 1
+rabbit proof fence state barrier fence western australia: 1
+kenai peninsula: 1
+musandam peninsula prompt arabian peninsula mountainous: 1
+ob river: 1
+places don't exist: 1
+plain jars: 1
+grand banks of newfoundland: 1
+gran chaco: 1
+winchester mystery house: 1
+opals: 1
+duckweed infestation lake maracaibo: 1
+being submerged construction dam/creation reservoir: 1
+kvly tv mast: 1
+: 1
+covered bridges prompt bridges: 1
+aberdeen: 1
+lake g: 1
+peat: 1
+montagne sainte victoire: 1
+malawi: 1
+ostend: 1
+walter burley griffin: 1
+sikkim: 1
+ephesus: 1
+nashville: 1
+democratic republic sã£o tomã© principe prompt sao tome: 1
+surabaya: 1
+why nations fail:: 1
+spokane: 1
+faroe islands: 1
+waikato river: 1
+caledonia: 1
+provence prompt french riviera: 1
+: 1
+yellowknife: 1
+drift: 1
+matthew flinders: 1
+sami grudgingly lapps: 1
+macdonnell ranges: 1
+escarpments: 1
+cannonball: 1
+dante's inferno: 1
+strait gibraltar: 1
+city sap: 1
+togo: 1
+franz josef land: 1
+bog: 1
+jinja: 1
+ski areas: 1
+volta river: 1
+air: 1
+kagera river: 1
+anc: 1
+cox's bazar: 1
+: 1
+launceston: 1
+maseru: 1
+straits magellan: 1
+oxbow lake prompt lake; ox bow incident: 1
+quintana roo: 1
+kingdom peninsula of: 1
+newcastle: 1
+cantons switzerland: 1
+juba: 1
+bass strait: 1
+loch ness: 1
+christchurch: 1
+isle royale prompt partial answer: 1
+kimberley: 1
+german guinea: 1
+: 1
+shenandoah valley: 1
+terra preta ã­ndio: 1
+grand trunk road: 1
+kra: 1
+: 1
+western sahara: 1
+navassa island: 1
+iapetus: 1
+wash: 1
+brisbane: 1
+lake peipus: 1
+beltways: 1
+popocatã©petl: 1
+sã£o paulo: 1
+tethys sea: 1
+lanai: 1
+tannu tuva: 1
+martha's vineyard: 1
+queen charlotte islands: 1
+seamounts prompt underwater volcano; antiprompt tablemount guyot: 1
+old man mountains: 1
+mount nyiragongo: 1
+chukchi people: 1
+bouvet island: 1
+qwghlm: 1
+aguascalientes: 1
+balds: 1
+labra: 1
+wichita: 1
+lava lakes: 1
+pennines: 1
+brunei: 1
+seals: 1
+walvis bay: 1
+icelandic volcanic eruptions: 1
+: 1
+bo hai sea: 1
+brooks range: 1
+lake taupo: 1
+cape: 1
+mount katahdin: 1
+cayman islands: 1
+abyei: 1
+hot springs arkansas: 1
+franconia: 1
+rockall: 1
+aroostook county: 1
+grossglockner: 1
+appian way: 1
+atlantis: 1
+atolls: 1
+arnhem land: 1
+isla margarita: 1
+skeleton coast: 1
+valparaã­so: 1
+cahokia mounds: 1
+delft: 1
+mount st helens: 1
+: 1
+fujian: 1
+vinson massif: 1
+charles river: 1
+mount tam: 1
+murmansk: 1
+karun river: 1
+honduras: 1
+state thuringia: 1
+green line: 1
+gulf riga: 1
+negev desert: 1
+libson: 1
+republic maldives: 1
+western sahara: 1
+city: 1
+harbin: 1
+winnemac: 1
+balearic islands: 1
+mount shasta: 1
+aouzou strip prompt chad: 1
+lidice: 1
+mackinac island: 1
+andhra pradesh: 1
+wake island: 1
+des moines river: 1
+aland islands: 1
+kura river: 1
+ben nevis: 1
+murray river: 1
+state guerrero: 1
+: 1
+baron g: 1
+mono lake: 1
+luo: 1
+tepuis: 1
+kingdom bahrain: 1
+met: 1
+nassau: 1
+bosnia herzegovina: 1
+novosibirsk: 1
+ma: 1
+tuscany: 1
+driftless area: 1
+mombasa: 1
+basques: 1
+anticosti island: 1
+ti: 1
+biodiversity: 1
+persepolis: 1
+state bavaria: 1
+lake district: 1
+republic abkhazia: 1
+abc islands: 1
+le havre: 1
+texas prompt united states until new braufels read: 1
+la mesopotamia: 1
+republic gambia: 1
+oder neisse line: 1
+bougainville island: 1
+rajasthan: 1
+douro river: 1
+ruwen: 1
+lake van: 1
+djenne: 1
+munster: 1
+ungava peninsula: 1
+wallonia prompt belgium low countries until renardism: 1
+al hejaz: 1
+veliky nov: 1
+macondo: 1
+: 1
+novaya zemlya: 1
+brazilian atlantic: 1
+genoa: 1
+tian shan: 1
+montserrat: 1
+fernand braudel: 1
+lake erie: 1
+: 1
+hausa: 1
+salween: 1
+attu: 1
+: 1
+lake constance prompt austria: 1
+republic benin: 1
+sundarbans: 1
+salton sea: 1
+casablanca: 1
+nullar: 1
+guadalajara: 1
+republic tatarstan: 1
+rotterdam: 1
+altiplano: 1
+landfills: 1
+simi valley cali: 1
+geography: 1
+singa: 1
+tomatoes: 1
+mo: 1
+isle youth isle pines isla de la juventud prompt cuba guess: 1
+missing: 1
+lake turkana: 1
+arkhangel'sk: 1
+mesabi range: 1
+hal: 1
+delmarva peninsula: 1
+austin: 1
+shaanxi shan shee: 1
+brussels: 1
+smithsonian institution: 1
+republic belarus: 1
+auckland: 1
+addis ababa: 1
+davos: 1
+upper peninsula michigan prompt michigan  calumet marquette: 1
+garden city movement: 1
+andes: 1
+hawaii: 1
+malta: 1
+tents anti prompt specific types yurts gers tipis etc until read: 1
+as: 1
+city cities: 1
+minneapolis: 1
+parrots prompt siserou: 1
+okinawa prompt japan; ryukyu islands until ryukyu: 1
+baobab tree prompt trees: 1
+gunpowder: 1
+orkney island: 1
+polities made ofâ three counties: 1
+strips: 1
+martin luther: 1
+san _francisco_: 1
+qattara depression: 1
+south g: 1
+coventry: 1
+england: 1
+basque country: 1
+great lakes: 1
+kyrgystan: 1
+standing stones: 1
+bermuda: 1
+akrotiri: 1
+hippodrome constantinople: 1
+barbados: 1
+pittsburgh: 1
+andamanâ islands: 1
+cycloneâ catarinaâ prompt crap the nameless s: 1
+madridâ seismic zone prompt reelfoot rift mentioned; mississippi embayment: 1
+limnicâ eruption prompt onâ lake overturn yeah hard although after nyos should probably easier: 1
+alexandrias: 1
+chennai: 1
+edmonton: 1
+geneva: 1
+olives: 1
+edinburgh: 1
+boise: 1
+: 1
+po river: 1
+amusement parks: 1
+al andalus: 1
+lake huron: 1
+guantanamo: 1
+dardanelles: 1
+turan: 1
+lapland: 1
+equa: 1
+busan: 1
+antananarivo: 1
+aceh ah chay prompt sumatra nusantar: 1
+cascade mountains: 1
+public plazas: 1
+micronesia: 1
+somaliland: 1
+queen vic: 1
+magnito: 1
+: 1
+fall river massachusetts: 1
+oases: 1
+brahmaputra river prompt yarlung tsangpo mention; “siang” &lt;dm&gt;: 1
+bolivarian republic venezuela &lt;sb&gt;: 1
+ontario: 1
+taiwan: 1
+bhutan &lt;hr&gt;: 1
+volcanoes &lt;ng&gt;: 1
+cape good hope: 1
+italy: 1
+east african rift: 1
+sahara prompt: 1
+gulf mexico &lt;jd&gt; halftime: 1
+ontario &lt;jd&gt;: 1
+rhine: 1
+shanghai &lt;jd&gt;: 1
+great lakes &lt;sr geography&gt;: 1
+belgium &lt;ap geography&gt;: 1
+republic austria oder republik österreich: 1
+atlantic ocean: 1
+nile &lt;jd&gt; bonuses: 1
+plurinational state bolivia: 1
+state connecticut &lt;jw&gt;: 1
+niagara: 1
+mecca: 1
+balochistan: 1
+slums: 1
+giant redwoods: 1
+triumphal arches prompt gates &lt;jr&gt;: 1
+shire: 1
+iberian peninsula: 1
+people’s republic bangladesh: 1
+appalachian mountains prompt “appalachia” until “range” read &lt;mj&gt;: 1
+apennine mountains: 1
+autonomous community basque country: 1
+state mexico &lt;: 1
+municipality anc: 1
+sydney &lt;park&gt;: 1
+republic ireland do: 1
+havana cuba: 1
+hawai'ian islands: 1
+metro systems: 1
+rice: 1
+sakhalin: 1
+bering sea &lt;wang&gt;: 1
+a: 1
+republic france &lt;wang&gt;: 1
+hungary &lt;jb geography&gt;: 1
+aquifers &lt;ch geography&gt;: 1
+urban parks: 1
+tokyo &lt;jd&gt;: 1
+berlin &lt;jd&gt;: 1
+trains: 1
+danube river: 1
+peninsulas: 1
+shanghai &lt;hao&gt;: 1
+algeria &lt;sivakumar&gt;: 1
+south america &lt;sivakumar&gt;: 1
+brooklyn heights: 1
+nashville tennessee &lt;kothari geography   united states&gt;: 1
+vancouver &lt;bentley current events: 1
+yucatán peninsula: 1
+oklahoma &lt;jm&gt;: 1
+southern ocean: 1
+black: 1
+serbia &lt;jm&gt;: 1
+andreanof islands &lt;jm&gt;: 1
+answer: arctic ocean &lt;david dennis&gt;/&lt;ed chris chiego&gt;: 1
+nicaragua republica de nicaragua &lt;alex harmata&gt;/&lt;ed chris chiego&gt;: 1
+gullah people: 1
+afar depression: 1
+russia: 1
+first transcontinental railroad prompt “pacific railroad” “overland route”: 1
+tokyo japan: 1
+michigan &lt;halza&gt; bonuses:: 1
+rwanda &lt;sc&gt;: 1
+rutland &lt;jk&gt;: 1
+australia &lt;sc&gt;: 1
+guinea &lt;sc&gt;: 1
+orange &lt;em&gt: 1
+: tian shan: 1
+republic djibouti &lt;jg&gt;: 1
+jeju do: 1
+kyrgyzstan: 1
+manaus &lt;dj&gt;: 1
+mumbai: 1
+guinea &lt;jm&gt;: 1
+jeddah &lt;jm&gt;: 1
+ohio &lt;dj&gt;&lt;ed jm&gt;: 1
+tianjin: 1
+blue holes &lt;jm&gt;: 1

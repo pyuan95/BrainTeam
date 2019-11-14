@@ -1,0 +1,1775 @@
+t: 44
+loki: 44
+shiva: 42
+hercules: 38
+quetzalcoatl: 35
+poseidon: 35
+hermes: 34
+theseus: 34
+sun: 32
+odin: 31
+ares: 31
+hera: 30
+achilles: 28
+vishnu: 28
+artemis do diana: 28
+isis: 27
+apollo: 27
+osiris: 24
+thebes: 24
+ra: 22
+perseus: 22
+epic gilgamesh: 22
+dionysus: 22
+dogs: 21
+hephaestus: 20
+: 20
+jason: 19
+aeneas: 19
+odysseus: 19
+demeter: 19
+snakes: 18
+moon: 18
+freya: 18
+persephone: 17
+bel marduk: 17
+giants: 17
+s: 16
+atalanta: 16
+king arthur: 16
+tezcatlipoca: 15
+troy: 15
+bellerophon: 15
+medea: 15
+aphrodite do venus: 15
+: 14
+centaurs: 14
+ships: 14
+hanuman: 14
+indra: 14
+anubis: 14
+amaterasu omikami: 13
+hades: 13
+cadmus: 13
+janus: 13
+medusa: 13
+ganesha: 12
+helios: 12
+romulus: 12
+aztecs: 12
+daedalus: 12
+king minos: 12
+maui: 12
+finn maccool deinme fionn mac cumhaill: 12
+japan: 11
+ptah: 11
+thoth: 11
+yggdrasil: 11
+circe: 11
+sisyphus: 11
+merlin: 11
+bulls: 10
+inca: 10
+pan: 10
+krishna: 10
+tlaloc: 10
+tantalus: 10
+valhalla: 10
+king midas: 10
+amazons: 10
+agni: 9
+huitzilopochtli hweet zee lo poke tli: 9
+cyclops: 9
+eros: 9
+pele: 9
+mayan mythology: 9
+pelops: 9
+psyche: 9
+priam: 9
+set: 9
+coyote: 9
+athena: 9
+nes: 9
+mayans: 9
+arjuna: 9
+orpheu: 9
+odin: 9
+argonauts: 9
+hecate: 9
+athens: 9
+diomedes: 8
+penelope: 8
+titans: 8
+lancelot du lac: 8
+eagles: 8
+spiders: 8
+china: 8
+serpents: 8
+trees: 8
+susano'o: 8
+izanagi: 8
+dido: 8
+deirdre: 8
+sir galahad: 8
+ishtar: 8
+bears: 8
+dragons equivalents: 8
+phoenix: 8
+frigg: 7
+gods death: 7
+prometheus: 7
+ramayana: 7
+sir gawain green knight: 7
+heimdallr: 7
+baldr baldur balder: 7
+ganesha: 7
+telemachus: 7
+pegasus: 7
+hec: 7
+meleager melagros: 7
+orio: 7
+garuda: 7
+kwaku anansi: 7
+serpent: 7
+polyphemus: 7
+ravana: 6
+sif: 6
+rhiannon: 6
+heimdallr prompt gullintani rig; white god it's mentioned: 6
+enlil: 6
+brahma: 6
+shields: 6
+sirens: 6
+tiresias: 6
+monkeys: 6
+bragi: 6
+enki: 6
+dagda: 6
+birds: 6
+fire: 6
+bellerophontes: 6
+river styx: 6
+neoptolemus: 6
+trojan war: 6
+muses: 6
+agamemnon: 6
+flowers: 6
+asclepius: 6
+crete: 6
+menelaus: 6
+turnus: 6
+tyr: 6
+dog: 5
+chiron: 5
+fenrir: 5
+pan: 5
+heimdall: 5
+kalevala: 5
+fionn: 5
+paris: 5
+ganesh: 5
+: 5
+niobe: 5
+ganymede: 5
+sea ocean deities: 5
+: 5
+raiden: 5
+scylla: 5
+pecos bill: 5
+sleipnir: 5
+lion: 5
+soma: 5
+under: 5
+freyja: 5
+mount olympus: 5
+gilgamesh: 5
+great floods: 5
+aztec mythology: 5
+seth: 5
+perun: 5
+oreste: 5
+enkidu {ba}: 5
+taliesin: 5
+ishtar: 5
+popol vuh: 5
+lions: 5
+ajax greater: 5
+leto: 5
+milky way galaxy: 5
+andromeda: 5
+volsung: 5
+delphi: 5
+cattle raids: 5
+tarpeia: 5
+nephthys: 4
+typhon: 4
+apis: 4
+lakshmi: 4
+boar hunts: 4
+khnum: 4
+raven: 4
+excalibur: 4
+cu culainn: 4
+cu chulainn: 4
+pwyll: 4
+: 4
+sedna: 4
+pryderi: 4
+deer: 4
+: 4
+deucalion: 4
+balder: 4
+mir: 4
+set: 4
+leda: 4
+cerberus: 4
+nut: 4
+europa: 4
+iphigenia: 4
+ajax: 4
+inti: 4
+uther pendragon: 4
+weaving: 4
+swans: 4
+cuchulainn: 4
+ragnarok: 4
+a: 4
+flood: 4
+adonis: 4
+baldur: 4
+erinyes: 4
+pirithous: 4
+tiamat be: 4
+conchobar mac nessa: 4
+eyes: 4
+winds: 4
+atlas: 4
+hat: 4
+kokopelli {ba}: 4
+fafnir {ba}: 4
+anchises: 4
+oedipus: 4
+patroclus: 4
+minotaur: 4
+ajax great telamonian son telamon salamis do ajax lesser locrian son oileus locris: 4
+bows arrows prompt arrows until read: 4
+cassandra: 4
+egyptians: 4
+eurystheus: 4
+proteus: 4
+maize: 4
+valkyries: 4
+argo: 4
+athena athene: 4
+shield: 4
+geryon: 4
+polynices: 3
+mananan mac lir: 3
+hippolytus obviously hippolyta mother figure: 3
+laomedon: 3
+chariots: 3
+chinese mythology: 3
+ariadne: 3
+dwarves: 3
+apophis: 3
+sigurd sigmundson: 3
+ymir: 3
+mithras: 3
+cats: 3
+palladium: 3
+hel: 3
+ninigi no makoto: 3
+skadi shathi: 3
+varuna: 3
+river gods: 3
+memnon: 3
+sigmund: 3
+inca viracocha: 3
+elaine: 3
+four winds anemoi: 3
+wolf wolves: 3
+missing: 3
+shintoism: 3
+golden apples they gold/golden fruit mj: 3
+apophis: 3
+amphitryon: 3
+ganesha: 3
+harpies: 3
+merlinus ambrosius: 3
+vainamoinen: 3
+creon: 3
+thetis: 3
+perceval: 3
+lapiths: 3
+susanoo mikoto prompt something sounds brave swift impetuous male: 3
+freyr: 3
+atreus: 3
+eight im: 3
+actaeon: 3
+finnish mythology: 3
+pleiades: 3
+hypnos: 3
+: 3
+mountains: 3
+susanoo o no mikoto: 3
+: 3
+ixion: 3
+egypt: 3
+cronus: 3
+artemis: 3
+ravens: 3
+echidna: 3
+echo: 3
+cows: 3
+durga: 3
+peleus: 3
+kali: 3
+kullervo: 3
+hachiman: 3
+philoctetes: 3
+turtle: 3
+phaeton: 3
+trojan: 3
+ireland: 3
+hydra: 3
+shinto myth system: 3
+svarog: 3
+aegir: 3
+shu {ba}: 3
+helheim prompt niflheim until mentioned {ba}: 3
+ahriman: 3
+rivers {wd}: 3
+n: 3
+ram prompt sheep {wd sk}: 3
+taliesin: 3
+charon: 3
+imhotep: 3
+boars prompt pigs: 3
+paul bunyan: 3
+sir kay: 3
+arrows: 3
+aeolus: 3
+ants prompt things bugs insects that's ants are: 3
+gold: 3
+nagas: 3
+freyr frey freyr freya: 3
+chinese dragons: 3
+heimdall: 3
+bran blessed: 3
+mictlan: 3
+sigurd: 3
+antaeus: 3
+hrungnir: 3
+chinese great flood: 3
+icarus: 3
+lance: 3
+hunahpã¹ xbalanquã©: 3
+zeus's thunderbolts: 3
+bones: 3
+bulls prompt cows; cattle: 3
+inuit mythology prompt eskimo mythology: 3
+zephyrus prompt west wind mentioned: 3
+baal: 3
+chimera: 3
+woman: 3
+apples: 3
+bows: 3
+ereshkigal: 3
+ship boat: 3
+hades: 3
+cynicism: 3
+melampus: 3
+pelli: 3
+phaethon: 3
+laius: 3
+lady lake: 3
+helen: 3
+bastet: 3
+harmonia: 3
+judges under: 3
+kilhwch: 3
+axes: 3
+danaids: 3
+kauravas: 3
+bhagavad gita prompt mahabharata until mention: 3
+hyper: 3
+lemnos: 3
+game dice mahabharata: 3
+golden fleece: 3
+: 3
+tree bough: 3
+aphrodite &lt;david dennis&gt;/&lt;ed jo&gt;: 3
+wolf: 3
+louhi: 2
+sarasvati: 2
+simurgh: 2
+icelandic sagas: 2
+ceyx: 2
+wild boar prompt wild pig: 2
+deer: 2
+mayan myth: 2
+holy grail: 2
+pig: 2
+rhea silvia: 2
+hades: 2
+sir percival: 2
+zeus: 2
+eleusinian mysteries: 2
+: 2
+rain gods: 2
+epimetheus: 2
+tyche: 2
+loas: 2
+medb: 2
+kama kamadeva: 2
+loa: 2
+semele: 2
+thoth: 2
+oh kuni nushi okuninushi: 2
+cattle raid cooley: 2
+turned stone: 2
+gods: 2
+gods war: 2
+xipe totec: 2
+rakshasas: 2
+andromache: 2
+yama: 2
+chalchiuhtlicue chal chee oo tli cue chal chee oo tli kway: 2
+sobek: 2
+grendel's mother: 2
+hela: 2
+dwarf: 2
+priapus: 2
+rama: 2
+tithonus: 2
+psychopomps also guides dead anything similar until guide souls read death: 2
+dolphins: 2
+thoth: 2
+sigurd: 2
+dragons: 2
+argos: 2
+apsaras: 2
+power invisibility becoming invisible ability make something invisible: 2
+hecuba hecabe: 2
+aegisthus: 2
+medb maeve: 2
+danae: 2
+pandavas: 2
+etruscans: 2
+hestia: 2
+athena: 2
+bull cow equivalents: 2
+izanami: 2
+callisto: 2
+japanese mythology: 2
+pallas athena: 2
+eddas: 2
+babylon: 2
+warr: 2
+crocodile: 2
+birds: 2
+love: 2
+wolf: 2
+blue: 2
+kalki: 2
+odin: 2
+ukko: 2
+huitzilopochtli: 2
+rig veda: 2
+spider arachnid: 2
+fox: 2
+lightning thunder: 2
+sarpedon: 2
+laestrygonians dl: 2
+maya: 2
+surtr 3: 2
+xolotl 4: 2
+au: 2
+zeus: 2
+cronos: 2
+genies: 2
+mjollnir: 2
+: 2
+uther pendragon prompt pendragon: 2
+uranus: 2
+bats: 2
+satyrs grudgingly fauns: 2
+kamadeva: 2
+manu {ba}: 2
+sobek: 2
+wendigo: 2
+sir tristan lyonesse: 2
+ishtar: 2
+theo: 2
+eurydice {sk}: 2
+king solomon: 2
+iris: 2
+owls: 2
+seth: 2
+fates: 2
+hephaestus: 2
+river deities/gods/goddesses: 2
+peaches prompt fruits: 2
+freyr: 2
+labyrinth: 2
+stealing golden apples hesperides: 2
+clytemnestra: 2
+hades prompt pluto: 2
+capture cerberus: 2
+wind gods: 2
+empe: 2
+aristaeus: 2
+vã¤inã¤mã¶inen: 2
+having eye: 2
+war gods: 2
+gwydion fab don: 2
+protesilaus: 2
+england: 2
+ma'at maat: 2
+ithaca ithaka: 2
+seas oceans prompt the abyss anything similar; shipwrecks clue: 2
+incan mythology: 2
+spears: 2
+foxes: 2
+telchines: 2
+walls: 2
+rings: 2
+singing: 2
+hecatonchires: 2
+tlazolteotl prompt eater filth mentioned: 2
+snakes: 2
+cuchulainn: 2
+baba yaga bony leg: 2
+triptolemus: 2
+lugh: 2
+aeacus: 2
+blood: 2
+ganga: 2
+bulls prompt cattle; cows point: 2
+heimdall rig: 2
+whale: 2
+ilmarinen: 2
+calydonian boar hunt: 2
+atlantis: 2
+thyestes: 2
+sampo: 2
+freyja freyia do frey freyr: 2
+archery: 2
+aegeus: 2
+argonautica: 2
+hands: 2
+io: 2
+jupiter: 2
+creating human beings: 2
+naiads prompt nymph water nymph water goddess equivalents nereid oceanid: 2
+resurrecting dead: 2
+: 2
+khepri: 2
+wine: 2
+ascanius: 2
+manco capac: 2
+chang'e: 2
+red sea: 2
+turtles: 2
+goats: 2
+uni: 2
+fishing: 2
+rocks: 2
+eggs cosmic eggs: 2
+draupadi: 2
+east: 2
+jade empe: 2
+asgard: 2
+dionysus: 2
+fire: 2
+bridges: 2
+spiders: 2
+: 2
+stones: 2
+ino: 2
+sir lancelot: 2
+anu: 2
+: 2
+uruk: 2
+iolaus: 2
+churning  milk ocean: 2
+gloves: 2
+ulster cycle: 2
+guinevere: 2
+gudrun: 2
+draupnir: 2
+autolycus: 2
+cecrops: 2
+hec: 2
+cas: 2
+aten aton adon eton: 2
+ramachandra: 2
+sekhmet sakhmis: 2
+calchas: 2
+white: 2
+blacksmiths: 2
+teiresias: 2
+baba yaga kostianaya noga baba yaga bone legs jezi baba: 2
+hammer mallet: 2
+ass donkey: 2
+cheiron: 2
+lugh long hand lamfhada samildanac mac ethnenn: 2
+hera: 2
+handsome monkey king monkey mind sun wukong sun hou zi: 2
+solar barque solar boat sun barque sun boat boat millions barque millions: 2
+math ap mathonwy: 2
+cybele kybele cybebe mater deum magna idaea: 2
+narcissus: 2
+hittite: 2
+shahnameh shahnama epic kings book kings: 2
+baboons: 2
+honey: 2
+state japan: 2
+s: 2
+angus mac og: 2
+questing beast: 2
+mabinogion: 2
+inca mythology: 2
+: 2
+nine: 2
+tree: 2
+centaur: 2
+carthage: 2
+xibalba prompt mayan under: 2
+snake: 2
+gaia: 2
+ba: 2
+fates: 2
+gigantomachy: 2
+ocean: 2
+feast: 2
+mead poetry: 2
+pelias: 2
+olmecs: 2
+sphinx: 2
+nagas prompt snakes serpents: 2
+diarmait: 2
+surya: 2
+thiazi: 2
+achelous: 2
+sui: 2
+unkulunkulu: 2
+airavata: 2
+bast: 2
+thoth: 2
+cow: 2
+ireland: 2
+gongen prompt kami: 2
+clouds: 2
+thunderbird prompt birds: 2
+: 2
+arrows: 2
+sea gods/deities: 2
+diogenes sinope: 2
+ogygia: 2
+sacred groves: 2
+milk: 2
+birds: 2
+pallas athena: 2
+hephaestus do “vulcan”: 2
+: 2
+coyote &lt;william groger&gt;/&lt;ed jo&gt;: 2
+lemminkäinen also kaukomieli kaukamoinen ahti saarelainen lemminki &lt;jx legends&gt;: 2
+sigurd “sig: 2
+ireland: 2
+golden apples prompt fruit &lt;jk mythology&gt;: 2
+bones &lt;bz&gt;: 2
+obsidian prompt rock stone glass &lt;mythology/geography/current events&gt;: 2
+dronacārya: 2
+sami: 2
+seers: 2
+agni &lt;ed jm&gt;: 2
+shintoism &lt;yoshida&gt; bonuses:: 2
+wedding: 1
+aesir vanir war: 1
+judgment dead: 1
+ryujin watatsumi: 1
+sickle: 1
+electra: 1
+ladon: 1
+glooskap: 1
+irish myth: 1
+la: 1
+grendel: 1
+creating: 1
+euripides: 1
+krishnaprompt vishnu read: 1
+pocahontas: 1
+weddings: 1
+fairies be generous: 1
+gigantomachy: 1
+blacksmith god do fire god: 1
+lakshmi: 1
+hephaestus take ptah until mention hyginus vulcan until mention homer: 1
+bifrost: 1
+gilgamesh: 1
+barack obama: 1
+classical conditioning/learning: 1
+christian: 1
+de: 1
+elizabeth: 1
+maat: 1
+god patron deity: 1
+necklaces: 1
+palug's cat: 1
+tethys: 1
+republic finland: 1
+gaea: 1
+glyph1197: 1
+lugh: 1
+bag: 1
+otters: 1
+dryope: 1
+vafthrudnismal: 1
+nergal: 1
+zuni: 1
+avalokitesvara: 1
+kantele: 1
+ilya ivanovich ilya muromets prompt partial answer: 1
+frogs: 1
+salmon knowledge: 1
+spring well fountain: 1
+knights round table: 1
+phoebus apollo do helios point: 1
+sir gawain: 1
+swan du: 1
+rostam: 1
+mouse mice: 1
+deianira: 1
+bogatyrs prompt equivalents russian knights errant whatever: 1
+: 1
+kami: 1
+hearts: 1
+cassiopeia: 1
+arachne: 1
+heimdallr: 1
+dwarves: 1
+raven: 1
+spiders: 1
+tain bo cuilaigne: 1
+herakles: 1
+seals: 1
+cybele prompt great mother magna mater: 1
+coatlicue: 1
+kami: 1
+augeas: 1
+baldr's funeral mourning baldr  equivalents they're ok: 1
+zulus mythology: 1
+utnapishtim: 1
+g: 1
+bell beaker people/folk/culture etc: 1
+penthesilea: 1
+myrrha: 1
+ndromeda: 1
+dreamtime dreaming: 1
+inca incan: 1
+aaron: 1
+plants: 1
+glastonbury: 1
+archery contests prompt funeral games marriage contests: 1
+yvain ee vain: 1
+phoebus apollo: 1
+olmec: 1
+melampous: 1
+dwarfs: 1
+cancer: 1
+green knight: 1
+prophecy: 1
+persephone: 1
+amaterasu omikami award 15 points even after: 1
+kami: 1
+finn maccool: 1
+canopic jars: 1
+sigurdr fafnisbani: 1
+cuchulainn prompt setanta du: 1
+rama gt/gk: 1
+frigg du: 1
+ut napishtim: 1
+baron samedi bawon samedi: 1
+rainbow serpent: 1
+sir gawain: 1
+: 1
+susanowo: 1
+dazhbog: 1
+thrym: 1
+pygmalion: 1
+pohjola: 1
+vajra prompt indra's thunderbolt indra's spear that thing indra uses smite enemies: 1
+humbaba terrible: 1
+geb: 1
+yngling saga: 1
+asvin twins: 1
+sheep: 1
+suttungr: 1
+zipacna: 1
+kvasir's remains logical equivalents ok just kvasir ok mead poetry: 1
+mimir: 1
+fishing reasonable equivalents ok: 1
+dionysius: 1
+sir gawaine: 1
+pallas athena: 1
+die fledermaus: 1
+thomas apostle: 1
+incest: 1
+odin woden: 1
+disease: 1
+ame no uzume mikoto 5: 1
+saint augustine hippo: 1
+gods war: 1
+odin: 1
+smithery: 1
+cows: 1
+kami take japanese spirits shinto spirits anything until mentioned: 1
+lady godiva: 1
+elysium: 1
+peacock really shouldn't peafowl nobody cares females: 1
+pomegranate: 1
+round table: 1
+cocks: 1
+etruscans: 1
+: 1
+sirius: 1
+deirdre {ba}: 1
+baltic peoples: 1
+ea: 1
+bragi {ba}: 1
+agni {ba}: 1
+hephaestus {wd}: 1
+cow prompt cattle; under circumstances bull clue applies cows {ba}: 1
+mayan hero twins: 1
+frejya: 1
+compe anansi: 1
+lugh: 1
+lakshmi {ba}: 1
+mahavira {ba}: 1
+durandal: 1
+elves: 1
+thoth: 1
+inari {ba}: 1
+amun: 1
+bees {ba}: 1
+hebe: 1
+marduk {ba}: 1
+muspellheimr {ba}: 1
+papa legba {ba}: 1
+cattle geryon obvious equivalents: 1
+olurun: 1
+lugus: 1
+antiope: 1
+trans: 1
+entrances under: 1
+archers prompt warr: 1
+feet: 1
+club: 1
+osiris: 1
+being turned into stone petrification: 1
+robin hood: 1
+alcmene: 1
+agammemnon: 1
+eos: 1
+valkyries prompt shield maidens swan maidens: 1
+lemminkainen: 1
+human beings: 1
+tlaloc: 1
+spiders prompt arachnids equivalents: 1
+freyr: 1
+susanoo: 1
+rabbits: 1
+tirthankaras: 1
+cups prompt vessels like: 1
+hades' rape persephone: 1
+: 1
+honeybees: 1
+archery contests: 1
+war gods: 1
+erinnyes: 1
+djinni: 1
+sleeping on clue waking up: 1
+ragnarã¶k prompt gotterdammerung; end: 1
+babylonian: 1
+earth: 1
+aeaea: 1
+geis: 1
+radharani: 1
+feather: 1
+lugalbanda: 1
+lakshmana: 1
+fifty names marduk: 1
+goliath: 1
+finn maccoul: 1
+mayan: 1
+celtic mythology: 1
+lotus: 1
+ilya muromets: 1
+yellow empe: 1
+cattle: 1
+rivers under: 1
+roc rukh: 1
+colchis: 1
+wales: 1
+sigurdr: 1
+njal's saga: 1
+draugr: 1
+ethiopia: 1
+medusa's head: 1
+persephone prompt: 1
+charybdis: 1
+dreams prompt visions; nightmares: 1
+domestic cats: 1
+musical contest: 1
+mount meru: 1
+metis: 1
+sol invictus do sol indiges: 1
+mahayana buddhism prompt buddhism; anti prompt pure land zen nichiren tiantai mahayana schools: 1
+brittany: 1
+rainbow serpents: 1
+solar barque: 1
+mars prompt very grudgingly ares because hindsight it's bit mean make people play guess name often syncretized gods want!: 1
+golems: 1
+incan civilization: 1
+baldur's funeral pyre do death baldur: 1
+si: 1
+people's republic of china: 1
+fate: 1
+rama brothers: 1
+bricriu: 1
+bathing: 1
+ashvins: 1
+wonder woman: 1
+mares diomedes: 1
+gjoll: 1
+osian: 1
+sir: 1
+lyre: 1
+serapis: 1
+maenads: 1
+: 1
+eclipses: 1
+alcinous: 1
+ã†gir: 1
+magic mir: 1
+pirates prompt slavers raiders freebooters robbers equivalents: 1
+five suns aztec mythology: 1
+set: 1
+mike fink: 1
+king arthur's court: 1
+iktomi: 1
+freyr: 1
+healing: 1
+river deities: 1
+manco cã¡pac: 1
+tyrfing: 1
+zurvan: 1
+queen dido carthage: 1
+wedding peleus thetis: 1
+turning into bird: 1
+biological sex change: 1
+ajax: 1
+orphism or orphicism; orphic cult; cult orpheus; bacchic cult dionysiac cult similar answers dionysos mentioned; pythagoreanism similar answer: 1
+tuatha dã© danann: 1
+quichã© mayans: 1
+kings athens: 1
+solar barge solar ship: 1
+sleep: 1
+simurgh: 1
+semen sperm: 1
+castration be generous; obvious equivalents genital mutilation especially since loki didn't actually lose function testicles: 1
+earth: 1
+rishis: 1
+slavs: 1
+hellhounds be generous; anything having dogs wolves under: 1
+battle lapiths centaurs: 1
+maa durga prompt devi: 1
+triton: 1
+shahs iran: 1
+sir bedivere: 1
+descent under: 1
+turn stone: 1
+roosters: 1
+ahriman: 1
+rhea: 1
+chiron: 1
+troilus: 1
+finn maccool: 1
+russians: 1
+nuwa: 1
+dancing: 1
+taelisin: 1
+roman funerals: 1
+mountains: 1
+satan: 1
+sleeping: 1
+mount ida: 1
+john henry: 1
+abduction sita ravana: 1
+knights round table prompt answers king arthur's court king arthur's knights very end: 1
+vaivasvata manu: 1
+incan myth: 1
+under: 1
+aeneas's journey into under: 1
+four branches mabinogi: 1
+ivan vyslavovich: 1
+immanuel kant: 1
+geryon's cattle equivalents ok must mention geryon something cow like cattle: 1
+kitchen god zao jun zao shen: 1
+: 1
+doc: 1
+seven against thebes: 1
+tlalocan: 1
+axe: 1
+cathbad: 1
+turns into dog: 1
+fish: 1
+fafnir: 1
+sidhe pronounced shees: 1
+sir gawain: 1
+sicily: 1
+gold andvari: 1
+creating man: 1
+hera: 1
+friedrich wilhelm nietzsche: 1
+creusa: 1
+cauldrons: 1
+: frigga: 1
+wrestling: 1
+sir balin le savage not balan!   demand player spell answer unless emphasize: 1
+persian mythology: 1
+veda vyasa: 1
+rocks: 1
+american buffalo: 1
+spears: 1
+goddesses hearth: 1
+calydon prompt aetolia; calydonia: 1
+egyptian mythology: 1
+destroying suns: 1
+cuchulainn: 1
+hades: 1
+devi: 1
+apotheosis: 1
+marjatta: 1
+tablets destiny: 1
+falcon: 1
+endymion: 1
+stymphalian birds: 1
+idunn: 1
+okuni nushi: 1
+turning into tree: 1
+yu great: 1
+mutilation hermai: 1
+frigga: 1
+: sky: 1
+jotunn: 1
+: 1
+john henry prompt partial: 1
+pharaohs prompt king egypt ruler egypt kings: 1
+wotan: 1
+heimdallr: 1
+funeral ceremonies: 1
+eyeballs: 1
+bow arrows prompt just arrows: 1
+creation: 1
+romans: 1
+love gods/goddesses: 1
+bows arrows do arrows alone: 1
+cattle: 1
+taurus: 1
+amaterasu omikami: 1
+going into under: 1
+bringing rain: 1
+deer: 1
+musical instruments: 1
+werewolves: 1
+brigid: 1
+heliopolis: 1
+phoenicia: 1
+satyrs: 1
+indrajit: 1
+resurrection: 1
+galatea: 1
+shape shifting: 1
+funeral games: 1
+japan: 1
+amun: 1
+wales: 1
+prophecy: 1
+jeremy bentham: 1
+cannibalism: 1
+: 1
+hina: 1
+shakti: 1
+oracles: 1
+hair: 1
+foxes: 1
+war deities: 1
+dwarf: 1
+zeus pater: 1
+amun ra do atem aten ra itself; tutankhamun after akhenaten read: 1
+mayan civilization: 1
+percival: 1
+pericles: 1
+mitzvot: 1
+welsh: 1
+merlinus ambrosius: 1
+nessus: 1
+mount olympus: 1
+ancient egyptian sun gods: 1
+sparta: 1
+theramenes: 1
+kitchen god: 1
+direwolves prompt wolves: 1
+tiamat: 1
+anansi: 1
+hawaiian mythology take polynesian mythology until hema afterwards: 1
+odin: 1
+hecatonchires: 1
+bulls i suppose bulls cattle on until indicate it's bull male cattle kind: 1
+eating sun: 1
+parvati: 1
+shoes: 1
+lif lifthrasir: 1
+mjolnir: 1
+phaeacia: 1
+ilya muromets: 1
+cattle raid cooley: 1
+sobek: 1
+alcyone: 1
+baba yaga's house: 1
+ullikummi: 1
+mithra mithras mitra: 1
+inuit eskimos: 1
+brynhild brunhilde: 1
+jupiter jove: 1
+finn maccool finn mac cumaill: 1
+an eggs: 1
+ahura mazda prompt spenta mainyu: 1
+ascanius iã¼lus: 1
+persephone: 1
+: 1
+elephants: 1
+czernobog: 1
+dragon blood: 1
+fight between hec: 1
+dolphin: 1
+redcrosse knight: 1
+blacksmith prompt craftsman: 1
+wheel: 1
+pasiphaã«: 1
+mongols: 1
+enuma elish: 1
+: 1
+vultures: 1
+susanowo susanowa susanoo: 1
+kvasir: 1
+fenians fianna eireann: 1
+flaying flayed: 1
+isolde isoude: 1
+phaã«thon: 1
+midgard serpent: 1
+manawydan ap llyr: 1
+geb seb keb: 1
+shamash: 1
+chains fetters: 1
+zephyrus: 1
+polyneices: 1
+wayland weyland vã¶lund velent smith: 1
+fafnir: 1
+surt surtur: 1
+attis: 1
+legba: 1
+kwan yin guan yin prompt kannon: 1
+algonquins: 1
+lavinia: 1
+honir hoenir haenir: 1
+selene: 1
+arawn: 1
+alcestis: 1
+king augeias: 1
+nereus: 1
+lemminkã¤inen: 1
+faunus: 1
+laocoã¶n: 1
+wind gods: 1
+: 1
+music contests: 1
+harps lyres: 1
+baby: 1
+: peacock: 1
+cãº chulainn: 1
+smith gods: 1
+kummarbi you enlil suppose since he's: 1
+voluspa: 1
+libya: 1
+arcadia: 1
+wrestling: 1
+foxes: 1
+phrixus: 1
+christianization: 1
+camilla: 1
+eumaeus: 1
+cutting hair: 1
+heads: 1
+invisibility: 1
+susanowo: 1
+singing: 1
+sea ocean gods prompt water: 1
+seth set: 1
+ainu people: 1
+stomach: 1
+temples pallas athena: 1
+nymphs: 1
+kami: 1
+giant​s: 1
+oisã­n  oh sheen: 1
+plows: 1
+n: 1
+s: 1
+king britain: 1
+fates: 1
+being turned into bird: 1
+three: 1
+mesoamerican ballgame: 1
+volcanos: 1
+sinking beneath sea: 1
+head medusa: 1
+virgins: 1
+fingers: 1
+footraces do chariot races: 1
+crows: 1
+thunder: 1
+poisoning: 1
+ilmatar: 1
+erechtheus: 1
+eating children: 1
+furies: 1
+saturnalia prompt opalia second sentence: 1
+nergal: 1
+numa pompilius: 1
+under: 1
+o: 1
+dreaming: 1
+aesclepius: 1
+virgins: 1
+garden hesperides: 1
+ennead: 1
+aethiopians prompt africans mentioned; libya line: 1
+kokopelli: 1
+dwarfs: 1
+holi: 1
+sons: 1
+heimdallr: 1
+nibelungenlied: 1
+phallus: 1
+orthus or orthrus orthos orthro: 1
+foxes: 1
+humbaba: 1
+thunderbirds: 1
+durendal: 1
+wans: 1
+ekhmet: 1
+headless: 1
+argonautica apollonius rhodes: 1
+jotunnheimr: 1
+vã¶lsung: 1
+tuonela: 1
+kamadeva: 1
+nile river prompt elephantine island buzz clues 3rd sentence: 1
+naxos: 1
+kusanagi: 1
+: 1
+: 1
+druids prompt answer referencing ancient celtic irish british gallic priests paganism: 1
+feather truth: 1
+cronus do saturn: 1
+composing poetry prompt descriptions reciting verses creating poems; skaldship mention: 1
+werewolves: 1
+brynhildr brynhilde: 1
+petrification: 1
+eight im: 1
+wayland smith: 1
+evander: 1
+nanna nepsdottir: 1
+hrothgar: 1
+mount kailash: 1
+etain: 1
+lions prompt cat feline: 1
+peirithous: 1
+baltic mythology: 1
+freyr prompt yngvir: 1
+odysseus's palace ithaca: 1
+birth apollo artemis: 1
+dreams prompt sleeping until read; visions omens prophecies similar answers: 1
+trials: 1
+floods: 1
+archery: 1
+grapevines: 1
+alexander great: 1
+kraken: 1
+gleipnir: 1
+baucis philemon either: 1
+twrch trwyth as long consonants right should fine leninent vowels expect pronunciation tweerch tra  with obviously take just that: 1
+churning ocean samudra manthan: 1
+beeswax: 1
+lancelot mal: 1
+king gylfi: 1
+varuna: 1
+: 1
+pigs sows swine boar: 1
+heracles killing nemean lion heracles's la: 1
+eskimo shamans inuit shamans priests wizards shamans: 1
+being eaten dogs they need dogs eaten less specific answers: 1
+cumaean sibyl: 1
+thomas mal: 1
+avalon: 1
+nuada silver arm: 1
+curetes: 1
+vainomoinen: 1
+triptolemos: 1
+funeral baldur: 1
+iliad poem: 1
+freyr not freyja wrong answers: 1
+volund weyland: 1
+antigone: 1
+obsidian prompt stone rock ̧ those interested animal itzpapalotl: 1
+homeric hymn aphrodite i guess nice homeric hymns: 1
+rice prompt food: 1
+chaos: 1
+seven macaw: 1
+lamia: 1
+john lempriere: 1
+anteros obviously eros: 1
+hindu planets: 1
+gram: 1
+peredur son evrawg: 1
+skyros scyros: 1
+salmoneus: 1
+ganymedes: 1
+runes: 1
+ayodhya: 1
+ash tree prompt woody answers such wood trees tree branches: 1
+birth aphrodite birth venus obviously take equivalents: 1
+xochiquetzal: 1
+areopagus: 1
+hades pluto plouton dis: 1
+heracleidae: 1
+manannan mac lir do manawyddan fab lyr names cognate sure hell aren't same person despite previous packets seem think: 1
+manu: 1
+penelopiad: 1
+sin nanna: 1
+lokasenna: 1
+aulis: 1
+pyramid texts: 1
+geirrod: 1
+fo: 1
+cacus: 1
+sir kay: 1
+meta: 1
+crocodiles do alliga: 1
+cephalus: 1
+dagan dagon: 1
+scathach: 1
+danu: 1
+dwarves: 1
+myrmidons: 1
+vertumnus: 1
+telegonus: 1
+lakota: 1
+melqart: 1
+fianna: 1
+guanche: 1
+shantanu: 1
+alexandre kojã¨ve koh zhev: 1
+city ys eez: 1
+briseis: 1
+reeds: 1
+silk prompt fabric textiles: 1
+carl gustav jung: 1
+shabaka stone: 1
+shepherds: 1
+trifunctional hypothesis: 1
+louhi's theft sun moon fire kalevala: 1
+ulster: 1
+cleaning augean stables: 1
+leaping into sea: 1
+utnapishtim: 1
+hiranyakashipu: 1
+shah: 1
+baldur’s dream: 1
+cybele: 1
+arabic myth: 1
+ã‰tã¡in: 1
+lot: 1
+varuna: 1
+egil skallagrimsson: 1
+battle trees â: 1
+diarmuid love spot: 1
+childbirth la: 1
+manas: 1
+gopis: 1
+tyrfing tirfing: 1
+alcyoneus: 1
+monsters: 1
+joukahainen: 1
+uke mochi kami: 1
+dumuzi tammuz: 1
+gullveig: 1
+goll mac: 1
+: 1
+ynglinga ing ling uh saga: 1
+deianira day ah nye rah: 1
+mayan hero twins: 1
+ithaca: 1
+creation humans: 1
+fenrir: 1
+seers: 1
+mythology prompt s: 1
+houyi: 1
+driving chariot: 1
+kingdom punt: 1
+being turned into trees: 1
+foxes: 1
+beds: 1
+millet: 1
+funeral games anchises prompt book v aeneid until read: 1
+pasiphae: 1
+birth heracles iphicles: 1
+ocean: 1
+chairs: 1
+scotland: 1
+mount olympus prompt answers such home greek gods until mentioned: 1
+dirt: 1
+human skin prompt answers flesh humans: 1
+skill at poetry: 1
+hells: 1
+death baldr: 1
+avatars vishnu prompt incarnations like â: 1
+dwarf: 1
+tree: 1
+khensu: 1
+kennings: 1
+tupilak: 1
+hunting: 1
+xiwangmu wangmu nianniang: 1
+sviato: 1
+wisdom contest singing contest: 1
+flood  nile  river: 1
+insects: 1
+ferryman: 1
+thoth: 1
+balder: 1
+mountains: 1
+tenōchtitlan prompt mexico city: 1
+lakes: 1
+shipwrecks: 1
+patricide killing one's father prompt murder killing lenient â â â â â â â â â â â â â â â â â â â â â â  â â â â  reasonable alternatives: 1
+however take changing man womanâ—that's wrong: 1
+rome: 1
+mount ida: 1
+swan: 1
+chariot prompt wheel asking what wheel part of?: 1
+night raid: 1
+introduction fire humanity: 1
+solar sun deity: 1
+: 1
+descent into under: 1
+elephant: 1
+salt: 1
+iran: 1
+hippolytus: 1
+healing medicine springs: 1
+bona dea: 1
+silenus: 1
+orphism orphicis: 1
+albion: 1
+ys: 1
+britannia: 1
+dung beetleâ: 1
+: 1
+breton myth: 1
+temples artemis: 1
+eos prompt dawn early: 1
+king ulster: 1
+raven don't crow he'mask txamsem we gyet nankil'slas yehl kwekwaxa'we: 1
+twins monster slayer twins hero twins etc prompt suppose brothers siblings: 1
+bards: 1
+navajo: 1
+cycnus: 1
+isolde: 1
+boat races: 1
+understanding language animals take equivalents take specific answers understanding birds communicating bears whatever animal decide choose prophecy: 1
+mount olympus: 1
+caves caverns: 1
+perilous: 1
+wendigo wittigo: 1
+vietnam: 1
+sirâ tristanâ: 1
+kokopelliâ: 1
+hundred handed onesâ: 1
+werewolfâ: 1
+etruscanâ mythologyâ: 1
+: 1
+mythologiesâ â: 1
+nagas: 1
+cathâ maige tuiredâ: 1
+tlazolteotlâ: 1
+talos prompt brendan byrne 10: 1
+elis helia: 1
+hanumanâ: 1
+marsyas: 1
+alansâ: 1
+valiâ: 1
+keyumarsâ: 1
+nabu: 1
+boats: 1
+ba'al: 1
+daphne: 1
+delos: 1
+laestrygonians: 1
+woodpeckers that's right wrote question woodpeckers: 1
+rhadamanthys: 1
+funeral games anchises: 1
+laocoon sons: 1
+graces: 1
+laertes: 1
+tages: 1
+battus: 1
+heralds: 1
+atã«: 1
+seult: 1
+wings: 1
+west: 1
+pharaoh prompt: 1
+poetic edda: 1
+astarte: 1
+vagina: 1
+bamboo cutter: 1
+odysseus's conversation spirits under: 1
+cattle raids: 1
+väinämöinen: 1
+wayland smith: 1
+ireland: 1
+fisher king: 1
+eternal return: 1
+mount kunlun: 1
+tyre: 1
+rutuli: 1
+freyja: 1
+amun ra: 1
+elephantine: 1
+bes: 1
+bull prompt ox cow bovine: 1
+sistrum: 1
+thoth prompt hermes hermes trismegestos hermes said: 1
+ogdoad: 1
+opening mouth ceremony: 1
+tutu: 1
+hawk: 1
+swan tuonela: 1
+hildisvini edi: 1
+yamata no: 1
+laelaps: 1
+seven macaw: 1
+romans: 1
+childbirth: 1
+empe: 1
+wolves: 1
+salmon prompt fish &lt;thompson&gt;: 1
+kronos: 1
+gigantomachy: 1
+pharaohs: 1
+sex changes: 1
+amaterasu &lt;ag&gt;: 1
+mayan &lt;ry&gt;: 1
+trickster gods: 1
+wales: 1
+dionysus &lt;jk&gt;: 1
+creation man: 1
+feathered serpents: 1
+hades: 1
+furies: 1
+creation: 1
+being eaten: 1
+deification: 1
+mars do “ares” since clues refer roman counterpart: 1
+midgard serpent: 1
+expedition greek: 1
+odin: 1
+head medusa prompt “medusa”: 1
+hero twins: 1
+creating humanity: 1
+killing medusa: 1
+drowning: 1
+human sacrifices prompt sacrifice; specific types humans eg child warr: 1
+: 1
+wrestling contests: 1
+bulls prompt “cattle” “cows” &lt;es mythology&gt;: 1
+trident: 1
+queen sheba: 1
+ireland: 1
+solar deities: 1
+running: 1
+tiger: 1
+odin: 1
+gilgamesh: 1
+wolf: 1
+cu chulainn: 1
+spiders &lt;bz&gt;: 1
+lancelot &lt;bz&gt;: 1
+birds: 1
+ancient egyptians: 1
+ganges river: 1
+aeetes: 1
+king latinus: 1
+songlines: 1
+romulus’s celer’s murder remus: 1
+changeling swap prompt answers describe what’s going don’t “changeling”: 1
+four heavenly kings: 1
+ninhursag: 1
+jatayu: 1
+kali: 1
+pallas prompt “palladium” &lt;carson&gt;: 1
+chinese people: 1
+enuma elish: 1
+sir tristan: 1
+freyr: 1
+: 1
+freyr also yngvi freyr &lt;jg&gt;: 1
+egyptian judgment dead: 1
+prophets: 1
+dance: 1
+rivers: 1
+minos the monster minotaur &lt;mk&gt;: 1
+war also answers battle violence; answers sex fertility until “kami” &lt;jg&gt;: 1
+midgard: 1
+dragons &lt;by&gt;: 1
+mjölnir: 1
+jack: 1
+jupiter: 1
+black bolt: 1
+gods wind prompt “air” “sky” &lt;mj&gt;: 1
+lightning bolts: 1
+spiders &lt;rb/mj&gt;: 1
+heimdallr prompt “rig” &lt;ssp&gt;: 1
+under: 1
+phoebus apollo: 1
+mir: 1
+raven: 1
+: 1
+taliesin: 1
+sea: 1
+combs: 1
+foot: 1
+slavs: 1
+mesoamerican ballgame: 1
+ears &lt;vc myth&gt;: 1
+mahabharata prompt kurukshetra war until “epic” read; “bhagavad gita” since that’s epic &lt;wa myth&gt;: 1
+seasons prompt winter specific seasons: 1
+turning stone: 1
+gawain &lt;owen&gt;: 1
+mummies: 1
+sicily &lt;owen&gt;: 1
+pottery: 1
+gold: 1
+anansi prompt br’er rabbit asking “who: 1
+jaguars: 1
+völvas: 1
+latins prompt romans roman women &lt;jx legends&gt;: 1
+lakshman: 1
+garden hesperides “heh spair id eez”: 1
+aeaea “ee ee uh” prompt circe’s island until “circe” read; anti prompt circe’s equivalents; “aea” ruled aeëtes &lt;jk legends&gt;: 1
+cú chulainn: 1
+artemis: 1
+baldr: 1
+saturn: 1
+lions prompt big cats &lt;carson&gt;: 1
+cedar: 1
+ithaca &lt;carson&gt;: 1
+caves prompt mountains &lt;brownstein&gt;: 1
+alexanderthe great: 1
+boar hunts prompt partial answers; synonyms pig swine boar; synonyms: 1
+kali: 1
+rivers: 1
+ajax: 1
+children: 1
+tristan: 1
+trident &lt;jose&gt;: 1
+gilgamesh enkidu: 1
+ireland: 1
+sandals: 1
+ra’s journey through under: 1
+hanging: 1
+amaterasu: 1
+spider webs: 1
+ghosts: 1
+cattle geryon: 1
+mountains: 1
+cronus: 1
+harpies &lt;bz&gt;: 1
+ireland: 1
+hades: 1
+im: 1
+mountain: 1
+mycenae &lt: 1
+9 &lt: 1
+sea god sea similar phrases do “ocean” &lt: 1
+marduk &lt;mclain&gt;: 1
+fish: 1
+herodotus’s his: 1
+nǚwā: 1
+divinity alexander great: 1
+shinto: 1
+hera do “juno”: 1
+heimdall: 1
+under: 1
+freya: 1
+mountains: 1
+chinese zodiac: 1
+mount olympus: 1
+heimdall: 1
+islands: 1
+mars: 1
+nemea: 1
+: 1
+bran: 1
+grail castle: 1
+hodr: 1
+cloaks: 1
+kykeon kye kee un: 1
+wild hunt: 1
+seven: 1
+glaucus: 1
+shennong: 1
+reynard fox: 1
+war: 1
+homes: 1
+body osiris: 1
+athena pallas athena &lt;wenzer qin&gt;/&lt;ed jacob&gt;: 1
+god war: 1
+answer: ragnarok ragnarokkr; gotterdammerung; fate gods; twilight gods &lt;dinis trindade&gt;/&lt;ed jacob&gt;: 1
+hand: 1
+ananse: 1
+ancient egyptian civilization: 1
+knights round table king arthur's knights camelot's knights anything indicating people serve camelot king arthur: 1
+foundation myths rome: 1
+funeral baldr prompt death baldr &lt;yoshida&gt;: 1
+petrification: 1
+fishing nets: 1
+feathers the second sentence refers oaxacan: 1
+buffalo also bison water buffalo answers “oxen” “bulls” “cows”; sand demon sha wujing clue &lt;jg&gt;: 1
+ma’at be lenient pronunciation   don’t really know vowels sounds were; answers: 1
+lady lake prompt strange women lying backs ponds distributing s: 1
+patroklos: 1
+meleager: 1
+king mountain: 1
+being incinerated: 1
+ares and: 1
+psychopomps: 1
+severed head: 1
+tlaloc &lt;lc mythology&gt;: 1
+crocodiles also sharks given translational ambiguity inherent term “wani”; alliga: 1
+warr: 1
+scarab beetles: 1
