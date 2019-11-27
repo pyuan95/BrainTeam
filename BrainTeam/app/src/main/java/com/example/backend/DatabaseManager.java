@@ -8,6 +8,7 @@ import android.database.Cursor;
 import android.database.sqlite.*;
 import android.text.TextUtils;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import android.util.Log;
 
@@ -24,6 +25,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Date;
+import java.util.Random;
 
 
 public class DatabaseManager extends SQLiteOpenHelper
@@ -32,7 +34,7 @@ public class DatabaseManager extends SQLiteOpenHelper
     private SQLiteDatabase topicData;
     public Context context;
     public int[] IDs;
-    public int[][] equalIDs;
+    public HashMap<String, ArrayList<Integer>> equalIDs;
     public boolean equal = false;
     public int lastXDays;
     public int lastXAdditions;
@@ -40,6 +42,8 @@ public class DatabaseManager extends SQLiteOpenHelper
     public ArrayList<String> difficulties = new ArrayList<>();
     public ArrayList<String> topics = new ArrayList<>();
     public String mode;
+    public String currentTopic;
+    public int currentID;
     // Equal selection from each topic will be implemented later.
 
     private static final String DATABASE_NAME = "topicData.db";
@@ -57,6 +61,8 @@ public class DatabaseManager extends SQLiteOpenHelper
         setTopics(getTopicNames());
         lastXDays = -1;
         lastXAdditions = -1;
+        currentID = 0;
+        currentTopic = null;
         //This code is deprecated. Moving database responsibility moved to BrainTeam.java, AKA Startup.
         /*
         AssetManager assetManager = context.getAssets();
@@ -99,8 +105,10 @@ public class DatabaseManager extends SQLiteOpenHelper
     @Override
     public void onCreate(SQLiteDatabase db)
     {
-        String sql = "CREATE TABLE IF NOT EXISTS topicData(id INTEGER PRIMARY KEY, topic TEXT, ids TEXT, dateAdded DATETIME DEFAULT CURRENT_DATE, age INTEGER, numberTossups INTEGER, categpry TEXT, timesCorrect INTEGER, timesIncorrect INTEGER, timesTotal INTEGER)";
+        String sql = "CREATE TABLE IF NOT EXISTS topicData(id INTEGER PRIMARY KEY, topic TEXT, ids TEXT, dateAdded DATETIME DEFAULT CURRENT_DATE, age INTEGER, numberTossups INTEGER, categpry TEXT, timesCorrect INTEGER, timesIncorrect INTEGER, timesSeen INTEGER)";
+        String sql2 = "CREATE TABLE IF NOT EXISTS tossupData(id INTEGER PRIMARY KEY, tossupID INTEGER, timesCorrect INTEGER, timesIncorrect INTEGER, timesSeen INTEGER)";
         db.execSQL(sql);
+        db.execSQL(sql2);
     }
 
     @Override
@@ -219,11 +227,31 @@ public class DatabaseManager extends SQLiteOpenHelper
             String question = cursor.getString(2); // formattedText
             String answer = cursor.getString(3);
             cursor.close();
+
+            currentID = id;
+            currentTopic = null;
             return new String[] {info, question, answer};
         }
         else
         {
-            return new String[] {"This is", "not implemented", "yet!"};
+            List<String> keysAsArray = new ArrayList<String>(equalIDs.keySet());
+            Random r = new Random();
+            String topic = keysAsArray.get(r.nextInt(keysAsArray.size()));
+            ArrayList<Integer> ids = equalIDs.get(topic);
+            int id = ids.get(r.nextInt(ids.size()));
+            String sql = "SELECT * FROM allTossups WHERE tossupID=?";
+            Cursor cursor = allTossups.rawQuery(sql, new String[] {Integer.toString(id)});
+            cursor.moveToFirst();
+            String info = cursor.getString(4) //Tournament
+                    + ", " + cursor.getString(5) //Difficulty
+                    + ", " + cursor.getString(6); //Category
+            String question = cursor.getString(2); // formattedText
+            String answer = cursor.getString(3);
+            cursor.close();
+
+            currentID = id;
+            currentTopic = topic;
+            return new String[] {info, question, answer};
         }
     }
 
@@ -271,9 +299,7 @@ public class DatabaseManager extends SQLiteOpenHelper
         {
             sql += "1=1";
         }
-
-
-
+        
         ArrayList<Integer> IDs = new ArrayList<>();
         Cursor cursor = allTossups.rawQuery(sql, null);
         while (cursor.moveToNext())
@@ -305,67 +331,72 @@ public class DatabaseManager extends SQLiteOpenHelper
     {
         if (equal)
         {
-            ArrayList<String> temp_topics = (ArrayList<String>) topics.clone();
-            for (int i = 0; i < temp_topics.size(); i++)
-            {
-                temp_topics.set(i, "'" + temp_topics.get(i) + "'");
-            }
-
             if (lastXAdditions > 0)
             {
                 this.topics = getTopicNames();
                 this.topics = (ArrayList<String>) this.topics.subList(this.topics.size() - lastXAdditions, this.topics.size());
             }
 
-            String topicString = "(" + TextUtils.join(",", temp_topics) + ")";
-            String sql = "SELECT topic, ids, age FROM topicData WHERE topic in " + topicString;
-            if (this.lastXDays > 0)
+            ArrayList<String> temp_topics = (ArrayList<String>) topics.clone();
+            for (int i = 0; i < temp_topics.size(); i++)
             {
-                sql += " AND age <= " + this.lastXDays;
-            }
-            Cursor cursor = topicData.rawQuery(sql, null);
-            ArrayList<Integer> IDs = new ArrayList<Integer>();
-            while (cursor.moveToNext())
-            {
-                String[] stringIDs = cursor.getString(1).split(",");
-                for (int i = 0; i < stringIDs.length; i++)
-                {
-                    int id = Integer.parseInt(stringIDs[i]);
-                    IDs.add(id);
-                }
+                temp_topics.set(i, "'" + temp_topics.get(i) + "'");
             }
 
-            sql = "SELECT id, category, difficulty FROM allTossups WHERE tossupID in " + TextUtils.join(",", IDs) + ")";
-            cursor= allTossups.rawQuery(s, null);
-            while (cursor.moveToNext())
-            {
-                if (!(this.categories.contains(cursor.getString(1)) && this.difficulties.contains(cursor.getString(2)))) // if the tossups is not in either the difficulties or categories
-                {
-                    int id = cursor.getInt(0);
-                    IDs.remove(new Integer(id));
+
+            for (String topic: this.topics) {
+                String sql = "SELECT topic, ids, age FROM topicData WHERE topic=" + topic;
+                if (this.lastXDays > 0) {
+                    sql += " AND age <= " + this.lastXDays;
                 }
+                Cursor cursor = topicData.rawQuery(sql, null);
+                ArrayList<Integer> IDs = new ArrayList<Integer>();
+                while (cursor.moveToNext()) {
+                    String[] stringIDs = cursor.getString(1).split(",");
+                    for (int i = 0; i < stringIDs.length; i++) {
+                        int id = Integer.parseInt(stringIDs[i]);
+                        IDs.add(id);
+                    }
+                    sql = "SELECT id, category, difficulty FROM allTossups WHERE tossupID in " + TextUtils.join(",", stringIDs) + ")";
+                    cursor = allTossups.rawQuery(sql, null);
+                    while (cursor.moveToNext())
+                    {
+                        if (!(this.categories.contains(cursor.getString(1)) && this.difficulties.contains(cursor.getString(2)))) // if the tossups is not in either the difficulties or categories
+                        {
+                            int id = cursor.getInt(0);
+                            IDs.remove(new Integer(id));
+                        }
+                    }
+                }
+                if (IDs.size() != 0)
+                    equalIDs.put(topic, IDs);
             }
 
-            int[] IDsArray = new int[IDs.size()];
-            for (int i = 0; i < IDs.size(); i++)
-            {
-                IDsArray[i] = IDs.get(i);
-            }
-            cursor.close();
-            this.IDs = IDsArray;
+//            sql = "SELECT id, category, difficulty FROM allTossups WHERE tossupID in " + TextUtils.join(",", IDs) + ")";
+//            cursor= allTossups.rawQuery(sql, null);
+//            while (cursor.moveToNext())
+//            {
+//                if (!(this.categories.contains(cursor.getString(1)) && this.difficulties.contains(cursor.getString(2)))) // if the tossups is not in either the difficulties or categories
+//                {
+//                    int id = cursor.getInt(0);
+//                    IDs.remove(new Integer(id));
+//                }
+//            }
         }
         else
         {
             ArrayList<String> temp_topics = (ArrayList<String>) topics.clone();
-            for (int i = 0; i < temp_topics.size(); i++)
-            {
-                temp_topics.set(i, "'" + temp_topics.get(i) + "'");
-            }
 
             if (lastXAdditions > 0)
             {
                 this.topics = getTopicNames();
                 this.topics = (ArrayList<String>) this.topics.subList(this.topics.size() - lastXAdditions, this.topics.size());
+            }
+
+
+            for (int i = 0; i < temp_topics.size(); i++)
+            {
+                temp_topics.set(i, "'" + temp_topics.get(i) + "'");
             }
 
             String topicString = "(" + TextUtils.join(",", temp_topics) + ")";
@@ -387,7 +418,7 @@ public class DatabaseManager extends SQLiteOpenHelper
             }
 
             sql = "SELECT id, category, difficulty FROM allTossups WHERE tossupID in " + TextUtils.join(",", IDs) + ")";
-            cursor= allTossups.rawQuery(s, null);
+            cursor= allTossups.rawQuery(sql, null);
             while (cursor.moveToNext())
             {
                 if (!(this.categories.contains(cursor.getString(1)) && this.difficulties.contains(cursor.getString(2)))) // if the tossups is not in either the difficulties or categories
@@ -449,13 +480,34 @@ public class DatabaseManager extends SQLiteOpenHelper
         }
         topics.close();
 
-
-
         String ids = TextUtils.join(",",tossupIDs);
         String sql2 = "INSERT INTO topicData(topic, ids, age, numberTossups) VALUES (?,?,?,?)";
         topicData.execSQL(sql2, new Object[] {topic.toLowerCase(), ids, 0, tossupCount}); //Topic is always lower case. Consider changing.
         return true;
+    }
 
+    public void markTossupCorrect()
+    {
+        String sql = "UPDATE tossupData SET timesCorrect = timesCorrect + 1, timesSeen = timesSeen + 1 WHERE tossupID=" + currentID;
+        topicData.execSQL(sql);
+    }
+
+    public void markTossupIncorrect()
+    {
+        String sql = "UPDATE tossupData SET timesIncorrect = timesIncorrect + 1, timesSeen = timesSeen + 1 WHERE tossupID=" + currentID;
+        topicData.execSQL(sql);
+    }
+
+    public void markTopicCorrect()
+    {
+        String sql = "UPDATE topicData SET timesCorrect = timesCorrect + 1, timesSeen = timesSeen + 1 WHERE topic=" + currentTopic;
+        topicData.execSQL(sql);
+    }
+
+    public void markTopicIncorrect()
+    {
+        String sql = "UPDATE topicData SET timesIncorrect = timesIncorrect + 1, timesSeen = timesSeen + 1 WHERE topic=" + currentTopic;
+        topicData.execSQL(sql);
     }
 
     /**
